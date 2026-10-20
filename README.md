@@ -4,9 +4,13 @@
 
 ## 다운로드
 
-3D 원본과 텍스처는 이 저장소의 **Releases**에 분류별 ZIP으로 업로드합니다. Git의 `Code → Download ZIP`은 저장소에 등록된 문서·갤러리 파일을 포함하며, 에셋 파일은 각 Release의 **Assets**에서 받으세요.
+3D 원본과 텍스처는 [분류별 백업 폴더](https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages)에 보관합니다. 각 폴더의 README와 PARTS.json을 참고해 모든 분할 파일을 받은 후 제공된 재결합 도구로 ZIP을 복원하세요. 아직 Releases에는 에셋을 게시하지 않았습니다.
 
-**2026-10-20: 초기 업로드 진행 중.** 아래 880종은 기존 전달본의 목록이며 GitHub 업로드 완료 수량을 의미하지 않습니다. 실제 첨부가 있는 Release만 다운로드할 수 있습니다.
+**2026-10-20: GitHub 전체 묶음 백업·다운로드 검증 완료 324종 / 기존 전달본 880종.** 아래 표는 기존 전달본 목록이며 모든 항목의 GitHub 업로드 완료를 의미하지 않습니다.
+
+검증된 백업: [A01 구조 126종](https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01), [A02 비주거 78종](https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential), [A02 주택 54종](https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-residential), [A03 랜드마크 66종](https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03).
+
+각 묶음은 공개 다운로드 바이트와 원본 SHA-256 일치를 확인했습니다.
 
 | 분류 | 고유 에셋 수 |
 |---|---:|
@@ -32,7 +36,7 @@ LOD·충돌 메시·색상 변형은 별도 고유 에셋으로 세지 않습니
 - Unity에서 재질 연결, 콜라이더 설정, 실제 장면 성능 확인이 별도로 필요합니다. 전체 Unity 런타임 검증이나 출시 준비 완료를 보장하지 않습니다.
 - 차량 충돌 메시의 기본 용도는 정적·비볼록 배치입니다. 운전 가능한 동적 차량용 설정은 별도입니다.
 - 각 묶음의 설치 안내와 알려진 제한 사항을 먼저 읽으세요.
-- 분할 묶음은 해당 Release에 안내된 모든 필수 파일을 받아야 합니다.
+- 분할 묶음은 해당 백업 폴더에 안내된 모든 필수 파일을 받아야 합니다.
 
 공개 에셋 보관소입니다. 별도의 공개 배포 라이선스는 부여하지 않았습니다.
 
@@ -40,7 +44,7 @@ LOD·충돌 메시·색상 변형은 별도 고유 에셋으로 세지 않습니
 
 [갤러리 소스](gallery/) · [갤러리 열기](https://hoin1357.github.io/submerged-city-assets/gallery/)
 
-갤러리 링크는 GitHub Pages 활성화 후 사용할 수 있습니다. 저장소 Settings → Pages에서 Deploy from a branch, `main` / `(root)`를 선택하세요. 현재 실제 GLB/glTF 연결 수는 **0개**이며, 기존 납품 수량 880개와 구분합니다.
+갤러리는 GitHub Pages에서 공개 중입니다. 현재 실제 glTF 연결은 **1종(A001-01)**이며, 나머지 모델을 순차 연결하고 있습니다. 전체 백업 수량과 3D 미리보기 연결 수량은 다릅니다. WebGL을 지원하는 브라우저가 필요합니다.
 
 한국어 검색·카테고리 탐색, 드래그 회전, 휠/두 손가락 확대, 자동 회전, 시점 초기화와 원본 다운로드를 지원합니다. 실제 모델은 `gallery/manifest.json`의 `assets`에 `id`, `name`, `category`, `src`를 등록합니다. 파일 주소는 manifest 위치 기준이며, 외부 주소는 CORS가 필요합니다. `tags`, `description`, `download`는 선택 항목입니다. glTF는 참조 버퍼와 텍스처를 함께 보관하세요.
 

@@ -734,6 +734,174 @@
         "LOD0",
         "stepped_cornice_internal_corner"
       ]
+    },
+    {
+      "id": "A003-07",
+      "name": "돌림띠 · A003-07",
+      "category": "A01",
+      "src": "./models/A01/A003-07.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "cavetto_moulding_straight · 원본 LOD0. 3.0 × 0.54 × 0.415m, 1,048삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "돌림띠",
+        "A003",
+        "LOD0",
+        "cavetto_moulding_straight"
+      ]
+    },
+    {
+      "id": "A003-08",
+      "name": "돌림띠 · A003-08",
+      "category": "A01",
+      "src": "./models/A01/A003-08.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "cavetto_moulding_external_corner · 원본 LOD0. 1.865 × 1.865 × 0.415m, 1,194삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "돌림띠",
+        "A003",
+        "LOD0",
+        "cavetto_moulding_external_corner"
+      ]
+    },
+    {
+      "id": "A003-09",
+      "name": "돌림띠 · A003-09",
+      "category": "A01",
+      "src": "./models/A01/A003-09.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "cavetto_moulding_internal_corner · 원본 LOD0. 1.675 × 1.675 × 0.415m, 1,194삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "돌림띠",
+        "A003",
+        "LOD0",
+        "cavetto_moulding_internal_corner"
+      ]
+    },
+    {
+      "id": "A003-10",
+      "name": "돌림띠 · A003-10",
+      "category": "A01",
+      "src": "./models/A01/A003-10.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "dentil_support_straight · 원본 LOD0. 3.0 × 0.555 × 0.49m, 4,044삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "돌림띠",
+        "A003",
+        "LOD0",
+        "dentil_support_straight"
+      ]
+    },
+    {
+      "id": "A003-11",
+      "name": "돌림띠 · A003-11",
+      "category": "A01",
+      "src": "./models/A01/A003-11.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "dentil_support_external_corner · 원본 LOD0. 1.88 × 1.88 × 0.49m, 4,432삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "돌림띠",
+        "A003",
+        "LOD0",
+        "dentil_support_external_corner"
+      ]
+    },
+    {
+      "id": "A003-12",
+      "name": "돌림띠 · A003-12",
+      "category": "A01",
+      "src": "./models/A01/A003-12.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "dentil_support_internal_corner · 원본 LOD0. 1.675 × 1.675 × 0.49m, 4,432삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "돌림띠",
+        "A003",
+        "LOD0",
+        "dentil_support_internal_corner"
+      ]
+    },
+    {
+      "id": "A004-01",
+      "name": "외부 기둥 · A004-01",
+      "category": "A01",
+      "src": "./models/A01/A004-01.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Square Wall Flush Exterior Column · 원본 LOD0. 0.93 × 1.08 × 3.0m, 5,400삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "외부 기둥",
+        "A004",
+        "LOD0",
+        "Square Wall Flush Exterior Column"
+      ]
+    },
+    {
+      "id": "A004-02",
+      "name": "외부 기둥 · A004-02",
+      "category": "A01",
+      "src": "./models/A01/A004-02.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Square Corner Wrap Exterior Column · 원본 LOD0. 1.6475 × 1.6475 × 3.0m, 5,568삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "외부 기둥",
+        "A004",
+        "LOD0",
+        "Square Corner Wrap Exterior Column"
+      ]
+    },
+    {
+      "id": "A004-03",
+      "name": "외부 기둥 · A004-03",
+      "category": "A01",
+      "src": "./models/A01/A004-03.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Square Upper Branch Exterior Column · 원본 LOD0. 2.12 × 0.9426 × 3.0m, 4,248삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "외부 기둥",
+        "A004",
+        "LOD0",
+        "Square Upper Branch Exterior Column"
+      ]
+    },
+    {
+      "id": "A004-04",
+      "name": "외부 기둥 · A004-04",
+      "category": "A01",
+      "src": "./models/A01/A004-04.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Square Arcade Exterior Column · 원본 LOD0. 3.0 × 0.9176 × 3.0m, 15,552삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "외부 기둥",
+        "A004",
+        "LOD0",
+        "Square Arcade Exterior Column"
+      ]
+    },
+    {
+      "id": "A004-05",
+      "name": "외부 기둥 · A004-05",
+      "category": "A01",
+      "src": "./models/A01/A004-05.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Circular Wall Flush Exterior Column · 원본 LOD0. 0.93 × 1.08 × 3.0m, 15,240삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "외부 기둥",
+        "A004",
+        "LOD0",
+        "Circular Wall Flush Exterior Column"
+      ]
+    },
+    {
+      "id": "A004-06",
+      "name": "외부 기둥 · A004-06",
+      "category": "A01",
+      "src": "./models/A01/A004-06.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Circular Corner Wrap Exterior Column · 원본 LOD0. 1.6475 × 1.6475 × 3.0m, 15,408삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "외부 기둥",
+        "A004",
+        "LOD0",
+        "Circular Corner Wrap Exterior Column"
+      ]
     }
   ]
 }

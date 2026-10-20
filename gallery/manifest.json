@@ -2726,6 +2726,186 @@
         "A015",
         "LOD0"
       ]
+    },
+    {
+      "id": "A015-09",
+      "name": "공장·창고 파사드 · 고측창 벽 · 평면",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A015-09.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Industrial clerestory wall · 원본 LOD0. 9.024 × 0.98 × 6.0m, 36,232삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "공장·창고 파사드",
+        "고측창 벽",
+        "평면",
+        "A015",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A015-10",
+      "name": "공장·창고 파사드 · 고측창 벽 · 접힌 평면",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A015-10.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Industrial clerestory wall · 원본 LOD0. 9.024 × 2.30264 × 6.0m, 58,348삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "공장·창고 파사드",
+        "고측창 벽",
+        "접힌 평면",
+        "A015",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A015-11",
+      "name": "공장·창고 파사드 · 하역 대개구 · 평면",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A015-11.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Industrial large loading opening · 원본 LOD0. 9.032 × 1.15 × 6.0m, 30,610삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "공장·창고 파사드",
+        "하역 대개구",
+        "평면",
+        "A015",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A015-12",
+      "name": "공장·창고 파사드 · 하역 대개구 · 접힌 평면",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A015-12.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Industrial large loading opening · 원본 LOD0. 9.032 × 2.47308 × 6.0m, 48,016삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "공장·창고 파사드",
+        "하역 대개구",
+        "접힌 평면",
+        "A015",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A015-13",
+      "name": "공장·창고 파사드 · 두꺼운 부벽 베이 · 평면",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A015-13.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Industrial thick buttress bay · 원본 LOD0. 9.04 × 1.56 × 6.0m, 35,256삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "공장·창고 파사드",
+        "두꺼운 부벽 베이",
+        "평면",
+        "A015",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A015-14",
+      "name": "공장·창고 파사드 · 두꺼운 부벽 베이 · 접힌 평면",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A015-14.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Industrial thick buttress bay · 원본 LOD0. 9.04 × 2.87308 × 6.0m, 56,789삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "공장·창고 파사드",
+        "두꺼운 부벽 베이",
+        "접힌 평면",
+        "A015",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A016-01",
+      "name": "호텔·극장·여가시설 파사드 · 단층 아케이드 · 직선",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A016-01.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Leisure single level arcade · 원본 LOD0. 9.14 × 1.38 × 3.0m, 9,261삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "호텔·극장·여가시설 파사드",
+        "단층 아케이드",
+        "직선",
+        "A016",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A016-02",
+      "name": "호텔·극장·여가시설 파사드 · 단층 아케이드 · 볼록 곡면",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A016-02.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Leisure single level arcade · 원본 LOD0. 9.37059 × 1.95288 × 3.0m, 15,196삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "호텔·극장·여가시설 파사드",
+        "단층 아케이드",
+        "볼록 곡면",
+        "A016",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A016-03",
+      "name": "호텔·극장·여가시설 파사드 · 2층 로지아 · 직선",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A016-03.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Leisure two level loggia · 원본 LOD0. 9.12 × 2.34 × 6.0m, 13,721삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "호텔·극장·여가시설 파사드",
+        "2층 로지아",
+        "직선",
+        "A016",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A016-04",
+      "name": "호텔·극장·여가시설 파사드 · 2층 로지아 · 볼록 곡면",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A016-04.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Leisure two level loggia · 원본 LOD0. 9.65195 × 2.9952 × 6.0m, 24,743삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "호텔·극장·여가시설 파사드",
+        "2층 로지아",
+        "볼록 곡면",
+        "A016",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A016-05",
+      "name": "호텔·극장·여가시설 파사드 · 연속 프렌치창칸 · 직선",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A016-05.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Leisure continuous french window bays · 원본 LOD0. 9.024 × 0.9 × 3.0m, 7,926삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "호텔·극장·여가시설 파사드",
+        "연속 프렌치창칸",
+        "직선",
+        "A016",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A016-06",
+      "name": "호텔·극장·여가시설 파사드 · 연속 프렌치창칸 · 볼록 곡면",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A016-06.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Leisure continuous french window bays · 원본 LOD0. 9.28532 × 1.44022 × 3.0m, 16,663삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "호텔·극장·여가시설 파사드",
+        "연속 프렌치창칸",
+        "볼록 곡면",
+        "A016",
+        "LOD0"
+      ]
     }
   ]
 }

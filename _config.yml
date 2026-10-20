@@ -1,0 +1,4 @@
+# Keep downloadable source backups in GitHub without copying them into the website.
+exclude:
+  - assets/packages
+  - tests

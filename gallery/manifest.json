@@ -2906,6 +2906,96 @@
         "A016",
         "LOD0"
       ]
+    },
+    {
+      "id": "A016-07",
+      "name": "호텔·극장·여가시설 파사드 · 깊은 매표홀 개구 · 직선",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A016-07.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Leisure deep ticket hall · 원본 LOD0. 9.024 × 2.71 × 6.0m, 9,887삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "호텔·극장·여가시설 파사드",
+        "깊은 매표홀 개구",
+        "직선",
+        "A016",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A016-08",
+      "name": "호텔·극장·여가시설 파사드 · 깊은 매표홀 개구 · 볼록 곡면",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A016-08.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Leisure deep ticket hall · 원본 LOD0. 9.70825 × 3.29078 × 6.0m, 22,548삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "호텔·극장·여가시설 파사드",
+        "깊은 매표홀 개구",
+        "볼록 곡면",
+        "A016",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A016-09",
+      "name": "호텔·극장·여가시설 파사드 · 세로 리브 극장벽 · 직선",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A016-09.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Leisure vertical rib theatre wall · 원본 LOD0. 9.06 × 1.32 × 6.0m, 14,076삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "호텔·극장·여가시설 파사드",
+        "세로 리브 극장벽",
+        "직선",
+        "A016",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A016-10",
+      "name": "호텔·극장·여가시설 파사드 · 세로 리브 극장벽 · 볼록 곡면",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A016-10.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Leisure vertical rib theatre wall · 원본 LOD0. 9.6257 × 2.01055 × 6.0m, 25,726삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "호텔·극장·여가시설 파사드",
+        "세로 리브 극장벽",
+        "볼록 곡면",
+        "A016",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A016-11",
+      "name": "호텔·극장·여가시설 파사드 · 층단형 장식벽 · 직선",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A016-11.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Leisure stepped ornamental wall · 원본 LOD0. 9.024 × 1.05 × 6.0m, 12,667삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "호텔·극장·여가시설 파사드",
+        "층단형 장식벽",
+        "직선",
+        "A016",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A016-12",
+      "name": "호텔·극장·여가시설 파사드 · 층단형 장식벽 · 볼록 곡면",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A016-12.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Leisure stepped ornamental wall · 원본 LOD0. 9.3385 × 1.71675 × 6.0m, 24,545삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "호텔·극장·여가시설 파사드",
+        "층단형 장식벽",
+        "볼록 곡면",
+        "A016",
+        "LOD0"
+      ]
     }
   ]
 }

@@ -3716,6 +3716,96 @@
         "A011",
         "LOD0"
       ]
+    },
+    {
+      "id": "A011-13",
+      "name": "주택 · A011-13 · Stair-step parapet corner flats",
+      "category": "A02-houses",
+      "src": "./models/A02-residential/A011-13.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-residential",
+      "description": "Stair-step parapet corner flats · 원본 LOD0. 15.764443159103394 × 15.334442853927612 × 11.268869448453188m, 47,834삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "주택",
+        "A011-13",
+        "Stair-step parapet corner flats",
+        "A011",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A011-14",
+      "name": "주택 · A011-14 · Broad portico attic cottage",
+      "category": "A02-houses",
+      "src": "./models/A02-residential/A011-14.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-residential",
+      "description": "Broad portico attic cottage · 원본 LOD0. 14.820000231266022 × 11.98000031709671 × 7.6182522140443325m, 20,332삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "주택",
+        "A011-14",
+        "Broad portico attic cottage",
+        "A011",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A011-15",
+      "name": "주택 · A011-15 · Courtyard split-stair maisonettes",
+      "category": "A02-houses",
+      "src": "./models/A02-residential/A011-15.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-residential",
+      "description": "Courtyard split-stair maisonettes · 원본 LOD0. 12.620000422000885 × 16.38999992609024 × 10.67386919632554m, 53,888삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "주택",
+        "A011-15",
+        "Courtyard split-stair maisonettes",
+        "A011",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A011-16",
+      "name": "주택 · A011-16 · Twin-height mansard and rear gable residence",
+      "category": "A02-houses",
+      "src": "./models/A02-residential/A011-16.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-residential",
+      "description": "Twin-height mansard and rear gable residence · 원본 LOD0. 11.620000422000885 × 18.959999084472656 × 9.558869410306215m, 41,558삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "주택",
+        "A011-16",
+        "Twin-height mansard and rear gable residence",
+        "A011",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A011-17",
+      "name": "주택 · A011-17 · Flat-roof stepped slab with end winter garden",
+      "category": "A02-houses",
+      "src": "./models/A02-residential/A011-17.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-residential",
+      "description": "Flat-roof stepped slab with end winter garden · 원본 LOD0. 15.820000231266022 × 13.359999656677246 × 10.118868876248598m, 52,788삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "주택",
+        "A011-17",
+        "Flat-roof stepped slab with end winter garden",
+        "A011",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A011-18",
+      "name": "주택 · A011-18 · Forked-front gable courtyard house",
+      "category": "A02-houses",
+      "src": "./models/A02-residential/A011-18.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-residential",
+      "description": "Forked-front gable courtyard house · 원본 LOD0. 13.153030931949615 × 16.38999992609024 × 8.318869639188051m, 37,564삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "주택",
+        "A011-18",
+        "Forked-front gable courtyard house",
+        "A011",
+        "LOD0"
+      ]
     }
   ]
 }

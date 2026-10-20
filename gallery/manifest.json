@@ -1406,6 +1406,174 @@
         "LOD0",
         "convex_plinth_straight"
       ]
+    },
+    {
+      "id": "A006-11",
+      "name": "기단 · A006-11",
+      "category": "A01",
+      "src": "./models/A01/A006-11.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "convex_plinth_external_corner · 원본 LOD0. 2.16 × 2.16 × 1.06m, 1,380삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "기단",
+        "A006",
+        "LOD0",
+        "convex_plinth_external_corner"
+      ]
+    },
+    {
+      "id": "A006-12",
+      "name": "기단 · A006-12",
+      "category": "A01",
+      "src": "./models/A01/A006-12.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "convex_plinth_internal_corner · 원본 LOD0. 1.7 × 1.7 × 1.06m, 1,380삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "기단",
+        "A006",
+        "LOD0",
+        "convex_plinth_internal_corner"
+      ]
+    },
+    {
+      "id": "A007-01",
+      "name": "받침 장식 · A007-01",
+      "category": "A01",
+      "src": "./models/A01/A007-01.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Triangular cut-stone console | single branch · 원본 LOD0. 0.85 × 1.685 × 2.814m, 1,700삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "받침 장식",
+        "A007",
+        "LOD0",
+        "Triangular cut-stone console | single branch"
+      ]
+    },
+    {
+      "id": "A007-02",
+      "name": "받침 장식 · A007-02",
+      "category": "A01",
+      "src": "./models/A01/A007-02.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Triangular cut-stone console | double branch · 원본 LOD0. 2.12 × 1.74 × 2.814m, 2,452삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "받침 장식",
+        "A007",
+        "LOD0",
+        "Triangular cut-stone console | double branch"
+      ]
+    },
+    {
+      "id": "A007-03",
+      "name": "받침 장식 · A007-03",
+      "category": "A01",
+      "src": "./models/A01/A007-03.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Ogee curved console | single branch · 원본 LOD0. 0.9 × 1.74 × 2.814m, 2,468삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "받침 장식",
+        "A007",
+        "LOD0",
+        "Ogee curved console | single branch"
+      ]
+    },
+    {
+      "id": "A007-04",
+      "name": "받침 장식 · A007-04",
+      "category": "A01",
+      "src": "./models/A01/A007-04.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Ogee curved console | double branch · 원본 LOD0. 2.01 × 1.74 × 2.814m, 3,844삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "받침 장식",
+        "A007",
+        "LOD0",
+        "Ogee curved console | double branch"
+      ]
+    },
+    {
+      "id": "A007-05",
+      "name": "받침 장식 · A007-05",
+      "category": "A01",
+      "src": "./models/A01/A007-05.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Radial rib load spreader | single branch · 원본 LOD0. 2.42 × 1.78 × 2.814m, 4,116삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "받침 장식",
+        "A007",
+        "LOD0",
+        "Radial rib load spreader | single branch"
+      ]
+    },
+    {
+      "id": "A007-06",
+      "name": "받침 장식 · A007-06",
+      "category": "A01",
+      "src": "./models/A01/A007-06.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Radial rib load spreader | double branch · 원본 LOD0. 2.64 × 1.77 × 2.814m, 4,960삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "받침 장식",
+        "A007",
+        "LOD0",
+        "Radial rib load spreader | double branch"
+      ]
+    },
+    {
+      "id": "A007-07",
+      "name": "받침 장식 · A007-07",
+      "category": "A01",
+      "src": "./models/A01/A007-07.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Coursed stepped corbel | single branch · 원본 LOD0. 0.98 × 1.715 × 2.814m, 2,916삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "받침 장식",
+        "A007",
+        "LOD0",
+        "Coursed stepped corbel | single branch"
+      ]
+    },
+    {
+      "id": "A007-08",
+      "name": "받침 장식 · A007-08",
+      "category": "A01",
+      "src": "./models/A01/A007-08.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Coursed stepped corbel | double branch · 원본 LOD0. 2.12 × 1.75 × 2.814m, 3,904삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "받침 장식",
+        "A007",
+        "LOD0",
+        "Coursed stepped corbel | double branch"
+      ]
+    },
+    {
+      "id": "A007-09",
+      "name": "받침 장식 · A007-09",
+      "category": "A01",
+      "src": "./models/A01/A007-09.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Industrial V-braced cantilever | single branch · 원본 LOD0. 0.72 × 1.745 × 2.8405m, 4,104삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "받침 장식",
+        "A007",
+        "LOD0",
+        "Industrial V-braced cantilever | single branch"
+      ]
+    },
+    {
+      "id": "A007-10",
+      "name": "받침 장식 · A007-10",
+      "category": "A01",
+      "src": "./models/A01/A007-10.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Industrial V-braced cantilever | double branch · 원본 LOD0. 2.2 × 1.815 × 2.8405m, 4,724삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "받침 장식",
+        "A007",
+        "LOD0",
+        "Industrial V-braced cantilever | double branch"
+      ]
     }
   ]
 }

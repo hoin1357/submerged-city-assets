@@ -2546,6 +2546,186 @@
         "A014",
         "LOD0"
       ]
+    },
+    {
+      "id": "A014-13",
+      "name": "공공·문화시설 파사드 · 원형 채광 개구 · 평벽",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A014-13.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Civic round_light_openings__flat_wall · 원본 LOD0. 9.0 × 1.055 × 6.0m, 19,160삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "공공·문화시설 파사드",
+        "원형 채광 개구",
+        "평벽",
+        "A014",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A014-14",
+      "name": "공공·문화시설 파사드 · 원형 채광 개구 · 오목 현관",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A014-14.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Civic round_light_openings__recessed_portico · 원본 LOD0. 9.0 × 2.475 × 6.0m, 21,064삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "공공·문화시설 파사드",
+        "원형 채광 개구",
+        "오목 현관",
+        "A014",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A014-15",
+      "name": "공공·문화시설 파사드 · 원형 채광 개구 · 곡면 후진부",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A014-15.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Civic round_light_openings__curved_apse · 원본 LOD0. 9.36599 × 2.22709 × 6.0m, 31,908삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "공공·문화시설 파사드",
+        "원형 채광 개구",
+        "곡면 후진부",
+        "A014",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A014-16",
+      "name": "공공·문화시설 파사드 · 원형 채광 개구 · 각형 돌출 익부",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A014-16.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Civic round_light_openings__angular_projecting_wing · 원본 LOD0. 9.0 × 2.055 × 6.0m, 21,096삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "공공·문화시설 파사드",
+        "원형 채광 개구",
+        "각형 돌출 익부",
+        "A014",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A015-01",
+      "name": "공장·창고 파사드 · 굵은 조적 베이 · 평면",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A015-01.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Industrial heavy masonry bay · 원본 LOD0. 9.084 × 1.045 × 6.0m, 41,875삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "공장·창고 파사드",
+        "굵은 조적 베이",
+        "평면",
+        "A015",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A015-02",
+      "name": "공장·창고 파사드 · 굵은 조적 베이 · 접힌 평면",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A015-02.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Industrial heavy masonry bay · 원본 LOD0. 9.084 × 2.37373 × 6.0m, 63,232삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "공장·창고 파사드",
+        "굵은 조적 베이",
+        "접힌 평면",
+        "A015",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A015-03",
+      "name": "공장·창고 파사드 · 주철풍 격자 · 평면",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A015-03.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Industrial cast iron grid · 원본 LOD0. 9.08 × 0.975 × 6.0m, 32,987삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "공장·창고 파사드",
+        "주철풍 격자",
+        "평면",
+        "A015",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A015-04",
+      "name": "공장·창고 파사드 · 주철풍 격자 · 접힌 평면",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A015-04.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Industrial cast iron grid · 원본 LOD0. 9.08 × 2.29764 × 6.0m, 54,603삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "공장·창고 파사드",
+        "주철풍 격자",
+        "접힌 평면",
+        "A015",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A015-05",
+      "name": "공장·창고 파사드 · 대형 아치창칸 · 평면",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A015-05.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Industrial large arched window bay · 원본 LOD0. 6.024 × 1.14 × 6.0m, 23,431삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "공장·창고 파사드",
+        "대형 아치창칸",
+        "평면",
+        "A015",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A015-06",
+      "name": "공장·창고 파사드 · 대형 아치창칸 · 접힌 평면",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A015-06.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Industrial large arched window bay · 원본 LOD0. 6.024 × 2.01754 × 6.0m, 33,995삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "공장·창고 파사드",
+        "대형 아치창칸",
+        "접힌 평면",
+        "A015",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A015-07",
+      "name": "공장·창고 파사드 · 톱니 상부벽 · 평면",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A015-07.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Industrial sawtooth upper wall · 원본 LOD0. 9.024 × 0.9 × 5.99818m, 27,020삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "공장·창고 파사드",
+        "톱니 상부벽",
+        "평면",
+        "A015",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A015-08",
+      "name": "공장·창고 파사드 · 톱니 상부벽 · 접힌 평면",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A015-08.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Industrial sawtooth upper wall · 원본 LOD0. 9.024 × 2.20627 × 5.99818m, 44,704삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "공장·창고 파사드",
+        "톱니 상부벽",
+        "접힌 평면",
+        "A015",
+        "LOD0"
+      ]
     }
   ]
 }

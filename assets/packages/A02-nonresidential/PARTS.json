@@ -1,0 +1,77 @@
+{
+  "archive": "Submerged_City_A02_Nonresidential78_v2.zip",
+  "bytes": 134660734,
+  "sha256": "a3815188fba9d51ac28dad712cb0e5198fdc3bbbbe71948652a5c97550aee59f",
+  "parts": [
+    {
+      "name": "Submerged_City_A02_Nonresidential78_v2.zip.001",
+      "bytes": 10000000,
+      "sha256": "dabe4e8ecd388de11f7ad4a3c1b0dd927fa563ba77947e183d756eab499a2310"
+    },
+    {
+      "name": "Submerged_City_A02_Nonresidential78_v2.zip.002",
+      "bytes": 10000000,
+      "sha256": "b8e51eecd2a5560dbf687719838035fdce80bc47aa043a9a1b39e7e2717c221a"
+    },
+    {
+      "name": "Submerged_City_A02_Nonresidential78_v2.zip.003",
+      "bytes": 10000000,
+      "sha256": "ef425c55a14dded307460de04405a727dc5388d26b2e50da06fb5b8d88e080c1"
+    },
+    {
+      "name": "Submerged_City_A02_Nonresidential78_v2.zip.004",
+      "bytes": 10000000,
+      "sha256": "7b59186b28993d9edd72b1462a3004a6dec5ce169dea19e3f6cac65e682eaa37"
+    },
+    {
+      "name": "Submerged_City_A02_Nonresidential78_v2.zip.005",
+      "bytes": 10000000,
+      "sha256": "16f9658b1bb801555dee964d846cea25d7fecd75931f25d7b97fa37de0cd28de"
+    },
+    {
+      "name": "Submerged_City_A02_Nonresidential78_v2.zip.006",
+      "bytes": 10000000,
+      "sha256": "5b48b328866469b40b3ac2077acc3b7bbdc7b0c94fd0042e0ff13374fd9ca77d"
+    },
+    {
+      "name": "Submerged_City_A02_Nonresidential78_v2.zip.007",
+      "bytes": 10000000,
+      "sha256": "592e9610d398b31cb39bf45fbf36c13818c078cf8e7c4f28f0dfb00849243700"
+    },
+    {
+      "name": "Submerged_City_A02_Nonresidential78_v2.zip.008",
+      "bytes": 10000000,
+      "sha256": "8dc1d27d7af3a6e5d9bbe35f76077391f4e3962322ededb8ae151974094b7b14"
+    },
+    {
+      "name": "Submerged_City_A02_Nonresidential78_v2.zip.009",
+      "bytes": 10000000,
+      "sha256": "45270209d1d77db6c4ea3abd3ff822ac8ea2d73f97b50878675921d6899d462a"
+    },
+    {
+      "name": "Submerged_City_A02_Nonresidential78_v2.zip.010",
+      "bytes": 10000000,
+      "sha256": "3eb46f2102f81e887cd1d27f18b88a1c04face1ab361c4a918b3af1572b8c0f0"
+    },
+    {
+      "name": "Submerged_City_A02_Nonresidential78_v2.zip.011",
+      "bytes": 10000000,
+      "sha256": "c352c62d9c236a516a1ba759fa6788a1d18c4ea7f65680e3f77a157105f2f5ea"
+    },
+    {
+      "name": "Submerged_City_A02_Nonresidential78_v2.zip.012",
+      "bytes": 10000000,
+      "sha256": "c3289b51c4d5e575dc1128e5ebbecc33cd9a636e0fdf771786f795a9d5a3076b"
+    },
+    {
+      "name": "Submerged_City_A02_Nonresidential78_v2.zip.013",
+      "bytes": 10000000,
+      "sha256": "49fedaa048a9ce63144d829de7c8c6ebc6a23fe7d84593eda685df0da0c7f006"
+    },
+    {
+      "name": "Submerged_City_A02_Nonresidential78_v2.zip.014",
+      "bytes": 4660734,
+      "sha256": "9d64752da97ccc92df4525f00a46d93241ce93621fc1e2bfd59eaaca9e54e871"
+    }
+  ]
+}

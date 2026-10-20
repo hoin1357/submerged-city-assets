@@ -76,6 +76,160 @@
         "직선",
         "LOD0"
       ]
+    },
+    {
+      "id": "A001-02",
+      "name": "벽돌 외벽 패널 · A001-02",
+      "category": "A01",
+      "src": "./models/A01/A001-02.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Masonry_Panel_straight_vertical_slit · 원본 LOD0. 3.0 × 0.456 × 3.0m, 14,012삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "벽돌 외벽 패널",
+        "A001",
+        "LOD0",
+        "Masonry_Panel_straight_vertical_slit"
+      ]
+    },
+    {
+      "id": "A001-03",
+      "name": "벽돌 외벽 패널 · A001-03",
+      "category": "A01",
+      "src": "./models/A01/A001-03.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Masonry_Panel_straight_horizontal_slit · 원본 LOD0. 3.0 × 0.456 × 3.0m, 13,860삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "벽돌 외벽 패널",
+        "A001",
+        "LOD0",
+        "Masonry_Panel_straight_horizontal_slit"
+      ]
+    },
+    {
+      "id": "A001-04",
+      "name": "벽돌 외벽 패널 · A001-04",
+      "category": "A01",
+      "src": "./models/A01/A001-04.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Masonry_Panel_straight_eccentric_rectangle · 원본 LOD0. 3.0 × 0.456 × 3.0m, 12,880삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "벽돌 외벽 패널",
+        "A001",
+        "LOD0",
+        "Masonry_Panel_straight_eccentric_rectangle"
+      ]
+    },
+    {
+      "id": "A001-05",
+      "name": "벽돌 외벽 패널 · A001-05",
+      "category": "A01",
+      "src": "./models/A01/A001-05.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Masonry_Panel_convex_none · 원본 LOD0. 3.1976 × 0.77752 × 3.0m, 28,604삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "벽돌 외벽 패널",
+        "A001",
+        "LOD0",
+        "Masonry_Panel_convex_none"
+      ]
+    },
+    {
+      "id": "A001-06",
+      "name": "벽돌 외벽 패널 · A001-06",
+      "category": "A01",
+      "src": "./models/A01/A001-06.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Masonry_Panel_convex_vertical_slit · 원본 LOD0. 3.1976 × 0.80553 × 3.0m, 27,684삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "벽돌 외벽 패널",
+        "A001",
+        "LOD0",
+        "Masonry_Panel_convex_vertical_slit"
+      ]
+    },
+    {
+      "id": "A001-07",
+      "name": "벽돌 외벽 패널 · A001-07",
+      "category": "A01",
+      "src": "./models/A01/A001-07.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Masonry_Panel_convex_horizontal_slit · 원본 LOD0. 3.1976 × 0.80553 × 3.0m, 27,032삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "벽돌 외벽 패널",
+        "A001",
+        "LOD0",
+        "Masonry_Panel_convex_horizontal_slit"
+      ]
+    },
+    {
+      "id": "A001-08",
+      "name": "벽돌 외벽 패널 · A001-08",
+      "category": "A01",
+      "src": "./models/A01/A001-08.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Masonry_Panel_convex_eccentric_rectangle · 원본 LOD0. 3.1976 × 0.79773 × 3.0m, 24,232삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "벽돌 외벽 패널",
+        "A001",
+        "LOD0",
+        "Masonry_Panel_convex_eccentric_rectangle"
+      ]
+    },
+    {
+      "id": "A001-09",
+      "name": "벽돌 외벽 패널 · A001-09",
+      "category": "A01",
+      "src": "./models/A01/A001-09.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Masonry_Panel_concave_none · 원본 LOD0. 3.21173 × 0.91985 × 3.0m, 29,568삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "벽돌 외벽 패널",
+        "A001",
+        "LOD0",
+        "Masonry_Panel_concave_none"
+      ]
+    },
+    {
+      "id": "A001-10",
+      "name": "벽돌 외벽 패널 · A001-10",
+      "category": "A01",
+      "src": "./models/A01/A001-10.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Masonry_Panel_concave_vertical_slit · 원본 LOD0. 3.21173 × 0.91985 × 3.0m, 28,064삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "벽돌 외벽 패널",
+        "A001",
+        "LOD0",
+        "Masonry_Panel_concave_vertical_slit"
+      ]
+    },
+    {
+      "id": "A001-11",
+      "name": "벽돌 외벽 패널 · A001-11",
+      "category": "A01",
+      "src": "./models/A01/A001-11.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Masonry_Panel_concave_horizontal_slit · 원본 LOD0. 3.21173 × 0.91985 × 3.0m, 27,956삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "벽돌 외벽 패널",
+        "A001",
+        "LOD0",
+        "Masonry_Panel_concave_horizontal_slit"
+      ]
+    },
+    {
+      "id": "A001-12",
+      "name": "벽돌 외벽 패널 · A001-12",
+      "category": "A01",
+      "src": "./models/A01/A001-12.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Masonry_Panel_concave_eccentric_rectangle · 원본 LOD0. 3.21173 × 0.91985 × 3.0m, 24,856삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "벽돌 외벽 패널",
+        "A001",
+        "LOD0",
+        "Masonry_Panel_concave_eccentric_rectangle"
+      ]
     }
   ]
 }

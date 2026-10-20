@@ -566,6 +566,174 @@
         "LOD0",
         "Masonry_Joint_obtuse_deep_joint_groove"
       ]
+    },
+    {
+      "id": "A002-13",
+      "name": "외벽 연결부 · A002-13",
+      "category": "A01",
+      "src": "./models/A01/A002-13.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Masonry_Joint_curved_external_smooth · 원본 LOD0. 1.727 × 1.727 × 3.0m, 24,916삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "외벽 연결부",
+        "A002",
+        "LOD0",
+        "Masonry_Joint_curved_external_smooth"
+      ]
+    },
+    {
+      "id": "A002-14",
+      "name": "외벽 연결부 · A002-14",
+      "category": "A01",
+      "src": "./models/A01/A002-14.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Masonry_Joint_curved_external_projecting_vertical_rib · 원본 LOD0. 1.81074 × 1.81074 × 3.0m, 24,920삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "외벽 연결부",
+        "A002",
+        "LOD0",
+        "Masonry_Joint_curved_external_projecting_vertical_rib"
+      ]
+    },
+    {
+      "id": "A002-15",
+      "name": "외벽 연결부 · A002-15",
+      "category": "A01",
+      "src": "./models/A01/A002-15.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Masonry_Joint_curved_external_deep_joint_groove · 원본 LOD0. 1.727 × 1.727 × 3.0m, 23,376삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "외벽 연결부",
+        "A002",
+        "LOD0",
+        "Masonry_Joint_curved_external_deep_joint_groove"
+      ]
+    },
+    {
+      "id": "A002-16",
+      "name": "외벽 연결부 · A002-16",
+      "category": "A01",
+      "src": "./models/A01/A002-16.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Masonry_Joint_curved_internal_smooth · 원본 LOD0. 1.701 × 1.951 × 3.0m, 26,612삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "외벽 연결부",
+        "A002",
+        "LOD0",
+        "Masonry_Joint_curved_internal_smooth"
+      ]
+    },
+    {
+      "id": "A002-17",
+      "name": "외벽 연결부 · A002-17",
+      "category": "A01",
+      "src": "./models/A01/A002-17.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Masonry_Joint_curved_internal_projecting_vertical_rib · 원본 LOD0. 1.701 × 1.951 × 3.0m, 26,616삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "외벽 연결부",
+        "A002",
+        "LOD0",
+        "Masonry_Joint_curved_internal_projecting_vertical_rib"
+      ]
+    },
+    {
+      "id": "A002-18",
+      "name": "외벽 연결부 · A002-18",
+      "category": "A01",
+      "src": "./models/A01/A002-18.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Masonry_Joint_curved_internal_deep_joint_groove · 원본 LOD0. 1.701 × 1.951 × 3.0m, 25,216삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "외벽 연결부",
+        "A002",
+        "LOD0",
+        "Masonry_Joint_curved_internal_deep_joint_groove"
+      ]
+    },
+    {
+      "id": "A003-01",
+      "name": "돌림띠 · A003-01",
+      "category": "A01",
+      "src": "./models/A01/A003-01.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "square_projection_straight · 원본 LOD0. 3.0 × 0.475 × 0.355m, 948삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "돌림띠",
+        "A003",
+        "LOD0",
+        "square_projection_straight"
+      ]
+    },
+    {
+      "id": "A003-02",
+      "name": "돌림띠 · A003-02",
+      "category": "A01",
+      "src": "./models/A01/A003-02.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "square_projection_external_corner · 원본 LOD0. 1.8 × 1.8 × 0.355m, 1,054삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "돌림띠",
+        "A003",
+        "LOD0",
+        "square_projection_external_corner"
+      ]
+    },
+    {
+      "id": "A003-03",
+      "name": "돌림띠 · A003-03",
+      "category": "A01",
+      "src": "./models/A01/A003-03.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "square_projection_internal_corner · 원본 LOD0. 1.675 × 1.675 × 0.355m, 1,054삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "돌림띠",
+        "A003",
+        "LOD0",
+        "square_projection_internal_corner"
+      ]
+    },
+    {
+      "id": "A003-04",
+      "name": "돌림띠 · A003-04",
+      "category": "A01",
+      "src": "./models/A01/A003-04.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "stepped_cornice_straight · 원본 LOD0. 3.0 × 0.535 × 0.39m, 1,060삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "돌림띠",
+        "A003",
+        "LOD0",
+        "stepped_cornice_straight"
+      ]
+    },
+    {
+      "id": "A003-05",
+      "name": "돌림띠 · A003-05",
+      "category": "A01",
+      "src": "./models/A01/A003-05.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "stepped_cornice_external_corner · 원본 LOD0. 1.86 × 1.86 × 0.39m, 1,222삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "돌림띠",
+        "A003",
+        "LOD0",
+        "stepped_cornice_external_corner"
+      ]
+    },
+    {
+      "id": "A003-06",
+      "name": "돌림띠 · A003-06",
+      "category": "A01",
+      "src": "./models/A01/A003-06.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "stepped_cornice_internal_corner · 원본 LOD0. 1.675 × 1.675 × 0.39m, 1,222삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "돌림띠",
+        "A003",
+        "LOD0",
+        "stepped_cornice_internal_corner"
+      ]
     }
   ]
 }

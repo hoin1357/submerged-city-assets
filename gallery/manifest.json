@@ -1826,6 +1826,186 @@
         "LOD0",
         "Twin wing recess with retained bay | corner"
       ]
+    },
+    {
+      "id": "A012-01",
+      "name": "저층 상점·상업 전면 파사드 · 평입면 · 단일 대개구",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A012-01.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Planar mercantile front | single broad opening · 원본 LOD0. 6.0 × 0.79 × 3.0m, 6,426삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "저층 상점·상업 전면 파사드",
+        "평입면",
+        "단일 대개구",
+        "A012",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A012-02",
+      "name": "저층 상점·상업 전면 파사드 · 평입면 · 쌍개구",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A012-02.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Planar mercantile front | paired broad openings · 원본 LOD0. 6.0 × 0.79 × 3.0m, 7,498삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "저층 상점·상업 전면 파사드",
+        "평입면",
+        "쌍개구",
+        "A012",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A012-03",
+      "name": "저층 상점·상업 전면 파사드 · 평입면 · 편심 복합개구",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A012-03.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Planar mercantile front | eccentric compound openings · 원본 LOD0. 6.0 × 0.79 × 3.0m, 7,774삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "저층 상점·상업 전면 파사드",
+        "평입면",
+        "편심 복합개구",
+        "A012",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A012-04",
+      "name": "저층 상점·상업 전면 파사드 · 후퇴 전면 · 단일 대개구",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A012-04.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Recessed commercial porch | single broad opening · 원본 LOD0. 6.0 × 1.89 × 3.0m, 8,538삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "저층 상점·상업 전면 파사드",
+        "후퇴 전면",
+        "단일 대개구",
+        "A012",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A012-05",
+      "name": "저층 상점·상업 전면 파사드 · 후퇴 전면 · 쌍개구",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A012-05.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Recessed commercial porch | paired broad openings · 원본 LOD0. 6.0 × 1.89 × 3.0m, 9,610삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "저층 상점·상업 전면 파사드",
+        "후퇴 전면",
+        "쌍개구",
+        "A012",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A012-06",
+      "name": "저층 상점·상업 전면 파사드 · 후퇴 전면 · 편심 복합개구",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A012-06.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Recessed commercial porch | eccentric compound openings · 원본 LOD0. 6.0 × 1.89 × 3.0m, 9,886삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "저층 상점·상업 전면 파사드",
+        "후퇴 전면",
+        "편심 복합개구",
+        "A012",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A012-07",
+      "name": "저층 상점·상업 전면 파사드 · 모서리 절개 · 단일 대개구",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A012-07.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Cut-corner shop | single broad opening · 원본 LOD0. 6.0 × 2.36872 × 3.0m, 11,424삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "저층 상점·상업 전면 파사드",
+        "모서리 절개",
+        "단일 대개구",
+        "A012",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A012-08",
+      "name": "저층 상점·상업 전면 파사드 · 모서리 절개 · 쌍개구",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A012-08.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Cut-corner shop | paired broad openings · 원본 LOD0. 6.0 × 2.36872 × 3.0m, 12,708삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "저층 상점·상업 전면 파사드",
+        "모서리 절개",
+        "쌍개구",
+        "A012",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A012-09",
+      "name": "저층 상점·상업 전면 파사드 · 모서리 절개 · 편심 복합개구",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A012-09.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Cut-corner shop | eccentric compound openings · 원본 LOD0. 6.0 × 2.36905 × 3.0m, 13,054삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "저층 상점·상업 전면 파사드",
+        "모서리 절개",
+        "편심 복합개구",
+        "A012",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A012-10",
+      "name": "저층 상점·상업 전면 파사드 · 쐐기 · 단일 대개구",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A012-10.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Wedge-plan shop | single broad opening · 원본 LOD0. 6.0 × 2.58719 × 3.0m, 11,424삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "저층 상점·상업 전면 파사드",
+        "쐐기",
+        "단일 대개구",
+        "A012",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A012-11",
+      "name": "저층 상점·상업 전면 파사드 · 쐐기 · 쌍개구",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A012-11.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Wedge-plan shop | paired broad openings · 원본 LOD0. 6.0 × 2.58719 × 3.0m, 12,708삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "저층 상점·상업 전면 파사드",
+        "쐐기",
+        "쌍개구",
+        "A012",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A012-12",
+      "name": "저층 상점·상업 전면 파사드 · 쐐기 · 편심 복합개구",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A012-12.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Wedge-plan shop | eccentric compound openings · 원본 LOD0. 6.0 × 2.58719 × 3.0m, 13,054삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "저층 상점·상업 전면 파사드",
+        "쐐기",
+        "편심 복합개구",
+        "A012",
+        "LOD0"
+      ]
     }
   ]
 }

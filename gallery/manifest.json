@@ -3356,6 +3356,186 @@
         "A010",
         "LOD0"
       ]
+    },
+    {
+      "id": "A010-07",
+      "name": "주택 · A010-07 · Broad gambrel carriage-passage house",
+      "category": "A02-houses",
+      "src": "./models/A02-residential/A010-07.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-residential",
+      "description": "Broad gambrel carriage-passage house · 원본 LOD0. 14.620000422000885 × 13.29999977350235 × 9.918252404779196m, 27,996삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "주택",
+        "A010-07",
+        "Broad gambrel carriage-passage house",
+        "A010",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A010-08",
+      "name": "주택 · A010-08 · Double-mansard corner boarding house",
+      "category": "A02-houses",
+      "src": "./models/A02-residential/A010-08.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-residential",
+      "description": "Double-mansard corner boarding house · 원본 LOD0. 14.194661974906921 × 16.25466239452362 × 12.557968880981207m, 72,314삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "주택",
+        "A010-08",
+        "Double-mansard corner boarding house",
+        "A010",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A010-09",
+      "name": "주택 · A010-09 · Cross-hip court-edge house",
+      "category": "A02-houses",
+      "src": "./models/A02-residential/A010-09.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-residential",
+      "description": "Cross-hip court-edge house · 원본 LOD0. 13.190000176429749 × 14.459999918937683 × 9.316369105130434m, 26,376삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "주택",
+        "A010-09",
+        "Cross-hip court-edge house",
+        "A010",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A010-10",
+      "name": "주택 · A010-10 · Low stepped-flat atrium house",
+      "category": "A02-houses",
+      "src": "./models/A02-residential/A010-10.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-residential",
+      "description": "Low stepped-flat atrium house · 원본 LOD0. 13.979479491710663 × 13.979479491710663 × 4.260000169277191m, 11,908삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "주택",
+        "A010-10",
+        "Low stepped-flat atrium house",
+        "A010",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A010-11",
+      "name": "주택 · A010-11 · Front-gable over-under flats",
+      "category": "A02-houses",
+      "src": "./models/A02-residential/A010-11.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-residential",
+      "description": "Front-gable over-under flats · 원본 LOD0. 8.175000190734863 × 15.354735732078552 × 11.949999958276749m, 30,448삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "주택",
+        "A010-11",
+        "Front-gable over-under flats",
+        "A010",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A010-12",
+      "name": "주택 · A010-12 · Stepped-slope hillside coastal house",
+      "category": "A02-houses",
+      "src": "./models/A02-residential/A010-12.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-residential",
+      "description": "Stepped-slope hillside coastal house · 원본 LOD0. 13.524999618530273 × 16.589999794960022 × 8.050752099603415m, 21,736삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "주택",
+        "A010-12",
+        "Stepped-slope hillside coastal house",
+        "A010",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A010-13",
+      "name": "주택 · A010-13 · Corner-drum apartment house",
+      "category": "A02-houses",
+      "src": "./models/A02-residential/A010-13.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-residential",
+      "description": "Corner-drum apartment house · 원본 LOD0. 12.586855828762054 × 15.280000150203705 × 13.50575202330947m, 63,618삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "주택",
+        "A010-13",
+        "Corner-drum apartment house",
+        "A010",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A010-14",
+      "name": "주택 · A010-14 · Deep-lightwell tenement",
+      "category": "A02-houses",
+      "src": "./models/A02-residential/A010-14.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-residential",
+      "description": "Deep-lightwell tenement · 원본 LOD0. 10.620000422000885 × 20.100001335144043 × 15.38615458831191m, 89,714삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "주택",
+        "A010-14",
+        "Deep-lightwell tenement",
+        "A010",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A010-15",
+      "name": "주택 · A010-15 · Broken-row courtyard walkup",
+      "category": "A02-houses",
+      "src": "./models/A02-residential/A010-15.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-residential",
+      "description": "Broken-row courtyard walkup · 원본 LOD0. 18.6200013756752 × 14.5 × 10.50575202330947m, 93,484삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "주택",
+        "A010-15",
+        "Broken-row courtyard walkup",
+        "A010",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A010-16",
+      "name": "주택 · A010-16 · Gabled gallery boarding court",
+      "category": "A02-houses",
+      "src": "./models/A02-residential/A010-16.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-residential",
+      "description": "Gabled gallery boarding court · 원본 LOD0. 16.6200013756752 × 15.620000422000885 × 9.360752519220114m, 46,408삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "주택",
+        "A010-16",
+        "Gabled gallery boarding court",
+        "A010",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A010-17",
+      "name": "주택 · A010-17 · Tapered-flatiron residential block",
+      "category": "A02-houses",
+      "src": "./models/A02-residential/A010-17.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-residential",
+      "description": "Tapered-flatiron residential block · 원본 LOD0. 10.969986900687218 × 18.29430301487446 × 13.50575202330947m, 46,466삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "주택",
+        "A010-17",
+        "Tapered-flatiron residential block",
+        "A010",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A010-18",
+      "name": "주택 · A010-18 · Two-bay split-front brownstone",
+      "category": "A02-houses",
+      "src": "./models/A02-residential/A010-18.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-residential",
+      "description": "Two-bay split-front brownstone · 원본 LOD0. 10.420000612735748 × 13.900000393390656 × 10.50575202330947m, 47,926삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "주택",
+        "A010-18",
+        "Two-bay split-front brownstone",
+        "A010",
+        "LOD0"
+      ]
     }
   ]
 }

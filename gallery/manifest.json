@@ -3806,6 +3806,186 @@
         "A011",
         "LOD0"
       ]
+    },
+    {
+      "id": "A017-01",
+      "name": "후퇴형 타워 · A017-01 · 직사각 / 한 방향 후퇴",
+      "category": "A03",
+      "src": "./models/A03/A017-01.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03",
+      "description": "직사각 / 한 방향 후퇴 · 원본 LOD0. 28.86 × 24.86 × 41.85m, 34,345삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A03 랜드마크 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "후퇴형 타워",
+        "A017-01",
+        "직사각 / 한 방향 후퇴",
+        "A017",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A017-02",
+      "name": "후퇴형 타워 · A017-02 · 직사각 / 분기형 후퇴",
+      "category": "A03",
+      "src": "./models/A03/A017-02.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03",
+      "description": "직사각 / 분기형 후퇴 · 원본 LOD0. 28.86 × 24.86 × 41.55m, 31,687삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A03 랜드마크 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "후퇴형 타워",
+        "A017-02",
+        "직사각 / 분기형 후퇴",
+        "A017",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A017-03",
+      "name": "후퇴형 타워 · A017-03 · L / 한 방향 후퇴",
+      "category": "A03",
+      "src": "./models/A03/A017-03.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03",
+      "description": "L / 한 방향 후퇴 · 원본 LOD0. 30.86 × 26.86 × 41.85m, 42,458삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A03 랜드마크 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "후퇴형 타워",
+        "A017-03",
+        "L / 한 방향 후퇴",
+        "A017",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A017-04",
+      "name": "후퇴형 타워 · A017-04 · L / 분기형 후퇴",
+      "category": "A03",
+      "src": "./models/A03/A017-04.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03",
+      "description": "L / 분기형 후퇴 · 원본 LOD0. 30.86 × 26.86 × 41.55m, 40,423삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A03 랜드마크 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "후퇴형 타워",
+        "A017-04",
+        "L / 분기형 후퇴",
+        "A017",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A017-05",
+      "name": "후퇴형 타워 · A017-05 · T / 한 방향 후퇴",
+      "category": "A03",
+      "src": "./models/A03/A017-05.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03",
+      "description": "T / 한 방향 후퇴 · 원본 LOD0. 32.86 × 27.86 × 41.85m, 49,838삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A03 랜드마크 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "후퇴형 타워",
+        "A017-05",
+        "T / 한 방향 후퇴",
+        "A017",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A017-06",
+      "name": "후퇴형 타워 · A017-06 · T / 분기형 후퇴",
+      "category": "A03",
+      "src": "./models/A03/A017-06.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03",
+      "description": "T / 분기형 후퇴 · 원본 LOD0. 32.86 × 27.86 × 41.55m, 46,867삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A03 랜드마크 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "후퇴형 타워",
+        "A017-06",
+        "T / 분기형 후퇴",
+        "A017",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A017-07",
+      "name": "후퇴형 타워 · A017-07 · 팔각 / 한 방향 후퇴",
+      "category": "A03",
+      "src": "./models/A03/A017-07.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03",
+      "description": "팔각 / 한 방향 후퇴 · 원본 LOD0. 30.42414 × 30.42414 × 41.85m, 38,977삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A03 랜드마크 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "후퇴형 타워",
+        "A017-07",
+        "팔각 / 한 방향 후퇴",
+        "A017",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A017-08",
+      "name": "후퇴형 타워 · A017-08 · 팔각 / 분기형 후퇴",
+      "category": "A03",
+      "src": "./models/A03/A017-08.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03",
+      "description": "팔각 / 분기형 후퇴 · 원본 LOD0. 30.42414 × 30.42414 × 41.55m, 35,188삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A03 랜드마크 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "후퇴형 타워",
+        "A017-08",
+        "팔각 / 분기형 후퇴",
+        "A017",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A017-09",
+      "name": "후퇴형 타워 · A017-09 · 마름모 / 한 방향 후퇴",
+      "category": "A03",
+      "src": "./models/A03/A017-09.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03",
+      "description": "마름모 / 한 방향 후퇴 · 원본 LOD0. 38.0587 × 26.93748 × 41.85m, 29,721삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A03 랜드마크 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "후퇴형 타워",
+        "A017-09",
+        "마름모 / 한 방향 후퇴",
+        "A017",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A017-10",
+      "name": "후퇴형 타워 · A017-10 · 마름모 / 분기형 후퇴",
+      "category": "A03",
+      "src": "./models/A03/A017-10.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03",
+      "description": "마름모 / 분기형 후퇴 · 원본 LOD0. 37.29806 × 26.93748 × 41.55m, 27,687삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A03 랜드마크 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "후퇴형 타워",
+        "A017-10",
+        "마름모 / 분기형 후퇴",
+        "A017",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A018-01",
+      "name": "쌍동 타워 · A018-01 · 평행 / 중간 높이 연결",
+      "category": "A03",
+      "src": "./models/A03/A018-01.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03",
+      "description": "평행 / 중간 높이 연결 · 원본 LOD0. 38.86 × 17.86 × 45.25m, 46,454삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A03 랜드마크 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "쌍동 타워",
+        "A018-01",
+        "평행 / 중간 높이 연결",
+        "A018",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A018-02",
+      "name": "쌍동 타워 · A018-02 · 평행 / 상단 연결",
+      "category": "A03",
+      "src": "./models/A03/A018-02.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03",
+      "description": "평행 / 상단 연결 · 원본 LOD0. 38.86 × 17.86 × 36.5m, 37,330삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A03 랜드마크 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "쌍동 타워",
+        "A018-02",
+        "평행 / 상단 연결",
+        "A018",
+        "LOD0"
+      ]
     }
   ]
 }

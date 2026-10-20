@@ -3176,6 +3176,186 @@
         "A009",
         "LOD0"
       ]
+    },
+    {
+      "id": "A009-13",
+      "name": "주택 · A009-13 · Jerkinhead corner cottage",
+      "category": "A02-houses",
+      "src": "./models/A02-residential/A009-13.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-residential",
+      "description": "Jerkinhead corner cottage · 원본 LOD0. 9.847989439964294 × 13.747989058494568 × 7.716369200497866m, 17,248삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "주택",
+        "A009-13",
+        "Jerkinhead corner cottage",
+        "A009",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A009-14",
+      "name": "주택 · A009-14 · Monitor-roof workshop dwelling",
+      "category": "A02-houses",
+      "src": "./models/A02-residential/A009-14.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-residential",
+      "description": "Monitor-roof workshop dwelling · 원본 LOD0. 11.794999837875366 × 19.31999981403351 × 6.681054424494505m, 30,946삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "주택",
+        "A009-14",
+        "Monitor-roof workshop dwelling",
+        "A009",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A009-15",
+      "name": "주택 · A009-15 · Butterfly-roof split garden house",
+      "category": "A02-houses",
+      "src": "./models/A02-residential/A009-15.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-residential",
+      "description": "Butterfly-roof split garden house · 원본 LOD0. 12.620000422000885 × 12.504335522651672 × 5.84922581538558m, 16,100삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "주택",
+        "A009-15",
+        "Butterfly-roof split garden house",
+        "A009",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A009-16",
+      "name": "주택 · A009-16 · Unequal U-court boarding house",
+      "category": "A02-houses",
+      "src": "./models/A02-residential/A009-16.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-residential",
+      "description": "Unequal U-court boarding house · 원본 LOD0. 15.08999988436699 × 15.190000116825104 × 9.616369295865297m, 32,428삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "주택",
+        "A009-16",
+        "Unequal U-court boarding house",
+        "A009",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A009-17",
+      "name": "주택 · A009-17 · H-plan shared-gallery apartments",
+      "category": "A02-houses",
+      "src": "./models/A02-residential/A009-17.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-residential",
+      "description": "H-plan shared-gallery apartments · 원본 LOD0. 16.6200013756752 × 14.620000422000885 × 10.693869646638632m, 70,484삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "주택",
+        "A009-17",
+        "H-plan shared-gallery apartments",
+        "A009",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A009-18",
+      "name": "주택 · A009-18 · Rear coach-house linked residence",
+      "category": "A02-houses",
+      "src": "./models/A02-residential/A009-18.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-residential",
+      "description": "Rear coach-house linked residence · 원본 LOD0. 7.890000075101852 × 23.56000065803528 × 10.693869639188051m, 59,858삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "주택",
+        "A009-18",
+        "Rear coach-house linked residence",
+        "A009",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A010-01",
+      "name": "주택 · A010-01 · Bow-front shallow crescent house",
+      "category": "A02-houses",
+      "src": "./models/A02-residential/A010-01.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-residential",
+      "description": "Bow-front shallow crescent house · 원본 LOD0. 18.5600004196167 × 9.173257440328598 × 11.049543429166079m, 44,612삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "주택",
+        "A010-01",
+        "Bow-front shallow crescent house",
+        "A010",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A010-02",
+      "name": "주택 · A010-02 · Corner wedge roof-terrace house",
+      "category": "A02-houses",
+      "src": "./models/A02-residential/A010-02.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-residential",
+      "description": "Corner wedge roof-terrace house · 원본 LOD0. 9.368845120072365 × 17.960000038146973 × 12.893869448453188m, 47,232삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "주택",
+        "A010-02",
+        "Corner wedge roof-terrace house",
+        "A010",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A010-03",
+      "name": "주택 · A010-03 · Offset stacked maisonette pair",
+      "category": "A02-houses",
+      "src": "./models/A02-residential/A010-03.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-residential",
+      "description": "Offset stacked maisonette pair · 원본 LOD0. 13.955000877380371 × 17.5600004196167 × 13.693869639188051m, 61,074삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "주택",
+        "A010-03",
+        "Offset stacked maisonette pair",
+        "A010",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A010-04",
+      "name": "주택 · A010-04 · Gable-bridge courtyard duplex",
+      "category": "A02-houses",
+      "src": "./models/A02-residential/A010-04.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-residential",
+      "description": "Gable-bridge courtyard duplex · 원본 LOD0. 14.289999693632126 × 14.324999541044235 × 8.778868723660707m, 45,796삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "주택",
+        "A010-04",
+        "Gable-bridge courtyard duplex",
+        "A010",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A010-05",
+      "name": "주택 · A010-05 · Shed-cluster dockside home",
+      "category": "A02-houses",
+      "src": "./models/A02-residential/A010-05.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-residential",
+      "description": "Shed-cluster dockside home · 원본 LOD0. 11.420000612735748 × 23.90999960899353 × 10.541537698358297m, 34,988삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "주택",
+        "A010-05",
+        "Shed-cluster dockside home",
+        "A010",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A010-06",
+      "name": "주택 · A010-06 · Side-gable duplex with central stair tower",
+      "category": "A02-houses",
+      "src": "./models/A02-residential/A010-06.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-residential",
+      "description": "Side-gable duplex with central stair tower · 원본 LOD0. 13.110000133514404 × 11.890000343322754 × 9.993869829922915m, 36,272삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "주택",
+        "A010-06",
+        "Side-gable duplex with central stair tower",
+        "A010",
+        "LOD0"
+      ]
     }
   ]
 }

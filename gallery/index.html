@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="dark"><meta name="description" content="침수 도시 에셋 라이브러리 — 카테고리별 탐색 및 인터랙티브 3D 미리보기">
+<title>침수 도시 · 에셋 라이브러리</title>
+<link rel="stylesheet" href="styles.css"><script type="module" src="app.js"></script>
+</head>
+<body>
+<a class="skip" href="#catalog">모델 목록으로 이동</a>
+<header><a class="brand" href="./"><span class="mark">≈</span><span>SUBMERGED CITY<small>침수 도시 · 에셋 라이브러리</small></span></a><a class="repo" href="https://github.com/hoin1357/submerged-city-assets">GitHub 저장소 ↗</a></header>
+<main>
+<section class="intro"><div><p class="eyebrow">THE CITY, PIECE BY PIECE</p><h1>도시를 구성하는<br><span>모든 조각.</span></h1><p>건축부터 거리, 이동 수단까지.<br>카테고리로 찾고, 3D로 살펴보세요.</p></div><div class="stats"><div><strong id="delivered">880</strong><span>기존 납품 수량</span></div><div><strong id="connected">0</strong><span>3D 연결 모델</span></div><div><strong>2,000</strong><span>제작 목표</span></div><p>납품 수량과 3D 연결 수량은 다릅니다.</p></div></section>
+<p id="fixture-banner" class="notice" hidden>테스트 모드 · 아래 모델은 합성 검증용 도형입니다. 실제 납품 에셋이 아닙니다.</p>
+<div class="workspace"><aside aria-label="카테고리"><h2>컬렉션 <span>12</span></h2><nav id="categories" aria-label="에셋 카테고리"></nav><p class="aside-note">카테고리 숫자는 기존 납품 수량입니다.</p></aside>
+<section id="catalog" class="catalog" aria-label="모델 목록"><div class="search"><label for="search">에셋 검색</label><input id="search" type="search" placeholder="이름, ID 또는 태그 검색" autocomplete="off"></div><div class="list-heading"><h2 id="category-title">전체 에셋</h2><span id="result-count" aria-live="polite">0개 연결</span></div><div id="models" class="models"></div><p id="catalog-status" role="status">에셋 목록을 불러오는 중…</p><button id="reload-manifest" hidden>목록 다시 불러오기</button></section>
+<section class="inspector" aria-label="3D 미리보기"><div class="viewer-top"><span>3D PREVIEW</span><span id="format">GLB / glTF</span></div><div id="stage"><div id="viewer-host"></div><div id="viewer-message" role="status"><span class="empty-symbol">◇</span><strong>모델 연결을 기다리고 있어요</strong><p>실제 GLB 또는 glTF 파일이 등록되면<br>이곳에서 회전하고 확대할 수 있습니다.</p></div></div><div class="controls"><button id="reset" disabled>시점 초기화</button><button id="rotate" aria-pressed="false" disabled>자동 회전</button></div><p class="hint">드래그: 회전 · 휠 / 두 손가락: 확대 · 방향키: 회전</p><div class="details"><p class="eyebrow" id="asset-id">NO MODEL SELECTED</p><h2 id="asset-name">에셋을 선택하세요</h2><p id="asset-description">목록에 등록된 실제 모델만 표시합니다.</p><div id="tags"></div><a id="download" class="download" hidden>원본 파일 다운로드 ↓</a><button id="retry" hidden>모델 다시 불러오기</button><p id="download-note" class="hint" hidden>외부 파일은 새 탭에서 열릴 수 있습니다. glTF의 텍스처·버퍼는 별도 보관하세요.</p></div></section></div>
+</main><footer><span>SUBMERGED CITY ASSET ARCHIVE</span><span>실제 파일을 기반으로, 한 조각씩.</span></footer>
+</body></html>

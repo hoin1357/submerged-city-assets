@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "A01",
+      "label": "A01 구조물",
+      "delivered": 126
+    },
+    {
+      "id": "A02-nonresidential",
+      "label": "A02 비주거 건물",
+      "delivered": 78
+    },
+    {
+      "id": "A02-houses",
+      "label": "A02 주택",
+      "delivered": 54
+    },
+    {
+      "id": "A03",
+      "label": "A03 랜드마크",
+      "delivered": 66
+    },
+    {
+      "id": "A04",
+      "label": "A04 지붕",
+      "delivered": 78
+    },
+    {
+      "id": "A05",
+      "label": "A05 출입구 · 창문",
+      "delivered": 90
+    },
+    {
+      "id": "A06",
+      "label": "A06 실내",
+      "delivered": 108
+    },
+    {
+      "id": "B01",
+      "label": "B01 도로",
+      "delivered": 86
+    },
+    {
+      "id": "B02",
+      "label": "B02 거리 시설물",
+      "delivered": 96
+    },
+    {
+      "id": "B03",
+      "label": "B03 대중교통",
+      "delivered": 76
+    },
+    {
+      "id": "B04-passenger",
+      "label": "B04 승용차",
+      "delivered": 12
+    },
+    {
+      "id": "B04-work",
+      "label": "B04 작업 트럭",
+      "delivered": 10
+    }
+  ],
+  "assets": []
+}

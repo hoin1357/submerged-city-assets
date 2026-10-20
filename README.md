@@ -4,7 +4,7 @@
 
 ## 다운로드
 
-3D 원본과 텍스처는 이 저장소의 **Releases**에 분류별 ZIP으로 업로드합니다. Git의 `Code → Download ZIP`은 문서만 포함하며, 에셋 파일은 각 Release의 **Assets**에서 받으세요.
+3D 원본과 텍스처는 이 저장소의 **Releases**에 분류별 ZIP으로 업로드합니다. Git의 `Code → Download ZIP`은 저장소에 등록된 문서·갤러리 파일을 포함하며, 에셋 파일은 각 Release의 **Assets**에서 받으세요.
 
 **2026-10-20: 초기 업로드 진행 중.** 아래 880종은 기존 전달본의 목록이며 GitHub 업로드 완료 수량을 의미하지 않습니다. 실제 첨부가 있는 Release만 다운로드할 수 있습니다.
 
@@ -34,4 +34,14 @@ LOD·충돌 메시·색상 변형은 별도 고유 에셋으로 세지 않습니
 - 각 묶음의 설치 안내와 알려진 제한 사항을 먼저 읽으세요.
 - 분할 묶음은 해당 Release에 안내된 모든 필수 파일을 받아야 합니다.
 
-비공개 프로젝트 보관소입니다. 별도의 공개 배포 라이선스는 부여하지 않았습니다.
+공개 에셋 보관소입니다. 별도의 공개 배포 라이선스는 부여하지 않았습니다.
+
+## 3D 에셋 갤러리
+
+[갤러리 소스](gallery/) · [갤러리 열기](https://hoin1357.github.io/submerged-city-assets/gallery/)
+
+갤러리 링크는 GitHub Pages 활성화 후 사용할 수 있습니다. 저장소 Settings → Pages에서 Deploy from a branch, `main` / `(root)`를 선택하세요. 현재 실제 GLB/glTF 연결 수는 **0개**이며, 기존 납품 수량 880개와 구분합니다.
+
+한국어 검색·카테고리 탐색, 드래그 회전, 휠/두 손가락 확대, 자동 회전, 시점 초기화와 원본 다운로드를 지원합니다. 실제 모델은 `gallery/manifest.json`의 `assets`에 `id`, `name`, `category`, `src`를 등록합니다. 파일 주소는 manifest 위치 기준이며, 외부 주소는 CORS가 필요합니다. `tags`, `description`, `download`는 선택 항목입니다. glTF는 참조 버퍼와 텍스처를 함께 보관하세요.
+
+뷰어는 Google model-viewer 4.1.0 배포본을 저장소에 포함하며 라이선스는 `gallery/vendor/model-viewer-LICENSE.txt`에 있습니다. 일반 GLB 미리보기에는 별도 서버·API 키·외부 CDN이 필요하지 않습니다. 압축 확장은 추가 디코더가 필요할 수 있습니다. 실제 파일 업로드와 미리보기 검증이 끝난 항목만 연결됩니다.

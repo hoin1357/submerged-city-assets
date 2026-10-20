@@ -2006,6 +2006,186 @@
         "A012",
         "LOD0"
       ]
+    },
+    {
+      "id": "A012-13",
+      "name": "저층 상점·상업 전면 파사드 · 곡면 · 단일 대개구",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A012-13.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Curved shopping front | single broad opening · 원본 LOD0. 6.48468 × 1.51264 × 3.0m, 11,424삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "저층 상점·상업 전면 파사드",
+        "곡면",
+        "단일 대개구",
+        "A012",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A012-14",
+      "name": "저층 상점·상업 전면 파사드 · 곡면 · 쌍개구",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A012-14.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Curved shopping front | paired broad openings · 원본 LOD0. 6.48468 × 1.51264 × 3.0m, 12,708삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "저층 상점·상업 전면 파사드",
+        "곡면",
+        "쌍개구",
+        "A012",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A012-15",
+      "name": "저층 상점·상업 전면 파사드 · 곡면 · 편심 복합개구",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A012-15.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Curved shopping front | eccentric compound openings · 원본 LOD0. 6.48468 × 1.51264 × 3.0m, 13,054삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "저층 상점·상업 전면 파사드",
+        "곡면",
+        "편심 복합개구",
+        "A012",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A012-16",
+      "name": "저층 상점·상업 전면 파사드 · 기둥식 회랑 · 단일 대개구",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A012-16.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Colonnaded shopping gallery | single broad opening · 원본 LOD0. 6.0 × 2.59 × 3.0m, 8,730삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "저층 상점·상업 전면 파사드",
+        "기둥식 회랑",
+        "단일 대개구",
+        "A012",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A012-17",
+      "name": "저층 상점·상업 전면 파사드 · 기둥식 회랑 · 쌍개구",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A012-17.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Colonnaded shopping gallery | paired broad openings · 원본 LOD0. 6.0 × 2.59 × 3.0m, 10,382삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "저층 상점·상업 전면 파사드",
+        "기둥식 회랑",
+        "쌍개구",
+        "A012",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A012-18",
+      "name": "저층 상점·상업 전면 파사드 · 기둥식 회랑 · 편심 복합개구",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A012-18.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Colonnaded shopping gallery | eccentric compound openings · 원본 LOD0. 6.0 × 2.59 × 3.0m, 10,658삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "저층 상점·상업 전면 파사드",
+        "기둥식 회랑",
+        "편심 복합개구",
+        "A012",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A013-01",
+      "name": "사무실·고층 업무 파사드 · 세로 협폭 · 평면",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A013-01.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Office narrow_vertical__planar_section · 원본 LOD0. 6.0 × 0.635 × 6.0m, 6,556삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "사무실·고층 업무 파사드",
+        "세로 협폭",
+        "평면",
+        "A013",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A013-02",
+      "name": "사무실·고층 업무 파사드 · 세로 협폭 · 깊은 핀",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A013-02.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Office narrow_vertical__deep_fins · 원본 LOD0. 6.0 × 1.265 × 6.0m, 6,820삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "사무실·고층 업무 파사드",
+        "세로 협폭",
+        "깊은 핀",
+        "A013",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A013-03",
+      "name": "사무실·고층 업무 파사드 · 세로 협폭 · 오목 베이",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A013-03.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Office narrow_vertical__recessed_bay · 원본 LOD0. 6.0 × 1.435 × 6.0m, 11,836삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "사무실·고층 업무 파사드",
+        "세로 협폭",
+        "오목 베이",
+        "A013",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A013-04",
+      "name": "사무실·고층 업무 파사드 · 가로 띠 · 평면",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A013-04.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Office horizontal_bands__planar_section · 원본 LOD0. 9.0 × 0.77 × 6.0m, 5,896삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "사무실·고층 업무 파사드",
+        "가로 띠",
+        "평면",
+        "A013",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A013-05",
+      "name": "사무실·고층 업무 파사드 · 가로 띠 · 깊은 핀",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A013-05.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Office horizontal_bands__deep_fins · 원본 LOD0. 9.0 × 1.265 × 6.0m, 6,248삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "사무실·고층 업무 파사드",
+        "가로 띠",
+        "깊은 핀",
+        "A013",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A013-06",
+      "name": "사무실·고층 업무 파사드 · 가로 띠 · 오목 베이",
+      "category": "A02-nonresidential",
+      "src": "./models/A02-nonresidential/A013-06.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential",
+      "description": "Office horizontal_bands__recessed_bay · 원본 LOD0. 9.0 × 1.57 × 6.0m, 11,484삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A02 비주거 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "사무실·고층 업무 파사드",
+        "가로 띠",
+        "오목 베이",
+        "A013",
+        "LOD0"
+      ]
     }
   ]
 }

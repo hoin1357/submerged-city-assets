@@ -4166,6 +4166,186 @@
         "A019",
         "LOD0"
       ]
+    },
+    {
+      "id": "A019-07",
+      "name": "쐐기형 건물 · A019-07 · 분리된 이중 선수 / 중앙 통과",
+      "category": "A03",
+      "src": "./models/A03/A019-07.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03",
+      "description": "분리된 이중 선수 / 중앙 통과 · 원본 LOD0. 29.08762 × 32.71776 × 28.8m, 28,086삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A03 랜드마크 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "쐐기형 건물",
+        "A019-07",
+        "분리된 이중 선수 / 중앙 통과",
+        "A019",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A019-08",
+      "name": "쐐기형 건물 · A019-08 · 분리된 이중 선수 / 측면 통과",
+      "category": "A03",
+      "src": "./models/A03/A019-08.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03",
+      "description": "분리된 이중 선수 / 측면 통과 · 원본 LOD0. 29.08762 × 32.71776 × 31.75m, 28,110삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A03 랜드마크 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "쐐기형 건물",
+        "A019-08",
+        "분리된 이중 선수 / 측면 통과",
+        "A019",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A020-01",
+      "name": "대형 홀 · A020-01 · Barrel Hall",
+      "category": "A03",
+      "src": "./models/A03/A020-01.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03",
+      "description": "Barrel Hall · 원본 LOD0. 23.2432 × 42.75307 × 15.9m, 34,500삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A03 랜드마크 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "대형 홀",
+        "A020-01",
+        "Barrel Hall",
+        "A020",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A020-02",
+      "name": "대형 홀 · A020-02 · Cross Barrel Hall",
+      "category": "A03",
+      "src": "./models/A03/A020-02.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03",
+      "description": "Cross Barrel Hall · 원본 LOD0. 48.73307 × 48.73307 × 15.9m, 46,959삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A03 랜드마크 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "대형 홀",
+        "A020-02",
+        "Cross Barrel Hall",
+        "A020",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A020-03",
+      "name": "대형 홀 · A020-03 · Three Aisle Gallery",
+      "category": "A03",
+      "src": "./models/A03/A020-03.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03",
+      "description": "Three Aisle Gallery · 원본 LOD0. 28.7 × 45.02116 × 16.4m, 50,499삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A03 랜드마크 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "대형 홀",
+        "A020-03",
+        "Three Aisle Gallery",
+        "A020",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A020-04",
+      "name": "대형 홀 · A020-04 · Crossed Three Aisle Gallery",
+      "category": "A03",
+      "src": "./models/A03/A020-04.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03",
+      "description": "Crossed Three Aisle Gallery · 원본 LOD0. 46.79307 × 45.02116 × 16.39137m, 50,732삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A03 랜드마크 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "대형 홀",
+        "A020-04",
+        "Crossed Three Aisle Gallery",
+        "A020",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A020-05",
+      "name": "대형 홀 · A020-05 · Radial Fan Hall",
+      "category": "A03",
+      "src": "./models/A03/A020-05.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03",
+      "description": "Radial Fan Hall · 원본 LOD0. 42.48563 × 31.36746 × 16.72784m, 26,295삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A03 랜드마크 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "대형 홀",
+        "A020-05",
+        "Radial Fan Hall",
+        "A020",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A020-06",
+      "name": "대형 홀 · A020-06 · Cross Fan Hall",
+      "category": "A03",
+      "src": "./models/A03/A020-06.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03",
+      "description": "Cross Fan Hall · 원본 LOD0. 52.556 × 52.556 × 15.53279m, 44,060삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A03 랜드마크 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "대형 홀",
+        "A020-06",
+        "Cross Fan Hall",
+        "A020",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A020-07",
+      "name": "대형 홀 · A020-07 · Axial Rib Dome Hall",
+      "category": "A03",
+      "src": "./models/A03/A020-07.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03",
+      "description": "Axial Rib Dome Hall · 원본 LOD0. 26.0163 × 51.59307 × 19.41853m, 38,493삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A03 랜드마크 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "대형 홀",
+        "A020-07",
+        "Axial Rib Dome Hall",
+        "A020",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A020-08",
+      "name": "대형 홀 · A020-08 · Cross Rib Dome Hall",
+      "category": "A03",
+      "src": "./models/A03/A020-08.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03",
+      "description": "Cross Rib Dome Hall · 원본 LOD0. 42.39307 × 42.39307 × 18.61868m, 38,125삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A03 랜드마크 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "대형 홀",
+        "A020-08",
+        "Cross Rib Dome Hall",
+        "A020",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A021-01",
+      "name": "공공 홀 · A021-01 · Circle in Square Public Hall",
+      "category": "A03",
+      "src": "./models/A03/A021-01.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03",
+      "description": "Circle in Square Public Hall · 원본 LOD0. 31.15 × 31.15 × 18.21867m, 24,578삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A03 랜드마크 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "공공 홀",
+        "A021-01",
+        "Circle in Square Public Hall",
+        "A021",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A021-02",
+      "name": "공공 홀 · A021-02 · Circle in Square Public Hall with Ambulatory",
+      "category": "A03",
+      "src": "./models/A03/A021-02.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03",
+      "description": "Circle in Square Public Hall with Ambulatory · 원본 LOD0. 33.28 × 33.28 × 18.71876m, 53,477삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A03 랜드마크 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "공공 홀",
+        "A021-02",
+        "Circle in Square Public Hall with Ambulatory",
+        "A021",
+        "LOD0"
+      ]
     }
   ]
 }

@@ -1,0 +1,82 @@
+{
+  "archive": "Submerged_City_A01_126_GitHub.zip",
+  "bytes": 140192935,
+  "sha256": "e4dcb94ea2e05ec6a244049d1711bafa629e6b36afc5b0e0743545749fd85aab",
+  "parts": [
+    {
+      "name": "Submerged_City_A01_126_GitHub.zip.001",
+      "bytes": 10000000,
+      "sha256": "2e01887a6227e54bba09a040d5b1ce2265d29f17244d234b3085d0875ca688e8"
+    },
+    {
+      "name": "Submerged_City_A01_126_GitHub.zip.002",
+      "bytes": 10000000,
+      "sha256": "ae024c1eb6d5d7eccacf59daed59c4d3055f86bcaae711c3a0d5ac18f30cd43c"
+    },
+    {
+      "name": "Submerged_City_A01_126_GitHub.zip.003",
+      "bytes": 10000000,
+      "sha256": "d5b86e4c90e5de36639802ba4b83dc3436c6c4ba0f51972e693a5e64cb9c9220"
+    },
+    {
+      "name": "Submerged_City_A01_126_GitHub.zip.004",
+      "bytes": 10000000,
+      "sha256": "cd12a2ef34cfd7599675ffb28430d3f04d824cee786f7fec412d560bc193f7a5"
+    },
+    {
+      "name": "Submerged_City_A01_126_GitHub.zip.005",
+      "bytes": 10000000,
+      "sha256": "d898dafd97fda08c67f601cf749778036a330fb323b2d5f6e79fe1346745a62d"
+    },
+    {
+      "name": "Submerged_City_A01_126_GitHub.zip.006",
+      "bytes": 10000000,
+      "sha256": "49bd904a94a49e57e40d1ac4ae0ec10acf7060b688361f96876b9fe638bd5fe0"
+    },
+    {
+      "name": "Submerged_City_A01_126_GitHub.zip.007",
+      "bytes": 10000000,
+      "sha256": "ef73caaa730afa9e34bc747fd6b6aa49b934565c9c3b9b592b0daf7785a5299f"
+    },
+    {
+      "name": "Submerged_City_A01_126_GitHub.zip.008",
+      "bytes": 10000000,
+      "sha256": "9376018e651f9b0d1f5c6293c1bfdca65b73f968f3e595a2101f2c0d97327a9f"
+    },
+    {
+      "name": "Submerged_City_A01_126_GitHub.zip.009",
+      "bytes": 10000000,
+      "sha256": "e5b1288e8ef71b5a0acef0a01ad1b3f7a377e9b1cdee9259a0ee1b2d53a0e759"
+    },
+    {
+      "name": "Submerged_City_A01_126_GitHub.zip.010",
+      "bytes": 10000000,
+      "sha256": "23f6bf825972ff42f0e2d98711970f3f9eb1ede47626a37491b3e634c7009a20"
+    },
+    {
+      "name": "Submerged_City_A01_126_GitHub.zip.011",
+      "bytes": 10000000,
+      "sha256": "82335c41e0f8aaa2369470afe90f9e5329f72771e4d19758c7fc703dc6b725b6"
+    },
+    {
+      "name": "Submerged_City_A01_126_GitHub.zip.012",
+      "bytes": 10000000,
+      "sha256": "aecfa2b051218365c2cde845a92adf32c9b65ed6ec078369c527bfe89525cf1e"
+    },
+    {
+      "name": "Submerged_City_A01_126_GitHub.zip.013",
+      "bytes": 10000000,
+      "sha256": "555b3fc4104bacbf165bdefc4d74958dccbcea1964d8a77e00d5c664300bd363"
+    },
+    {
+      "name": "Submerged_City_A01_126_GitHub.zip.014",
+      "bytes": 10000000,
+      "sha256": "7671b6448f2b8f4a36be3f03d5ea9aaddc4d0bf61b567490f6134a4495521d16"
+    },
+    {
+      "name": "Submerged_City_A01_126_GitHub.zip.015",
+      "bytes": 192935,
+      "sha256": "9e75b55a4d79d4e343f165469362b138ab9a33f29e8dfe11938826f0c1852eba"
+    }
+  ]
+}

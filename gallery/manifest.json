@@ -1238,6 +1238,174 @@
         "LOD0",
         "Bottom Chord Arch Riveted Transfer Beam"
       ]
+    },
+    {
+      "id": "A005-15",
+      "name": "석조 아치 · A005-15",
+      "category": "A01",
+      "src": "./models/A01/A005-15.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "V Support Riveted Transfer Beam · 원본 LOD0. 3.6 × 0.946 × 1.055m, 6,336삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "석조 아치",
+        "A005",
+        "LOD0",
+        "V Support Riveted Transfer Beam"
+      ]
+    },
+    {
+      "id": "A005-16",
+      "name": "석조 아치 · A005-16",
+      "category": "A01",
+      "src": "./models/A01/A005-16.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Branched Riveted Transfer Beam · 원본 LOD0. 3.6 × 0.946 × 1.0325m, 3,744삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "석조 아치",
+        "A005",
+        "LOD0",
+        "Branched Riveted Transfer Beam"
+      ]
+    },
+    {
+      "id": "A006-01",
+      "name": "기단 · A006-01",
+      "category": "A01",
+      "src": "./models/A01/A006-01.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "vertical_plinth_straight · 원본 LOD0. 3.0 × 0.86 × 1.06m, 1,380삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "기단",
+        "A006",
+        "LOD0",
+        "vertical_plinth_straight"
+      ]
+    },
+    {
+      "id": "A006-02",
+      "name": "기단 · A006-02",
+      "category": "A01",
+      "src": "./models/A01/A006-02.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "vertical_plinth_external_corner · 원본 LOD0. 2.16 × 2.16 × 1.06m, 1,710삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "기단",
+        "A006",
+        "LOD0",
+        "vertical_plinth_external_corner"
+      ]
+    },
+    {
+      "id": "A006-03",
+      "name": "기단 · A006-03",
+      "category": "A01",
+      "src": "./models/A01/A006-03.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "vertical_plinth_internal_corner · 원본 LOD0. 1.7 × 1.7 × 1.06m, 1,710삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "기단",
+        "A006",
+        "LOD0",
+        "vertical_plinth_internal_corner"
+      ]
+    },
+    {
+      "id": "A006-04",
+      "name": "기단 · A006-04",
+      "category": "A01",
+      "src": "./models/A01/A006-04.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "sloped_buttress_straight · 원본 LOD0. 3.0 × 0.86 × 1.06m, 996삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "기단",
+        "A006",
+        "LOD0",
+        "sloped_buttress_straight"
+      ]
+    },
+    {
+      "id": "A006-05",
+      "name": "기단 · A006-05",
+      "category": "A01",
+      "src": "./models/A01/A006-05.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "sloped_buttress_external_corner · 원본 LOD0. 2.16 × 2.16 × 1.06m, 1,124삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "기단",
+        "A006",
+        "LOD0",
+        "sloped_buttress_external_corner"
+      ]
+    },
+    {
+      "id": "A006-06",
+      "name": "기단 · A006-06",
+      "category": "A01",
+      "src": "./models/A01/A006-06.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "sloped_buttress_internal_corner · 원본 LOD0. 1.7 × 1.7 × 1.06m, 1,124삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "기단",
+        "A006",
+        "LOD0",
+        "sloped_buttress_internal_corner"
+      ]
+    },
+    {
+      "id": "A006-07",
+      "name": "기단 · A006-07",
+      "category": "A01",
+      "src": "./models/A01/A006-07.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "stepped_plinth_straight · 원본 LOD0. 3.0 × 0.86 × 1.06m, 1,140삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "기단",
+        "A006",
+        "LOD0",
+        "stepped_plinth_straight"
+      ]
+    },
+    {
+      "id": "A006-08",
+      "name": "기단 · A006-08",
+      "category": "A01",
+      "src": "./models/A01/A006-08.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "stepped_plinth_external_corner · 원본 LOD0. 2.16 × 2.16 × 1.06m, 1,340삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "기단",
+        "A006",
+        "LOD0",
+        "stepped_plinth_external_corner"
+      ]
+    },
+    {
+      "id": "A006-09",
+      "name": "기단 · A006-09",
+      "category": "A01",
+      "src": "./models/A01/A006-09.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "stepped_plinth_internal_corner · 원본 LOD0. 1.7 × 1.7 × 1.06m, 1,340삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "기단",
+        "A006",
+        "LOD0",
+        "stepped_plinth_internal_corner"
+      ]
+    },
+    {
+      "id": "A006-10",
+      "name": "기단 · A006-10",
+      "category": "A01",
+      "src": "./models/A01/A006-10.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "convex_plinth_straight · 원본 LOD0. 3.0 × 0.86 × 1.06m, 1,168삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "기단",
+        "A006",
+        "LOD0",
+        "convex_plinth_straight"
+      ]
     }
   ]
 }

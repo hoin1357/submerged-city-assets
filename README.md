@@ -44,7 +44,7 @@ LOD·충돌 메시·색상 변형은 별도 고유 에셋으로 세지 않습니
 
 [갤러리 소스](gallery/) · [갤러리 열기](https://hoin1357.github.io/submerged-city-assets/gallery/)
 
-갤러리는 GitHub Pages에서 공개 중입니다. 현재 실제 glTF 연결은 **120종(A01 120/126)**입니다. 전체 백업 수량과 3D 미리보기 연결 수량은 다릅니다. WebGL을 지원하는 브라우저가 필요합니다.
+갤러리는 GitHub Pages에서 공개 중입니다. 현재 실제 glTF 연결은 **126종(A01 126/126)**입니다. 전체 백업 수량과 3D 미리보기 연결 수량은 다릅니다. WebGL을 지원하는 브라우저가 필요합니다.
 
 한국어 검색·카테고리 탐색, 드래그 회전, 휠/두 손가락 확대, 자동 회전, 시점 초기화와 원본 다운로드를 지원합니다. 실제 모델은 `gallery/manifest.json`의 `assets`에 `id`, `name`, `category`, `src`를 등록합니다. 파일 주소는 manifest 위치 기준이며, 외부 주소는 CORS가 필요합니다. `tags`, `description`, `download`는 선택 항목입니다. glTF는 참조 버퍼와 텍스처를 함께 보관하세요.
 

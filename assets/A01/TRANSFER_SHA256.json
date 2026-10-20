@@ -1,0 +1,160 @@
+{
+  "scope": "First transferred model only; not full A01 backup",
+  "files": [
+    {
+      "path": "models/A001-01.fbx",
+      "bytes": 328860,
+      "sha256": "4c193e8f8a68311acbc95870e13679be82bf010856f19d6ddff11924f409fb00"
+    },
+    {
+      "path": "textures/brick_basecolor.png",
+      "bytes": 829698,
+      "sha256": "e3eafdfa4e5c99fb2d37d55a2b24cc597bfa9202c2a830ae6b71e84fd2458545"
+    },
+    {
+      "path": "textures/brick_normal.png",
+      "bytes": 1070670,
+      "sha256": "c4d5777bec16149f6728627febe33fec6581a32264fb4edca711038c0bcb43c1"
+    },
+    {
+      "path": "textures/brick_roughness.png",
+      "bytes": 213812,
+      "sha256": "b238d156b00e71864a5457b12a17a4b4db207f3d4559617e5d5613828b55dc31"
+    },
+    {
+      "path": "textures/brick_metallic.png",
+      "bytes": 1097,
+      "sha256": "c8b6bb3e837f846489438b47ae42f3960b820a17095ea66df3c5fa00fcd60665"
+    },
+    {
+      "path": "textures/brick_metallic_smoothness.png",
+      "bytes": 310308,
+      "sha256": "d34ce0f8be7bfadcd2d3d7f92d50e14d5f13712ea7c409c6961cefbd2ad074ef"
+    },
+    {
+      "path": "textures/brick_dark_basecolor.png",
+      "bytes": 767950,
+      "sha256": "a2b73d604fcb1e38e6dc3d4f40d9ea855409ee69aafcfb4f11eb0c7025ce473e"
+    },
+    {
+      "path": "textures/brick_dark_normal.png",
+      "bytes": 1070070,
+      "sha256": "d91af710cefbf0fe6b16469bbdded4259f0bef96f84eb70fae1214b3839286ce"
+    },
+    {
+      "path": "textures/brick_dark_roughness.png",
+      "bytes": 214038,
+      "sha256": "68d510bfc4ec3d54893347da714dbfb78f6cdaa85b6947a7507d1040c68c4135"
+    },
+    {
+      "path": "textures/brick_dark_metallic.png",
+      "bytes": 1097,
+      "sha256": "c8b6bb3e837f846489438b47ae42f3960b820a17095ea66df3c5fa00fcd60665"
+    },
+    {
+      "path": "textures/brick_dark_metallic_smoothness.png",
+      "bytes": 310657,
+      "sha256": "032867d22537d541eebe0e298b96cdc3601404288ed1aa25313b60c6f7c94521"
+    },
+    {
+      "path": "textures/brick_light_basecolor.png",
+      "bytes": 894641,
+      "sha256": "e0e2443053a9dea6610026bccea101b604e2b9c36515eced8a5d86217d4fdbb4"
+    },
+    {
+      "path": "textures/brick_light_normal.png",
+      "bytes": 1070541,
+      "sha256": "94d9adc506b60c6952a92bc4a2ee73e872adacca3fa5fc03e88f57c8a252bf4f"
+    },
+    {
+      "path": "textures/brick_light_roughness.png",
+      "bytes": 214359,
+      "sha256": "9d22d44b3ac4f75f9201c92f65aacb5db7baadec480d02b5dffec1677ceae5c5"
+    },
+    {
+      "path": "textures/brick_light_metallic.png",
+      "bytes": 1097,
+      "sha256": "c8b6bb3e837f846489438b47ae42f3960b820a17095ea66df3c5fa00fcd60665"
+    },
+    {
+      "path": "textures/brick_light_metallic_smoothness.png",
+      "bytes": 310795,
+      "sha256": "8c3024090d25c41531ec51ebbee247323bf81940d2009ebfad8311a46319a108"
+    },
+    {
+      "path": "textures/mortar_basecolor.png",
+      "bytes": 844436,
+      "sha256": "6f534feffbd7878e0f71e72c75e1203e8fb7a906d1bd1ca36f24a39ed9b3782a"
+    },
+    {
+      "path": "textures/mortar_normal.png",
+      "bytes": 1070606,
+      "sha256": "52af89af81308905da9727785fe2c08faabdd9b7a25fd2b83b1484687b7ac8a3"
+    },
+    {
+      "path": "textures/mortar_roughness.png",
+      "bytes": 213353,
+      "sha256": "a0eb3916d7f58b8d15b442919a94b6b6eba3168dd84f1a42aa0f4093ac3b0195"
+    },
+    {
+      "path": "textures/mortar_metallic.png",
+      "bytes": 1097,
+      "sha256": "c8b6bb3e837f846489438b47ae42f3960b820a17095ea66df3c5fa00fcd60665"
+    },
+    {
+      "path": "textures/mortar_metallic_smoothness.png",
+      "bytes": 308257,
+      "sha256": "076a2f698865002e0464b437b558e8fec3ce28c2249e7b060ebc0d9f5ff7d948"
+    },
+    {
+      "path": "textures/stone_basecolor.png",
+      "bytes": 996920,
+      "sha256": "82c9a2628d7da41320ddb51555e274050fce5ec37fc5ecfb814463c7a140d3eb"
+    },
+    {
+      "path": "textures/stone_normal.png",
+      "bytes": 1070557,
+      "sha256": "fffbd3fbcce1d739f19827dabe6c60e885c5a9e2b49d74b56d87b41b46eab646"
+    },
+    {
+      "path": "textures/stone_roughness.png",
+      "bytes": 214117,
+      "sha256": "e3995b622542ac201afafb28ea730a41e69cf0455da9211ffb5dd5aeca7c3423"
+    },
+    {
+      "path": "textures/stone_metallic.png",
+      "bytes": 1097,
+      "sha256": "c8b6bb3e837f846489438b47ae42f3960b820a17095ea66df3c5fa00fcd60665"
+    },
+    {
+      "path": "textures/stone_metallic_smoothness.png",
+      "bytes": 310709,
+      "sha256": "b27939a890f7c30d22d49f0a48bb2bc778042e7c0b730f619e14d5641eae6722"
+    },
+    {
+      "path": "textures/stone_dark_basecolor.png",
+      "bytes": 918934,
+      "sha256": "80e1805bb15cf2318257775ffdf95c5599a2a904b667c2d5b4c2e3361084c776"
+    },
+    {
+      "path": "textures/stone_dark_normal.png",
+      "bytes": 1070080,
+      "sha256": "3294a0651bb207ae2f412bf478fec93e9a4c56b9191a6e29ecac12361cf2ce41"
+    },
+    {
+      "path": "textures/stone_dark_roughness.png",
+      "bytes": 213344,
+      "sha256": "52e43aecd00c758c3f5ea467140950fdb2590aca3a7359fad9c4f4d7261a71e9"
+    },
+    {
+      "path": "textures/stone_dark_metallic.png",
+      "bytes": 1097,
+      "sha256": "c8b6bb3e837f846489438b47ae42f3960b820a17095ea66df3c5fa00fcd60665"
+    },
+    {
+      "path": "textures/stone_dark_metallic_smoothness.png",
+      "bytes": 309159,
+      "sha256": "ef29a251a6da0bed854b9eaf07eabcf45ebfe0f15f5aa384843397b20fe91191"
+    }
+  ]
+}

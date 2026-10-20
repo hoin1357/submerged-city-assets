@@ -1,0 +1,178 @@
+{
+  "id": "A001-01",
+  "name": "Masonry_Panel_straight_none",
+  "family": "A001",
+  "variant": "straight__none",
+  "description": "Flat, constant-thickness running-bond exterior masonry panel. Opening configuration: none.",
+  "taxonomy": "A001",
+  "plan": "straight",
+  "opening_configuration": "none",
+  "origin_note": "Bottom centerline at the start connector. Local +Z is up; dimensions are metres.",
+  "nominal_panel_dimensions_m": [
+    3.0,
+    0.35,
+    3.0
+  ],
+  "reference_path_xy_m": [
+    [
+      0,
+      0
+    ],
+    [
+      3,
+      0
+    ]
+  ],
+  "reference_path_length_m": 3.0,
+  "openings_s_s_z_z_m": [],
+  "host_rough_openings_s_s_z_z_m": [],
+  "opening_construction": "Host masonry and structural collision are cut to the outside of the full stone surround. Stone sill, jambs, and lintel fill the rough opening, leaving the listed clear aperture.",
+  "connectors": [
+    {
+      "name": "start",
+      "position": [
+        0.0,
+        0.0,
+        0
+      ],
+      "top_position": [
+        0.0,
+        0.0,
+        3
+      ],
+      "outward": [
+        -1.0,
+        -0.0,
+        0
+      ],
+      "edge_vector": [
+        0,
+        0.0,
+        3
+      ]
+    },
+    {
+      "name": "end",
+      "position": [
+        3.0,
+        0.0,
+        0
+      ],
+      "top_position": [
+        3.0,
+        0.0,
+        3
+      ],
+      "outward": [
+        1.0,
+        0.0,
+        0
+      ],
+      "edge_vector": [
+        0,
+        0.0,
+        3
+      ]
+    }
+  ],
+  "limitations": [
+    "Curve and step modules snap by their endpoint connectors, not a rectangular bounding box.",
+    "Structural wall thickness is .35 m; dressed stone projects locally.",
+    "Opening values use reference-path stations; on tapered faces these are not face-surface distances.",
+    "Window frames, glass, and shutters are excluded; masonry reveals belong to the structural wall."
+  ],
+  "intact_structure": true,
+  "mesh_optimization": "Open-backed embedded brick veneer with explicit single-step chamfer rims; no per-brick bevel modifiers. Closed structural mortar and collision remain. Stone profile chamfers use one segment.",
+  "photo_observed_vs_synthesized": "Photographed edge profiles, curvature principles, and recess depth guide the finish. Brick bond, exact module proportions, topology, and the four requested opening arrangements are original design synthesis.",
+  "reference_photos": [
+    {
+      "id": "R02_brownstone",
+      "url": "https://commons.wikimedia.org/wiki/File:Brooklyn_Facade,_65-71_Columbia_Heights,_Brooklyn_(NYPL_b13668355-482656).jpg",
+      "image_viewed": true,
+      "observed_cues": [
+        "Deep rectangular reveals have thin raised perimeter edges.",
+        "Projecting sills and flat layered lintel hoods cast sharp shadows.",
+        "Large dressed masonry courses are clean, intact, and consistently aligned."
+      ],
+      "applied_geometry": "R02 dressed edges and layered lintel/sill profiles adapted to a flat masonry panel.",
+      "interpretation": "Original modular masonry adaptation; not a measured reconstruction of the photographed building."
+    }
+  ],
+  "reference_ids": [
+    "R02_brownstone"
+  ],
+  "reference_urls": [
+    "https://commons.wikimedia.org/wiki/File:Brooklyn_Facade,_65-71_Columbia_Heights,_Brooklyn_(NYPL_b13668355-482656).jpg"
+  ],
+  "reference_basis": "Photographs actually viewed before final geometry refinement.",
+  "dimensions_m": [
+    3.0,
+    0.419,
+    3.0
+  ],
+  "bounds_min_m": [
+    0.0,
+    -0.218,
+    0.0
+  ],
+  "bounds_max_m": [
+    3.0,
+    0.201,
+    3.0
+  ],
+  "triangles": 14764,
+  "vertices": 9800,
+  "material_names": [
+    "SC_mortar",
+    "SC_brick",
+    "SC_brick_dark",
+    "SC_brick_light",
+    "SC_stone_dark",
+    "SC_stone"
+  ],
+  "collision_triangles": 96,
+  "uv_status": "UV0 dominant-axis tiled projection, 2 repeats/metre; intentionally overlapping tiling islands; no UV1 lightmap atlas",
+  "fbx_file": "models/A001-01.fbx",
+  "collision_file": "colliders/A001-01_COL.fbx",
+  "lod1": {
+    "file": "models/A001-01_LOD1.fbx",
+    "triangles": 1964,
+    "vertices": 3400,
+    "bounds_min_m": [
+      0.0,
+      -0.218,
+      0.0
+    ],
+    "bounds_max_m": [
+      3.0,
+      0.201,
+      3.0
+    ],
+    "reduction_percent": 86.7,
+    "method": "Planar/curved exposed brick strips replace bevelled brick veneers; host core, stone dressing, aperture, and silhouette profile retained.",
+    "validation_status": "Blender FBX reimport, UV/path/bounds and opening-ray checks passed; Unity transition/performance tuning pending."
+  },
+  "photo_sources": [
+    {
+      "reference_id": "R02_brownstone",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Brooklyn_Facade,_65-71_Columbia_Heights,_Brooklyn_(NYPL_b13668355-482656).jpg",
+      "image_visually_inspected": true,
+      "observed_cues": [
+        "Deep rectangular reveals have thin raised perimeter edges.",
+        "Projecting sills and flat layered lintel hoods cast sharp shadows.",
+        "Large dressed masonry courses are clean, intact, and consistently aligned."
+      ],
+      "applied_geometry": "R02 dressed edges and layered lintel/sill profiles adapted to a flat masonry panel.",
+      "interpretation": "Original modular masonry adaptation; not a measured reconstruction of the photographed building."
+    }
+  ],
+  "validation_status": {
+    "fbx_reimport": "passed Blender 4.3.2",
+    "finite_geometry_uv0": "passed",
+    "relative_texture_paths": "passed",
+    "collision": "separate simplified closed-component static non-convex mesh; reimport passed",
+    "unity_runtime": "not run"
+  },
+  "preview_file": "previews/individual/A001-01.png",
+  "lod0_file": "models/A001-01.fbx"
+}

@@ -62,5 +62,20 @@
       "delivered": 10
     }
   ],
-  "assets": []
+  "assets": [
+    {
+      "id": "A001-01",
+      "name": "벽돌 외벽 패널 · 직선형",
+      "category": "A01",
+      "src": "./models/A01/A001-01.gltf",
+      "download": "../assets/A01/models/A001-01.fbx",
+      "description": "Masonry_Panel_straight_none · 원본 LOD0 변환. 3 × 0.419 × 3m, 14,764삼각형. 원본 PBR 텍스처 공유. 다운로드는 FBX 파일이며 텍스처는 저장소 assets/A01/textures에 있습니다.",
+      "tags": [
+        "외벽",
+        "벽돌",
+        "직선",
+        "LOD0"
+      ]
+    }
+  ]
 }

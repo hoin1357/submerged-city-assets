@@ -3986,6 +3986,186 @@
         "A018",
         "LOD0"
       ]
+    },
+    {
+      "id": "A018-03",
+      "name": "쌍동 타워 · A018-03 · 벌어진 V / 중간 높이 연결",
+      "category": "A03",
+      "src": "./models/A03/A018-03.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03",
+      "description": "벌어진 V / 중간 높이 연결 · 원본 LOD0. 40.40855 × 21.83205 × 45.25m, 46,318삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A03 랜드마크 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "쌍동 타워",
+        "A018-03",
+        "벌어진 V / 중간 높이 연결",
+        "A018",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A018-04",
+      "name": "쌍동 타워 · A018-04 · 벌어진 V / 상단 연결",
+      "category": "A03",
+      "src": "./models/A03/A018-04.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03",
+      "description": "벌어진 V / 상단 연결 · 원본 LOD0. 40.40855 × 21.83205 × 36.5m, 37,248삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A03 랜드마크 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "쌍동 타워",
+        "A018-04",
+        "벌어진 V / 상단 연결",
+        "A018",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A018-05",
+      "name": "쌍동 타워 · A018-05 · 엇갈림 / 중간 높이 연결",
+      "category": "A03",
+      "src": "./models/A03/A018-05.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03",
+      "description": "엇갈림 / 중간 높이 연결 · 원본 LOD0. 37.36 × 28.36 × 45.25m, 42,870삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A03 랜드마크 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "쌍동 타워",
+        "A018-05",
+        "엇갈림 / 중간 높이 연결",
+        "A018",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A018-06",
+      "name": "쌍동 타워 · A018-06 · 엇갈림 / 상단 연결",
+      "category": "A03",
+      "src": "./models/A03/A018-06.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03",
+      "description": "엇갈림 / 상단 연결 · 원본 LOD0. 37.36 × 28.36 × 36.5m, 34,480삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A03 랜드마크 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "쌍동 타워",
+        "A018-06",
+        "엇갈림 / 상단 연결",
+        "A018",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A018-07",
+      "name": "쌍동 타워 · A018-07 · 서로 다른 단면의 쌍탑 / 중간 높이 연결",
+      "category": "A03",
+      "src": "./models/A03/A018-07.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03",
+      "description": "서로 다른 단면의 쌍탑 / 중간 높이 연결 · 원본 LOD0. 39.67492 × 21.17492 × 45.25m, 49,243삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A03 랜드마크 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "쌍동 타워",
+        "A018-07",
+        "서로 다른 단면의 쌍탑 / 중간 높이 연결",
+        "A018",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A018-08",
+      "name": "쌍동 타워 · A018-08 · 서로 다른 단면의 쌍탑 / 상단 연결",
+      "category": "A03",
+      "src": "./models/A03/A018-08.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03",
+      "description": "서로 다른 단면의 쌍탑 / 상단 연결 · 원본 LOD0. 39.67492 × 21.17492 × 36.5m, 39,821삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A03 랜드마크 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "쌍동 타워",
+        "A018-08",
+        "서로 다른 단면의 쌍탑 / 상단 연결",
+        "A018",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A019-01",
+      "name": "쐐기형 건물 · A019-01 · 예각 첨단 / 중앙 통과",
+      "category": "A03",
+      "src": "./models/A03/A019-01.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03",
+      "description": "예각 첨단 / 중앙 통과 · 원본 LOD0. 27.1885 × 33.49276 × 25.1m, 18,417삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A03 랜드마크 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "쐐기형 건물",
+        "A019-01",
+        "예각 첨단 / 중앙 통과",
+        "A019",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A019-02",
+      "name": "쐐기형 건물 · A019-02 · 예각 첨단 / 측면 통과",
+      "category": "A03",
+      "src": "./models/A03/A019-02.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03",
+      "description": "예각 첨단 / 측면 통과 · 원본 LOD0. 27.1885 × 33.49276 × 28.05m, 18,441삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A03 랜드마크 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "쐐기형 건물",
+        "A019-02",
+        "예각 첨단 / 측면 통과",
+        "A019",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A019-03",
+      "name": "쐐기형 건물 · A019-03 · 곡선 선수 / 중앙 통과",
+      "category": "A03",
+      "src": "./models/A03/A019-03.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03",
+      "description": "곡선 선수 / 중앙 통과 · 원본 LOD0. 27.09596 × 31.84124 × 25.1m, 24,897삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A03 랜드마크 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "쐐기형 건물",
+        "A019-03",
+        "곡선 선수 / 중앙 통과",
+        "A019",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A019-04",
+      "name": "쐐기형 건물 · A019-04 · 곡선 선수 / 측면 통과",
+      "category": "A03",
+      "src": "./models/A03/A019-04.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03",
+      "description": "곡선 선수 / 측면 통과 · 원본 LOD0. 27.09596 × 31.84124 × 28.05m, 24,921삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A03 랜드마크 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "쐐기형 건물",
+        "A019-04",
+        "곡선 선수 / 측면 통과",
+        "A019",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A019-05",
+      "name": "쐐기형 건물 · A019-05 · 다각 절삭 / 중앙 통과",
+      "category": "A03",
+      "src": "./models/A03/A019-05.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03",
+      "description": "다각 절삭 / 중앙 통과 · 원본 LOD0. 27.84088 × 33.90223 × 25.1m, 20,789삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A03 랜드마크 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "쐐기형 건물",
+        "A019-05",
+        "다각 절삭 / 중앙 통과",
+        "A019",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "A019-06",
+      "name": "쐐기형 건물 · A019-06 · 다각 절삭 / 측면 통과",
+      "category": "A03",
+      "src": "./models/A03/A019-06.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03",
+      "description": "다각 절삭 / 측면 통과 · 원본 LOD0. 27.84088 × 33.90223 × 28.05m, 20,813삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A03 랜드마크 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "쐐기형 건물",
+        "A019-06",
+        "다각 절삭 / 측면 통과",
+        "A019",
+        "LOD0"
+      ]
     }
   ]
 }

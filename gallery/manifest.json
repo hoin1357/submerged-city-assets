@@ -1574,6 +1574,174 @@
         "LOD0",
         "Industrial V-braced cantilever | double branch"
       ]
+    },
+    {
+      "id": "A007-11",
+      "name": "받침 장식 · A007-11",
+      "category": "A01",
+      "src": "./models/A01/A007-11.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Forked Y-braced support | single branch · 원본 LOD0. 0.7 × 1.73 × 2.8m, 4,024삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "받침 장식",
+        "A007",
+        "LOD0",
+        "Forked Y-braced support | single branch"
+      ]
+    },
+    {
+      "id": "A007-12",
+      "name": "받침 장식 · A007-12",
+      "category": "A01",
+      "src": "./models/A01/A007-12.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Forked Y-braced support | double branch · 원본 LOD0. 2.29 × 1.64 × 2.8405m, 6,144삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "받침 장식",
+        "A007",
+        "LOD0",
+        "Forked Y-braced support | double branch"
+      ]
+    },
+    {
+      "id": "A007-13",
+      "name": "받침 장식 · A007-13",
+      "category": "A01",
+      "src": "./models/A01/A007-13.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Bonded masonry wall buttress | single branch · 원본 LOD0. 1.02 × 1.535 × 2.924m, 2,292삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "받침 장식",
+        "A007",
+        "LOD0",
+        "Bonded masonry wall buttress | single branch"
+      ]
+    },
+    {
+      "id": "A007-14",
+      "name": "받침 장식 · A007-14",
+      "category": "A01",
+      "src": "./models/A01/A007-14.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Bonded masonry wall buttress | double branch · 원본 LOD0. 2.29 × 1.495 × 2.924m, 3,504삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "받침 장식",
+        "A007",
+        "LOD0",
+        "Bonded masonry wall buttress | double branch"
+      ]
+    },
+    {
+      "id": "A008-01",
+      "name": "후퇴형 구조 · A008-01",
+      "category": "A01",
+      "src": "./models/A01/A008-01.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Single terrace setback | straight · 원본 LOD0. 3.0 × 1.645 × 3.0m, 1,836삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "후퇴형 구조",
+        "A008",
+        "LOD0",
+        "Single terrace setback | straight"
+      ]
+    },
+    {
+      "id": "A008-02",
+      "name": "후퇴형 구조 · A008-02",
+      "category": "A01",
+      "src": "./models/A01/A008-02.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Single terrace setback | corner · 원본 LOD0. 3.055 × 3.055 × 3.0m, 2,996삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "후퇴형 구조",
+        "A008",
+        "LOD0",
+        "Single terrace setback | corner"
+      ]
+    },
+    {
+      "id": "A008-03",
+      "name": "후퇴형 구조 · A008-03",
+      "category": "A01",
+      "src": "./models/A01/A008-03.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Two-stage terrace setback | straight · 원본 LOD0. 3.0 × 1.614 × 3.0m, 2,160삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "후퇴형 구조",
+        "A008",
+        "LOD0",
+        "Two-stage terrace setback | straight"
+      ]
+    },
+    {
+      "id": "A008-04",
+      "name": "후퇴형 구조 · A008-04",
+      "category": "A01",
+      "src": "./models/A01/A008-04.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Two-stage terrace setback | corner · 원본 LOD0. 3.055 × 3.055 × 3.0m, 3,592삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "후퇴형 구조",
+        "A008",
+        "LOD0",
+        "Two-stage terrace setback | corner"
+      ]
+    },
+    {
+      "id": "A008-05",
+      "name": "후퇴형 구조 · A008-05",
+      "category": "A01",
+      "src": "./models/A01/A008-05.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Battered inclined envelope transition | straight · 원본 LOD0. 3.072 × 1.64119 × 3.0m, 2,156삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "후퇴형 구조",
+        "A008",
+        "LOD0",
+        "Battered inclined envelope transition | straight"
+      ]
+    },
+    {
+      "id": "A008-06",
+      "name": "후퇴형 구조 · A008-06",
+      "category": "A01",
+      "src": "./models/A01/A008-06.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Battered inclined envelope transition | corner · 원본 LOD0. 3.081 × 3.06401 × 3.0m, 3,260삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "후퇴형 구조",
+        "A008",
+        "LOD0",
+        "Battered inclined envelope transition | corner"
+      ]
+    },
+    {
+      "id": "A008-07",
+      "name": "후퇴형 구조 · A008-07",
+      "category": "A01",
+      "src": "./models/A01/A008-07.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Eased curved envelope retreat | straight · 원본 LOD0. 3.072 × 1.64712 × 3.0m, 2,708삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "후퇴형 구조",
+        "A008",
+        "LOD0",
+        "Eased curved envelope retreat | straight"
+      ]
+    },
+    {
+      "id": "A008-08",
+      "name": "후퇴형 구조 · A008-08",
+      "category": "A01",
+      "src": "./models/A01/A008-08.gltf",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01",
+      "description": "Eased curved envelope retreat | corner · 원본 LOD0. 3.081 × 3.06836 × 3.0m, 4,088삼각형. 원본 크기와 PBR 재질 보존. 다운로드 링크에서 A01 분할 원본과 재조립 안내를 확인하세요.",
+      "tags": [
+        "후퇴형 구조",
+        "A008",
+        "LOD0",
+        "Eased curved envelope retreat | corner"
+      ]
     }
   ]
 }

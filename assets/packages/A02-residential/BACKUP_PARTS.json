@@ -1,0 +1,125 @@
+{
+  "category": "A02-residential",
+  "asset_count": 54,
+  "archives": [
+    {
+      "archive": "A02_residential_54_v2_part01_of07.zip",
+      "bytes": 19999911,
+      "sha256": "325c7bfdc9bf1eb0eaaf8b1cd08c274d71e11f86080132b73ec306ea6f1f91ed",
+      "parts": [
+        {
+          "name": "A02_residential_54_v2_part01_of07.zip.001",
+          "bytes": 10000000,
+          "sha256": "7248ad9db70afba7930ff4173a419e3236ecbb9b68d4a5a2507e66653e8f8aac"
+        },
+        {
+          "name": "A02_residential_54_v2_part01_of07.zip.002",
+          "bytes": 9999911,
+          "sha256": "1af543b432c3c29b8764d7343c7d90fdb6c7403f29dde4dcde932fa7d6ee6260"
+        }
+      ]
+    },
+    {
+      "archive": "A02_residential_54_v2_part02_of07.zip",
+      "bytes": 19999961,
+      "sha256": "7b97d9fb6101cef3f52c53697795b29edcf4c3cdef4525ae176725ef618e4bf0",
+      "parts": [
+        {
+          "name": "A02_residential_54_v2_part02_of07.zip.001",
+          "bytes": 10000000,
+          "sha256": "f08cafdefb2e8d822819838527eb9a8beedb3765c3b263d8e335d891d9c0c43d"
+        },
+        {
+          "name": "A02_residential_54_v2_part02_of07.zip.002",
+          "bytes": 9999961,
+          "sha256": "52659c6bb703f613945b092424e34c88137d5e780d60345e9a82c7f70ba6a18b"
+        }
+      ]
+    },
+    {
+      "archive": "A02_residential_54_v2_part03_of07.zip",
+      "bytes": 19999755,
+      "sha256": "b2a606ce03a89f035e58a92dc898dc5aa6665f27e4ec6358eceb1f945f4d8048",
+      "parts": [
+        {
+          "name": "A02_residential_54_v2_part03_of07.zip.001",
+          "bytes": 10000000,
+          "sha256": "57a8dc2fa2c601a3713b50bfc7dc98ecd9b1af6be8f9cfdc65f6b3988470551e"
+        },
+        {
+          "name": "A02_residential_54_v2_part03_of07.zip.002",
+          "bytes": 9999755,
+          "sha256": "e4cd8daf1af82b7108ab054179c2872ea751b3434bc3a890d3307c2adfb764bd"
+        }
+      ]
+    },
+    {
+      "archive": "A02_residential_54_v2_part04_of07.zip",
+      "bytes": 19999761,
+      "sha256": "ffac098c0e4771e9477786f06dc949de06c434dbaec4d0bdd14fc54ae8e814ff",
+      "parts": [
+        {
+          "name": "A02_residential_54_v2_part04_of07.zip.001",
+          "bytes": 10000000,
+          "sha256": "5d3ad9d2dd040a3681c0d546487700dd481af7113153bf9095aecc1f7c8f7c7d"
+        },
+        {
+          "name": "A02_residential_54_v2_part04_of07.zip.002",
+          "bytes": 9999761,
+          "sha256": "a4e88e9283726078e16f4b5b56cf461059e52d9e2be5bc799352f36382ed86da"
+        }
+      ]
+    },
+    {
+      "archive": "A02_residential_54_v2_part05_of07.zip",
+      "bytes": 19999814,
+      "sha256": "e992dd13b21217486c3ed3796a3592d06f2fb1935db77a90868156407771c232",
+      "parts": [
+        {
+          "name": "A02_residential_54_v2_part05_of07.zip.001",
+          "bytes": 10000000,
+          "sha256": "3358542818bb43f97224edcc0f68d62e213ce5575e4eeff750cf310bd34defca"
+        },
+        {
+          "name": "A02_residential_54_v2_part05_of07.zip.002",
+          "bytes": 9999814,
+          "sha256": "6973be42b6084291d51192b4cd8151e72cb8bbe3a218e2894a2c74d3cea0a18a"
+        }
+      ]
+    },
+    {
+      "archive": "A02_residential_54_v2_part06_of07.zip",
+      "bytes": 19999857,
+      "sha256": "4a32b191afbf72808a7386fd4abd31a4f45ddc15d380be92e8dd0eda74a3bec8",
+      "parts": [
+        {
+          "name": "A02_residential_54_v2_part06_of07.zip.001",
+          "bytes": 10000000,
+          "sha256": "cae63b46928eb293bab47ea1d4d95c1d142e1b8b326cebf8f2660809b1e8acbb"
+        },
+        {
+          "name": "A02_residential_54_v2_part06_of07.zip.002",
+          "bytes": 9999857,
+          "sha256": "ba66b9c19e12254806caf40fe4090a29f435c6ca678c15cbeb4edf7fca01d1a5"
+        }
+      ]
+    },
+    {
+      "archive": "A02_residential_54_v2_part07_of07.zip",
+      "bytes": 15543568,
+      "sha256": "73afbffed6ac9a6b0fe26af67d35ad4ef502bf7f2e52d73b45674e2fc7edc5a7",
+      "parts": [
+        {
+          "name": "A02_residential_54_v2_part07_of07.zip.001",
+          "bytes": 10000000,
+          "sha256": "63c7c587619e624ec3db673696a29a9361bdb3d164264d1082234d5655253189"
+        },
+        {
+          "name": "A02_residential_54_v2_part07_of07.zip.002",
+          "bytes": 5543568,
+          "sha256": "e7e76383d9e9959a757e291fb8f47751c5f09694e9bc1040e7671ae83bd12404"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3101 @@
+{
+  "schema": "residential54.zip-inventory.v1",
+  "top_directory": "A02_residential_54_v2",
+  "created_utc": "2026-10-17T21:46:33.937376+00:00",
+  "byte_limit": 20000000,
+  "requested_byte_cap": 20000000,
+  "independent_zip_archives": true,
+  "extract_all_into_same_parent": true,
+  "asset_count": 54,
+  "counts_as_additional_assets": 0,
+  "texture_payload_copies_per_logical_path": 1,
+  "user_design_approval_inferred": false,
+  "complete_member_paths": [
+    "A02_residential_54_v2/CROSS_ASSET_SCALE_SCHEMA.json",
+    "A02_residential_54_v2/CROSS_ASSET_SCALE_STANDARD.json",
+    "A02_residential_54_v2/DELIVERY_README.txt",
+    "A02_residential_54_v2/FILE_SHA256SUMS.txt",
+    "A02_residential_54_v2/PACKAGING_PLAN.md",
+    "A02_residential_54_v2/PHOTO_PROVENANCE.json",
+    "A02_residential_54_v2/README.md",
+    "A02_residential_54_v2/README_KO.md",
+    "A02_residential_54_v2/STAGING_MANIFEST.json",
+    "A02_residential_54_v2/Unity_Optional/Editor/Residential54MaterialSetup.cs",
+    "A02_residential_54_v2/collision/A009-01_COL.fbx",
+    "A02_residential_54_v2/collision/A009-02_COL.fbx",
+    "A02_residential_54_v2/collision/A009-03_COL.fbx",
+    "A02_residential_54_v2/collision/A009-04_COL.fbx",
+    "A02_residential_54_v2/collision/A009-05_COL.fbx",
+    "A02_residential_54_v2/collision/A009-06_COL.fbx",
+    "A02_residential_54_v2/collision/A009-07_COL.fbx",
+    "A02_residential_54_v2/collision/A009-08_COL.fbx",
+    "A02_residential_54_v2/collision/A009-09_COL.fbx",
+    "A02_residential_54_v2/collision/A009-10_COL.fbx",
+    "A02_residential_54_v2/collision/A009-11_COL.fbx",
+    "A02_residential_54_v2/collision/A009-12_COL.fbx",
+    "A02_residential_54_v2/collision/A009-13_COL.fbx",
+    "A02_residential_54_v2/collision/A009-14_COL.fbx",
+    "A02_residential_54_v2/collision/A009-15_COL.fbx",
+    "A02_residential_54_v2/collision/A009-16_COL.fbx",
+    "A02_residential_54_v2/collision/A009-17_COL.fbx",
+    "A02_residential_54_v2/collision/A009-18_COL.fbx",
+    "A02_residential_54_v2/collision/A010-01_COL.fbx",
+    "A02_residential_54_v2/collision/A010-02_COL.fbx",
+    "A02_residential_54_v2/collision/A010-03_COL.fbx",
+    "A02_residential_54_v2/collision/A010-04_COL.fbx",
+    "A02_residential_54_v2/collision/A010-05_COL.fbx",
+    "A02_residential_54_v2/collision/A010-06_COL.fbx",
+    "A02_residential_54_v2/collision/A010-07_COL.fbx",
+    "A02_residential_54_v2/collision/A010-08_COL.fbx",
+    "A02_residential_54_v2/collision/A010-09_COL.fbx",
+    "A02_residential_54_v2/collision/A010-10_COL.fbx",
+    "A02_residential_54_v2/collision/A010-11_COL.fbx",
+    "A02_residential_54_v2/collision/A010-12_COL.fbx",
+    "A02_residential_54_v2/collision/A010-13_COL.fbx",
+    "A02_residential_54_v2/collision/A010-14_COL.fbx",
+    "A02_residential_54_v2/collision/A010-15_COL.fbx",
+    "A02_residential_54_v2/collision/A010-16_COL.fbx",
+    "A02_residential_54_v2/collision/A010-17_COL.fbx",
+    "A02_residential_54_v2/collision/A010-18_COL.fbx",
+    "A02_residential_54_v2/collision/A011-01_COL.fbx",
+    "A02_residential_54_v2/collision/A011-02_COL.fbx",
+    "A02_residential_54_v2/collision/A011-03_COL.fbx",
+    "A02_residential_54_v2/collision/A011-04_COL.fbx",
+    "A02_residential_54_v2/collision/A011-05_COL.fbx",
+    "A02_residential_54_v2/collision/A011-06_COL.fbx",
+    "A02_residential_54_v2/collision/A011-07_COL.fbx",
+    "A02_residential_54_v2/collision/A011-08_COL.fbx",
+    "A02_residential_54_v2/collision/A011-09_COL.fbx",
+    "A02_residential_54_v2/collision/A011-10_COL.fbx",
+    "A02_residential_54_v2/collision/A011-11_COL.fbx",
+    "A02_residential_54_v2/collision/A011-12_COL.fbx",
+    "A02_residential_54_v2/collision/A011-13_COL.fbx",
+    "A02_residential_54_v2/collision/A011-14_COL.fbx",
+    "A02_residential_54_v2/collision/A011-15_COL.fbx",
+    "A02_residential_54_v2/collision/A011-16_COL.fbx",
+    "A02_residential_54_v2/collision/A011-17_COL.fbx",
+    "A02_residential_54_v2/collision/A011-18_COL.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A009-01.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A009-02.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A009-03.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A009-04.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A009-05.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A009-06.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A009-07.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A009-08.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A009-09.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A009-10.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A009-11.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A009-12.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A009-13.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A009-14.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A009-15.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A009-16.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A009-17.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A009-18.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A010-01.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A010-02.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A010-03.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A010-04.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A010-05.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A010-06.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A010-07.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A010-08.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A010-09.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A010-10.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A010-11.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A010-12.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A010-13.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A010-14.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A010-15.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A010-16.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A010-17.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A010-18.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A011-01.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A011-02.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A011-03.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A011-04.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A011-05.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A011-06.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A011-07.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A011-08.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A011-09.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A011-10.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A011-11.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A011-12.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A011-13.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A011-14.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A011-15.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A011-16.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A011-17.fbx",
+    "A02_residential_54_v2/fbx/LOD0/A011-18.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A009-01_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A009-02_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A009-03_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A009-04_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A009-05_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A009-06_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A009-07_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A009-08_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A009-09_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A009-10_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A009-11_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A009-12_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A009-13_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A009-14_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A009-15_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A009-16_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A009-17_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A009-18_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A010-01_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A010-02_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A010-03_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A010-04_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A010-05_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A010-06_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A010-07_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A010-08_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A010-09_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A010-10_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A010-11_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A010-12_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A010-13_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A010-14_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A010-15_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A010-16_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A010-17_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A010-18_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A011-01_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A011-02_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A011-03_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A011-04_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A011-05_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A011-06_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A011-07_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A011-08_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A011-09_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A011-10_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A011-11_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A011-12_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A011-13_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A011-14_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A011-15_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A011-16_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A011-17_LOD1.fbx",
+    "A02_residential_54_v2/fbx/LOD1/A011-18_LOD1.fbx",
+    "A02_residential_54_v2/manifest.csv",
+    "A02_residential_54_v2/manifest.json",
+    "A02_residential_54_v2/material_bindings.json",
+    "A02_residential_54_v2/metadata/A009-01.json",
+    "A02_residential_54_v2/metadata/A009-02.json",
+    "A02_residential_54_v2/metadata/A009-03.json",
+    "A02_residential_54_v2/metadata/A009-04.json",
+    "A02_residential_54_v2/metadata/A009-05.json",
+    "A02_residential_54_v2/metadata/A009-06.json",
+    "A02_residential_54_v2/metadata/A009-07.json",
+    "A02_residential_54_v2/metadata/A009-08.json",
+    "A02_residential_54_v2/metadata/A009-09.json",
+    "A02_residential_54_v2/metadata/A009-10.json",
+    "A02_residential_54_v2/metadata/A009-11.json",
+    "A02_residential_54_v2/metadata/A009-12.json",
+    "A02_residential_54_v2/metadata/A009-13.json",
+    "A02_residential_54_v2/metadata/A009-14.json",
+    "A02_residential_54_v2/metadata/A009-15.json",
+    "A02_residential_54_v2/metadata/A009-16.json",
+    "A02_residential_54_v2/metadata/A009-17.json",
+    "A02_residential_54_v2/metadata/A009-18.json",
+    "A02_residential_54_v2/metadata/A010-01.json",
+    "A02_residential_54_v2/metadata/A010-02.json",
+    "A02_residential_54_v2/metadata/A010-03.json",
+    "A02_residential_54_v2/metadata/A010-04.json",
+    "A02_residential_54_v2/metadata/A010-05.json",
+    "A02_residential_54_v2/metadata/A010-06.json",
+    "A02_residential_54_v2/metadata/A010-07.json",
+    "A02_residential_54_v2/metadata/A010-08.json",
+    "A02_residential_54_v2/metadata/A010-09.json",
+    "A02_residential_54_v2/metadata/A010-10.json",
+    "A02_residential_54_v2/metadata/A010-11.json",
+    "A02_residential_54_v2/metadata/A010-12.json",
+    "A02_residential_54_v2/metadata/A010-13.json",
+    "A02_residential_54_v2/metadata/A010-14.json",
+    "A02_residential_54_v2/metadata/A010-15.json",
+    "A02_residential_54_v2/metadata/A010-16.json",
+    "A02_residential_54_v2/metadata/A010-17.json",
+    "A02_residential_54_v2/metadata/A010-18.json",
+    "A02_residential_54_v2/metadata/A011-01.json",
+    "A02_residential_54_v2/metadata/A011-02.json",
+    "A02_residential_54_v2/metadata/A011-03.json",
+    "A02_residential_54_v2/metadata/A011-04.json",
+    "A02_residential_54_v2/metadata/A011-05.json",
+    "A02_residential_54_v2/metadata/A011-06.json",
+    "A02_residential_54_v2/metadata/A011-07.json",
+    "A02_residential_54_v2/metadata/A011-08.json",
+    "A02_residential_54_v2/metadata/A011-09.json",
+    "A02_residential_54_v2/metadata/A011-10.json",
+    "A02_residential_54_v2/metadata/A011-11.json",
+    "A02_residential_54_v2/metadata/A011-12.json",
+    "A02_residential_54_v2/metadata/A011-13.json",
+    "A02_residential_54_v2/metadata/A011-14.json",
+    "A02_residential_54_v2/metadata/A011-15.json",
+    "A02_residential_54_v2/metadata/A011-16.json",
+    "A02_residential_54_v2/metadata/A011-17.json",
+    "A02_residential_54_v2/metadata/A011-18.json",
+    "A02_residential_54_v2/models/A009-01_editable.blend",
+    "A02_residential_54_v2/models/A009-02_editable.blend",
+    "A02_residential_54_v2/models/A009-03_editable.blend",
+    "A02_residential_54_v2/models/A009-04_editable.blend",
+    "A02_residential_54_v2/models/A009-05_editable.blend",
+    "A02_residential_54_v2/models/A009-06_editable.blend",
+    "A02_residential_54_v2/models/A009-07_editable.blend",
+    "A02_residential_54_v2/models/A009-08_editable.blend",
+    "A02_residential_54_v2/models/A009-09_editable.blend",
+    "A02_residential_54_v2/models/A009-10_editable.blend",
+    "A02_residential_54_v2/models/A009-11_editable.blend",
+    "A02_residential_54_v2/models/A009-12_editable.blend",
+    "A02_residential_54_v2/models/A009-13_editable.blend",
+    "A02_residential_54_v2/models/A009-14_editable.blend",
+    "A02_residential_54_v2/models/A009-15_editable.blend",
+    "A02_residential_54_v2/models/A009-16_editable.blend",
+    "A02_residential_54_v2/models/A009-17_editable.blend",
+    "A02_residential_54_v2/models/A009-18_editable.blend",
+    "A02_residential_54_v2/models/A010-01_editable.blend",
+    "A02_residential_54_v2/models/A010-02_editable.blend",
+    "A02_residential_54_v2/models/A010-03_editable.blend",
+    "A02_residential_54_v2/models/A010-04_editable.blend",
+    "A02_residential_54_v2/models/A010-05_editable.blend",
+    "A02_residential_54_v2/models/A010-06_editable.blend",
+    "A02_residential_54_v2/models/A010-07_editable.blend",
+    "A02_residential_54_v2/models/A010-08_editable.blend",
+    "A02_residential_54_v2/models/A010-09_editable.blend",
+    "A02_residential_54_v2/models/A010-10_editable.blend",
+    "A02_residential_54_v2/models/A010-11_editable.blend",
+    "A02_residential_54_v2/models/A010-12_editable.blend",
+    "A02_residential_54_v2/models/A010-13_editable.blend",
+    "A02_residential_54_v2/models/A010-14_editable.blend",
+    "A02_residential_54_v2/models/A010-15_editable.blend",
+    "A02_residential_54_v2/models/A010-16_editable.blend",
+    "A02_residential_54_v2/models/A010-17_editable.blend",
+    "A02_residential_54_v2/models/A010-18_editable.blend",
+    "A02_residential_54_v2/models/A011-01_editable.blend",
+    "A02_residential_54_v2/models/A011-02_editable.blend",
+    "A02_residential_54_v2/models/A011-03_editable.blend",
+    "A02_residential_54_v2/models/A011-04_editable.blend",
+    "A02_residential_54_v2/models/A011-05_editable.blend",
+    "A02_residential_54_v2/models/A011-06_editable.blend",
+    "A02_residential_54_v2/models/A011-07_editable.blend",
+    "A02_residential_54_v2/models/A011-08_editable.blend",
+    "A02_residential_54_v2/models/A011-09_editable.blend",
+    "A02_residential_54_v2/models/A011-10_editable.blend",
+    "A02_residential_54_v2/models/A011-11_editable.blend",
+    "A02_residential_54_v2/models/A011-12_editable.blend",
+    "A02_residential_54_v2/models/A011-13_editable.blend",
+    "A02_residential_54_v2/models/A011-14_editable.blend",
+    "A02_residential_54_v2/models/A011-15_editable.blend",
+    "A02_residential_54_v2/models/A011-16_editable.blend",
+    "A02_residential_54_v2/models/A011-17_editable.blend",
+    "A02_residential_54_v2/models/A011-18_editable.blend",
+    "A02_residential_54_v2/previews/comparisons/actual_common_scale_front_page_01.jpg",
+    "A02_residential_54_v2/previews/comparisons/actual_common_scale_front_page_02.jpg",
+    "A02_residential_54_v2/previews/comparisons/actual_common_scale_front_page_03.jpg",
+    "A02_residential_54_v2/previews/comparisons/actual_common_scale_front_page_04.jpg",
+    "A02_residential_54_v2/previews/comparisons/actual_common_scale_front_page_05.jpg",
+    "A02_residential_54_v2/previews/comparisons/actual_common_scale_front_page_06.jpg",
+    "A02_residential_54_v2/previews/comparisons/actual_common_scale_front_page_07.jpg",
+    "A02_residential_54_v2/previews/comparisons/actual_common_scale_isometric_page_01.jpg",
+    "A02_residential_54_v2/previews/comparisons/actual_common_scale_isometric_page_02.jpg",
+    "A02_residential_54_v2/previews/comparisons/actual_common_scale_isometric_page_03.jpg",
+    "A02_residential_54_v2/previews/comparisons/actual_common_scale_isometric_page_04.jpg",
+    "A02_residential_54_v2/previews/comparisons/actual_common_scale_isometric_page_05.jpg",
+    "A02_residential_54_v2/previews/comparisons/actual_common_scale_isometric_page_06.jpg",
+    "A02_residential_54_v2/previews/comparisons/actual_common_scale_isometric_page_07.jpg",
+    "A02_residential_54_v2/previews/comparisons/actual_common_scale_plan_page_01.jpg",
+    "A02_residential_54_v2/previews/comparisons/actual_common_scale_plan_page_02.jpg",
+    "A02_residential_54_v2/previews/comparisons/actual_common_scale_plan_page_03.jpg",
+    "A02_residential_54_v2/previews/comparisons/actual_common_scale_plan_page_04.jpg",
+    "A02_residential_54_v2/previews/comparisons/actual_common_scale_plan_page_05.jpg",
+    "A02_residential_54_v2/previews/comparisons/actual_common_scale_plan_page_06.jpg",
+    "A02_residential_54_v2/previews/comparisons/actual_common_scale_plan_page_07.jpg",
+    "A02_residential_54_v2/previews/comparisons/actual_common_scale_right_side_page_01.jpg",
+    "A02_residential_54_v2/previews/comparisons/actual_common_scale_right_side_page_02.jpg",
+    "A02_residential_54_v2/previews/comparisons/actual_common_scale_right_side_page_03.jpg",
+    "A02_residential_54_v2/previews/comparisons/actual_common_scale_right_side_page_04.jpg",
+    "A02_residential_54_v2/previews/comparisons/actual_common_scale_right_side_page_05.jpg",
+    "A02_residential_54_v2/previews/comparisons/actual_common_scale_right_side_page_06.jpg",
+    "A02_residential_54_v2/previews/comparisons/actual_common_scale_right_side_page_07.jpg",
+    "A02_residential_54_v2/previews/comparisons/actual_lod_material_page_01.jpg",
+    "A02_residential_54_v2/previews/comparisons/actual_lod_material_page_02.jpg",
+    "A02_residential_54_v2/previews/comparisons/actual_lod_material_page_03.jpg",
+    "A02_residential_54_v2/previews/comparisons/actual_lod_material_page_04.jpg",
+    "A02_residential_54_v2/previews/comparisons/actual_lod_material_page_05.jpg",
+    "A02_residential_54_v2/previews/comparisons/actual_lod_material_page_06.jpg",
+    "A02_residential_54_v2/previews/comparisons/actual_lod_material_page_07.jpg",
+    "A02_residential_54_v2/previews/delivery/common_scale/isometric.jpg",
+    "A02_residential_54_v2/previews/delivery/common_scale/plan.jpg",
+    "A02_residential_54_v2/previews/delivery/common_scale/prior_asset.jpg",
+    "A02_residential_54_v2/previews/delivery/contact_sheets/01_P01_P09.jpg",
+    "A02_residential_54_v2/previews/delivery/contact_sheets/02_P10_P18.jpg",
+    "A02_residential_54_v2/previews/delivery/contact_sheets/03_P19_P27.jpg",
+    "A02_residential_54_v2/previews/delivery/contact_sheets/04_P28_P36.jpg",
+    "A02_residential_54_v2/previews/delivery/contact_sheets/05_P37_P45.jpg",
+    "A02_residential_54_v2/previews/delivery/contact_sheets/06_P46_P54.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A009-01_P01.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A009-02_P02.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A009-03_P03.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A009-04_P04.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A009-05_P05.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A009-06_P06.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A009-07_P07.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A009-08_P08.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A009-09_P09.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A009-10_P10.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A009-11_P11.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A009-12_P12.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A009-13_P13.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A009-14_P14.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A009-15_P15.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A009-16_P16.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A009-17_P17.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A009-18_P18.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A010-01_P19.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A010-02_P20.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A010-03_P21.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A010-04_P22.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A010-05_P23.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A010-06_P24.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A010-07_P25.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A010-08_P26.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A010-09_P27.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A010-10_P28.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A010-11_P29.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A010-12_P30.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A010-13_P31.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A010-14_P32.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A010-15_P33.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A010-16_P34.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A010-17_P35.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A010-18_P36.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A011-01_P37.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A011-02_P38.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A011-03_P39.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A011-04_P40.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A011-05_P41.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A011-06_P42.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A011-07_P43.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A011-08_P44.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A011-09_P45.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A011-10_P46.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A011-11_P47.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A011-12_P48.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A011-13_P49.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A011-14_P50.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A011-15_P51.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A011-16_P52.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A011-17_P53.jpg",
+    "A02_residential_54_v2/previews/delivery/individual/A011-18_P54.jpg",
+    "A02_residential_54_v2/qa/BOUNDED54_CANDIDATE_HASH_INVENTORY.json",
+    "A02_residential_54_v2/qa/FINAL_COMPARISON_MANIFEST.json",
+    "A02_residential_54_v2/qa/FINAL_PREVIEW_ACCEPTANCE.json",
+    "A02_residential_54_v2/qa/FINAL_QA_SUMMARY.json",
+    "A02_residential_54_v2/qa/FINAL_QA_SUMMARY.md",
+    "A02_residential_54_v2/qa/FINAL_RELEASE_ACCEPTANCE.json",
+    "A02_residential_54_v2/qa/common_scale_prior_reference.json",
+    "A02_residential_54_v2/qa/delivery_preview_manifest.json",
+    "A02_residential_54_v2/qa/master_assembly.json",
+    "A02_residential_54_v2/qa/relative_editable_conversion.json",
+    "A02_residential_54_v2/reference_provenance/design_briefs_v2.json",
+    "A02_residential_54_v2/reference_provenance/reference_map_remaining46.json",
+    "A02_residential_54_v2/reference_provenance/remaining46_design_briefs.json",
+    "A02_residential_54_v2/reference_provenance/replacement_catalog_54.json",
+    "A02_residential_54_v2/residential_54_grouped_master.blend",
+    "A02_residential_54_v2/source/assemble_residential_master.py",
+    "A02_residential_54_v2/source/build_release.py",
+    "A02_residential_54_v2/source/deduplicate_editable_textures.py",
+    "A02_residential_54_v2/source/design_helpers.py",
+    "A02_residential_54_v2/source/extend_geometry.py",
+    "A02_residential_54_v2/source/extract_release.ps1",
+    "A02_residential_54_v2/source/extract_release.py",
+    "A02_residential_54_v2/source/extract_release_windows.cmd",
+    "A02_residential_54_v2/source/house_designs_01_08.py",
+    "A02_residential_54_v2/source/house_designs_09_16.py",
+    "A02_residential_54_v2/source/house_designs_17_24.py",
+    "A02_residential_54_v2/source/house_designs_25_39.py",
+    "A02_residential_54_v2/source/house_designs_40_54.py",
+    "A02_residential_54_v2/source/house_geometry.py",
+    "A02_residential_54_v2/source/label_common_scale_overviews.py",
+    "A02_residential_54_v2/source/label_prior_scale_comparison.py",
+    "A02_residential_54_v2/source/make_shared_materials.py",
+    "A02_residential_54_v2/source/make_unity_material_maps.py",
+    "A02_residential_54_v2/source/package_release.py",
+    "A02_residential_54_v2/source/prepare_delivery_previews.py",
+    "A02_residential_54_v2/source/refresh_collision.py",
+    "A02_residential_54_v2/source/release_export.py",
+    "A02_residential_54_v2/source/render_final_previews.py",
+    "A02_residential_54_v2/source/render_prior_scale_comparison.py",
+    "A02_residential_54_v2/source/studio_preview.py",
+    "A02_residential_54_v2/source/sync_manifest.py",
+    "A02_residential_54_v2/textures/brick_basecolor.png",
+    "A02_residential_54_v2/textures/brick_dark_basecolor.png",
+    "A02_residential_54_v2/textures/brick_dark_metallic.png",
+    "A02_residential_54_v2/textures/brick_dark_normal.png",
+    "A02_residential_54_v2/textures/brick_dark_roughness.png",
+    "A02_residential_54_v2/textures/brick_light_basecolor.png",
+    "A02_residential_54_v2/textures/brick_light_metallic.png",
+    "A02_residential_54_v2/textures/brick_light_normal.png",
+    "A02_residential_54_v2/textures/brick_light_roughness.png",
+    "A02_residential_54_v2/textures/brick_metallic.png",
+    "A02_residential_54_v2/textures/brick_normal.png",
+    "A02_residential_54_v2/textures/brick_roughness.png",
+    "A02_residential_54_v2/textures/material_manifest.json",
+    "A02_residential_54_v2/textures/metal_basecolor.png",
+    "A02_residential_54_v2/textures/metal_metallic.png",
+    "A02_residential_54_v2/textures/metal_normal.png",
+    "A02_residential_54_v2/textures/metal_roughness.png",
+    "A02_residential_54_v2/textures/mortar_basecolor.png",
+    "A02_residential_54_v2/textures/mortar_metallic.png",
+    "A02_residential_54_v2/textures/mortar_normal.png",
+    "A02_residential_54_v2/textures/mortar_roughness.png",
+    "A02_residential_54_v2/textures/rust_basecolor.png",
+    "A02_residential_54_v2/textures/rust_metallic.png",
+    "A02_residential_54_v2/textures/rust_normal.png",
+    "A02_residential_54_v2/textures/rust_roughness.png",
+    "A02_residential_54_v2/textures/slate_basecolor.png",
+    "A02_residential_54_v2/textures/slate_metallic.png",
+    "A02_residential_54_v2/textures/slate_normal.png",
+    "A02_residential_54_v2/textures/slate_roughness.png",
+    "A02_residential_54_v2/textures/stone_basecolor.png",
+    "A02_residential_54_v2/textures/stone_dark_basecolor.png",
+    "A02_residential_54_v2/textures/stone_dark_metallic.png",
+    "A02_residential_54_v2/textures/stone_dark_normal.png",
+    "A02_residential_54_v2/textures/stone_dark_roughness.png",
+    "A02_residential_54_v2/textures/stone_metallic.png",
+    "A02_residential_54_v2/textures/stone_normal.png",
+    "A02_residential_54_v2/textures/stone_roughness.png",
+    "A02_residential_54_v2/textures/stucco_basecolor.png",
+    "A02_residential_54_v2/textures/stucco_metallic.png",
+    "A02_residential_54_v2/textures/stucco_normal.png",
+    "A02_residential_54_v2/textures/stucco_roughness.png",
+    "A02_residential_54_v2/textures/timber_basecolor.png",
+    "A02_residential_54_v2/textures/timber_metallic.png",
+    "A02_residential_54_v2/textures/timber_normal.png",
+    "A02_residential_54_v2/textures/timber_roughness.png",
+    "A02_residential_54_v2/textures/unity/bluegray_basecolor.png",
+    "A02_residential_54_v2/textures/unity/bluegray_metallic_smoothness.png",
+    "A02_residential_54_v2/textures/unity/brick_basecolor.png",
+    "A02_residential_54_v2/textures/unity/brick_dark_basecolor.png",
+    "A02_residential_54_v2/textures/unity/brick_dark_metallic_smoothness.png",
+    "A02_residential_54_v2/textures/unity/brick_light_basecolor.png",
+    "A02_residential_54_v2/textures/unity/brick_light_metallic_smoothness.png",
+    "A02_residential_54_v2/textures/unity/brick_metallic_smoothness.png",
+    "A02_residential_54_v2/textures/unity/copper_basecolor.png",
+    "A02_residential_54_v2/textures/unity/copper_metallic_smoothness.png",
+    "A02_residential_54_v2/textures/unity/cream_basecolor.png",
+    "A02_residential_54_v2/textures/unity/cream_metallic_smoothness.png",
+    "A02_residential_54_v2/textures/unity/foundation_basecolor.png",
+    "A02_residential_54_v2/textures/unity/foundation_metallic_smoothness.png",
+    "A02_residential_54_v2/textures/unity/glass_basecolor.png",
+    "A02_residential_54_v2/textures/unity/glass_metallic_smoothness.png",
+    "A02_residential_54_v2/textures/unity/iron_basecolor.png",
+    "A02_residential_54_v2/textures/unity/iron_metallic_smoothness.png",
+    "A02_residential_54_v2/textures/unity/olive_basecolor.png",
+    "A02_residential_54_v2/textures/unity/olive_metallic_smoothness.png",
+    "A02_residential_54_v2/textures/unity/redwood_basecolor.png",
+    "A02_residential_54_v2/textures/unity/redwood_metallic_smoothness.png",
+    "A02_residential_54_v2/textures/unity/rust_basecolor.png",
+    "A02_residential_54_v2/textures/unity/rust_metallic_smoothness.png",
+    "A02_residential_54_v2/textures/unity/slate_basecolor.png",
+    "A02_residential_54_v2/textures/unity/slate_metallic_smoothness.png",
+    "A02_residential_54_v2/textures/unity/stone_basecolor.png",
+    "A02_residential_54_v2/textures/unity/stone_metallic_smoothness.png",
+    "A02_residential_54_v2/textures/unity/stucco_basecolor.png",
+    "A02_residential_54_v2/textures/unity/stucco_metallic_smoothness.png",
+    "A02_residential_54_v2/textures/unity/trim_basecolor.png",
+    "A02_residential_54_v2/textures/unity/trim_metallic_smoothness.png",
+    "A02_residential_54_v2/textures/unity/wood_basecolor.png",
+    "A02_residential_54_v2/textures/unity/wood_metallic_smoothness.png"
+  ],
+  "chunks": [
+    {
+      "file": "A02_residential_54_v2_part01_of07.zip",
+      "bytes": 19999911,
+      "sha256": "325c7bfdc9bf1eb0eaaf8b1cd08c274d71e11f86080132b73ec306ea6f1f91ed",
+      "members": [
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A010-13.fbx",
+          "bytes": 1232988,
+          "sha256": "fee31ba101ab8febfc0ec68d6ba289fff0dfd13f357e968b397def157a9b73a3"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A010-14.fbx",
+          "bytes": 1678828,
+          "sha256": "04bfbf22c4de8fb77454eaf4fb3b44922770db58ced0d8990ecba079bf65daff"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A010-15.fbx",
+          "bytes": 1753996,
+          "sha256": "7ffe37c581519a00123024016acdbb6b1ce1be548c2f777c03bd082398a1ec6f"
+        },
+        {
+          "path": "A02_residential_54_v2/residential_54_grouped_master.blend",
+          "bytes": 17612371,
+          "sha256": "f9d3b9307f815e3f226486ed929c089de2b64ce99883a7d746ca58ee0061b3d4"
+        },
+        {
+          "path": "A02_residential_54_v2/source/assemble_residential_master.py",
+          "bytes": 6359,
+          "sha256": "e98fa7e3988675d8f87a24d46a469abef522a6132e9787a2c4cbe88a0a3ee7eb"
+        }
+      ]
+    },
+    {
+      "file": "A02_residential_54_v2_part02_of07.zip",
+      "bytes": 19999961,
+      "sha256": "7b97d9fb6101cef3f52c53697795b29edcf4c3cdef4525ae176725ef618e4bf0",
+      "members": [
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A009-17.fbx",
+          "bytes": 1365964,
+          "sha256": "a6d9342ed0619f9c9a078bcc326908c091b7e2bb21c16d57d2c44268a41e9b93"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A010-08.fbx",
+          "bytes": 1387244,
+          "sha256": "843403ffc022b84baba3a0881c6c2278dc474ca128932d5f7eecb2fa69b545c1"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A011-10.fbx",
+          "bytes": 1488140,
+          "sha256": "66739354ec617a33d6076d163d45947d5a9aa49c01c600dd0e410eafff1eb1dd"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A009-05_editable.blend",
+          "bytes": 591778,
+          "sha256": "9e69233bccd5bf412712e73333148c69f2576d9e1552cdfaad64efa38cc6797e"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A010-14_editable.blend",
+          "bytes": 1140848,
+          "sha256": "b021ee194b028abf9be51c1897355e4088b82946441f08faf836ba377cfbf551"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A010-15_editable.blend",
+          "bytes": 1136253,
+          "sha256": "9304a5089aedf56d7d5601a9389b1e553be8a90044295cba6f45417b99b4aaa9"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A011-10_editable.blend",
+          "bytes": 1032963,
+          "sha256": "f80baccc84935896927e43c9d0d08e6c589e2a2cd09b674536f98a42df752cd0"
+        },
+        {
+          "path": "A02_residential_54_v2/qa/master_assembly.json",
+          "bytes": 22229,
+          "sha256": "2b40b57df93a3ba254f8ac428e3e963baba2be8b87a045f9f8881bca2256d105"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/brick_dark_normal.png",
+          "bytes": 1070070,
+          "sha256": "d91af710cefbf0fe6b16469bbdded4259f0bef96f84eb70fae1214b3839286ce"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/brick_light_normal.png",
+          "bytes": 1070541,
+          "sha256": "94d9adc506b60c6952a92bc4a2ee73e872adacca3fa5fc03e88f57c8a252bf4f"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/brick_normal.png",
+          "bytes": 1070670,
+          "sha256": "c4d5777bec16149f6728627febe33fec6581a32264fb4edca711038c0bcb43c1"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/metal_normal.png",
+          "bytes": 1070608,
+          "sha256": "da2745eed574e33cf830fa7bf9b4a06d957dafdbef2dc235b28964c62d512fed"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/mortar_normal.png",
+          "bytes": 1070606,
+          "sha256": "52af89af81308905da9727785fe2c08faabdd9b7a25fd2b83b1484687b7ac8a3"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/rust_normal.png",
+          "bytes": 1070239,
+          "sha256": "af27dce145ccd5d47ed1083f79ecdc07f6ebfdb30a40b4ce3bdf584d9f7123c3"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/stone_basecolor.png",
+          "bytes": 996920,
+          "sha256": "82c9a2628d7da41320ddb51555e274050fce5ec37fc5ecfb814463c7a140d3eb"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/stone_dark_basecolor.png",
+          "bytes": 918934,
+          "sha256": "80e1805bb15cf2318257775ffdf95c5599a2a904b667c2d5b4c2e3361084c776"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/stone_dark_normal.png",
+          "bytes": 1070080,
+          "sha256": "3294a0651bb207ae2f412bf478fec93e9a4c56b9191a6e29ecac12361cf2ce41"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/stone_normal.png",
+          "bytes": 1070557,
+          "sha256": "fffbd3fbcce1d739f19827dabe6c60e885c5a9e2b49d74b56d87b41b46eab646"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/unity/foundation_basecolor.png",
+          "bytes": 918934,
+          "sha256": "80e1805bb15cf2318257775ffdf95c5599a2a904b667c2d5b4c2e3361084c776"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/unity/stone_basecolor.png",
+          "bytes": 996920,
+          "sha256": "82c9a2628d7da41320ddb51555e274050fce5ec37fc5ecfb814463c7a140d3eb"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/unity/trim_basecolor.png",
+          "bytes": 1024676,
+          "sha256": "bb00d29f6ad29927f03ddf6420ba8427be49a3876a9f801a2d84cbe0a1627337"
+        }
+      ]
+    },
+    {
+      "file": "A02_residential_54_v2_part03_of07.zip",
+      "bytes": 19999755,
+      "sha256": "b2a606ce03a89f035e58a92dc898dc5aa6665f27e4ec6358eceb1f945f4d8048",
+      "members": [
+        {
+          "path": "A02_residential_54_v2/PHOTO_PROVENANCE.json",
+          "bytes": 102286,
+          "sha256": "f6caffba00993d50c6a195894570c7b668359cfc97ad18b5e9a8f222871e97a3"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A009-18.fbx",
+          "bytes": 1134892,
+          "sha256": "055ef3d3d6825608d3022b9d0326bd66743d317f1e3ba2d0fc4b3dbee264618c"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A010-03.fbx",
+          "bytes": 1156716,
+          "sha256": "d266c0b78cb87d31d7722a6fba079224fc25efa88234c38be47c2f8932fb2268"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A011-09.fbx",
+          "bytes": 1078604,
+          "sha256": "dab399432c358230bbd7d765c2e1cfa2877f243abc22f8a8c3b47211a40e5203"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A011-12.fbx",
+          "bytes": 1089132,
+          "sha256": "d5a9410e80080d7902d182fd03379a575b67a688cb381a525154a55eff5ce0aa"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A011-13.fbx",
+          "bytes": 967308,
+          "sha256": "188f7e6298b50cc78a5e95c102380cafb7aaeb9a4e4749ae0f4a33ce05e1cb8f"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A011-17.fbx",
+          "bytes": 1046572,
+          "sha256": "1ef902662082c41b4f809b3a368b825092840125ff6e5149a5de471f75ef2b32"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A009-17_editable.blend",
+          "bytes": 891679,
+          "sha256": "ad461c7c89e71fb948315a64c56b0566617c58f24aea7706c19f76c30527824f"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/comparisons/actual_lod_material_page_01.jpg",
+          "bytes": 987609,
+          "sha256": "1e4b06c7ef2fcc09159d9929027117de96be3c102c321b7f17524760aa537835"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/comparisons/actual_lod_material_page_03.jpg",
+          "bytes": 1081030,
+          "sha256": "d7c25eac68ff7818c979bba45dc6eff75dd0d03948a8015f1404aacc1a70dc44"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/comparisons/actual_lod_material_page_04.jpg",
+          "bytes": 985119,
+          "sha256": "7677f26daae69943bc7d5d99c89890ce47369315ab470b971e974babe997ffd1"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/comparisons/actual_lod_material_page_05.jpg",
+          "bytes": 1044448,
+          "sha256": "75aecddf4f9bddd4e53a12d25f01430bd9e6a41e5f152ce2096f3eccbc2d40c9"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/comparisons/actual_lod_material_page_06.jpg",
+          "bytes": 1070168,
+          "sha256": "88ba370edc82a51498bcc7cc76a8161cfcf9ce861ab10a35b56c224703ece610"
+        },
+        {
+          "path": "A02_residential_54_v2/source/extract_release_windows.cmd",
+          "bytes": 716,
+          "sha256": "b5372d85b5c18dd314483327c0c1b6b259df8ccc8c85484f4636347131c15158"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/brick_basecolor.png",
+          "bytes": 829698,
+          "sha256": "e3eafdfa4e5c99fb2d37d55a2b24cc597bfa9202c2a830ae6b71e84fd2458545"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/brick_dark_basecolor.png",
+          "bytes": 767950,
+          "sha256": "a2b73d604fcb1e38e6dc3d4f40d9ea855409ee69aafcfb4f11eb0c7025ce473e"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/brick_light_basecolor.png",
+          "bytes": 894641,
+          "sha256": "e0e2443053a9dea6610026bccea101b604e2b9c36515eced8a5d86217d4fdbb4"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/metal_basecolor.png",
+          "bytes": 903487,
+          "sha256": "2715d6c570686149040e094e6b015708b6070ab132f6a0c0de071dea4af5ee72"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/mortar_basecolor.png",
+          "bytes": 844436,
+          "sha256": "6f534feffbd7878e0f71e72c75e1203e8fb7a906d1bd1ca36f24a39ed9b3782a"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/rust_basecolor.png",
+          "bytes": 832233,
+          "sha256": "6d15d1356319184c55cea1fa1d63c4e47a672ace7e4a902ea1434e46aaeba303"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/unity/brick_basecolor.png",
+          "bytes": 829698,
+          "sha256": "e3eafdfa4e5c99fb2d37d55a2b24cc597bfa9202c2a830ae6b71e84fd2458545"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/unity/brick_dark_basecolor.png",
+          "bytes": 767950,
+          "sha256": "a2b73d604fcb1e38e6dc3d4f40d9ea855409ee69aafcfb4f11eb0c7025ce473e"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/unity/brick_light_basecolor.png",
+          "bytes": 894641,
+          "sha256": "e0e2443053a9dea6610026bccea101b604e2b9c36515eced8a5d86217d4fdbb4"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/unity/copper_basecolor.png",
+          "bytes": 769117,
+          "sha256": "78c09520fe462a6ad8cbce8bb16e69602c9c32e09480fc71c9f2d456415599a2"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/unity/glass_basecolor.png",
+          "bytes": 813146,
+          "sha256": "3122577de782c36db33c74bd6d976586c337369d899eb107bf2d5cabcc1dd58a"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/unity/iron_basecolor.png",
+          "bytes": 755425,
+          "sha256": "8f52f1faa8841506eeadf53432ff4334dada9ba518617a377a25c4275248f020"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/unity/rust_basecolor.png",
+          "bytes": 832233,
+          "sha256": "6d15d1356319184c55cea1fa1d63c4e47a672ace7e4a902ea1434e46aaeba303"
+        }
+      ]
+    },
+    {
+      "file": "A02_residential_54_v2_part04_of07.zip",
+      "bytes": 19999761,
+      "sha256": "ffac098c0e4771e9477786f06dc949de06c434dbaec4d0bdd14fc54ae8e814ff",
+      "members": [
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A009-03.fbx",
+          "bytes": 867180,
+          "sha256": "38a5ae0d250a274ef2c9640cd2ba197e2c5018f196513fc169cf124fc21c71ff"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A009-10.fbx",
+          "bytes": 893516,
+          "sha256": "a58513a81bab7bd3ea7c6d6fbac1f213947c34b4870ce1f3dc086315a4235c1a"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A010-01.fbx",
+          "bytes": 851548,
+          "sha256": "312eb5bf2898f82a279969f0a8c9ea7c30a2c9705352d38d1b0483fe13fcb276"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A010-02.fbx",
+          "bytes": 1029660,
+          "sha256": "04b1b2fa41fda59ffab5ab6f1a9335990e602c5275d32ed6455129a3894b06db"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A010-04.fbx",
+          "bytes": 935180,
+          "sha256": "6c598dfc6a630d71da8054c13695650545f1182edf4290b5de7e8f1e077c57b6"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A010-16.fbx",
+          "bytes": 817084,
+          "sha256": "11b1df72f376739545b9284d0a2f731942776cecd2c0ad64d7f0cfe36ee95cc5"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A010-17.fbx",
+          "bytes": 972300,
+          "sha256": "91903dc1f75b41d962c55e3d74f2ffd0e43aca8077577d11cff3d6405f5b5563"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A010-18.fbx",
+          "bytes": 961372,
+          "sha256": "73d6e700539b372273d44e3a5206b48c6e4720943bdeb3dd29cfc44783f85911"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A011-01.fbx",
+          "bytes": 1068380,
+          "sha256": "2c0fbc704aceb146a6e42ed8b4ceb24e31987d9bcdb147c8e0ac0e8a1f81ac30"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A011-15.fbx",
+          "bytes": 1040380,
+          "sha256": "97fd95f33476aeeeea2f47ee4046ff6eef7c082c0199aa71043b48c9b6a10697"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A011-16.fbx",
+          "bytes": 843932,
+          "sha256": "e4fd97817354f15e589b7c52d4697d27585e5383032a9463fdd9b36310af644f"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A011-18.fbx",
+          "bytes": 770908,
+          "sha256": "3dc7c74604741737499fec3f8b1552f4430e59323f5c911e89ebde4ffbc81b1a"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A011-10_LOD1.fbx",
+          "bytes": 322556,
+          "sha256": "107ae9203e3462087fb747a88abdbbad846c881e8ab98b6fee19fe06d8281a6e"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A009-18_editable.blend",
+          "bytes": 596698,
+          "sha256": "7222846ac114a6fcca39cc766e8ef78f0cdc99339e780ffdcd0b26d4d540e90f"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A010-02_editable.blend",
+          "bytes": 603636,
+          "sha256": "8e4245300000d4140eaa4429b2b429d7bcccde936f10adb57785a88b66b5a436"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A010-03_editable.blend",
+          "bytes": 599716,
+          "sha256": "7e3f0f2a7196cf1cc657a251a51b426ff9a7150759523fca6232a40fefbcc1b0"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A010-04_editable.blend",
+          "bytes": 578870,
+          "sha256": "0072b59e0797ac65c30001e4d2e5e7fb49898d0dbb0004d73c49162c49363532"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A010-08_editable.blend",
+          "bytes": 746668,
+          "sha256": "cb6ce2401f40d27b0501d55e0bedca0cde6237e3fa96d3a2e41d4418dc0cccac"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A010-13_editable.blend",
+          "bytes": 727015,
+          "sha256": "bbbb2ef9c840134a9f5824bb5f5dd1998c98ce1bf71246e441ccdc2d3a8a0210"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A010-18_editable.blend",
+          "bytes": 563008,
+          "sha256": "08a130ed8404bc7e2c4efc34502ffecfaa0b2e05550e8a8c520f5bb2ad4ade3d"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A011-01_editable.blend",
+          "bytes": 736274,
+          "sha256": "498cf6a65e5bad51fd6911c75d224f1ab1c0ac80638b4aa09c9ded2e63879f02"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A011-09_editable.blend",
+          "bytes": 553251,
+          "sha256": "74325ed90d67294fccfe75199156dc4c6da933b89b431350ec6c8927c178edac"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A011-12_editable.blend",
+          "bytes": 631425,
+          "sha256": "40ac92c40ec3612be5a129d84cf1a4bded3d9145d7bad3954f0836a0c17d924d"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A011-15_editable.blend",
+          "bytes": 593682,
+          "sha256": "6df832982e4257528f9d63e5fcc6044f04da641e4923c6a3e5f85247739f8651"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A011-17_editable.blend",
+          "bytes": 565261,
+          "sha256": "bcfef962e99d0723bcdbada2bdc5bade6d21a8ec58fb36b72f73dab8c5d75856"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/comparisons/actual_lod_material_page_02.jpg",
+          "bytes": 963030,
+          "sha256": "6d52520fac5e1e5581537ca1834d88a1bc35110453680dc93213daab3ce90404"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/comparisons/actual_lod_material_page_07.jpg",
+          "bytes": 802715,
+          "sha256": "fc4eb4bc156b178928ab9da0c193bbdfe430defc6a039ce0e98b7cba9d9c120e"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/common_scale/isometric.jpg",
+          "bytes": 722671,
+          "sha256": "9e255425d6d86865dfd1d96fd3a843e357e87840ee2ae389883eb0282ef681f7"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/contact_sheets/02_P10_P18.jpg",
+          "bytes": 589327,
+          "sha256": "846ec7c77c591ab3d59e6e756a34ae7d4e960aa873411acb9acb8e1efdd76dc3"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/contact_sheets/03_P19_P27.jpg",
+          "bytes": 593813,
+          "sha256": "bb908d44e8f0ade0d405c6fb137883ae1c1a8ca4c6f8343b38f028af55fab0db"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/contact_sheets/04_P28_P36.jpg",
+          "bytes": 635488,
+          "sha256": "d9a396c32b48965df6e3c8bed73406eede408496589f65aad9cc784cf0376037"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/contact_sheets/05_P37_P45.jpg",
+          "bytes": 590559,
+          "sha256": "baa126c13eb0828eab5f3d129c9f2b41227ac94da19218902f28fdafe4ba618e"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/contact_sheets/06_P46_P54.jpg",
+          "bytes": 614893,
+          "sha256": "bc8a4e399d2b47a80abac336915bfeca588dd698c27d4dab701e0bc6d19cee16"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/material_manifest.json",
+          "bytes": 497,
+          "sha256": "709581fecd18307702422faf30a7e659048c4819d9e4a5e1f5ef5e0f555d50a8"
+        }
+      ]
+    },
+    {
+      "file": "A02_residential_54_v2_part05_of07.zip",
+      "bytes": 19999814,
+      "sha256": "e992dd13b21217486c3ed3796a3592d06f2fb1935db77a90868156407771c232",
+      "members": [
+        {
+          "path": "A02_residential_54_v2/collision/A010-04_COL.fbx",
+          "bytes": 110476,
+          "sha256": "96270a32729d6b59a4abd22d45ca75f36e92a4c3634e6af04819446ab697a882"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A009-01.fbx",
+          "bytes": 418060,
+          "sha256": "8879ce4930646280be95d1e9ed432852d13cdb0d7ed9f46abe0c976f36be4969"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A009-02.fbx",
+          "bytes": 556892,
+          "sha256": "1b01c768e03fb5ed3c634875c27ba960cafebdde1c93cb8ea8fcbc9661c450fe"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A009-05.fbx",
+          "bytes": 794892,
+          "sha256": "3f4b77cdef95bfcecac6e64b2bdb5e7ca12cd9d540079f5e779b32e9329e0d27"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A009-06.fbx",
+          "bytes": 494924,
+          "sha256": "ec5a372e03861dad67c69bd93d847de365852f0a26abbced6fd3d345c3c6048d"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A009-08.fbx",
+          "bytes": 692444,
+          "sha256": "661b4042248388d2955cd20aef53ade0f803732d5114f4a1e7f450e41debdd94"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A009-09.fbx",
+          "bytes": 475276,
+          "sha256": "a7d771a30103dfd00e7fa5f74b937b4dc9ab8aaf494214e09ac91aa4c3736f7d"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A009-11.fbx",
+          "bytes": 614732,
+          "sha256": "ec7e4d2e7ead9b486a635f4a26e02d389f9c42b787897fda3db7bc97e03ba016"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A009-12.fbx",
+          "bytes": 471596,
+          "sha256": "76f63aeda9eca093629b13fe45b70759b9d9810fbf8b1f60ef8c35d57d2b4577"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A009-13.fbx",
+          "bytes": 409676,
+          "sha256": "579105418859f9ed5ff97253c14d539b537555ad099541f69df75df8a469eaec"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A009-14.fbx",
+          "bytes": 668092,
+          "sha256": "ba03d1b3ee089c86f18c779898c8833867daefe58f7a6f0a2052f13d7137c205"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A009-15.fbx",
+          "bytes": 397324,
+          "sha256": "87f7ec5d891aa0f4da2349bbb7d69cc1bd262e57dd7e0bd4fd36efdeb8e9740b"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A009-16.fbx",
+          "bytes": 625356,
+          "sha256": "eb257cbcbd28690e7188125e4bfc8433a06fbb290c6b8219cbb79f76403e4d0d"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A010-05.fbx",
+          "bytes": 651324,
+          "sha256": "673a4886a54a034218210915db76b7f60a5540e376b6c4099d55ffcded47616e"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A010-06.fbx",
+          "bytes": 683564,
+          "sha256": "3f475a537aea6ddea85d4315a827d97f3e63628fef7e15306b28ade43d9f9a61"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A010-07.fbx",
+          "bytes": 545964,
+          "sha256": "244eb2eef21062f7c9646fa702a6ebed98fe5e4a9f4c9451eccd6e266cd5a388"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A010-09.fbx",
+          "bytes": 520828,
+          "sha256": "d5b0a2c15e0fe978fcfe4e5b5aa6875677056280cc3bbcdf4855c47cb4b9c21b"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A010-11.fbx",
+          "bytes": 558380,
+          "sha256": "d04e2b6fcca3346087ee9e5399d2e20df2619354799a3bf905331e9cb63f2222"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A010-12.fbx",
+          "bytes": 448076,
+          "sha256": "21c945500fd7dc5d12063b1891d4eb68c7b3e52ea7381a22b09caeed6c787e1d"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A011-03.fbx",
+          "bytes": 597916,
+          "sha256": "ea66f264a67ad7244896e16d71d883bc0b6604953283395c53b1659038713128"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A011-05.fbx",
+          "bytes": 460652,
+          "sha256": "412b70a05c8c0c88bcf1f2b0dcab6c5183a285d282fc5e6fdffa09277a194788"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A011-06.fbx",
+          "bytes": 401612,
+          "sha256": "98704d201140e0acabd86dd3c7a570125df66c965e3af1b00118f530c75a24cc"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A011-07.fbx",
+          "bytes": 672892,
+          "sha256": "03bc15d231458df9b5b7295dc248385f692c53a6d5defa1cbda8d76939cce0cc"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A011-08.fbx",
+          "bytes": 563292,
+          "sha256": "fa7c648fdc16ab79f02104ddaf6d4a23a550098adabb83a65a7108bd5129fc69"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A011-11.fbx",
+          "bytes": 606956,
+          "sha256": "c883359c8f6ebe36031c1777ef18b376affcb22b7eeea46cfd230983da1f9179"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A011-14.fbx",
+          "bytes": 444796,
+          "sha256": "05e716fadab6cee73063f7b00a4df66829f5803fe1483757a9281aed5d1ff98d"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A010-15_LOD1.fbx",
+          "bytes": 487932,
+          "sha256": "b4627dcf0f9c688029188e873f5f82ee0400e408c122452496bb30b0e35a29d9"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A009-03_editable.blend",
+          "bytes": 427152,
+          "sha256": "5c3544e37bdfa50bb8bcf4f5397441e8eea6bf96ae6ea993e37cad3fb0444260"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A009-08_editable.blend",
+          "bytes": 334210,
+          "sha256": "09f1d1d5b11b2d3fc0e31b2e57d5150a1ac171a9082c9a2e737c79f1a7f3131a"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A009-10_editable.blend",
+          "bytes": 483272,
+          "sha256": "97f6aac6e4f589d6038154b14e77b92c306240cbf03799f9bd442354673d5587"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A009-14_editable.blend",
+          "bytes": 355306,
+          "sha256": "5a27a5d82bc2bb9773472c35d0548d7e80b100ce24e30ef735167517e2a56f6f"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A009-16_editable.blend",
+          "bytes": 295907,
+          "sha256": "73d55a9814b905a56997e417cf1b2b9b909b90d8c3f3e07cd5ee93a05c7f10d0"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A010-01_editable.blend",
+          "bytes": 294986,
+          "sha256": "a835abcf9b587dab9ebcfdd5f14c7a103787af4537fee6107f6f79a29de80a58"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A010-05_editable.blend",
+          "bytes": 318328,
+          "sha256": "a5c85e05bf3be7d926791eacc67e004ca96863dea68f60f3b5fd3a72b10ff328"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A010-06_editable.blend",
+          "bytes": 302104,
+          "sha256": "77e8dafd07b19fe71977ae5b877a9354104e92d78bc6015221c039ac23e5cc5b"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A010-16_editable.blend",
+          "bytes": 364733,
+          "sha256": "c5f925b8ac23e260c5c67b87f6b40ceec6fec048a4a0830c75132d52a034100f"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A010-17_editable.blend",
+          "bytes": 401589,
+          "sha256": "3d62e063f09b54b989b7a1b35ae3f1d4fe39e5d3ea64bf5a00c01d14dc952b41"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A011-07_editable.blend",
+          "bytes": 298096,
+          "sha256": "af059b27db1168bdaf82da40b220d4c632d170cd284e948127a4aa3980874a54"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A011-08_editable.blend",
+          "bytes": 354966,
+          "sha256": "907dc5c2bc9eee9810ea5bb44dd49e5018977fe04aa44abc35a340bf0605f0fa"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A011-11_editable.blend",
+          "bytes": 280509,
+          "sha256": "69b645d8c82e202cfdfb8fea6559892276c0a1b219c5f87a8d827ae4adb20477"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A011-13_editable.blend",
+          "bytes": 531127,
+          "sha256": "eb9163cc9ecbea34d488ff01a558c546bcc2a82129286c099631cfe1a88fb5fa"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A011-16_editable.blend",
+          "bytes": 439279,
+          "sha256": "d236f1c7d90191c9b520d28332af5fae3df445b10c9c544bbc4e201a386788d6"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A011-18_editable.blend",
+          "bytes": 344752,
+          "sha256": "03e9c3dabb5ce92a867cccfa021b81d3cce8a8c2abc9f5838db5afd2edc57a7e"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/common_scale/plan.jpg",
+          "bytes": 474454,
+          "sha256": "8c94dc0f1cd28cc6d9c19b6a4d66c3976d2b0ad8374f4af4890b6e36bf8dc71b"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/common_scale/prior_asset.jpg",
+          "bytes": 467193,
+          "sha256": "17e0e369c6dbf7d5e7fdd8b14ba307bdbd7faa909e280026e9acf625bf95f18d"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/contact_sheets/01_P01_P09.jpg",
+          "bytes": 553507,
+          "sha256": "d811cbb6252d1e0dde456f08e106325f1f888eb3fb6e539e33b1ade97f6654ab"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/unity/brick_dark_metallic_smoothness.png",
+          "bytes": 310657,
+          "sha256": "fa2a8d02b9c17c0c9cfa74a321b5bfbba11552b2b4aaa119a4d4c37f0a630fc9"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/unity/brick_light_metallic_smoothness.png",
+          "bytes": 310795,
+          "sha256": "0c959a9767ac2198e5f955d536b58e6f632f3015a3994bc905719d45b5100aa2"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/unity/brick_metallic_smoothness.png",
+          "bytes": 310308,
+          "sha256": "a2a3362d77a510610d860d7d3c5c7c1996df53b2190d0b27d97ecee410a4283f"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/unity/copper_metallic_smoothness.png",
+          "bytes": 310437,
+          "sha256": "d067f59bcb80f2de395436f2ff2f1b54e3e756ef562adaae8a7239baf1b7ae9f"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/unity/foundation_metallic_smoothness.png",
+          "bytes": 309159,
+          "sha256": "917bf3fcd8ea614f266dd5122ccc4e8b5f7998b3bc1c51ddeba8f100c276e1d2"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/unity/iron_metallic_smoothness.png",
+          "bytes": 309679,
+          "sha256": "47439e12ec40ed85c69e69952c0762151ed035fe5bcaef86c08642327e6d537e"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/unity/rust_metallic_smoothness.png",
+          "bytes": 310437,
+          "sha256": "13c2db04d8e8d76cd6386f1b76abb00552f8492e55f125d906e6fb2b9cc8d53d"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/unity/stone_metallic_smoothness.png",
+          "bytes": 310709,
+          "sha256": "b3e8defcdf242dd1e5f82372bf2dd1acbb182c2c0a8bb25a86e7059713a18685"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/unity/trim_metallic_smoothness.png",
+          "bytes": 310709,
+          "sha256": "b3e8defcdf242dd1e5f82372bf2dd1acbb182c2c0a8bb25a86e7059713a18685"
+        }
+      ]
+    },
+    {
+      "file": "A02_residential_54_v2_part06_of07.zip",
+      "bytes": 19999857,
+      "sha256": "4a32b191afbf72808a7386fd4abd31a4f45ddc15d380be92e8dd0eda74a3bec8",
+      "members": [
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A009-04.fbx",
+          "bytes": 315484,
+          "sha256": "956cfe7c8ab5c3a5a7d020b19b817e27a7ea8e3e1eecf729385819bb759dde4f"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A009-07.fbx",
+          "bytes": 369148,
+          "sha256": "d594575ca8bd03dda7e091d491c6c9a652eeb18ca44b3f51ceff3ae781f5ec0c"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A010-10.fbx",
+          "bytes": 301756,
+          "sha256": "4b39c5029704f33b6747f993eeef9316ffaaea02fa7611d56b96ee1840d15c30"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A011-02.fbx",
+          "bytes": 378588,
+          "sha256": "602a5b585b84d5924efa7b61019b86ac1cb781043bb864876d1b39425ccad838"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD0/A011-04.fbx",
+          "bytes": 379548,
+          "sha256": "9e5a7d6113caac97245ee0e5507385fa36f6cdb65ae6ae1fd79dd06f8c38cc95"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A009-03_LOD1.fbx",
+          "bytes": 293196,
+          "sha256": "4447f62647eadfab29e5c79ad290ae3ab47c6997c7bff792fd001123330850fb"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A009-10_LOD1.fbx",
+          "bytes": 306876,
+          "sha256": "f6b92023a483cf83e372405f5b9a623881c599f7588cbe73b56503e1db4707f6"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A009-17_LOD1.fbx",
+          "bytes": 350972,
+          "sha256": "7bb8bbde781626497d3fc34c1bff98261ffe019df55b1c88c512db524b91c656"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A009-18_LOD1.fbx",
+          "bytes": 355324,
+          "sha256": "613317482ae029a53eb35572a2dc76b0521f5dec13d9af55bea4f2942eef5fb3"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A010-01_LOD1.fbx",
+          "bytes": 385772,
+          "sha256": "75503bce3225faecb66e63c9ae07a9f475c8735244ea29f92aa162f909926f16"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A010-02_LOD1.fbx",
+          "bytes": 304668,
+          "sha256": "f0be519a8f0e97cdaacca2b39d18dd33e7d193444b101c05872cfdd34abf273c"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A010-03_LOD1.fbx",
+          "bytes": 383980,
+          "sha256": "1df0cf2523a176668cb731e5d28868d980275b4af497265c4a0beed12b5e32c4"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A010-04_LOD1.fbx",
+          "bytes": 298508,
+          "sha256": "c21eccdaaa28a368e98ef7e89167db70a59cc2b28d582f369ae473fb1166c2ba"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A010-06_LOD1.fbx",
+          "bytes": 276060,
+          "sha256": "80cc6ae36e79b6865e61e7349ac19df2659c1dc78664c54286593ef183655248"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A010-08_LOD1.fbx",
+          "bytes": 423340,
+          "sha256": "2d32f649f1755e438e22a0dffeac24c5d4831fe037ee07781b8d4d4086b11e71"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A010-13_LOD1.fbx",
+          "bytes": 375356,
+          "sha256": "5b495318f7359af3ec7df7163dc55eaecf9d176072fa125a30af8f79fd2d4a1e"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A010-14_LOD1.fbx",
+          "bytes": 404316,
+          "sha256": "d284a6cf5be50e122fda4c762ddebce77439c0ba2b403f64b7811f7ffad2f5e3"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A010-16_LOD1.fbx",
+          "bytes": 310652,
+          "sha256": "02d41673f3e12d1b1ef650d64107164124f5176c06045d6c13223a02c8e24cc9"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A010-17_LOD1.fbx",
+          "bytes": 380844,
+          "sha256": "44b9085711e0e70cc267e552c71138a0d06bf1fb0a0e113d47b1a722a10b4b90"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A010-18_LOD1.fbx",
+          "bytes": 299708,
+          "sha256": "9935b2f24e02fec8594279cb827a488f78502a703cf7c1478a353c8fcce33729"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A011-01_LOD1.fbx",
+          "bytes": 306524,
+          "sha256": "38bc65dc2063bdd7514fdffbe1192bc85d8064706d53a0a2039bd002cf141263"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A011-09_LOD1.fbx",
+          "bytes": 364092,
+          "sha256": "f8f4ba68bda57a6597606fdb8c0fc4bc2b9479f2a4a2de0ffd87b7ddad7b8b37"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A011-12_LOD1.fbx",
+          "bytes": 309084,
+          "sha256": "11cb91f90d4b85a22ea8b30baeccbb27f0ae32b6e661f916e7ba293a42d2c7fe"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A011-13_LOD1.fbx",
+          "bytes": 285532,
+          "sha256": "eb1fc6d1cb85a2936ec7cf777456a487f3c7360792024f7ed04cef0cb781156b"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A011-15_LOD1.fbx",
+          "bytes": 279852,
+          "sha256": "b051843774eff44741e253a1ac6a840731d8ec1345b9af51929d43112383e2bb"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A011-16_LOD1.fbx",
+          "bytes": 278588,
+          "sha256": "ce83442b177c823a9a5f6f180316af30981b3691b7b7ed3d33d9acbc328880b1"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A011-17_LOD1.fbx",
+          "bytes": 317004,
+          "sha256": "a51f0ed4803614f1074e061dbec9be1386c184cb934531124b80de53f56b2072"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A011-18_LOD1.fbx",
+          "bytes": 266444,
+          "sha256": "3841cc0102a378cb9c40bb3071b5fb842ed9c9809ecb2f58f48f9a751ccfade6"
+        },
+        {
+          "path": "A02_residential_54_v2/manifest.json",
+          "bytes": 2793653,
+          "sha256": "ec260a66359df2126f7a91e11d809760c1960b9af2c5be85b4a2da819d28df47"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A009-01_editable.blend",
+          "bytes": 215345,
+          "sha256": "2baa4780e97b08fb09f9600df268c98c09040023eb30ebc0e6eb1b918eb8c69f"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A009-02_editable.blend",
+          "bytes": 264603,
+          "sha256": "35c04524031656cec896e7bafa8e3d4dc858993cf55ef232187832f8dce85218"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A009-06_editable.blend",
+          "bytes": 233079,
+          "sha256": "8e927ecef1ed0428f967bf61d86157586c1540e9eefde03f56e9d5cff2f73fc6"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A009-07_editable.blend",
+          "bytes": 198056,
+          "sha256": "7ef3d07d0465650358b2be0d7d51ff96e34fdb34f29845dc12df95d2ba29c1d1"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A009-09_editable.blend",
+          "bytes": 229531,
+          "sha256": "ed2989d53b87dfa84df5c89c91236549a409ec183440e1ae3a7dbd264b1b78cd"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A009-11_editable.blend",
+          "bytes": 273504,
+          "sha256": "c4c10049ca1e1accd9b962dd1b9daf4ffa6507a6cdeb081d390b270c7e9d8311"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A009-12_editable.blend",
+          "bytes": 227869,
+          "sha256": "80b998e36a0ad818f59c08d72eca1c64aa34466054ebe0ae64a1d3036443da5b"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A009-13_editable.blend",
+          "bytes": 160964,
+          "sha256": "9491980ea45ec98c4decf8b4186f0fed5a1a8acaa1be28e70661a69712a272b9"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A009-15_editable.blend",
+          "bytes": 183357,
+          "sha256": "fa50808bb1f869087c70ec56f273b687f307753e1816c9260a20508f729ba28a"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A010-07_editable.blend",
+          "bytes": 259753,
+          "sha256": "fb88f196734c6e548f8580728d91644058ff7c5b0c4aa19f462f430c08451e84"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A010-09_editable.blend",
+          "bytes": 261289,
+          "sha256": "fcceed674c5a2fd41c57ee108c5f9f3ae14c345a7fec2b39d7f4dce24fa5e0fc"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A010-11_editable.blend",
+          "bytes": 264972,
+          "sha256": "c0dd7b37b0ddbd04efa1dc86c890d0d6ee5d404db803f8d96363ed6a38c74b2e"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A010-12_editable.blend",
+          "bytes": 233722,
+          "sha256": "e6f053cfa1c759dbfe48c7e2f322aab7c18f6bc833b756bedaa5e6e57a0eeeb2"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A011-02_editable.blend",
+          "bytes": 202221,
+          "sha256": "ca489946c9725c97bbecf32d37417d86be2062e271b1bb463a0fb0721555b043"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A011-03_editable.blend",
+          "bytes": 278068,
+          "sha256": "e5196a1f0babb8faea7957bffce566802f8298686c3828a8dbf3924519ca3bc5"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A011-04_editable.blend",
+          "bytes": 190447,
+          "sha256": "89af627065e670bc56d439928b12a6920c4f633c3ad60f8f2d8a24f78a9d24ab"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A011-05_editable.blend",
+          "bytes": 221340,
+          "sha256": "6859869e65be95e68eb3d64974a438d67f1f2ce63c110a8df367c21ba53bdb05"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A011-06_editable.blend",
+          "bytes": 187119,
+          "sha256": "08505aa71da39c883246389706b6b16c16a2b19911b72c3d32813f0d84e5f8ab"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A011-14_editable.blend",
+          "bytes": 220696,
+          "sha256": "19c312e576c6e791b0d34588f84a393a6a3a7d33c616c284110fa90a5a8b19b2"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/comparisons/actual_common_scale_isometric_page_01.jpg",
+          "bytes": 251662,
+          "sha256": "e4c80b83ce35f4dffd335aac1cef0cac4bc1b7add98002e167d1f63e07ea2bb6"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/comparisons/actual_common_scale_isometric_page_02.jpg",
+          "bytes": 239345,
+          "sha256": "b19f395fa2de55c57aac11990d0b4e9bea7af56494bbb27645b16cfc1478892e"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/comparisons/actual_common_scale_isometric_page_06.jpg",
+          "bytes": 258857,
+          "sha256": "dced5a0d53b1ff4a24cde4ea7d53a436e9e26021ac5c47799687dcb8296be19b"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A009-05_P05.jpg",
+          "bytes": 165574,
+          "sha256": "d7181459be218e7556e1f3b75d75472ce19ce36e9c1a68fba00c323469f52df3"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A009-08_P08.jpg",
+          "bytes": 166420,
+          "sha256": "fb6585bc4b4b4dc5138c51a5b05f3db27cb95549bd422d7f14e103e13d760d18"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A009-09_P09.jpg",
+          "bytes": 175202,
+          "sha256": "236140b25b515931e02625285591820ddf84edef95f8348cf0eb48a300dea50b"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A009-10_P10.jpg",
+          "bytes": 234581,
+          "sha256": "95a6ac67b7efa3cecec5efb3e9657ac5963ef3a66c8dfa2f83d46910da9e785a"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A009-15_P15.jpg",
+          "bytes": 193333,
+          "sha256": "d619bda9e4f119e2166ce09fd93884321d28c282c72774afaa4e6cecee7edb7a"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A009-16_P16.jpg",
+          "bytes": 188333,
+          "sha256": "e934a7220b458ffc6419d3de32074ee8dc71c21ade9601863dd38eb2b0199b1f"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A009-17_P17.jpg",
+          "bytes": 213245,
+          "sha256": "6481f9b11e85c6665394c14f5fc35f235af30c6194d6534ca78756e8860434d8"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A010-02_P20.jpg",
+          "bytes": 171661,
+          "sha256": "4bbb439566209ad2b412c9ee92744d680418795588c3ad81399ab18a37c0d970"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A010-03_P21.jpg",
+          "bytes": 199902,
+          "sha256": "1db162e424de597a18c49c4283d61efab3e1bd3286f847a63935c80437c65512"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A010-04_P22.jpg",
+          "bytes": 214104,
+          "sha256": "8eb64286c07ad43ca4c57f73394bd00024442dc99c6fade1d1c698a3451c0f19"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A010-06_P24.jpg",
+          "bytes": 188976,
+          "sha256": "72f32d463dfd4c3f76f3c27009948a5c0e5f6f6382456bcffa9c4d2d5ba67206"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A010-07_P25.jpg",
+          "bytes": 168410,
+          "sha256": "bdfa061e6761be35e4004daf1089685c3e8690d974ea274f99795473e525f668"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A010-08_P26.jpg",
+          "bytes": 193215,
+          "sha256": "65320ca86e3fe750306f7d22eeb22a5ea06c398e7a26cf2aeaf0aa8933dcd48d"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A010-10_P28.jpg",
+          "bytes": 184448,
+          "sha256": "17afd3eb207ef4316877e5b98988e0b569db190e17ff261ce54427ade8cbd0ba"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A010-11_P29.jpg",
+          "bytes": 166201,
+          "sha256": "d06d9aba498f00c64a09c8258c8289d47cc0c44480bc4b63b20825b44883aea1"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A010-13_P31.jpg",
+          "bytes": 211846,
+          "sha256": "c67719b836e49065aea41815ab21d8e9687e75787f4f34aa632878fc4313b332"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A010-14_P32.jpg",
+          "bytes": 207792,
+          "sha256": "0e54ee8aaf5bcb630813a7381ce8fa4e481e99cb58b61bfdcce80fec9b2279f3"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A010-15_P33.jpg",
+          "bytes": 210125,
+          "sha256": "0f0333abdd113341807c8b9a4ee7dbc0bf869bfaebe52afdd205cc349a749c66"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A010-16_P34.jpg",
+          "bytes": 184725,
+          "sha256": "67de3efc75e841eef34a4c9deb268774de43e081078e632d00930d6d51959c99"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A010-17_P35.jpg",
+          "bytes": 181629,
+          "sha256": "7a21c0a72fb427e7ac2cd108abab3841216de397fc8dcf512ae61680cc4b0dbc"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A010-18_P36.jpg",
+          "bytes": 221376,
+          "sha256": "20ff0622d6523ccd560eed10af2c2c08e2a672d8effda5391783f7f8f37a57b8"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A011-01_P37.jpg",
+          "bytes": 199423,
+          "sha256": "9e0005c74dba438eba5bb8f7d7abb4773d5103ce96f0e3991154159f21b1737f"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A011-03_P39.jpg",
+          "bytes": 177333,
+          "sha256": "b3c3aeda1871a378575779c0136f1adb7d1e31a1fc09175605b160f36b44203a"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A011-05_P41.jpg",
+          "bytes": 185629,
+          "sha256": "b23ae61d84005828b5c7e45a6bf2149e582a2eae80f96936e0eb870691b4c1fa"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A011-07_P43.jpg",
+          "bytes": 201385,
+          "sha256": "292f71266d5618a3a0dfd9dd4bf624677650628dcb5ab5e62d45e3a6c11ebf67"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A011-08_P44.jpg",
+          "bytes": 162948,
+          "sha256": "c423a9a3e37c7532f8844caa5d40247334e9b78b8bbdcb7358b799f72bda1f27"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A011-09_P45.jpg",
+          "bytes": 203562,
+          "sha256": "ba45c43ed7c635b58794e54334b8712455deda2b90be7815c39e2df6d08b8145"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A011-10_P46.jpg",
+          "bytes": 195888,
+          "sha256": "9196c52e9a39ab222323d790813781cfbf3515b25b1f863af3f0a1faf8164667"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A011-13_P49.jpg",
+          "bytes": 229336,
+          "sha256": "7cec817b24c1b7a7300fdb4c645d41fbcb6a2084805dd60e42f0f022caf820a3"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A011-15_P51.jpg",
+          "bytes": 204737,
+          "sha256": "3a3da813907b37d4aa12ddcfa5e992d121f55ccc0f8121b20b72b030915af550"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A011-17_P53.jpg",
+          "bytes": 212670,
+          "sha256": "ea6c14bf37ec30a2ef4a1dff68a6b3f2277b0795a98ed82531d5a08940cc5a72"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A011-18_P54.jpg",
+          "bytes": 168107,
+          "sha256": "5a8423c82dca420db9c46cfd210b80e19a92b51917c0b2f1fa10d188bc10e893"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/brick_dark_roughness.png",
+          "bytes": 214038,
+          "sha256": "68d510bfc4ec3d54893347da714dbfb78f6cdaa85b6947a7507d1040c68c4135"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/brick_light_roughness.png",
+          "bytes": 214359,
+          "sha256": "9d22d44b3ac4f75f9201c92f65aacb5db7baadec480d02b5dffec1677ceae5c5"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/brick_roughness.png",
+          "bytes": 213812,
+          "sha256": "b238d156b00e71864a5457b12a17a4b4db207f3d4559617e5d5613828b55dc31"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/metal_metallic.png",
+          "bytes": 3158,
+          "sha256": "3ba77f27a25ca0119fe413f2f5b5e5f62bcc117afb6a7f8564332cb0e17f3d17"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/metal_roughness.png",
+          "bytes": 213435,
+          "sha256": "f7a78259693a38770770d1d171179b4de5464fcd81fb3ffc62fda55fdd2b8f81"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/mortar_roughness.png",
+          "bytes": 213353,
+          "sha256": "a0eb3916d7f58b8d15b442919a94b6b6eba3168dd84f1a42aa0f4093ac3b0195"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/rust_roughness.png",
+          "bytes": 214187,
+          "sha256": "255b923b68ab776cdd5f7318462c8c5346884cfcb06bd87612a133116da97a82"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/stone_dark_roughness.png",
+          "bytes": 213344,
+          "sha256": "52e43aecd00c758c3f5ea467140950fdb2590aca3a7359fad9c4f4d7261a71e9"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/stone_roughness.png",
+          "bytes": 214117,
+          "sha256": "e3995b622542ac201afafb28ea730a41e69cf0455da9211ffb5dd5aeca7c3423"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/timber_basecolor.png",
+          "bytes": 220333,
+          "sha256": "9030975b5243b76a226e7f1359bcb82f51f1b7c2c9323f9421da577c5d9d19b8"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/unity/bluegray_basecolor.png",
+          "bytes": 216493,
+          "sha256": "f2110d71e7251e670073e655f64a148646fa48fb0f0479777c23cab6b0364641"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/unity/cream_basecolor.png",
+          "bytes": 225484,
+          "sha256": "bb58d782fd5ede3a772cee894533241d4b6c5ef551dfa0cdb3301ff94600eb54"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/unity/glass_metallic_smoothness.png",
+          "bytes": 6489,
+          "sha256": "fecaf2fed4003eb7b3bbae20ccb5bf0d68ffec59ae056160da4f462cb905d99e"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/unity/olive_basecolor.png",
+          "bytes": 224926,
+          "sha256": "3fa80c2049d364b8c9de61d45ac8c9a369b2a9c9c5faf8b97f718f38547997b1"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/unity/redwood_basecolor.png",
+          "bytes": 214168,
+          "sha256": "20514e404e713da2b37e757039442f85197721d7daa0c6b4b926a138f64e2e9b"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/unity/wood_basecolor.png",
+          "bytes": 214021,
+          "sha256": "8b49af62c54d8757cbb7258e91a657d75783d6e55f739ee2d5fc0e884bce5de5"
+        }
+      ]
+    },
+    {
+      "file": "A02_residential_54_v2_part07_of07.zip",
+      "bytes": 15543568,
+      "sha256": "73afbffed6ac9a6b0fe26af67d35ad4ef502bf7f2e52d73b45674e2fc7edc5a7",
+      "members": [
+        {
+          "path": "A02_residential_54_v2/CROSS_ASSET_SCALE_SCHEMA.json",
+          "bytes": 4707,
+          "sha256": "fd90bf3575884e36996e380ab3d766bf66dc6160a9b7865b3525010c0f13377d"
+        },
+        {
+          "path": "A02_residential_54_v2/CROSS_ASSET_SCALE_STANDARD.json",
+          "bytes": 21485,
+          "sha256": "73817722c81972905ba6bfb20201ebe87c7a93b8ab67cde6695f27906ac35c63"
+        },
+        {
+          "path": "A02_residential_54_v2/DELIVERY_README.txt",
+          "bytes": 1633,
+          "sha256": "a202c672053ed0ad4524e307b268598fd41b257d9fbfb286099cee62e98948a4"
+        },
+        {
+          "path": "A02_residential_54_v2/FILE_SHA256SUMS.txt",
+          "bytes": 49034,
+          "sha256": "fc8243505726f77e2e80829d23c8a4a5ac12b8843a74c1f15526ef5fa0913f8f"
+        },
+        {
+          "path": "A02_residential_54_v2/PACKAGING_PLAN.md",
+          "bytes": 11541,
+          "sha256": "e721d420d75c118fb940fd15b1415079342d03674e5cee04fe6d513863a8f0da"
+        },
+        {
+          "path": "A02_residential_54_v2/README.md",
+          "bytes": 6095,
+          "sha256": "40cdd5bcb2860cfc07fa6a7e97a45ab57571ab51e59fdbdd5683f68bf9209164"
+        },
+        {
+          "path": "A02_residential_54_v2/README_KO.md",
+          "bytes": 3398,
+          "sha256": "36cb784878a930b7246a1f974769aad040f3e51d02277a99edfcfe4db3e361a5"
+        },
+        {
+          "path": "A02_residential_54_v2/STAGING_MANIFEST.json",
+          "bytes": 159921,
+          "sha256": "94798d9c5ef98c1932dcfa7abed5da512b4f56572625b34015bcee08c914f93e"
+        },
+        {
+          "path": "A02_residential_54_v2/Unity_Optional/Editor/Residential54MaterialSetup.cs",
+          "bytes": 7487,
+          "sha256": "2524c3cfd8563572140c6fc1a0eccf70e7fa9df3fe600b3731f69baf1a6caa52"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A009-01_COL.fbx",
+          "bytes": 67980,
+          "sha256": "672abdc54a12222c1b838c6e9c9dabd7363d92002db60d22ef17b4434df4c9ab"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A009-02_COL.fbx",
+          "bytes": 83868,
+          "sha256": "aed9311f0b803aacda550ef61fe47716a50e10f5ad456b42eaebab9ee60a58e2"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A009-03_COL.fbx",
+          "bytes": 90748,
+          "sha256": "725c4845ff57335460a2206ed30be944b78ca79e6af5d3e6d87971074877fd5e"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A009-04_COL.fbx",
+          "bytes": 51308,
+          "sha256": "22a372e9244394c47f762a5f2e8e525b3c48f9681b65e99cdcbb9465fccc1965"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A009-05_COL.fbx",
+          "bytes": 95068,
+          "sha256": "1c84ec92cff3a6cdcca0744f7cf537981eae2ee8092afa8048c577e0deccadf8"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A009-06_COL.fbx",
+          "bytes": 76508,
+          "sha256": "fbbad7d1146148d8f168a80c5971ed7c09ef8b5650b607a3917062d53784e516"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A009-07_COL.fbx",
+          "bytes": 70828,
+          "sha256": "d12ebb22749bc80faf4bbea1c8ef97e8c6cb4911499bacfe0e225c3de3284ed8"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A009-08_COL.fbx",
+          "bytes": 94172,
+          "sha256": "4ca68ee4df486f16d0d86585b48515adda777c5d35dfc6f098c25f2e5bf25884"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A009-09_COL.fbx",
+          "bytes": 70812,
+          "sha256": "2a3c61a1aa5a0f023cdc567babd74a732747b779b18569e192a7bccad804c0c1"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A009-10_COL.fbx",
+          "bytes": 113276,
+          "sha256": "da170179905b0e2f7a59dfd58b62d308621d37b745946726b00a45c33f1b84b6"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A009-11_COL.fbx",
+          "bytes": 83580,
+          "sha256": "c0b8dce3f7236aeaf5f688bc2af8e81624285f79d88b3d7e405cebb95978d25f"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A009-12_COL.fbx",
+          "bytes": 76444,
+          "sha256": "f73818d52c12f23db52fc01127dc8706f7a368dea3ddc0a5dec08b77d53f161b"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A009-13_COL.fbx",
+          "bytes": 72204,
+          "sha256": "14ff53d7c05c365ea39313b269f3b64be9bd017777d9d21d813baec289b4c0f6"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A009-14_COL.fbx",
+          "bytes": 84972,
+          "sha256": "6d1baea6834d693fa14be3226cf4423c6d17858bd444a5b3c3324b5d8cbf36d8"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A009-15_COL.fbx",
+          "bytes": 56892,
+          "sha256": "e97e31d7a28809ea76b217a86eb4ac65695c01a737d265cec3690772b4effba3"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A009-16_COL.fbx",
+          "bytes": 74092,
+          "sha256": "2c73d943fb71392c060704dcaaacd7aeca34cd8f791de8c6afbc7962d0342ed1"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A009-17_COL.fbx",
+          "bytes": 120972,
+          "sha256": "bbf045fc606fac5cb8bfeb6f61b890550c2aedf8777866c3d9626b037fd302ac"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A009-18_COL.fbx",
+          "bytes": 132252,
+          "sha256": "c6be4e08a671a8d86d5039dffbc636a1f1358843c84c67c48dc4c8995d238ac6"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A010-01_COL.fbx",
+          "bytes": 164764,
+          "sha256": "9df8c39f9bc48a95759d16d9198f71084682a6633da14a510dec39bbc93f0c6b"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A010-02_COL.fbx",
+          "bytes": 108924,
+          "sha256": "b467c1a90708c74b846b2d72b32d8fd508facea8c89109b493c602a540d9660e"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A010-03_COL.fbx",
+          "bytes": 165788,
+          "sha256": "814de30995e26151304f120cfa71ad3add06d285e728834947d7b6454874d030"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A010-05_COL.fbx",
+          "bytes": 95308,
+          "sha256": "12cf92d62fd2188b5c9c060aaa6e30fe9719ec76227de73236a244d214e8c40a"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A010-06_COL.fbx",
+          "bytes": 95580,
+          "sha256": "9420edccc61ab58ad081e7b75ca6d08ec830c033e993765c83a08c634782d877"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A010-07_COL.fbx",
+          "bytes": 74172,
+          "sha256": "1e0de948acb931fda5682e9f3a0aff5579ad44b055de4b306e3bd4fa8528688c"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A010-08_COL.fbx",
+          "bytes": 154748,
+          "sha256": "6131f731f5cafbaa4933c71abf6685ea73653482c937d908cb2905dec847a177"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A010-09_COL.fbx",
+          "bytes": 73132,
+          "sha256": "78178d031f931e30cc90c6066cc13b8638db3a174f6646938bec345429b21156"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A010-10_COL.fbx",
+          "bytes": 48124,
+          "sha256": "e15864567b00cb9e5f45131993be22f41e79da902529090473fa630c27275b20"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A010-11_COL.fbx",
+          "bytes": 80172,
+          "sha256": "6eff081e449a2c302eaeb4f24b11395f6bb0ee3bd7b792c66162dc9c5c8a6fc9"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A010-12_COL.fbx",
+          "bytes": 64332,
+          "sha256": "2a508495c7c0f608923e57c27c9d41d8c34af0f7cd13b7c6389f30f9f26acb5c"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A010-13_COL.fbx",
+          "bytes": 147708,
+          "sha256": "54dd878b20ba7c46347b27886776aa618a6c4909cba4217bfc4b08202282a051"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A010-14_COL.fbx",
+          "bytes": 147180,
+          "sha256": "214bbb8f6c03cf243067929aab581e474377c01406371c1f5eb37eed4f2ec9ed"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A010-15_COL.fbx",
+          "bytes": 219820,
+          "sha256": "bb85bf951ad276a86d6e977f75353256effc27cb2cd8c75573129a787e62fbf3"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A010-16_COL.fbx",
+          "bytes": 124684,
+          "sha256": "cba660d642834bba33682176bd98231cdf6e03c826450b1bd6dc5ba0eb3fb50b"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A010-17_COL.fbx",
+          "bytes": 152556,
+          "sha256": "cb8bcd152599536992b66d227c7d0d275ada9fac6444b284c4f969c2d2f29171"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A010-18_COL.fbx",
+          "bytes": 116140,
+          "sha256": "1974370e5e5244e1025a13119208dd85bbf2edd9e1fb764e28c86213763a1936"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A011-01_COL.fbx",
+          "bytes": 131900,
+          "sha256": "2cfd11387bf5f2025af10fbf5958bdb9a5b0dd0cd4c0a37e4bcb47623eb4959d"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A011-02_COL.fbx",
+          "bytes": 101644,
+          "sha256": "98c08ca633eeb920fb2f49e2bb3a58da5f411c018053733970aab40cee72dddb"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A011-03_COL.fbx",
+          "bytes": 102540,
+          "sha256": "d16ecdcbcde482c431a97f6a3b3fa865ee6ca9e49ca3c28e4be52bf38ef7145d"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A011-04_COL.fbx",
+          "bytes": 75836,
+          "sha256": "f765d3df47b94282aba4c522ad81a7133d767d0737de38980281ba8dadc85ef2"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A011-05_COL.fbx",
+          "bytes": 76092,
+          "sha256": "fd09a52ed21d771ab2e881be32dcc2338e3d80f22e9f408f5bafd811a412e256"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A011-06_COL.fbx",
+          "bytes": 71772,
+          "sha256": "0f8c6649cc8aed5b65f65c0b510e4f0a7dd8159855b9b8850e181d45c6024959"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A011-07_COL.fbx",
+          "bytes": 88012,
+          "sha256": "b9685ed873fa5ab3f8294e2c242c3a955aa7886ce276e7856aa1e8b6a73a3b9a"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A011-08_COL.fbx",
+          "bytes": 55916,
+          "sha256": "f9b90c4cebe8bc86a27c6085fc76215a981240d60f155ab96c9cb002171af8d7"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A011-09_COL.fbx",
+          "bytes": 126844,
+          "sha256": "f1bc2e6503f0a8dcdb3d3ff8d7edcfc6a8599b0a41217d3dfa3f55fcac962a2d"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A011-10_COL.fbx",
+          "bytes": 101420,
+          "sha256": "a5ca873e5b6b861ee7b6fe12a91911c6bfc8b0293cf04d4fcdbd37c6205dfcfa"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A011-11_COL.fbx",
+          "bytes": 81484,
+          "sha256": "aa1873e96097bff82329f0628d02ea64cb6a9f6943a011f382b48e08b8720e0e"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A011-12_COL.fbx",
+          "bytes": 94556,
+          "sha256": "a9cef909bd8739afcd9ced5b3a66230e286aa78ab1102dab6722e0d481ce6872"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A011-13_COL.fbx",
+          "bytes": 85500,
+          "sha256": "d484097a1fa1176cd7176d74d4bf87abe4e3155a5ce5ee9be390b349f58403ab"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A011-14_COL.fbx",
+          "bytes": 82876,
+          "sha256": "99f562ac0b878ee8bac979a9b2ca3ac867e4d5321a5f32ba09418a3a21b43612"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A011-15_COL.fbx",
+          "bytes": 76972,
+          "sha256": "f593e0ce06e418ebb58b86ac8a0e73d9fadfc957a9918a3d063cfba0602cdfed"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A011-16_COL.fbx",
+          "bytes": 99484,
+          "sha256": "d9fa5a1cd133e27631dfbfac7abd2e2815462702531d3404992895fe72ef8890"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A011-17_COL.fbx",
+          "bytes": 106892,
+          "sha256": "f7e09e432314ee9029d63c7fa71e44b6a560385ff04f74e239c8b279ee08bffe"
+        },
+        {
+          "path": "A02_residential_54_v2/collision/A011-18_COL.fbx",
+          "bytes": 81612,
+          "sha256": "4f73041379fa46ad3cc42d93da9292d1465a1e4f675c44f3aa9121ca05cc3144"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A009-01_LOD1.fbx",
+          "bytes": 199116,
+          "sha256": "60bbf31542886a837f6a0abfe14887b7d43147f052bb43d477009b00f59df2bb"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A009-02_LOD1.fbx",
+          "bytes": 226492,
+          "sha256": "99ff6014205078ad43c0a319eaabf6a6fb67cbf86bd8f26c56613d76ddc46375"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A009-04_LOD1.fbx",
+          "bytes": 169452,
+          "sha256": "b6626df7fd7ae0d6d3f5adb82055965b6448a63be53995dbe687ee02764477c8"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A009-05_LOD1.fbx",
+          "bytes": 230652,
+          "sha256": "bab15b313a287ccb26212213a166c2dede5b99251677e95c2327660a5d748f93"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A009-06_LOD1.fbx",
+          "bytes": 218732,
+          "sha256": "cdc6e23c45b81c1062f9b1b227293f419372bc906613b126007e435e2a19cafc"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A009-07_LOD1.fbx",
+          "bytes": 181324,
+          "sha256": "735b7e9d1a5b2a39be9d4bb67863fb4583350ff9c7ba1a713afa56caefcc9c4f"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A009-08_LOD1.fbx",
+          "bytes": 271868,
+          "sha256": "b7f7a500b9fd2043eccd234527617867c35a8c59dd3b8260566fea506a69643e"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A009-09_LOD1.fbx",
+          "bytes": 210284,
+          "sha256": "529e0223fe9190935f964780c215b2befa9dd0cae132ac8d9563a3c9ad301dbe"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A009-11_LOD1.fbx",
+          "bytes": 249500,
+          "sha256": "1f0f8b64b977e519d567f9d6787adceff368ffe03f9731eb90bce15f219fe810"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A009-12_LOD1.fbx",
+          "bytes": 220796,
+          "sha256": "76063bd0d68c037ed956994391a52514c7401c0f55ea7bc7a704b2c8e06f841d"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A009-13_LOD1.fbx",
+          "bytes": 209772,
+          "sha256": "e51b144e96a52c7f3a334533bb8c6059f642a578bd5c4b754333f24b8d341137"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A009-14_LOD1.fbx",
+          "bytes": 247708,
+          "sha256": "d240c9467f0ba04f7c889e8d68f89b04cc1a20897be52a4887406724756f6fec"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A009-15_LOD1.fbx",
+          "bytes": 187276,
+          "sha256": "375d4e2a20e931576af79b996f71df8ffec3d2b2f2ee3df2a35561090aab66a8"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A009-16_LOD1.fbx",
+          "bytes": 245372,
+          "sha256": "3a4f0c835f549659218f2d44c5177f801eb29e88f91512fa99e96338667debb6"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A010-05_LOD1.fbx",
+          "bytes": 252908,
+          "sha256": "2395fe26919d0fa77a7ea372d1c0fe367a75527254d4b5ffec89f4753b1041a7"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A010-07_LOD1.fbx",
+          "bytes": 223356,
+          "sha256": "46e2bf84b6c8282ecf92890efd8593dd147c3284b5444d46d239659019f65d80"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A010-09_LOD1.fbx",
+          "bytes": 213884,
+          "sha256": "98bdf92a7f6840d8fe0c58e7154a30292c189a887a45e9bdb670912680213e34"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A010-10_LOD1.fbx",
+          "bytes": 162028,
+          "sha256": "ce292722a39e5b6d2c7837631b161ba3bb75dc7a9e26b5a1cd7b19155c13567e"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A010-11_LOD1.fbx",
+          "bytes": 227932,
+          "sha256": "ab94ba4249b1dd7a51d8e8f01b6c455be9bf9bf429dce918ab9a7aaf6bf3d1e4"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A010-12_LOD1.fbx",
+          "bytes": 189244,
+          "sha256": "0be898bb2752509f5ab0b77870746893aebaadeb0359264541345ee6ca5bd4d3"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A011-02_LOD1.fbx",
+          "bytes": 207308,
+          "sha256": "c14cb70d08169650571fbfe9a346e46bbd3936840c57b978e7d121e2b35250ec"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A011-03_LOD1.fbx",
+          "bytes": 255148,
+          "sha256": "07f804cfe5f6340d8ad8f424296be349902880dfe2d321745efd72c28a7ddb42"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A011-04_LOD1.fbx",
+          "bytes": 195788,
+          "sha256": "4b2f6634859f2647d32a9df07c787e348bb64b2aaff0565e9c7935e90995f888"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A011-05_LOD1.fbx",
+          "bytes": 208412,
+          "sha256": "d8639f76d8d06e6b40ac244ca3e8d10015b01901fa04ea7f876f36aaf628938c"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A011-06_LOD1.fbx",
+          "bytes": 196204,
+          "sha256": "ec2831abfd61e7d80682eba3ad5ddb8308b224c3ed8fc04445997ddd3f8a63c2"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A011-07_LOD1.fbx",
+          "bytes": 248636,
+          "sha256": "e7088052c2d73d2a9e599c6ae0cca3fd6bc855827726734e2a979cbf1feadb47"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A011-08_LOD1.fbx",
+          "bytes": 187436,
+          "sha256": "38543b4998d5adf52b779a5d4f985038cd79055ff1c4c3f6d80788842857ba61"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A011-11_LOD1.fbx",
+          "bytes": 234076,
+          "sha256": "b81d670bd5466172d73434b7d48c4ebef0901993bda8c1fc3db44a2b28f5144c"
+        },
+        {
+          "path": "A02_residential_54_v2/fbx/LOD1/A011-14_LOD1.fbx",
+          "bytes": 213772,
+          "sha256": "48a271f99d9d9312baa38a83f9703dfaf3cd781e09852bfba80389970103d66b"
+        },
+        {
+          "path": "A02_residential_54_v2/manifest.csv",
+          "bytes": 12145,
+          "sha256": "bbc327a7c99648d3be25d7290f4a3fa0343892e70fcf579e082a671f1400cae4"
+        },
+        {
+          "path": "A02_residential_54_v2/material_bindings.json",
+          "bytes": 10813,
+          "sha256": "630155232bd3ec952c68aa09ff363b28d1761235f0c80cb00b8207ca8388df63"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A009-01.json",
+          "bytes": 22304,
+          "sha256": "095b91e30ea24aedb1dfbf84c502f6dc7ece5d100ed2e7818c21acd714eac6ae"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A009-02.json",
+          "bytes": 31020,
+          "sha256": "75027927aae5ae2cb1e2f5fa65f112f253536a6cffb1c6b7ba4d15cf5b52ace9"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A009-03.json",
+          "bytes": 31377,
+          "sha256": "611d8a62f6340bb4c9642078641d8e325defc47e38c0a3e87541e0bfa651c3d5"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A009-04.json",
+          "bytes": 18908,
+          "sha256": "b42f9577e6a8cc1ae9b351e15528669ff482a3109908b29f2ed7483ce162b82c"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A009-05.json",
+          "bytes": 25717,
+          "sha256": "1af5208646e47b0c5af7c7336abf0cd8041db9405c6d077960387494a228d377"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A009-06.json",
+          "bytes": 28225,
+          "sha256": "aa8ccd60d9343223e8a01427257ca4a603291819eb068d2f3b02759abdc052f6"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A009-07.json",
+          "bytes": 20956,
+          "sha256": "d7eded5994e397932d8c27d470444160ecef51bbc18bcc3111755bf2a3b98bc4"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A009-08.json",
+          "bytes": 35049,
+          "sha256": "73436e6f944796e6fd8728ffacd98a5e6ac90604cb3bc1f71590658302528ebd"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A009-09.json",
+          "bytes": 30249,
+          "sha256": "0aca4b7759e81360c4e6aea7ce139eee3a06668f2ac571569033569ddfd53bb1"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A009-10.json",
+          "bytes": 49136,
+          "sha256": "e59d107c9b7694215435ec345efa8d50daa2eaf8d287e9f024199af4eebd0b5c"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A009-11.json",
+          "bytes": 39310,
+          "sha256": "19ac7670baf2af31a64ffcd88d3dfbc750d0b1004258d77316118f40695d0a19"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A009-12.json",
+          "bytes": 30075,
+          "sha256": "2b492910ade4f55d3c2f32efa2267592d3c8925f9b73191497dd4d5dd4a784a4"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A009-13.json",
+          "bytes": 20011,
+          "sha256": "7cebc992c55709943e3116c7a3daa80cf2b8da77c31f3be521a701df6cb3b8b2"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A009-14.json",
+          "bytes": 38548,
+          "sha256": "c4f024c3d5f77bc7cc733b1e8c0e0544dbb665d13b5a2b771ad2ff65dc36f2a4"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A009-15.json",
+          "bytes": 26710,
+          "sha256": "53399e28f5dc463f858fb4e25688dbfbe31548e753f4b85d77d90a29141c9a4f"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A009-16.json",
+          "bytes": 43991,
+          "sha256": "ff8ca6e16ed6c03bd7a5fec74c0aacd03bc96a08eebac06fbe85d34faf98a8a7"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A009-17.json",
+          "bytes": 69667,
+          "sha256": "33b41777f1b357d7253b837ff4a49f95222db47c6680ed36482f8847a43f4998"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A009-18.json",
+          "bytes": 62409,
+          "sha256": "243d67a181620efd6b92758f0828807abb0641d1944c29abdcc2542463f77ec1"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A010-01.json",
+          "bytes": 62966,
+          "sha256": "28357c00eb01bd5aea8e687c9bcb15ea445eeb963044127f4274fec7779349a5"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A010-02.json",
+          "bytes": 49288,
+          "sha256": "6e36cd56e23a4190305ae2da55544dbc28316364be6332660179a75d3b14ab03"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A010-03.json",
+          "bytes": 60655,
+          "sha256": "2d3429c9d9848446a065faa55820f63d7b0aafcb2cbeae2e09e623953834246b"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A010-04.json",
+          "bytes": 48361,
+          "sha256": "e4beeacc494804babd48aa1b7a743d0dff58ca88fcc9dd94990df2e54dafd655"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A010-05.json",
+          "bytes": 39462,
+          "sha256": "6d8f11129e56c705fec58aa6e336a8363403283414bafe7e0e304440e91bcb4c"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A010-06.json",
+          "bytes": 44461,
+          "sha256": "c736311898950042f0530c2cb8d17da018b93725b085e9cb28901aae7ebebb5d"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A010-07.json",
+          "bytes": 37193,
+          "sha256": "5fc40bfea328c3b09bc94710b54f25ff1d596bbd6e868df6d58a05bfd411fc75"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A010-08.json",
+          "bytes": 71556,
+          "sha256": "b5a29ffaedc5634f16a6c19119c0b7626563a008aefca2be3e449ffcd399bac6"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A010-09.json",
+          "bytes": 33262,
+          "sha256": "2d0748c7224a3c36a46334ca3c5207db64050a38e9a6512130483b5b360ece59"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A010-10.json",
+          "bytes": 21604,
+          "sha256": "39c4ddbb43726733eef8f69234a19bbd275e6c69c50978c02260ae0ce2416289"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A010-11.json",
+          "bytes": 43433,
+          "sha256": "c1c92d2cb1a6ac6300728857d9895a4c153338a7169da6b560f172b687594e15"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A010-12.json",
+          "bytes": 31016,
+          "sha256": "11db6c6fd580259fca39a8c81818b013f72a880990efd1c6d2a9b8bfea3a5539"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A010-13.json",
+          "bytes": 71330,
+          "sha256": "6f8fcddf179e94330de045375f6c615c26153ac79a5d2d82d263f0ac1054816c"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A010-14.json",
+          "bytes": 84929,
+          "sha256": "812cf0fe3a655b4f89e0c5e40ae4e21e1e227c31a43dc823eb7667f76b2c07d4"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A010-15.json",
+          "bytes": 85624,
+          "sha256": "1b04696c98542101419fbd4937b76d563429aa8d115495efd38ab55602ec4f8f"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A010-16.json",
+          "bytes": 58916,
+          "sha256": "ff6b0ddbd6b7c3002b6e212ac9580ba2081fe8aab0a9fd104c8ee0684f013460"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A010-17.json",
+          "bytes": 61884,
+          "sha256": "37cff4eb2f9b7f9500b59edaaf39bfcace6189375e3691160e72456b51e52355"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A010-18.json",
+          "bytes": 57830,
+          "sha256": "2e400c466f953435ce607ae18e946e9dec185c6b1414736f4a20d2f0033ba30e"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A011-01.json",
+          "bytes": 54617,
+          "sha256": "5c5f3c67b10f3ff73a7260e2fb665b62cc6b48e14ced6bfbd8637ce7bcab3bd8"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A011-02.json",
+          "bytes": 22341,
+          "sha256": "f1ef98984fa0b245a57a4c42d2a5978f191590194a1115d89ee9c7206b6754ae"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A011-03.json",
+          "bytes": 36426,
+          "sha256": "3423c99e3044c85cd56b907782d34f956e815db20824a1c673e83f5abf7ac8ec"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A011-04.json",
+          "bytes": 23041,
+          "sha256": "97a039a7031e5d4782e77b4bb55e85e2c36421d6a777aae1b23d7e68d0d21635"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A011-05.json",
+          "bytes": 30448,
+          "sha256": "7eb776f328025e167c8b7f70ca3f3ec0927c45d70311ab57f0486341664b2778"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A011-06.json",
+          "bytes": 29098,
+          "sha256": "62c77e23f8d70974364de2e189db2ea162a47034f1cbdf7b11911509671c66c1"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A011-07.json",
+          "bytes": 42127,
+          "sha256": "03795e7bf87471e4312b99016f81cd7ee95f78d12f923111f6579627b03866ec"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A011-08.json",
+          "bytes": 30696,
+          "sha256": "5b9c66c50dbbd74ffdcc4ae515e362074028f220ee46d833752b1df7b66e3316"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A011-09.json",
+          "bytes": 70313,
+          "sha256": "ef639af04ba2aebedaa0b17e46e67835b24682a9ea7192f3dabab48e43936f57"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A011-10.json",
+          "bytes": 63448,
+          "sha256": "1f236dcf9b1e027add65a02012b3d881530e8449e90ab736ba520483d6fef717"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A011-11.json",
+          "bytes": 38982,
+          "sha256": "9df51f0503cfd8c23c115247412df74ab8c36a54cfd23e9f1381342c025e2145"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A011-12.json",
+          "bytes": 61119,
+          "sha256": "2165ca7fd41ebc57ee1115f124141167ce6988e4249452ac05222c9ffe789281"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A011-13.json",
+          "bytes": 55756,
+          "sha256": "ce93e08a1e75ab7392ccd818dccdb38ac9410fac389f3831755ce8c5f37cda09"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A011-14.json",
+          "bytes": 26002,
+          "sha256": "657826fad92c7dda3c5ffdf54caff7a8fd3716f4b418bbc6e44b06442ed82996"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A011-15.json",
+          "bytes": 66831,
+          "sha256": "0a1b4424446ec41ce1a1190f305b120b4007e8d6e2d1f7661db8e085699a4663"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A011-16.json",
+          "bytes": 46426,
+          "sha256": "6030652b815896c49efc892caa88a00bd08c1b6dee674a9f2cf4d1ced60fcd8c"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A011-17.json",
+          "bytes": 57854,
+          "sha256": "2dad3f1aa829176f749435b9f0d999a14205bceeaf0aa4750a498fbbeb9fa340"
+        },
+        {
+          "path": "A02_residential_54_v2/metadata/A011-18.json",
+          "bytes": 48816,
+          "sha256": "494a39339d2655fe21b5293efe6c4545eff1fe02a70189a6f93e2c9681bf7f28"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A009-04_editable.blend",
+          "bytes": 148738,
+          "sha256": "eb86934692af4bee54f7f7eb0339334cfb9be3bdac2d63733df14a30e0cdf1a0"
+        },
+        {
+          "path": "A02_residential_54_v2/models/A010-10_editable.blend",
+          "bytes": 137780,
+          "sha256": "42a0c713920a13f6e6399f7d4bdfaa1dd77ec6ddc0bb29d184da6120f3af6c43"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/comparisons/actual_common_scale_front_page_01.jpg",
+          "bytes": 172813,
+          "sha256": "b8f71e50f5854f5aa351b5104cc11d756887cff5170268f5128d6791c9fb11af"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/comparisons/actual_common_scale_front_page_02.jpg",
+          "bytes": 168458,
+          "sha256": "de2825720f846857981969b794ef1c8534403aba6ed29d42ea448abfb71d3bec"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/comparisons/actual_common_scale_front_page_03.jpg",
+          "bytes": 172925,
+          "sha256": "be26ead494fb4469f9f6c4fc540383c0746be76582168494e78fc6e67acdb803"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/comparisons/actual_common_scale_front_page_04.jpg",
+          "bytes": 169601,
+          "sha256": "4a721a2a1179d850d20fa115502770063eab497ace1691be1c633268c164de5f"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/comparisons/actual_common_scale_front_page_05.jpg",
+          "bytes": 170468,
+          "sha256": "0c216f74682fc2b6e687e909ba84b6222bb0baf7bcde9b7d07ec65a98f1f1082"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/comparisons/actual_common_scale_front_page_06.jpg",
+          "bytes": 179286,
+          "sha256": "2c60986acbe89b5b9ce9d45089d6fc911e8189e3835f2e5ba13575c2f18341c7"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/comparisons/actual_common_scale_front_page_07.jpg",
+          "bytes": 142781,
+          "sha256": "64a2d75503a40c2290ae88df629ca42d44e43b7bb27a2cbcbe239cf1106c7606"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/comparisons/actual_common_scale_isometric_page_03.jpg",
+          "bytes": 247682,
+          "sha256": "0a6ee7078a1617e309084c69f4f1865dcb461ba93b954ddcea5d0f3b8bbeb0c6"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/comparisons/actual_common_scale_isometric_page_04.jpg",
+          "bytes": 240146,
+          "sha256": "1517826b59f7cf8b0358bfe6f6833082090b218944ac6acb4b364e37ff8d1730"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/comparisons/actual_common_scale_isometric_page_05.jpg",
+          "bytes": 251202,
+          "sha256": "c471d8cd66113e9d55886266ebcd90c7dbe452242b5031ce032d37c80b45aaec"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/comparisons/actual_common_scale_isometric_page_07.jpg",
+          "bytes": 207830,
+          "sha256": "bf3321f594f7b021ea24e6341688cb9d0e944b87a1d90f9acd1defc3cca249f7"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/comparisons/actual_common_scale_plan_page_01.jpg",
+          "bytes": 157810,
+          "sha256": "e4b988ee63013e3c5ff4b7609918c74855b536d283b7d038a8ce490fd90dba77"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/comparisons/actual_common_scale_plan_page_02.jpg",
+          "bytes": 163105,
+          "sha256": "e286ac7494b57077a1301fcc49986519d30726944a9775d49988e8ca35b49579"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/comparisons/actual_common_scale_plan_page_03.jpg",
+          "bytes": 181280,
+          "sha256": "ada476f08804ecac673a6aed673b5c0199b5dbdcdb14269aae84737ed75f0b7e"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/comparisons/actual_common_scale_plan_page_04.jpg",
+          "bytes": 172089,
+          "sha256": "cbd4982c9a89c1dc66bd4b4222ac2bde362aceadb8d963a1760d422488ae246c"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/comparisons/actual_common_scale_plan_page_05.jpg",
+          "bytes": 176035,
+          "sha256": "031b4180c0684a011284907706f7449fd67aecc0231c70086dfd25fae8e39cd3"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/comparisons/actual_common_scale_plan_page_06.jpg",
+          "bytes": 173796,
+          "sha256": "bd56cfecb9f76dcb306140795c7b21e55a4a379294700465256fa5a0536da019"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/comparisons/actual_common_scale_plan_page_07.jpg",
+          "bytes": 158021,
+          "sha256": "d399d2776de0f06bcc3d49b9d8cdbf48c186dc6142951aa3df8ffd7d95a877a9"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/comparisons/actual_common_scale_right_side_page_01.jpg",
+          "bytes": 192552,
+          "sha256": "531553139b557416d1b288397f4fee41d9cdfd2a76a5d7f5034c238870892c6e"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/comparisons/actual_common_scale_right_side_page_02.jpg",
+          "bytes": 181347,
+          "sha256": "33f68aad53dfc9a5fdb4d9c4836465b5c09590a9d494932cb0bb39096c6468b2"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/comparisons/actual_common_scale_right_side_page_03.jpg",
+          "bytes": 186285,
+          "sha256": "b5758dfccb2fb24855119efae282d012609601d1c9182a19e06a02ce6bb90564"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/comparisons/actual_common_scale_right_side_page_04.jpg",
+          "bytes": 187153,
+          "sha256": "056d237f9e94ab0bff98cb72fbd4af56f8b91feffb19fdb13af3888b9cf74a57"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/comparisons/actual_common_scale_right_side_page_05.jpg",
+          "bytes": 183490,
+          "sha256": "b6e05b870cc37691bfde7d3a67e2e44470073960da06f30d9ccbbea96b990b10"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/comparisons/actual_common_scale_right_side_page_06.jpg",
+          "bytes": 193106,
+          "sha256": "56015feb9f1518f2578b28e5b4a3cd74e42d556ea723b6ff99c30ad4e1f7e43e"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/comparisons/actual_common_scale_right_side_page_07.jpg",
+          "bytes": 151983,
+          "sha256": "cc13b42959e39e620a2bc9ea29ef5de17b2baf27eedac30763a2d5339f852640"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A009-01_P01.jpg",
+          "bytes": 152106,
+          "sha256": "62d279d2bdd289dcd276f4ea305356ee7d56403afd79c3f2ab4ce715871614f5"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A009-02_P02.jpg",
+          "bytes": 155220,
+          "sha256": "cb3e2938272898e31c94295a6d5f6e115cb95a2e8b2fe4b30cf38e2430b794e0"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A009-03_P03.jpg",
+          "bytes": 160107,
+          "sha256": "6c19792b3e6678defd3f57282ccdf6d965f308a5362eab29d7e846f164b75abb"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A009-04_P04.jpg",
+          "bytes": 152437,
+          "sha256": "5fce3350a81cb8bb88ef15dcec61dc18f7bb2c2cfa87f0307c205d726c54b0ef"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A009-06_P06.jpg",
+          "bytes": 159317,
+          "sha256": "9b617bd406a1b76a9487f20ebfe71938492a90bfa0d4daea2564c3c2ef3978e7"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A009-07_P07.jpg",
+          "bytes": 150467,
+          "sha256": "775c500c38486e7681e885019b736c5c34f81e45831d2c8d38ee3188194e1353"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A009-11_P11.jpg",
+          "bytes": 141125,
+          "sha256": "bf10b727d07be73c8ce6287f2b83406a3298c9683d16ab1b8c65c6245bc36cd2"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A009-12_P12.jpg",
+          "bytes": 147070,
+          "sha256": "010a86a804e226112c5e91f17938558622f1539841c1b2a4b92d4159c4059a46"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A009-13_P13.jpg",
+          "bytes": 141627,
+          "sha256": "ffa7ace25da79c7056320a4e34c59bf9a383ba4610e3c1f714597c4352a5d9d5"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A009-14_P14.jpg",
+          "bytes": 137182,
+          "sha256": "9f6e024cadbe845f558ec88871d90a7ce2a37f99b05efeb922d7eae1a9c9cd58"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A009-18_P18.jpg",
+          "bytes": 146644,
+          "sha256": "ab268e39ab6b6f27f6bd73679085710fa5b3d34dcd7c084dfb519ce2f0d0e912"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A010-01_P19.jpg",
+          "bytes": 153942,
+          "sha256": "5c2a435e54340af49b4e5ccc3865d3f2c0d3a96c1a3728df0d7c1c2346da1b75"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A010-05_P23.jpg",
+          "bytes": 124053,
+          "sha256": "e7c4db4ccb9e3180d8f52d80f1f74dd0128214d8cfa0fe83b5e632256292030b"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A010-09_P27.jpg",
+          "bytes": 158832,
+          "sha256": "93efa7bb451bcb641d204b4d7e38c025ca05d117b60bf4293690717977065385"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A010-12_P30.jpg",
+          "bytes": 136574,
+          "sha256": "e243b3797d4b491d35c13d1014d02c1a8cf35c1936f7604a3b39c96786c29a0e"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A011-02_P38.jpg",
+          "bytes": 160676,
+          "sha256": "2b79ad41a428a46d774ff2bfd23e48eea97d81eff3208a4aff6804253763b1f3"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A011-04_P40.jpg",
+          "bytes": 133200,
+          "sha256": "fb44c1afff8f2847c48068fcb13f9b04d49ad4e927b48cb576a40eca88462a55"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A011-06_P42.jpg",
+          "bytes": 141755,
+          "sha256": "cc655907cde913b146b5499cce86d41319baf470c31e11deea922db231c5e732"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A011-11_P47.jpg",
+          "bytes": 151665,
+          "sha256": "64693b024b01c83e6b070bf18a906c46a16c8a0c5c634e3312df0d363d4e1324"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A011-12_P48.jpg",
+          "bytes": 154043,
+          "sha256": "66ffef9af196156354294eee1712e683d15539009d541f4592ade4d455b3a87f"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A011-14_P50.jpg",
+          "bytes": 139251,
+          "sha256": "1f634c140b0d9f2e46ee497b506bf241b40bb06538f06574bbe9f53252a98f63"
+        },
+        {
+          "path": "A02_residential_54_v2/previews/delivery/individual/A011-16_P52.jpg",
+          "bytes": 147059,
+          "sha256": "381c79f7a81e44fa2a33a388c3dfd13f97843c262fa2f052b85e0d7ae64ded00"
+        },
+        {
+          "path": "A02_residential_54_v2/qa/BOUNDED54_CANDIDATE_HASH_INVENTORY.json",
+          "bytes": 47089,
+          "sha256": "9393a4a26603249a4cd1ed771f6222ac88cc0976d6305e83e0a6a89df6257a33"
+        },
+        {
+          "path": "A02_residential_54_v2/qa/FINAL_COMPARISON_MANIFEST.json",
+          "bytes": 113598,
+          "sha256": "63f04f78fcde8136995e5be9e99204deceeabc846c774041e072a7e5cea3f33c"
+        },
+        {
+          "path": "A02_residential_54_v2/qa/FINAL_PREVIEW_ACCEPTANCE.json",
+          "bytes": 17773,
+          "sha256": "8e382f3d54ba79bc3619d6c8968528b50146d35822e12fbc3dbc79c2bbb51deb"
+        },
+        {
+          "path": "A02_residential_54_v2/qa/FINAL_QA_SUMMARY.json",
+          "bytes": 693218,
+          "sha256": "e9b8e9ba021cc12db262e24004025cd41d058915e1418f5bc76a8b4005681322"
+        },
+        {
+          "path": "A02_residential_54_v2/qa/FINAL_QA_SUMMARY.md",
+          "bytes": 2917,
+          "sha256": "243d1b409913a9f5e104b773f6d5ba7a487b4d25aded51834add347e87573792"
+        },
+        {
+          "path": "A02_residential_54_v2/qa/FINAL_RELEASE_ACCEPTANCE.json",
+          "bytes": 65417,
+          "sha256": "c7eaf27a4df6ed4eafe6ca2cec4064ad8d720d40b4bf396a924821d1ce0e92e3"
+        },
+        {
+          "path": "A02_residential_54_v2/qa/common_scale_prior_reference.json",
+          "bytes": 2031,
+          "sha256": "a70367ea3471137ab90155cce6e5340a05db91fd27fe58813dd461e1569da498"
+        },
+        {
+          "path": "A02_residential_54_v2/qa/delivery_preview_manifest.json",
+          "bytes": 59264,
+          "sha256": "d09fdee047efc06f496feacd341279c74a9a0b7d1ff586cf06480cc1e0e933e8"
+        },
+        {
+          "path": "A02_residential_54_v2/qa/relative_editable_conversion.json",
+          "bytes": 40452,
+          "sha256": "b579bff2d335c6444300636b4707b9b12af72a0bd69129bc038d1c504d390bd6"
+        },
+        {
+          "path": "A02_residential_54_v2/reference_provenance/design_briefs_v2.json",
+          "bytes": 46749,
+          "sha256": "7f7ac91594affc058693bbece5e09850408dd8fe17f935e2edb192690928f09c"
+        },
+        {
+          "path": "A02_residential_54_v2/reference_provenance/reference_map_remaining46.json",
+          "bytes": 82845,
+          "sha256": "06916b434cc8fc47c160c0ccb041680e177264998bdd5e30a1e77bcb091a8f35"
+        },
+        {
+          "path": "A02_residential_54_v2/reference_provenance/remaining46_design_briefs.json",
+          "bytes": 530133,
+          "sha256": "d503dc0bac4cefdf05720b8c21c785dbdc2ecbe043db6fb257d8b09df10d1b4a"
+        },
+        {
+          "path": "A02_residential_54_v2/reference_provenance/replacement_catalog_54.json",
+          "bytes": 73742,
+          "sha256": "9cf718dd5e9623b6ec625b8c011fdc758fb2dddaabbaa8ae8ffaf14135a11871"
+        },
+        {
+          "path": "A02_residential_54_v2/source/build_release.py",
+          "bytes": 4503,
+          "sha256": "4b7a1c46b5908fff223fb31b88d07e69b4badfbac566a7974d6d87aa5623f076"
+        },
+        {
+          "path": "A02_residential_54_v2/source/deduplicate_editable_textures.py",
+          "bytes": 1725,
+          "sha256": "db90b1ab39bc6e9e01c95da796d06d16ae16c12363d31d2172062b0a5462bf32"
+        },
+        {
+          "path": "A02_residential_54_v2/source/design_helpers.py",
+          "bytes": 1935,
+          "sha256": "e5c1873a8e77e48aa500a61c8a36fc510db7286f2a62d7ddf3b31aee33c1f2df"
+        },
+        {
+          "path": "A02_residential_54_v2/source/extend_geometry.py",
+          "bytes": 6215,
+          "sha256": "df831e7d9575e0808b06d2ff6e920d05a389e1f9f723b6298c1b4940787ff0a3"
+        },
+        {
+          "path": "A02_residential_54_v2/source/extract_release.ps1",
+          "bytes": 19358,
+          "sha256": "e2632859ea6613b130db7a89bfbbe858e9a05a768a380db3802230daa8bf7846"
+        },
+        {
+          "path": "A02_residential_54_v2/source/extract_release.py",
+          "bytes": 21946,
+          "sha256": "58a87992e091fa8e1e1400602353546ae0238e53aeb88e692eff176a17b97152"
+        },
+        {
+          "path": "A02_residential_54_v2/source/house_designs_01_08.py",
+          "bytes": 29358,
+          "sha256": "99a203baa7d0e5115bd5c80f35cae5bbee4f43fb80ea17220526e71abd92a739"
+        },
+        {
+          "path": "A02_residential_54_v2/source/house_designs_09_16.py",
+          "bytes": 36864,
+          "sha256": "f67792af4a1c071f0a455f15224870014a2f4352fd9b82da92932f6bdc96da05"
+        },
+        {
+          "path": "A02_residential_54_v2/source/house_designs_17_24.py",
+          "bytes": 39256,
+          "sha256": "449ef7147fb11da3373abfac743fdeadfb9babd1f3f3ea2372ea6f4b8a028b7b"
+        },
+        {
+          "path": "A02_residential_54_v2/source/house_designs_25_39.py",
+          "bytes": 72640,
+          "sha256": "d0bfe3057d9cc9894aab4bbf5a3156a13e8363d776ddc1185cb33997d4cd0927"
+        },
+        {
+          "path": "A02_residential_54_v2/source/house_designs_40_54.py",
+          "bytes": 56277,
+          "sha256": "01ccce159ed1733be515aa12f7208bffa321c67ece1a522b7e07a3997b566d6d"
+        },
+        {
+          "path": "A02_residential_54_v2/source/house_geometry.py",
+          "bytes": 21147,
+          "sha256": "487f07b1ee252e70ee8e03c856b7d9fae25950fd49ccbee3d277a8a41226c8b3"
+        },
+        {
+          "path": "A02_residential_54_v2/source/label_common_scale_overviews.py",
+          "bytes": 4408,
+          "sha256": "7137cb6781027eb81b34638b928989ede63618632924ff2b282c659326dad29b"
+        },
+        {
+          "path": "A02_residential_54_v2/source/label_prior_scale_comparison.py",
+          "bytes": 2194,
+          "sha256": "a6efbf5b0d14679e746a157cbfd35af74cb38a7ab58d1ac1cf19faa968997a13"
+        },
+        {
+          "path": "A02_residential_54_v2/source/make_shared_materials.py",
+          "bytes": 2857,
+          "sha256": "81dee21d1a3944665f441ed3fe3ded39440a566627e31f524c0dfa6c8be51c98"
+        },
+        {
+          "path": "A02_residential_54_v2/source/make_unity_material_maps.py",
+          "bytes": 2826,
+          "sha256": "004fb73e8410fd5f09100351d84632d74abdcf923f5e0ad2bf11cae75d6533d6"
+        },
+        {
+          "path": "A02_residential_54_v2/source/package_release.py",
+          "bytes": 44004,
+          "sha256": "38fef4986b95e06d08fc8e97d442f8aff4bb8f7680f78f52c4748a6ad7c2a4da"
+        },
+        {
+          "path": "A02_residential_54_v2/source/prepare_delivery_previews.py",
+          "bytes": 13003,
+          "sha256": "d730a934e8749de1a17c927cb2079a2ae231391bf1777eb2d515f321bf36fd7f"
+        },
+        {
+          "path": "A02_residential_54_v2/source/refresh_collision.py",
+          "bytes": 1794,
+          "sha256": "65da04431b398c166814a890f909e715e7f17f78ee650954aefd64a091e24eb7"
+        },
+        {
+          "path": "A02_residential_54_v2/source/release_export.py",
+          "bytes": 7539,
+          "sha256": "a2d8b278b595c59ec426c53374ed5a70e2f9597424f5afa610a770e7713fa9b5"
+        },
+        {
+          "path": "A02_residential_54_v2/source/render_final_previews.py",
+          "bytes": 1631,
+          "sha256": "fc5954f2a8f4aa4a3f1d032a8927fb87e68264897b9f3cd839bbe3ce123970d2"
+        },
+        {
+          "path": "A02_residential_54_v2/source/render_prior_scale_comparison.py",
+          "bytes": 4471,
+          "sha256": "2f8b456fe641711dbc15f0f0aaa1eae106ad079aaa9b9d3921b85a4690be11f7"
+        },
+        {
+          "path": "A02_residential_54_v2/source/studio_preview.py",
+          "bytes": 3227,
+          "sha256": "aa731d0289ecff434dee63760616c2186c6603a188359e437780d4421d3946b8"
+        },
+        {
+          "path": "A02_residential_54_v2/source/sync_manifest.py",
+          "bytes": 4245,
+          "sha256": "b30ea436319a7a6adf9760bb0df7e599074712c4e3ab6cb87309999c32825707"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/brick_dark_metallic.png",
+          "bytes": 1097,
+          "sha256": "c8b6bb3e837f846489438b47ae42f3960b820a17095ea66df3c5fa00fcd60665"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/brick_light_metallic.png",
+          "bytes": 1097,
+          "sha256": "c8b6bb3e837f846489438b47ae42f3960b820a17095ea66df3c5fa00fcd60665"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/brick_metallic.png",
+          "bytes": 1097,
+          "sha256": "c8b6bb3e837f846489438b47ae42f3960b820a17095ea66df3c5fa00fcd60665"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/mortar_metallic.png",
+          "bytes": 1097,
+          "sha256": "c8b6bb3e837f846489438b47ae42f3960b820a17095ea66df3c5fa00fcd60665"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/rust_metallic.png",
+          "bytes": 3158,
+          "sha256": "bdb97a961926cb2d8288e6b2585a81b3be2c651cf024d64b5bceed3bc085fb1d"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/slate_basecolor.png",
+          "bytes": 135722,
+          "sha256": "da5a94e79ef282c550e62b6073a68bf596438a04f9f76782cd4c7e8c707cfd74"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/slate_metallic.png",
+          "bytes": 334,
+          "sha256": "ef2a4c8949cdab1ef24e678bdb88cc276b1fd75e62066e47011c2ce53996efe6"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/slate_normal.png",
+          "bytes": 127605,
+          "sha256": "5867884a5e9c00c0c9f7dce67e6a6ff382ee6ebbc4b02515b4aba3ae5d76dae9"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/slate_roughness.png",
+          "bytes": 57904,
+          "sha256": "8d64abf4162e59a121d9cc45c627519c65758f720c1c83ea9d98a62dc73cfba5"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/stone_dark_metallic.png",
+          "bytes": 1097,
+          "sha256": "c8b6bb3e837f846489438b47ae42f3960b820a17095ea66df3c5fa00fcd60665"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/stone_metallic.png",
+          "bytes": 1097,
+          "sha256": "c8b6bb3e837f846489438b47ae42f3960b820a17095ea66df3c5fa00fcd60665"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/stucco_basecolor.png",
+          "bytes": 143271,
+          "sha256": "60ff89f383e8af5fadb4a783c9d806b99a8c4f8ff89bdd000a1d94f95f97962b"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/stucco_metallic.png",
+          "bytes": 334,
+          "sha256": "ef2a4c8949cdab1ef24e678bdb88cc276b1fd75e62066e47011c2ce53996efe6"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/stucco_normal.png",
+          "bytes": 112201,
+          "sha256": "7bf85f6a2f5ae507708eede2f43b7adb051eea16b41b15ea28f107614b71829d"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/stucco_roughness.png",
+          "bytes": 57948,
+          "sha256": "a8fb462cbffcf6d51e9c4b09bc0cd75a18d8c93e1a48aaa1ad235313d0679f79"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/timber_metallic.png",
+          "bytes": 334,
+          "sha256": "ef2a4c8949cdab1ef24e678bdb88cc276b1fd75e62066e47011c2ce53996efe6"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/timber_normal.png",
+          "bytes": 137194,
+          "sha256": "13b452b8b919fc4e9120592e2fc2c4de7ec6facf665235b0adab4f83ae7f0924"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/timber_roughness.png",
+          "bytes": 57898,
+          "sha256": "6afb515b869dac2bbd897c2c2097b873824eb749e1058a8d3bf39d3f74d27613"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/unity/bluegray_metallic_smoothness.png",
+          "bytes": 86611,
+          "sha256": "72428119b7604e13267067d7b34e93339e76decee35fc0407c18fc5f6aeac53f"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/unity/cream_metallic_smoothness.png",
+          "bytes": 86611,
+          "sha256": "72428119b7604e13267067d7b34e93339e76decee35fc0407c18fc5f6aeac53f"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/unity/olive_metallic_smoothness.png",
+          "bytes": 86611,
+          "sha256": "72428119b7604e13267067d7b34e93339e76decee35fc0407c18fc5f6aeac53f"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/unity/redwood_metallic_smoothness.png",
+          "bytes": 86611,
+          "sha256": "72428119b7604e13267067d7b34e93339e76decee35fc0407c18fc5f6aeac53f"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/unity/slate_basecolor.png",
+          "bytes": 120602,
+          "sha256": "af67350fcfaa52b7c7ed8b72de88d9c676a58ca08e7fb7cf67db4bd1e5295eb0"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/unity/slate_metallic_smoothness.png",
+          "bytes": 86623,
+          "sha256": "68011a7a69694ed1cfe844e49ab2e2494fa74628f2855850ca452f29ac67ac84"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/unity/stucco_basecolor.png",
+          "bytes": 143271,
+          "sha256": "60ff89f383e8af5fadb4a783c9d806b99a8c4f8ff89bdd000a1d94f95f97962b"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/unity/stucco_metallic_smoothness.png",
+          "bytes": 86623,
+          "sha256": "5ff9177c6eb2526abcc6a6acb34c63be772262643c353887eea1ec3d726a906b"
+        },
+        {
+          "path": "A02_residential_54_v2/textures/unity/wood_metallic_smoothness.png",
+          "bytes": 86611,
+          "sha256": "72428119b7604e13267067d7b34e93339e76decee35fc0407c18fc5f6aeac53f"
+        }
+      ]
+    }
+  ],
+  "support_files": [
+    {
+      "file": "EXTRACT_RELEASE.py",
+      "bytes": 21946,
+      "sha256": "58a87992e091fa8e1e1400602353546ae0238e53aeb88e692eff176a17b97152"
+    },
+    {
+      "file": "EXTRACT_RELEASE.ps1",
+      "bytes": 19358,
+      "sha256": "e2632859ea6613b130db7a89bfbbe858e9a05a768a380db3802230daa8bf7846"
+    },
+    {
+      "file": "EXTRACT_RELEASE_WINDOWS.cmd",
+      "bytes": 716,
+      "sha256": "b5372d85b5c18dd314483327c0c1b6b259df8ccc8c85484f4636347131c15158"
+    },
+    {
+      "file": "EXTRACT_ALL_README.txt",
+      "bytes": 1633,
+      "sha256": "a202c672053ed0ad4524e307b268598fd41b257d9fbfb286099cee62e98948a4"
+    },
+    {
+      "file": "WINDOWS_README_KO.txt",
+      "bytes": 3464,
+      "sha256": "87af28e530a3f446c4fdb514601d41d60697fb030c75a846bd722264fcecad75"
+    }
+  ],
+  "safe_extractor": "EXTRACT_RELEASE.py",
+  "total_zip_bytes": 135542627
+}

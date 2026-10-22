@@ -1,0 +1,45 @@
+{
+  "schema": "asset-split-archives-v1",
+  "asset_count": 86,
+  "archives": [
+    {
+      "name": "B01_roads_86_PUBLIC_CONSUMER_v1.zip",
+      "bytes": 29031814,
+      "sha256": "c468c1c9ea846c2cfdcc1cbe21d5c6e8e545d5002a6d99969072a80bd6ba2c21",
+      "parts": [
+        {
+          "name": "B01_roads_86_PUBLIC_CONSUMER_v1.zip.001",
+          "bytes": 10000000,
+          "sha256": "54e95e432c2b11b2a6709166a384685f8cd5800138b2cf206c8941035ba64da3"
+        },
+        {
+          "name": "B01_roads_86_PUBLIC_CONSUMER_v1.zip.002",
+          "bytes": 10000000,
+          "sha256": "a403880401eb6cb639b0ee5243ebcf58ff24a50d0d81c41bcbfb084a4836c1c4"
+        },
+        {
+          "name": "B01_roads_86_PUBLIC_CONSUMER_v1.zip.003",
+          "bytes": 9031814,
+          "sha256": "b0a3a17310da0663b8babba9c4af22e554cc2969296c0e32a8323e6f1b6fdf71"
+        }
+      ]
+    },
+    {
+      "name": "B01_roads_86_EDITABLE_PUBLIC_v1.zip",
+      "bytes": 12831587,
+      "sha256": "3d2e4b49e2cda2b4bc63a8b3a8ea042920ed3f47414928e7230c11dcc10058a7",
+      "parts": [
+        {
+          "name": "B01_roads_86_EDITABLE_PUBLIC_v1.zip.001",
+          "bytes": 10000000,
+          "sha256": "ff297a54fc77a4d248de9b9251afa5fa7044e26b6f91fe70155d6ec782ea43da"
+        },
+        {
+          "name": "B01_roads_86_EDITABLE_PUBLIC_v1.zip.002",
+          "bytes": 2831587,
+          "sha256": "bca9ce94d2ec62c3f4ff0bf698c5ad9de2435f12efd7380b40e21a3702128298"
+        }
+      ]
+    }
+  ]
+}

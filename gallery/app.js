@@ -30,6 +30,7 @@ function validateManifest(data) {
   return data;
 }
 function renderCategories() {
+  $('category-count').textContent = state.categories.length.toLocaleString('ko-KR');
   $('categories').replaceChildren();
   for (const cat of [{id:'all', label:'전체 에셋', delivered:state.categories.reduce((n,c)=>n+c.delivered,0)}, ...state.categories]) {
     const b = document.createElement('button');

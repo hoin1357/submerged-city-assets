@@ -40,24 +40,24 @@
       ]
     },
     {
-      "name": "A04_roofs_78_EDITABLE_PUBLIC_v3.zip",
-      "bytes": 29634735,
-      "sha256": "786be3da5d4fd19390add2a6249e98ab531546cb26cffb91264b5a2c796d2894",
+      "name": "A04_roofs_78_EDITABLE_PUBLIC_v4.zip",
+      "bytes": 29633655,
+      "sha256": "a64466c309276fdfd95f50870af6d3c2c34d4baef10cebbd154f1a9be2da2e05",
       "parts": [
         {
-          "name": "A04_roofs_78_EDITABLE_PUBLIC_v3.zip.001",
+          "name": "A04_roofs_78_EDITABLE_PUBLIC_v4.zip.001",
           "bytes": 10000000,
-          "sha256": "0764cdd9196c02fc5921ba3ace7897ff9f51638eb2cd421e0b12733c54dc9843"
+          "sha256": "b4a15c36a64939108ebcfdda0025e6e9db32e5cf57867dc5561b69e7d8842f3a"
         },
         {
-          "name": "A04_roofs_78_EDITABLE_PUBLIC_v3.zip.002",
+          "name": "A04_roofs_78_EDITABLE_PUBLIC_v4.zip.002",
           "bytes": 10000000,
-          "sha256": "3ed92ee7d970419cca20fb43202c393d1228591f510291b33867e4e14b888125"
+          "sha256": "cfbf028d369234a43c0e518bcb6537b67e2c84507c934a42c639e9e82b7d743e"
         },
         {
-          "name": "A04_roofs_78_EDITABLE_PUBLIC_v3.zip.003",
-          "bytes": 9634735,
-          "sha256": "2878645c82488fac5ff09347689574973470d3d7392634a016ca0c64241a60bd"
+          "name": "A04_roofs_78_EDITABLE_PUBLIC_v4.zip.003",
+          "bytes": 9633655,
+          "sha256": "e14f108cd5c7bdca2966d61efe45c87b8b63e6ad510e090eae1c97eda9eee6f5"
         }
       ]
     }

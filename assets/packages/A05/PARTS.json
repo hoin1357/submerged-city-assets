@@ -1,0 +1,40 @@
+{
+  "schema": "asset-split-archives-v1",
+  "asset_count": 90,
+  "archives": [
+    {
+      "name": "A05_openings_90_PUBLIC_CONSUMER_v1.zip",
+      "bytes": 17119315,
+      "sha256": "8e9a079d1a5cad759058b2e1d68ee4adee2de82ecb72cde24784c87926dabbcb",
+      "parts": [
+        {
+          "name": "A05_openings_90_PUBLIC_CONSUMER_v1.zip.001",
+          "bytes": 10000000,
+          "sha256": "d2fe7218025454fd389901a7b5899dab403615ef42cff76e87b0fb7482e1dfaa"
+        },
+        {
+          "name": "A05_openings_90_PUBLIC_CONSUMER_v1.zip.002",
+          "bytes": 7119315,
+          "sha256": "2e8ec72ff4cbfdbabb9c562b5f5d5157b7b702d11965b235e952d4bb0a244b12"
+        }
+      ]
+    },
+    {
+      "name": "A05_openings_90_EDITABLE_PUBLIC_v2.zip",
+      "bytes": 10893072,
+      "sha256": "61631c5798aec1b82d44c74b1d99f664757f14ecb0856f68d1fbfec9bf35d582",
+      "parts": [
+        {
+          "name": "A05_openings_90_EDITABLE_PUBLIC_v2.zip.001",
+          "bytes": 10000000,
+          "sha256": "88bf10f304e33ca50c5e00ce3b64d796a742298e94911f2dc18c94fe0dd7fd67"
+        },
+        {
+          "name": "A05_openings_90_EDITABLE_PUBLIC_v2.zip.002",
+          "bytes": 893072,
+          "sha256": "70ac5c563d2e07c900f734018b49806a4cc4da489ebfab53a2c516c09d0c2cc3"
+        }
+      ]
+    }
+  ]
+}

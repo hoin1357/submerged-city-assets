@@ -60,6 +60,11 @@
       "id": "B04-work",
       "label": "B04 작업 트럭",
       "delivered": 10
+    },
+    {
+      "id": "EVERYDAY",
+      "label": "생활용품 · 신규",
+      "delivered": 6
     }
   ],
   "assets": [
@@ -4524,6 +4529,90 @@
         "A022-06",
         "Bifurcated twin-gable works",
         "A022",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "ENA-001",
+      "name": "빨래집게",
+      "category": "EVERYDAY",
+      "src": "./models/EVERYDAY/ENA-001_LOD0.glb",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/EVERYDAY",
+      "description": "나무 스프링 빨래집게 · 길이 약 7.3cm · LOD0 시각 후보. Unity·플레이어 식별·게임 물리 미검증.",
+      "tags": [
+        "생활용품",
+        "빨래집게",
+        "ENA-001",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "ENA-002",
+      "name": "TV 리모컨",
+      "category": "EVERYDAY",
+      "src": "./models/EVERYDAY/ENA-002_LOD0.glb",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/EVERYDAY",
+      "description": "20개 버튼 TV 리모컨 · 길이 약 18cm · LOD0 시각 후보. Unity·플레이어 식별·게임 물리 미검증.",
+      "tags": [
+        "생활용품",
+        "TV 리모컨",
+        "ENA-002",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "EASY-B001",
+      "name": "쓰레받기",
+      "category": "EVERYDAY",
+      "src": "./models/EVERYDAY/EASY-B001.glb",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/EVERYDAY",
+      "description": "손잡이가 있는 쓰레받기 · LOD0 시각 후보. Unity·플레이어 식별·게임 물리 미검증.",
+      "tags": [
+        "생활용품",
+        "쓰레받기",
+        "EASY-B001",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "EASY-B002",
+      "name": "칫솔",
+      "category": "EVERYDAY",
+      "src": "./models/EVERYDAY/EASY-B002.glb",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/EVERYDAY",
+      "description": "일반 수동 칫솔 · LOD0 시각 후보. Unity·플레이어 식별·게임 물리 미검증.",
+      "tags": [
+        "생활용품",
+        "칫솔",
+        "EASY-B002",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "EASY-B003",
+      "name": "슬리퍼 한 켤레",
+      "category": "EVERYDAY",
+      "src": "./models/EVERYDAY/EASY-B003.glb",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/EVERYDAY",
+      "description": "앞이 열린 슬리퍼 한 켤레 · 두 짝을 한 종류로 집계 · LOD0 시각 후보. Unity·플레이어 식별·게임 물리 미검증.",
+      "tags": [
+        "생활용품",
+        "슬리퍼 한 켤레",
+        "EASY-B003",
+        "LOD0"
+      ]
+    },
+    {
+      "id": "EASY-B004",
+      "name": "3구 멀티탭 · 미국형",
+      "category": "EVERYDAY",
+      "src": "./models/EVERYDAY/EASY-B004.glb",
+      "download": "https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/EVERYDAY",
+      "description": "미국형 콘센트 3개와 전원 스위치가 있는 멀티탭 · LOD0 시각 후보. Unity·플레이어 식별·게임 물리 미검증.",
+      "tags": [
+        "생활용품",
+        "3구 멀티탭 · 미국형",
+        "EASY-B004",
         "LOD0"
       ]
     }

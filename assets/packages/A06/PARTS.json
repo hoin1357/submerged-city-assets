@@ -1,0 +1,45 @@
+{
+  "schema": "asset-split-archives-v1",
+  "asset_count": 108,
+  "archives": [
+    {
+      "name": "A06_interiors_108_PUBLIC_CONSUMER_v1.zip",
+      "bytes": 23660761,
+      "sha256": "a6418f08cc5953245a08691b2c02342898771066178c56dffcf600315525ab71",
+      "parts": [
+        {
+          "name": "A06_interiors_108_PUBLIC_CONSUMER_v1.zip.001",
+          "bytes": 10000000,
+          "sha256": "b0ced3a9fc93fce053779c637930233cba6b3c80b8a4647250825d02d23fdba0"
+        },
+        {
+          "name": "A06_interiors_108_PUBLIC_CONSUMER_v1.zip.002",
+          "bytes": 10000000,
+          "sha256": "84610c1e45e6c53a74902bcd303a3ab1e99d7e0da6b44aaccb2b5574fbf0b2e3"
+        },
+        {
+          "name": "A06_interiors_108_PUBLIC_CONSUMER_v1.zip.003",
+          "bytes": 3660761,
+          "sha256": "2ca5eacb95e6a7a8661359e2028aef39b5580d494d8c0a05aa8b3906e6a31b3e"
+        }
+      ]
+    },
+    {
+      "name": "A06_interiors_108_EDITABLE_PUBLIC_v1.zip",
+      "bytes": 18501721,
+      "sha256": "4438303764c9406db62a5a4b8c262fbf2431b34e572d0e2479e28ab726a99caf",
+      "parts": [
+        {
+          "name": "A06_interiors_108_EDITABLE_PUBLIC_v1.zip.001",
+          "bytes": 10000000,
+          "sha256": "37b900b5b8484a93595c2eaf0054103a5c6bd64ba7debcfd250baabec7d5d956"
+        },
+        {
+          "name": "A06_interiors_108_EDITABLE_PUBLIC_v1.zip.002",
+          "bytes": 8501721,
+          "sha256": "535ba65aa5590005809b449d1206295bd2d25c0ae23f6952dcfa2d1e37a51781"
+        }
+      ]
+    }
+  ]
+}

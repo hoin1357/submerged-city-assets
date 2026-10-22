@@ -6,13 +6,13 @@
 
 3D 원본과 텍스처는 [분류별 백업 폴더](https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages)에 보관합니다. 각 폴더의 README와 PARTS.json을 참고해 모든 분할 파일을 받은 후 제공된 재결합 도구로 ZIP을 복원하세요. 아직 Releases에는 에셋을 게시하지 않았습니다.
 
-**2026-10-20: GitHub 전체 묶음 백업·다운로드 검증 완료 324종 / 기존 전달본 880종.** 아래 표는 기존 전달본 목록이며 모든 항목의 GitHub 업로드 완료를 의미하지 않습니다.
+**2026-10-22: 공개 모델·편집 파일 패키지 606종.** 기존 원본 묶음 324종과 추가 건축 정리본 276종, 신규 생활용품 6종을 포함합니다. 아래 표는 기존 전달본 880종의 목록이며 모든 항목의 업로드 완료를 의미하지 않습니다.
 
 검증된 백업: [A01 구조 126종](https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01), [A02 비주거 78종](https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential), [A02 주택 54종](https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-residential), [A03 랜드마크 66종](https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03).
 
-각 묶음은 공개 다운로드 바이트와 원본 SHA-256 일치를 확인했습니다.
+위의 기존 네 묶음은 공개 다운로드 바이트와 원본 SHA-256 일치를 확인했습니다.
 
-**2026-10-22 추가: [A04 지붕·옥상 78종](assets/packages/A04)의 사용용 FBX·텍스처·미리보기와 편집용 Blender 정리본을 공개했습니다.** 분할 파일 9개와 복원 ZIP 2개의 공개 다운로드 SHA-256 및 ZIP CRC를 확인했습니다. 기존 324종과 합쳐 모델 백업 범위는 402종입니다. A04 정리본에는 생성 코드·과거 작업 이력·외부 참고 사진이 없으므로 원본 제작 프로젝트 전체의 무손실 백업은 아닙니다. 3D 갤러리 연결 수량과는 별개입니다.
+추가 공개 정리본: [A04 지붕·옥상 78종](assets/packages/A04), [A05 출입구·창호 90종](assets/packages/A05), [A06 실내 건축 108종](assets/packages/A06), [신규 생활용품 6종](assets/packages/EVERYDAY). 모델·텍스처와 편집용 Blender 파일을 포함합니다. 경로 및 비시각 메타데이터를 정리했으며 생성 코드·과거 작업 이력·외부 참고 사진은 제외되어 전체 제작 프로젝트의 무손실 백업은 아닙니다. 저장소 Git 객체 해시를 로컬 바이트의 객체 해시와 대조하며, 전체 파일 재다운로드 검증과는 구분합니다.
 
 | 분류 | 고유 에셋 수 |
 |---|---:|
@@ -46,7 +46,7 @@ LOD·충돌 메시·색상 변형은 별도 고유 에셋으로 세지 않습니
 
 [갤러리 소스](gallery/) · [갤러리 열기](https://hoin1357.github.io/submerged-city-assets/gallery/)
 
-갤러리는 GitHub Pages에서 공개 중입니다. 현재 실제 glTF 연결은 **306종(A01 126/126, A02 비주거 78/78, A02 주거 54/54, A03 48/66)**입니다. 전체 백업 수량과 3D 미리보기 연결 수량은 다릅니다. WebGL을 지원하는 브라우저가 필요합니다.
+갤러리는 GitHub Pages에서 공개 중입니다. 현재 실제 glTF 연결은 **312종(A01 126/126, A02 비주거 78/78, A02 주거 54/54, A03 48/66, 신규 생활용품 6/6)**입니다. 전체 백업 수량과 3D 미리보기 연결 수량은 다릅니다. WebGL을 지원하는 브라우저가 필요합니다.
 
 한국어 검색·카테고리 탐색, 드래그 회전, 휠/두 손가락 확대, 자동 회전, 시점 초기화와 원본 다운로드를 지원합니다. 실제 모델은 `gallery/manifest.json`의 `assets`에 `id`, `name`, `category`, `src`를 등록합니다. 파일 주소는 manifest 위치 기준이며, 외부 주소는 CORS가 필요합니다. `tags`, `description`, `download`는 선택 항목입니다. glTF는 참조 버퍼와 텍스처를 함께 보관하세요.
 

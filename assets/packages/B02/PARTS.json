@@ -1,0 +1,40 @@
+{
+  "schema": "asset-split-archives-v1",
+  "asset_count": 96,
+  "archives": [
+    {
+      "name": "B02_street_96_PUBLIC_CONSUMER_v1.zip",
+      "bytes": 18610702,
+      "sha256": "75d3c3c360a8c889c68aebe5e6d05d65f974e27bae60fda2daaa83e59e9baa9b",
+      "parts": [
+        {
+          "name": "B02_street_96_PUBLIC_CONSUMER_v1.zip.001",
+          "bytes": 10000000,
+          "sha256": "b378e5af5a3e10319cb23031ce1588d35f1c43a8d158d23604007f547b9091ba"
+        },
+        {
+          "name": "B02_street_96_PUBLIC_CONSUMER_v1.zip.002",
+          "bytes": 8610702,
+          "sha256": "2590ab346ae4108af88963443ff604b37c17afc918f283c30806d9b5ccb2ca24"
+        }
+      ]
+    },
+    {
+      "name": "B02_street_96_EDITABLE_PUBLIC_v1.zip",
+      "bytes": 12060511,
+      "sha256": "6393300f7a40fe5decdf86dedd8b6031fd13c9077d91ff135290bef4c9d80ce3",
+      "parts": [
+        {
+          "name": "B02_street_96_EDITABLE_PUBLIC_v1.zip.001",
+          "bytes": 10000000,
+          "sha256": "9bd9b3b3452e9c2279cd43afbee5e95bad2e39b1dbca5d827b2586235ab588bc"
+        },
+        {
+          "name": "B02_street_96_EDITABLE_PUBLIC_v1.zip.002",
+          "bytes": 2060511,
+          "sha256": "d94000a980fc99b23751f8490ab5e1ab469fb95bf2a99b77d764fbc8f8411893"
+        }
+      ]
+    }
+  ]
+}

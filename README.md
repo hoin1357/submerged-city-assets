@@ -6,13 +6,13 @@
 
 3D 원본과 텍스처는 [분류별 백업 폴더](https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages)에 보관합니다. 각 폴더의 README와 PARTS.json을 참고해 모든 분할 파일을 받은 후 제공된 재결합 도구로 ZIP을 복원하세요. 아직 Releases에는 에셋을 게시하지 않았습니다.
 
-**2026-10-22: 공개 모델·편집 파일 패키지 692종.** 기존 원본 묶음 324종과 추가 건축·도로 정리본 362종, 신규 생활용품 6종을 포함합니다. 아래 표는 기존 전달본 880종의 목록이며 모든 항목의 업로드 완료를 의미하지 않습니다.
+**2026-10-22: 공개 모델·편집 파일 패키지 788종.** 기존 원본 묶음 324종과 추가 건축·가로시설 정리본 458종, 신규 생활용품 6종을 포함합니다. 아래 표는 기존 전달본 880종의 목록이며 모든 항목의 업로드 완료를 의미하지 않습니다.
 
 검증된 백업: [A01 구조 126종](https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01), [A02 비주거 78종](https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential), [A02 주택 54종](https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-residential), [A03 랜드마크 66종](https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03).
 
 위의 기존 네 묶음은 공개 다운로드 바이트와 원본 SHA-256 일치를 확인했습니다.
 
-추가 공개 정리본: [A04 지붕·옥상 78종](assets/packages/A04), [A05 출입구·창호 90종](assets/packages/A05), [A06 실내 건축 108종](assets/packages/A06), [B01 도로·보도 86종](assets/packages/B01), [신규 생활용품 6종](assets/packages/EVERYDAY). 모델·텍스처와 편집용 Blender 파일을 포함합니다. 경로 및 비시각 메타데이터를 정리했으며 생성 코드·과거 작업 이력·외부 참고 사진은 제외되어 전체 제작 프로젝트의 무손실 백업은 아닙니다. 저장소 Git 객체 해시를 로컬 바이트의 객체 해시와 대조하며, 전체 파일 재다운로드 검증과는 구분합니다.
+추가 공개 정리본: [A04 지붕·옥상 78종](assets/packages/A04), [A05 출입구·창호 90종](assets/packages/A05), [A06 실내 건축 108종](assets/packages/A06), [B01 도로·보도 86종](assets/packages/B01), [B02 가로시설 96종](assets/packages/B02), [신규 생활용품 6종](assets/packages/EVERYDAY). 모델·텍스처와 편집용 Blender 파일을 포함합니다. 경로 및 비시각 메타데이터를 정리했으며 생성 코드·과거 작업 이력·외부 참고 사진은 제외되어 전체 제작 프로젝트의 무손실 백업은 아닙니다. 저장소 Git 객체 해시를 로컬 바이트의 객체 해시와 대조하며, 전체 파일 재다운로드 검증과는 구분합니다.
 
 | 분류 | 고유 에셋 수 |
 |---|---:|

@@ -1,0 +1,80 @@
+{
+  "schema": "asset-split-archives-v1",
+  "asset_count": 10,
+  "archives": [
+    {
+      "name": "B04_WORKTRUCK10_PUBLIC_CONSUMER_v1.zip",
+      "bytes": 73775383,
+      "sha256": "3fd20e71dda94765f554b908fddbd6b0806e724a58ea11a3dbdc8d2084cfbff2",
+      "parts": [
+        {
+          "name": "B04_WORKTRUCK10_PUBLIC_CONSUMER_v1.zip.part001",
+          "bytes": 9750000,
+          "sha256": "2fb2fccaa8b0ccebe70a9a07e3f7865b3dbb86b483b28de2ac3bed644fb05588"
+        },
+        {
+          "name": "B04_WORKTRUCK10_PUBLIC_CONSUMER_v1.zip.part002",
+          "bytes": 9750000,
+          "sha256": "5d1be840da44eb0a0e417bb6e49430211aff7939bc44a361de4bc7242ddc832f"
+        },
+        {
+          "name": "B04_WORKTRUCK10_PUBLIC_CONSUMER_v1.zip.part003",
+          "bytes": 9750000,
+          "sha256": "d9003a565cafd4deb744d81021d5f92222dfc6eb9b53ed5ade8c3b57e74c9342"
+        },
+        {
+          "name": "B04_WORKTRUCK10_PUBLIC_CONSUMER_v1.zip.part004",
+          "bytes": 9750000,
+          "sha256": "e5192e54dbee340402574f5b1ec26bfc5f6c15688c6247e89925f925a925976b"
+        },
+        {
+          "name": "B04_WORKTRUCK10_PUBLIC_CONSUMER_v1.zip.part005",
+          "bytes": 9750000,
+          "sha256": "0f1b82977269b5dd125dafc5fc7a92e470411005b323be181959087593face92"
+        },
+        {
+          "name": "B04_WORKTRUCK10_PUBLIC_CONSUMER_v1.zip.part006",
+          "bytes": 9750000,
+          "sha256": "ae2ff7ef299d58df0135aebad04ee7a753b413844e4f9b28c69e51acd2060d8c"
+        },
+        {
+          "name": "B04_WORKTRUCK10_PUBLIC_CONSUMER_v1.zip.part007",
+          "bytes": 9750000,
+          "sha256": "dcff751632212902fbb0154d3d179e082612499806d93da7664ccbd531f72ce7"
+        },
+        {
+          "name": "B04_WORKTRUCK10_PUBLIC_CONSUMER_v1.zip.part008",
+          "bytes": 5525383,
+          "sha256": "45995859405eb54bad5f83f71102dd0d1752bb78b49c8e5dc69e2a31d80d46ae"
+        }
+      ]
+    },
+    {
+      "name": "B04_WORKTRUCK10_PUBLIC_EDITABLE_v1.zip",
+      "bytes": 36551925,
+      "sha256": "a571a1cc81ab4716c444c2e98a827d3380d7ad7a2a9b25ede41674f9673ade4d",
+      "parts": [
+        {
+          "name": "B04_WORKTRUCK10_PUBLIC_EDITABLE_v1.zip.part001",
+          "bytes": 9750000,
+          "sha256": "7ed4a5fd8d51de4cc1bdb40608ceda30f1eac60134c2899538d14c3cccf27154"
+        },
+        {
+          "name": "B04_WORKTRUCK10_PUBLIC_EDITABLE_v1.zip.part002",
+          "bytes": 9750000,
+          "sha256": "446dc4811b98ba04bb939ca711dc2c505329f9784ce201561f8bfd4caae954bf"
+        },
+        {
+          "name": "B04_WORKTRUCK10_PUBLIC_EDITABLE_v1.zip.part003",
+          "bytes": 9750000,
+          "sha256": "46de628e620ef919df32c8a4128fbeb9a546118ed1157aafe9de27feafb0aa97"
+        },
+        {
+          "name": "B04_WORKTRUCK10_PUBLIC_EDITABLE_v1.zip.part004",
+          "bytes": 7301925,
+          "sha256": "320fb665b3ca6d825e098337f6b33294bb059ee863593a27d9171480a4e35da7"
+        }
+      ]
+    }
+  ]
+}

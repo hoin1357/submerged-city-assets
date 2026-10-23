@@ -1,0 +1,93 @@
+{
+  "schema": "asset-split-archives-v1",
+  "asset_count": 29,
+  "archives": [
+    {
+      "name": "Household29_representatives_public_v1.zip",
+      "bytes": 147405527,
+      "sha256": "0936186811f98eb95aef412c13e86d9326a7d756c25daeb873ed0b5bd70f1d08",
+      "parts": [
+        {
+          "name": "Household29_representatives_public_v1.zip.part01",
+          "bytes": 9750000,
+          "sha256": "afd78cc235b39220e250cf61ac49a809a8e1f7e3c8adea1c5bf8be175ffc3624"
+        },
+        {
+          "name": "Household29_representatives_public_v1.zip.part02",
+          "bytes": 9750000,
+          "sha256": "1a58523c457a473314476c45508fe4509fb38cc41e6a7374186ed20b7fb3f5b7"
+        },
+        {
+          "name": "Household29_representatives_public_v1.zip.part03",
+          "bytes": 9750000,
+          "sha256": "92249226a023e3005c2d521ebad791dfbbf45db92fb546f69771b1d9c6a681f6"
+        },
+        {
+          "name": "Household29_representatives_public_v1.zip.part04",
+          "bytes": 9750000,
+          "sha256": "0940ca9c747c8b4762fcd470b7182cae2ed78e8ee4bf73c2179f0579d1f9a17a"
+        },
+        {
+          "name": "Household29_representatives_public_v1.zip.part05",
+          "bytes": 9750000,
+          "sha256": "1bda59ba22e92d95cdbb756ecef4eb34dc1435334182332ae661d8bc366eabc5"
+        },
+        {
+          "name": "Household29_representatives_public_v1.zip.part06",
+          "bytes": 9750000,
+          "sha256": "4adff568136d0964b47da63a80c8f936f086c0cafff2c9aa718dfc94ae08e4e2"
+        },
+        {
+          "name": "Household29_representatives_public_v1.zip.part07",
+          "bytes": 9750000,
+          "sha256": "995e2a73bff1619c2c949b76cde50ab5b67cd299cfcabe55be07d308737a0122"
+        },
+        {
+          "name": "Household29_representatives_public_v1.zip.part08",
+          "bytes": 9750000,
+          "sha256": "8bc3870f5526876f8e7e60b461f89e4fbc9eed3c4e7b71814f671820239350c9"
+        },
+        {
+          "name": "Household29_representatives_public_v1.zip.part09",
+          "bytes": 9750000,
+          "sha256": "1a9b316108524aaffebdf99790b6e4f3bde05e3bd18f73ba9a305ce889587ebe"
+        },
+        {
+          "name": "Household29_representatives_public_v1.zip.part10",
+          "bytes": 9750000,
+          "sha256": "0d855c1db82635f172f6b641d0fe0aeb638ce2ec654ff59b626b08cbd4afae43"
+        },
+        {
+          "name": "Household29_representatives_public_v1.zip.part11",
+          "bytes": 9750000,
+          "sha256": "5267c9c70e4b2da8d89dad100433cb928ff567adcf391d45900d54f6e187c714"
+        },
+        {
+          "name": "Household29_representatives_public_v1.zip.part12",
+          "bytes": 9750000,
+          "sha256": "3ff927fcb70459bc801c1aca01ff2426e33a23bea18215fbfde73cb793348c5a"
+        },
+        {
+          "name": "Household29_representatives_public_v1.zip.part13",
+          "bytes": 9750000,
+          "sha256": "ef5acc955a7fe28f7bc7235134c69da952b994794cda675c191f94c9e027cc8e"
+        },
+        {
+          "name": "Household29_representatives_public_v1.zip.part14",
+          "bytes": 9750000,
+          "sha256": "590c5b0b1ad7d8d807b1cbdb96b6f57bcf33f1186d8119fec8be9fbf92e0b39c"
+        },
+        {
+          "name": "Household29_representatives_public_v1.zip.part15",
+          "bytes": 9750000,
+          "sha256": "b94b734b8951ef070d4f96faded2680d86b7445e5d2c7b5ee8f49a6aa95535c6"
+        },
+        {
+          "name": "Household29_representatives_public_v1.zip.part16",
+          "bytes": 1155527,
+          "sha256": "d6f5e0c8728b67b7467416e1f08d1b55e17020db4199e7fa02f851803965b341"
+        }
+      ]
+    }
+  ]
+}

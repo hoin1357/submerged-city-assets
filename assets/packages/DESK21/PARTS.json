@@ -1,0 +1,28 @@
+{
+  "schema": "asset-split-archives-v1",
+  "asset_count": 21,
+  "archives": [
+    {
+      "name": "DESK_AUDIO_21_PUBLIC.zip",
+      "bytes": 25784346,
+      "sha256": "4b6c1772e9909036e6fd7c7794cf523101f6aa62a66e6c127436263ab876e242",
+      "parts": [
+        {
+          "name": "DESK_AUDIO_21_PUBLIC.zip.part001",
+          "bytes": 9750000,
+          "sha256": "6ac181753826bb13eda792d4b1ac350c6419c9adc17ca5cdfd4ca97038fc3fab"
+        },
+        {
+          "name": "DESK_AUDIO_21_PUBLIC.zip.part002",
+          "bytes": 9750000,
+          "sha256": "07abbf3ae31089e78ed082db5b2d6996e807137bdb18d81e145cb472cf56f528"
+        },
+        {
+          "name": "DESK_AUDIO_21_PUBLIC.zip.part003",
+          "bytes": 6284346,
+          "sha256": "bee13a8e5e93561d424b7e96e382ab355eca1d446c88ced660ba7ae7ebb1d321"
+        }
+      ]
+    }
+  ]
+}

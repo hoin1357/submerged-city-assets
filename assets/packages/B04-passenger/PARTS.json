@@ -1,0 +1,80 @@
+{
+  "schema": "asset-split-archives-v1",
+  "asset_count": 12,
+  "archives": [
+    {
+      "name": "B04_PASSENGER12_PUBLIC_CONSUMER_v1.zip",
+      "bytes": 75157194,
+      "sha256": "189c988219867814185ad2de03fa363b0c8f19f2481d3de461d59e0e8bb168d0",
+      "parts": [
+        {
+          "name": "B04_PASSENGER12_PUBLIC_CONSUMER_v1.zip.part001",
+          "bytes": 9750000,
+          "sha256": "d21a5d69ed0ff7fb73a2c1f5f00c255d9ee3ed0b609baf3c9aae59a894452fb0"
+        },
+        {
+          "name": "B04_PASSENGER12_PUBLIC_CONSUMER_v1.zip.part002",
+          "bytes": 9750000,
+          "sha256": "75af7ae955cf8802535809a70b99e08cb908c7df240521bda72411f5eda9a406"
+        },
+        {
+          "name": "B04_PASSENGER12_PUBLIC_CONSUMER_v1.zip.part003",
+          "bytes": 9750000,
+          "sha256": "f40971f6119c8fa07b45bc3278d0f5a25bbef12b2e437485dbaefbf54367e1d6"
+        },
+        {
+          "name": "B04_PASSENGER12_PUBLIC_CONSUMER_v1.zip.part004",
+          "bytes": 9750000,
+          "sha256": "a10910af50c1fe71b367cad633475c602c35ba6fe9db0bbb353a0f746426bc8d"
+        },
+        {
+          "name": "B04_PASSENGER12_PUBLIC_CONSUMER_v1.zip.part005",
+          "bytes": 9750000,
+          "sha256": "590f02f6eb45c39f1cb98f05798e81f91ab586288c11da0b15f9e193dd152792"
+        },
+        {
+          "name": "B04_PASSENGER12_PUBLIC_CONSUMER_v1.zip.part006",
+          "bytes": 9750000,
+          "sha256": "17601352ba534db6e467e54991ebc9b4d10ac84e5eefcb61dbfcee05499b3102"
+        },
+        {
+          "name": "B04_PASSENGER12_PUBLIC_CONSUMER_v1.zip.part007",
+          "bytes": 9750000,
+          "sha256": "9c2bf129a8cc2fb7c01279d5ca3f0fb3d5fcd5b60ec7b0193e5d309aa9c2f256"
+        },
+        {
+          "name": "B04_PASSENGER12_PUBLIC_CONSUMER_v1.zip.part008",
+          "bytes": 6907194,
+          "sha256": "8a5062428a0fc9352bf3dd3ffee7ab457a6fed1553e9043e64f9859efa82765b"
+        }
+      ]
+    },
+    {
+      "name": "B04_PASSENGER12_PUBLIC_EDITABLE_v1.zip",
+      "bytes": 32669507,
+      "sha256": "7ad01474d53cf010d7ec48c282b7ddf9177ca3b00e4b5da300f8d10647a135ce",
+      "parts": [
+        {
+          "name": "B04_PASSENGER12_PUBLIC_EDITABLE_v1.zip.part001",
+          "bytes": 9750000,
+          "sha256": "94cafec987974413557c62150f64c1ee164391c7071242797328fb188275438f"
+        },
+        {
+          "name": "B04_PASSENGER12_PUBLIC_EDITABLE_v1.zip.part002",
+          "bytes": 9750000,
+          "sha256": "f58e299c89eee49632bec9b3dd0e7fa8763434a870bbb5260abeae59c2dfec12"
+        },
+        {
+          "name": "B04_PASSENGER12_PUBLIC_EDITABLE_v1.zip.part003",
+          "bytes": 9750000,
+          "sha256": "e091ffb9a505a7674b943e297cdaee4d20012e13e13a1ff0edc0c065db0fa2bb"
+        },
+        {
+          "name": "B04_PASSENGER12_PUBLIC_EDITABLE_v1.zip.part004",
+          "bytes": 3419507,
+          "sha256": "47e6b4e2b584b6db19ac20be5e4fa5a1fc2ba61e0707249242587b2aeceebe19"
+        }
+      ]
+    }
+  ]
+}

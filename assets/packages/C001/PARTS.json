@@ -1,0 +1,38 @@
+{
+  "schema": "asset-split-archives-v1",
+  "asset_count": 10,
+  "archives": [
+    {
+      "name": "C001_seating_representatives_public_v1.zip",
+      "bytes": 43521554,
+      "sha256": "cdb73ffc37af3ee2f51211c848cc10ad2f4630eb371576b01aa34c977c5060be",
+      "parts": [
+        {
+          "name": "C001_seating_representatives_public_v1.zip.part01",
+          "bytes": 9750000,
+          "sha256": "f2b72454b86211d16b87e1e0127bf4bbca422a0209317ac52cd628a7d73a279b"
+        },
+        {
+          "name": "C001_seating_representatives_public_v1.zip.part02",
+          "bytes": 9750000,
+          "sha256": "8723ea32a281014130553c07008c12bdd308e6317dced3a9ebd817530800cdde"
+        },
+        {
+          "name": "C001_seating_representatives_public_v1.zip.part03",
+          "bytes": 9750000,
+          "sha256": "f4af3206362fecbd8a95ac6f2c09a62da16624194c7f11fd07aa871a5b1f1e58"
+        },
+        {
+          "name": "C001_seating_representatives_public_v1.zip.part04",
+          "bytes": 9750000,
+          "sha256": "ee0093909b92e132af74c74b2d308ce6facadadee8904e51e8cd6d39d3338fb4"
+        },
+        {
+          "name": "C001_seating_representatives_public_v1.zip.part05",
+          "bytes": 4521554,
+          "sha256": "b4017de64bd070e25c018ad5587b9b1cac883827ef04502549987ec0d7b516b8"
+        }
+      ]
+    }
+  ]
+}

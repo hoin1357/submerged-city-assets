@@ -1,0 +1,43 @@
+{
+  "schema": "asset-split-archives-v1",
+  "asset_count": 40,
+  "archives": [
+    {
+      "name": "FURNITURE_LIGHTING_40_PUBLIC.zip",
+      "bytes": 55751502,
+      "sha256": "9f92e50d79bbc19d30ed828dced32f36d37341cc71c5c2828ad3092c611c24cf",
+      "parts": [
+        {
+          "name": "FURNITURE_LIGHTING_40_PUBLIC.zip.part001",
+          "bytes": 9750000,
+          "sha256": "cea966c4e2f841f8afb9e621ac44a96f92176c6f67dece70429feb671757b57e"
+        },
+        {
+          "name": "FURNITURE_LIGHTING_40_PUBLIC.zip.part002",
+          "bytes": 9750000,
+          "sha256": "83b48d80ae566f7b8a44675297f7cd100036b98d66bb73f4374cfb03e86a5031"
+        },
+        {
+          "name": "FURNITURE_LIGHTING_40_PUBLIC.zip.part003",
+          "bytes": 9750000,
+          "sha256": "985689aeccd965af756ed22e478011e3b1b69a98dd1828896d18aff58afe6017"
+        },
+        {
+          "name": "FURNITURE_LIGHTING_40_PUBLIC.zip.part004",
+          "bytes": 9750000,
+          "sha256": "d2eab96e5468c2ebb7c3b77c10a2c2a98b7659876ec81783b1c392c7920e66df"
+        },
+        {
+          "name": "FURNITURE_LIGHTING_40_PUBLIC.zip.part005",
+          "bytes": 9750000,
+          "sha256": "113588be222508d97039607d2bfe373f3ed1366ebae2f06e962f073117b01646"
+        },
+        {
+          "name": "FURNITURE_LIGHTING_40_PUBLIC.zip.part006",
+          "bytes": 7001502,
+          "sha256": "68da95ffa004eb828fd5d4e5c1a4c5f48c675ed40d442c6263b66147a6ec7c21"
+        }
+      ]
+    }
+  ]
+}

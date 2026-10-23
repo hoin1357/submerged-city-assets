@@ -6,13 +6,13 @@
 
 3D 원본과 텍스처는 [분류별 백업 폴더](https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages)에 보관합니다. 각 폴더의 README와 PARTS.json을 참고해 모든 분할 파일을 받은 후 제공된 재결합 도구로 ZIP을 복원하세요. 아직 Releases에는 에셋을 게시하지 않았습니다.
 
-**2026-10-23: 공개 모델·편집 파일 패키지 1,097개 ID.** 기존 건축·도시·차량 880종, 신규 생활용품 6종, 가구·생활·주방·사무용품 대표 버전 211개 ID를 포함합니다. 대표 버전 중 2개는 보존용 초안이며 나머지도 완성품 인증을 뜻하지 않습니다. 아래 표의 기존 880종은 모두 공개 백업에 포함되었습니다.
+**2026-10-23: 공개 모델·편집 파일 패키지 1,150개 ID.** 기존 건축·도시·차량 880종, 신규 생활용품 6종, 가구·생활·주방·사무용품 대표 버전 264개 ID를 포함합니다. 대표 버전 중 2개는 보존용 초안이며 나머지도 완성품 인증을 뜻하지 않습니다. 아래 표의 기존 880종은 모두 공개 백업에 포함되었습니다.
 
 검증된 백업: [A01 구조 126종](https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A01), [A02 비주거 78종](https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-nonresidential), [A02 주택 54종](https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A02-residential), [A03 랜드마크 66종](https://github.com/hoin1357/submerged-city-assets/tree/main/assets/packages/A03).
 
 위의 기존 네 묶음은 공개 다운로드 바이트와 원본 SHA-256 일치를 확인했습니다.
 
-추가 공개 정리본: [A04 지붕·옥상 78종](assets/packages/A04), [A05 출입구·창호 90종](assets/packages/A05), [A06 실내 건축 108종](assets/packages/A06), [B01 도로·보도 86종](assets/packages/B01), [B02 가로시설 96종](assets/packages/B02), [B03 교통시설 76종](assets/packages/B03), [승용차 12종](assets/packages/B04-passenger), [작업차량 10종](assets/packages/B04-worktruck), [신규 생활용품 6종](assets/packages/EVERYDAY), [의자·소파 10종](assets/packages/C001), [가구·조명 40종](assets/packages/FURNITURE40), [생활용품 32개 ID](assets/packages/HOUSEHOLD32), [주방 가전·식기 24개 ID](assets/packages/KITCHEN24), [생활·상점·사무용품 29개 ID](assets/packages/HOUSEHOLD29), [책상·문구·오디오 21개 ID](assets/packages/DESK21), [생활·학교·소품 32개 ID](assets/packages/EVERYDAY32), [상점·오락 23개 ID](assets/packages/SHOP23). 모델·텍스처와 편집용 Blender 파일을 포함합니다. 경로 및 비시각 메타데이터를 정리했으며 생성 코드·과거 작업 이력·외부 참고 사진은 제외되어 전체 제작 프로젝트의 무손실 백업은 아닙니다. 저장소 Git 객체 해시를 로컬 바이트의 객체 해시와 대조하며, 전체 파일 재다운로드 검증과는 구분합니다.
+추가 공개 정리본: [A04 지붕·옥상 78종](assets/packages/A04), [A05 출입구·창호 90종](assets/packages/A05), [A06 실내 건축 108종](assets/packages/A06), [B01 도로·보도 86종](assets/packages/B01), [B02 가로시설 96종](assets/packages/B02), [B03 교통시설 76종](assets/packages/B03), [승용차 12종](assets/packages/B04-passenger), [작업차량 10종](assets/packages/B04-worktruck), [신규 생활용품 6종](assets/packages/EVERYDAY), [의자·소파 10종](assets/packages/C001), [가구·조명 40종](assets/packages/FURNITURE40), [생활용품 32개 ID](assets/packages/HOUSEHOLD32), [주방 가전·식기 24개 ID](assets/packages/KITCHEN24), [생활·상점·사무용품 29개 ID](assets/packages/HOUSEHOLD29), [책상·문구·오디오 21개 ID](assets/packages/DESK21), [생활·학교·소품 32개 ID](assets/packages/EVERYDAY32), [상점·오락 23개 ID](assets/packages/SHOP23), [야외·여가 28개 ID](assets/packages/OUTDOOR28), [공구·이동·야외 25개 ID](assets/packages/WORKSHOP25). 모델·텍스처와 편집용 Blender 파일을 포함합니다. 경로 및 비시각 메타데이터를 정리했으며 생성 코드·과거 작업 이력·외부 참고 사진은 제외되어 전체 제작 프로젝트의 무손실 백업은 아닙니다. 저장소 Git 객체 해시를 로컬 바이트의 객체 해시와 대조하며, 전체 파일 재다운로드 검증과는 구분합니다.
 
 | 분류 | 고유 에셋 수 |
 |---|---:|
@@ -46,7 +46,7 @@ LOD·충돌 메시·색상 변형은 별도 고유 에셋으로 세지 않습니
 
 [갤러리 소스](gallery/) · [갤러리 열기](https://hoin1357.github.io/submerged-city-assets/gallery/)
 
-갤러리는 GitHub Pages에서 공개 중입니다. 현재 실제 glTF 연결은 **312종(A01 126/126, A02 비주거 78/78, A02 주거 54/54, A03 48/66, 신규 생활용품 6/6)**입니다. 전체 백업 수량과 3D 미리보기 연결 수량은 다릅니다. WebGL을 지원하는 브라우저가 필요합니다.
+갤러리는 GitHub Pages에서 공개 중입니다. 현재 실제 glTF 연결은 **409종(A01 126/126, A02 비주거 78/78, A02 주거 54/54, A03 48/66, 신규 생활용품 6/6, B03 76/76, 승용차 11/12, 작업차량 10/10)**입니다. 전체 백업 수량과 3D 미리보기 연결 수량은 다릅니다. B028-12는 GLB 재가져오기 시 일부 법선 차이가 발견되어 미리보기에서 제외했고 원본 백업에는 포함했습니다. [교통·차량 미리보기 제한사항](gallery/transport-preview-caveats.json)을 확인하세요. WebGL을 지원하는 브라우저가 필요합니다.
 
 한국어 검색·카테고리 탐색, 드래그 회전, 휠/두 손가락 확대, 자동 회전, 시점 초기화와 원본 다운로드를 지원합니다. 실제 모델은 `gallery/manifest.json`의 `assets`에 `id`, `name`, `category`, `src`를 등록합니다. 파일 주소는 manifest 위치 기준이며, 외부 주소는 CORS가 필요합니다. `tags`, `description`, `download`는 선택 항목입니다. glTF는 참조 버퍼와 텍스처를 함께 보관하세요.
 

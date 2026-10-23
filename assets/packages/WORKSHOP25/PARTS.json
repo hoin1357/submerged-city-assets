@@ -1,0 +1,43 @@
+{
+  "schema": "asset-split-archives-v1",
+  "asset_count": 25,
+  "archives": [
+    {
+      "name": "WORKSHOP_OUTDOOR_25_PUBLIC.zip",
+      "bytes": 56115938,
+      "sha256": "0608fc35ffe3505ab8b390052d65d2940607fd596d893311aa0df024443183c2",
+      "parts": [
+        {
+          "name": "WORKSHOP_OUTDOOR_25_PUBLIC.zip.part001",
+          "bytes": 9750000,
+          "sha256": "912a17d18e83d5ce0d1205a1dc46955ba0e4fd756890bd7dc166455459ec0d7d"
+        },
+        {
+          "name": "WORKSHOP_OUTDOOR_25_PUBLIC.zip.part002",
+          "bytes": 9750000,
+          "sha256": "c5c646d0b4221f4d5aa79dc757681970ef479eec29c00d0013a15b4920b0b802"
+        },
+        {
+          "name": "WORKSHOP_OUTDOOR_25_PUBLIC.zip.part003",
+          "bytes": 9750000,
+          "sha256": "0a87b1232e9f54df335cf0d3631be5f830ee728a53f965e4679f1aa3cef2f017"
+        },
+        {
+          "name": "WORKSHOP_OUTDOOR_25_PUBLIC.zip.part004",
+          "bytes": 9750000,
+          "sha256": "8baf23af4ea35751359e39dcf75c73571213bf5fb7a9396b873b7cfb922aa937"
+        },
+        {
+          "name": "WORKSHOP_OUTDOOR_25_PUBLIC.zip.part005",
+          "bytes": 9750000,
+          "sha256": "87e7a739e15562852f7f32d024bdcf2528ae367ba92f80b575185df943b8d790"
+        },
+        {
+          "name": "WORKSHOP_OUTDOOR_25_PUBLIC.zip.part006",
+          "bytes": 7365938,
+          "sha256": "62a387628801e08261bf9d16ad374bb3023371bc1e4975228f0b793713036e9b"
+        }
+      ]
+    }
+  ]
+}

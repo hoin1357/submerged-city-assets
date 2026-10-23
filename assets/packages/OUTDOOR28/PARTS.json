@@ -1,0 +1,108 @@
+{
+  "schema": "asset-split-archives-v1",
+  "asset_count": 28,
+  "archives": [
+    {
+      "name": "Outdoor28_representatives_public_v1.zip",
+      "bytes": 179094456,
+      "sha256": "932f06199325d21ed78e750fb0f278c308798a3a17936a94146a1f5e248f9c93",
+      "parts": [
+        {
+          "name": "Outdoor28_representatives_public_v1.zip.part01",
+          "bytes": 9750000,
+          "sha256": "f2ec44e4bc8694590c70c969d2c410c3de3537fec5a888d54af41a93ecd5e422"
+        },
+        {
+          "name": "Outdoor28_representatives_public_v1.zip.part02",
+          "bytes": 9750000,
+          "sha256": "b099aea1e6a118ff6da4820f615e913b43e5b129c4e2dd2d5ffd21da55f87e3f"
+        },
+        {
+          "name": "Outdoor28_representatives_public_v1.zip.part03",
+          "bytes": 9750000,
+          "sha256": "ddccfac3188e4f2737f123db6b42207f35dfe2682a7126aa335a627464cacb38"
+        },
+        {
+          "name": "Outdoor28_representatives_public_v1.zip.part04",
+          "bytes": 9750000,
+          "sha256": "8d5555b3333692999ccbaa80794b3c2f5db6923e74949ee16c85d00ff2fbef44"
+        },
+        {
+          "name": "Outdoor28_representatives_public_v1.zip.part05",
+          "bytes": 9750000,
+          "sha256": "e8738ebe62ecf009bdea74013976f6c89dfb7275e014d17cf73ccac87a755820"
+        },
+        {
+          "name": "Outdoor28_representatives_public_v1.zip.part06",
+          "bytes": 9750000,
+          "sha256": "0343fd28cab64ccb7b64d495238d70c4fbfc6a8526f07b0bbeb21259fdf9e53a"
+        },
+        {
+          "name": "Outdoor28_representatives_public_v1.zip.part07",
+          "bytes": 9750000,
+          "sha256": "ca14350a1bd36afebec4ce8592de4340bac4ed5a0c71c8fd311eff5678d2e8f0"
+        },
+        {
+          "name": "Outdoor28_representatives_public_v1.zip.part08",
+          "bytes": 9750000,
+          "sha256": "82c695a8b77ed1854b3b32afc15b524b3ec1ee11930348e8dc197cebe708a270"
+        },
+        {
+          "name": "Outdoor28_representatives_public_v1.zip.part09",
+          "bytes": 9750000,
+          "sha256": "af87334e67fd01bacd945d27ab3f76a41386fd85089defca48807ef4c3347eb7"
+        },
+        {
+          "name": "Outdoor28_representatives_public_v1.zip.part10",
+          "bytes": 9750000,
+          "sha256": "f626a1ee6dffc10baafa3f8ccf4888ef49cb9a47991def9e5cd922d2f188fbdd"
+        },
+        {
+          "name": "Outdoor28_representatives_public_v1.zip.part11",
+          "bytes": 9750000,
+          "sha256": "cafc5a6e3c6b80523d16e9754e807d0b204228ac1ae22e6d2ef1d2a834a1cb26"
+        },
+        {
+          "name": "Outdoor28_representatives_public_v1.zip.part12",
+          "bytes": 9750000,
+          "sha256": "bf2f48076067bc11900ed57ece537d399acff9a4f9fae102d969325aeef15623"
+        },
+        {
+          "name": "Outdoor28_representatives_public_v1.zip.part13",
+          "bytes": 9750000,
+          "sha256": "b4c11e0b486046b5aac6051627057b85e0d667bfda2a49f8a41086eabf6e6e16"
+        },
+        {
+          "name": "Outdoor28_representatives_public_v1.zip.part14",
+          "bytes": 9750000,
+          "sha256": "3286394e7d0a2a96717151419d069922c1c753cd4cb61f31dfd8eb64f458c0dc"
+        },
+        {
+          "name": "Outdoor28_representatives_public_v1.zip.part15",
+          "bytes": 9750000,
+          "sha256": "b23f24dc4fc58c860ddd247cfe3c26ff259d98b2d94f0895993daf76e5fb327f"
+        },
+        {
+          "name": "Outdoor28_representatives_public_v1.zip.part16",
+          "bytes": 9750000,
+          "sha256": "c3db2d4fbfc0dde1643d2117ce8b7ae6a2d0f5e0bd5545097d1d1f8cf6f0858d"
+        },
+        {
+          "name": "Outdoor28_representatives_public_v1.zip.part17",
+          "bytes": 9750000,
+          "sha256": "5fce86e3d6bfe29262a0ce99a37a565801a04bc5eef674d05ca419fee47fa882"
+        },
+        {
+          "name": "Outdoor28_representatives_public_v1.zip.part18",
+          "bytes": 9750000,
+          "sha256": "7b03357dc46c6126fa6ccb1aa7c4d2b3b77eca2d5b8a131f0f07c78e2684a045"
+        },
+        {
+          "name": "Outdoor28_representatives_public_v1.zip.part19",
+          "bytes": 3594456,
+          "sha256": "327b508807352bc059a70db0a6223e889c686dc08681cf1cd670428c7a9a92fc"
+        }
+      ]
+    }
+  ]
+}

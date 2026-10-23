@@ -1,0 +1,85 @@
+{
+  "schema": "asset-split-archives-v1",
+  "asset_count": 76,
+  "archives": [
+    {
+      "name": "B03_Transit76_PUBLIC_CONSUMER.zip",
+      "bytes": 99398824,
+      "sha256": "4eaf57a6637c2a8149764945b64440dbb5d200a4291c8efe42e74150754d6269",
+      "parts": [
+        {
+          "name": "B03_Transit76_PUBLIC_CONSUMER.zip.part001",
+          "bytes": 9750000,
+          "sha256": "6b0d0e953e581715e1ebb2b48942f84c1fca3407c8c7e79f1c6295e1e06b6fc0"
+        },
+        {
+          "name": "B03_Transit76_PUBLIC_CONSUMER.zip.part002",
+          "bytes": 9750000,
+          "sha256": "ebb0b53cc825689cb3a24bfcdcc195a4be70f16b6a3d09367304e8ff3440c04f"
+        },
+        {
+          "name": "B03_Transit76_PUBLIC_CONSUMER.zip.part003",
+          "bytes": 9750000,
+          "sha256": "d36614928e0fc7d17d27847a3131b1f395ce0f2cb254db459d4c486152b2f721"
+        },
+        {
+          "name": "B03_Transit76_PUBLIC_CONSUMER.zip.part004",
+          "bytes": 9750000,
+          "sha256": "fdd740cc3645c98ce239b1bae26679f0da148f97f9779791e7fc9ac739e51ef2"
+        },
+        {
+          "name": "B03_Transit76_PUBLIC_CONSUMER.zip.part005",
+          "bytes": 9750000,
+          "sha256": "5d724d1e9e6b1a0f942d52bfaedc3fa7ecbec01d4c9e857a93b380d2df29dcbf"
+        },
+        {
+          "name": "B03_Transit76_PUBLIC_CONSUMER.zip.part006",
+          "bytes": 9750000,
+          "sha256": "01068c5c24110be8f792bf2a337f239c676521f65d1d4da4b7a42245bde4e6a0"
+        },
+        {
+          "name": "B03_Transit76_PUBLIC_CONSUMER.zip.part007",
+          "bytes": 9750000,
+          "sha256": "bd93fcad6f0b638bf64a2562300fd29acd068b5020b80e4ca00d8232368b2253"
+        },
+        {
+          "name": "B03_Transit76_PUBLIC_CONSUMER.zip.part008",
+          "bytes": 9750000,
+          "sha256": "f80ab2bd083efc4562485a0382f6b34c2b4a95ee87732a1e31f0a10b1ba1d66b"
+        },
+        {
+          "name": "B03_Transit76_PUBLIC_CONSUMER.zip.part009",
+          "bytes": 9750000,
+          "sha256": "94f3ddc38460e0eeb10cc2b1db139db22c3f68071ed3e8063587c7eef4133f10"
+        },
+        {
+          "name": "B03_Transit76_PUBLIC_CONSUMER.zip.part010",
+          "bytes": 9750000,
+          "sha256": "4d07d86dc22f39edd397f6b18b11490a376db190ef9a35c316e70d2ebf9b26b8"
+        },
+        {
+          "name": "B03_Transit76_PUBLIC_CONSUMER.zip.part011",
+          "bytes": 1898824,
+          "sha256": "6a2b5b5e41b6ec78c0182b8983082bd1ec4b9b8139ba81214ddffda14972e853"
+        }
+      ]
+    },
+    {
+      "name": "B03_Transit76_PUBLIC_EDITABLE.zip",
+      "bytes": 13093370,
+      "sha256": "8fe6fa9cf855e0069bc7ecd7ccd28a08b7ba23b0fb4c0347ce783e6424a4c448",
+      "parts": [
+        {
+          "name": "B03_Transit76_PUBLIC_EDITABLE.zip.part001",
+          "bytes": 9750000,
+          "sha256": "a73ca5b03da94a1c290e6ef0adf27f240b857546fa37cf473a5d1552628de958"
+        },
+        {
+          "name": "B03_Transit76_PUBLIC_EDITABLE.zip.part002",
+          "bytes": 3343370,
+          "sha256": "1e6110f23f43d9807fa580afc4e3797b35c4bf72ed52b0c72751994fc9d65173"
+        }
+      ]
+    }
+  ]
+}

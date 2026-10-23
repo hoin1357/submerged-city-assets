@@ -1,0 +1,28 @@
+{
+  "schema": "asset-split-archives-v1",
+  "asset_count": 24,
+  "archives": [
+    {
+      "name": "KITCHEN_TABLEWARE_24_PUBLIC.zip",
+      "bytes": 27866439,
+      "sha256": "f36e492ae70b9a67965809eaae49d107779c4e08c4e2d79d44f42b1d56a9ae78",
+      "parts": [
+        {
+          "name": "KITCHEN_TABLEWARE_24_PUBLIC.zip.part001",
+          "bytes": 9750000,
+          "sha256": "f6895baab765aac7b50e87003001a0b5e9a1ac6d9a0104a26a29dc8be60fb5c4"
+        },
+        {
+          "name": "KITCHEN_TABLEWARE_24_PUBLIC.zip.part002",
+          "bytes": 9750000,
+          "sha256": "64c25fd4b3e0da4fcbe68d2d0ed58bb036406e724f20f4d8af18ae916afb2f2e"
+        },
+        {
+          "name": "KITCHEN_TABLEWARE_24_PUBLIC.zip.part003",
+          "bytes": 8366439,
+          "sha256": "608ceb12e0e989f8566d243b3c4ff2397961edbf558f3455cb5d3072890c0317"
+        }
+      ]
+    }
+  ]
+}

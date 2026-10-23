@@ -1,0 +1,68 @@
+{
+  "schema": "asset-split-archives-v1",
+  "asset_count": 32,
+  "archives": [
+    {
+      "name": "Household32_representatives_public_v1.zip",
+      "bytes": 106731641,
+      "sha256": "ac51373445f798271a4d2b6b88efe8791e03c81b9e61a98152697efc5c1a195b",
+      "parts": [
+        {
+          "name": "Household32_representatives_public_v1.zip.part01",
+          "bytes": 9750000,
+          "sha256": "afc50b7ec64501e5ce77c29a5642392006ca91b533272b6295de9c6931ecadc6"
+        },
+        {
+          "name": "Household32_representatives_public_v1.zip.part02",
+          "bytes": 9750000,
+          "sha256": "d6b84e4abf0a24dc4c36577f00b415b81aa6e99186a50ccaa10550bdcce9bb19"
+        },
+        {
+          "name": "Household32_representatives_public_v1.zip.part03",
+          "bytes": 9750000,
+          "sha256": "c766ddce1d8c602b628008d4c5ab3e77624d42ad015b9a22b95a88e07d3fea76"
+        },
+        {
+          "name": "Household32_representatives_public_v1.zip.part04",
+          "bytes": 9750000,
+          "sha256": "977bae534fea93543190d24b658e334e9f1db80ecf6f82f17cb03e7a422b2b69"
+        },
+        {
+          "name": "Household32_representatives_public_v1.zip.part05",
+          "bytes": 9750000,
+          "sha256": "389ee0bbb687e1a269fced1c421a8e5f7abc1acd55832fbca990fc77e24ffd2a"
+        },
+        {
+          "name": "Household32_representatives_public_v1.zip.part06",
+          "bytes": 9750000,
+          "sha256": "2b4c882b393703d67bde79d659eb816ea1b72856397d855b3730615e01831973"
+        },
+        {
+          "name": "Household32_representatives_public_v1.zip.part07",
+          "bytes": 9750000,
+          "sha256": "d285d1b6abd1c17b9c523a7f04917acaacc6a826eb7ef00eb5555fa44cbce70b"
+        },
+        {
+          "name": "Household32_representatives_public_v1.zip.part08",
+          "bytes": 9750000,
+          "sha256": "77c7d39ba5fa71276d60fafd9a8d6f762ed455c2f2cf5f51feaf90d5d7d302f8"
+        },
+        {
+          "name": "Household32_representatives_public_v1.zip.part09",
+          "bytes": 9750000,
+          "sha256": "ac2aea0c4f3b568e1760d29c5d34b678b919036f76402de6c010b18e21acddd3"
+        },
+        {
+          "name": "Household32_representatives_public_v1.zip.part10",
+          "bytes": 9750000,
+          "sha256": "84c7bebe5ba675f6f324ed769dbc9e6fd77cf18fb92712d4e722fa116a65f535"
+        },
+        {
+          "name": "Household32_representatives_public_v1.zip.part11",
+          "bytes": 9231641,
+          "sha256": "16aca2c61ba2550d195e6ac55a4a9aeef8787bed24034145fb458d621f87a886"
+        }
+      ]
+    }
+  ]
+}

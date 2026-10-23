@@ -1,0 +1,38 @@
+{
+  "schema": "asset-split-archives-v1",
+  "asset_count": 23,
+  "archives": [
+    {
+      "name": "SHOP_LEISURE_23_PUBLIC.zip",
+      "bytes": 39691240,
+      "sha256": "84848521cef3f6e21ea72023ef6b6e727d62687de2b3743edd1dcbab3069b715",
+      "parts": [
+        {
+          "name": "SHOP_LEISURE_23_PUBLIC.zip.part001",
+          "bytes": 9750000,
+          "sha256": "9f82258051ed3fdf04288963d94cabc694a56ecaea91adb33d4dd9373d62996b"
+        },
+        {
+          "name": "SHOP_LEISURE_23_PUBLIC.zip.part002",
+          "bytes": 9750000,
+          "sha256": "91bc490dee72be9d0ccc9ffb40e8a57ed8edd7349c4c0fc2836139183aa9d389"
+        },
+        {
+          "name": "SHOP_LEISURE_23_PUBLIC.zip.part003",
+          "bytes": 9750000,
+          "sha256": "f4877b8eacf23e0fdbedbf50ec825d5f416662c8256bdefc784b39409c626dc9"
+        },
+        {
+          "name": "SHOP_LEISURE_23_PUBLIC.zip.part004",
+          "bytes": 9750000,
+          "sha256": "49661e0f86444f113ebb69909b07ef560e2d461e968c0e09cd02d55d57c58f76"
+        },
+        {
+          "name": "SHOP_LEISURE_23_PUBLIC.zip.part005",
+          "bytes": 691240,
+          "sha256": "7c4dd29fa65e03d7a5a57ef98e12b1f34f3d9657e155b62cc437941ba17aa3f8"
+        }
+      ]
+    }
+  ]
+}

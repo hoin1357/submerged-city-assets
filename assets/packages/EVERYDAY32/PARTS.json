@@ -1,0 +1,98 @@
+{
+  "schema": "asset-split-archives-v1",
+  "asset_count": 32,
+  "archives": [
+    {
+      "name": "Everyday32_representatives_public_v1.zip",
+      "bytes": 158425705,
+      "sha256": "9fd6b115e4610430e80e9d93f7d11f31fa69fb14fd950f22b3bc4cced8f5c054",
+      "parts": [
+        {
+          "name": "Everyday32_representatives_public_v1.zip.part01",
+          "bytes": 9750000,
+          "sha256": "527e98f579f9f369e7ee8915379b8d0f8e62bf4538b16e6db1b77db1e532b521"
+        },
+        {
+          "name": "Everyday32_representatives_public_v1.zip.part02",
+          "bytes": 9750000,
+          "sha256": "4be2336a93539e6009913bc81899ddb86f5d4eaba4ef0dfcb3a4f7bc31296cc2"
+        },
+        {
+          "name": "Everyday32_representatives_public_v1.zip.part03",
+          "bytes": 9750000,
+          "sha256": "10c50ee48a014b4ed1720192125de15ec5a8251c4692682fbf61628c5cc9df78"
+        },
+        {
+          "name": "Everyday32_representatives_public_v1.zip.part04",
+          "bytes": 9750000,
+          "sha256": "4275687d50221d605b04bf44eb7f8b26de9629d21a321ed63a880e6c42b4c749"
+        },
+        {
+          "name": "Everyday32_representatives_public_v1.zip.part05",
+          "bytes": 9750000,
+          "sha256": "1dfcd63d760add22b8dd0a46969f5f2e3ea08a58ba434699079fc5f80c3df52d"
+        },
+        {
+          "name": "Everyday32_representatives_public_v1.zip.part06",
+          "bytes": 9750000,
+          "sha256": "ffccfb29d9a8ef893294fddb568adba2a5d5d7ba8356abadb3be39d6b8b3b081"
+        },
+        {
+          "name": "Everyday32_representatives_public_v1.zip.part07",
+          "bytes": 9750000,
+          "sha256": "ac5fff0562e25555b230c069c001392c271b868e596074920f3c3ca5c8781a32"
+        },
+        {
+          "name": "Everyday32_representatives_public_v1.zip.part08",
+          "bytes": 9750000,
+          "sha256": "75d3bc6354274d4c76766761c039e15ee1d6beaebfd96cde81b56956a9886e3e"
+        },
+        {
+          "name": "Everyday32_representatives_public_v1.zip.part09",
+          "bytes": 9750000,
+          "sha256": "2006179a1a7102663a989bd0a86a676c7112ee469cd78eaccecd5ed13e1ec32f"
+        },
+        {
+          "name": "Everyday32_representatives_public_v1.zip.part10",
+          "bytes": 9750000,
+          "sha256": "564ed47f3e7ea3113a7bbd342cb67cf81c8b485e1d8ce8550241a508849e27d0"
+        },
+        {
+          "name": "Everyday32_representatives_public_v1.zip.part11",
+          "bytes": 9750000,
+          "sha256": "418e8c7759fa16e5ca94628176c27afa0b1f08c3ba45167ada503fba372ae2db"
+        },
+        {
+          "name": "Everyday32_representatives_public_v1.zip.part12",
+          "bytes": 9750000,
+          "sha256": "ab8f6901879d85051a72b53ac920eee38d561448522bafbdadeb5ce516a88e1f"
+        },
+        {
+          "name": "Everyday32_representatives_public_v1.zip.part13",
+          "bytes": 9750000,
+          "sha256": "f4f3a9fac8e291449cf1ee457f12b0300fe5679168b35d4109bb274c7f681fd9"
+        },
+        {
+          "name": "Everyday32_representatives_public_v1.zip.part14",
+          "bytes": 9750000,
+          "sha256": "d1c2d3295d0ba12c297c9d200574b0fbce17af7f7e83264b0d8dfa83e4925541"
+        },
+        {
+          "name": "Everyday32_representatives_public_v1.zip.part15",
+          "bytes": 9750000,
+          "sha256": "cd6793a51ef1d131a7973108d47f53af2ba68b454fc4ec60b1c7f83218cb8134"
+        },
+        {
+          "name": "Everyday32_representatives_public_v1.zip.part16",
+          "bytes": 9750000,
+          "sha256": "9f69af2e9554d69c1dc73f09b5249a3634e3d14edcaf254861f5237124f700bc"
+        },
+        {
+          "name": "Everyday32_representatives_public_v1.zip.part17",
+          "bytes": 2425705,
+          "sha256": "77b3366adde504b6053eed1537039836392d87ebf3ba7071459150ea4e495c99"
+        }
+      ]
+    }
+  ]
+}

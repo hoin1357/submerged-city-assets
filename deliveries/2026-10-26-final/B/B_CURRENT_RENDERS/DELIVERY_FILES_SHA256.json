@@ -1,0 +1,75 @@
+{
+  "files": [
+    {
+      "name": "ALLOWLIST.json",
+      "bytes": 147430,
+      "sha256": "afbb34eebb15d65af08d92bcff0241ff47835d1641d87ac4b1979b935960e057"
+    },
+    {
+      "name": "B_CURRENT_RENDERS.zip.001",
+      "bytes": 20971520,
+      "sha256": "ad139d2fa31d3dd0322f80aaa8b619a3f6380d1f557b3c80231d2ac98e37b408"
+    },
+    {
+      "name": "B_CURRENT_RENDERS.zip.002",
+      "bytes": 20971520,
+      "sha256": "3fbbcc0ca3268793b000b0b2e5d163c4a4af2bf87273baa9b212e04959d39ec8"
+    },
+    {
+      "name": "B_CURRENT_RENDERS.zip.003",
+      "bytes": 20971520,
+      "sha256": "0642891b7f2a8913ad0be33d5c884abaed291d95917172e8f6ab6c0de64cf32b"
+    },
+    {
+      "name": "B_CURRENT_RENDERS.zip.004",
+      "bytes": 20971520,
+      "sha256": "66f036188ad32b8590fa58a542a0bcc538a52880a1361d5d496c5d8e8cbe7737"
+    },
+    {
+      "name": "B_CURRENT_RENDERS.zip.005",
+      "bytes": 20971520,
+      "sha256": "a6115b94c907f4bfc6f6aafca130516786701c6e5e8576a9285663185df3ac27"
+    },
+    {
+      "name": "B_CURRENT_RENDERS.zip.006",
+      "bytes": 20971520,
+      "sha256": "115f59c471eaf3098e7d6a13c4bf73b0d549c2fd858f41b0ac76d3878eb7716a"
+    },
+    {
+      "name": "B_CURRENT_RENDERS.zip.007",
+      "bytes": 20971520,
+      "sha256": "509deda7b27c89e4a50e4eb7067d33e30cb1fc9af5f12571d43cdb6a93364f11"
+    },
+    {
+      "name": "B_CURRENT_RENDERS.zip.008",
+      "bytes": 20971520,
+      "sha256": "b7282b198eb25506eee6ec5879ccc4c8dfe79a928c0fd37656b25cb7db2ca15a"
+    },
+    {
+      "name": "B_CURRENT_RENDERS.zip.009",
+      "bytes": 2655991,
+      "sha256": "5f2498fad4d7d1e0d86c579f2a778652bc49a7ab19413d539dafac9caa862c72"
+    },
+    {
+      "name": "PARTS.json",
+      "bytes": 1741,
+      "sha256": "eabb11b12a2ad97bc0e43f40a23e64c65eafde356b8ed29b3105febb4d65bba9"
+    },
+    {
+      "name": "README_KO.md",
+      "bytes": 760,
+      "sha256": "5004202a8bc904290c0fa2ce956195aa213ffc99de70943041906f49a44ceaa2"
+    },
+    {
+      "name": "REASSEMBLE.py",
+      "bytes": 1063,
+      "sha256": "ce692236b216d4cc213fa5ee3349663cc48dd76a523280e5dd34a87ad54a05a9"
+    },
+    {
+      "name": "VERIFICATION.json",
+      "bytes": 401,
+      "sha256": "a4018b733e9cbb4506a66b0b2fb40a567a7b6c5f33a2c62c6b4c6f83b6cb4e7f"
+    }
+  ],
+  "note": "This file excludes itself."
+}

@@ -1,0 +1,13 @@
+{
+  "verified_members": 600,
+  "crc_and_sha256_mismatches": [],
+  "joined_zip_sha256_verified": true,
+  "parts_sha256_verified": true,
+  "archive": "B_CURRENT_RENDERS.zip",
+  "archive_bytes": 170428151,
+  "archive_sha256": "8fa24d21d70651c95058a7e8b96151f7f80ae670fcfdd3fa712f47070a40f643",
+  "part_limit_bytes": 20971520,
+  "member_count": 600,
+  "uncompressed_bytes": 172083837,
+  "part_count": 9
+}

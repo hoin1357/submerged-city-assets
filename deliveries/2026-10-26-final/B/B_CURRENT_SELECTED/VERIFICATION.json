@@ -1,0 +1,13 @@
+{
+  "verified_members": 5338,
+  "crc_and_sha256_mismatches": [],
+  "joined_zip_sha256_verified": true,
+  "parts_sha256_verified": true,
+  "archive": "B_CURRENT_ASSETS.zip",
+  "archive_bytes": 1697526431,
+  "archive_sha256": "45cce82710e8dd0314fb9478f6d85c5a6d6840f4821c67bd617479f0cc68cfd4",
+  "part_limit_bytes": 20971520,
+  "member_count": 5338,
+  "uncompressed_bytes": 2120203180,
+  "part_count": 81
+}

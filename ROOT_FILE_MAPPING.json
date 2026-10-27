@@ -1,0 +1,3046 @@
+{
+  "files": [
+    {
+      "staged_filename": "ROOT_0001__R-NEW-20261026-060_LOD0.blend",
+      "target_path": "ROOT/R-NEW-20261026-060/LOD0/R-NEW-20261026-060_LOD0.blend",
+      "bytes": 456072,
+      "sha256": "d4e5544b2529f6d7d2090c472e04032a540d425920af1c6396d4a02b569371b3"
+    },
+    {
+      "staged_filename": "ROOT_0002__R-NEW-20261026-060_LOD0.fbx",
+      "target_path": "ROOT/R-NEW-20261026-060/LOD0/R-NEW-20261026-060_LOD0.fbx",
+      "bytes": 713564,
+      "sha256": "70356541ae73b24e64e231c5c861986e928a0c00186e9d8a6d2c44bfc19b1954"
+    },
+    {
+      "staged_filename": "ROOT_0003__R-NEW-20261026-060_LOD0.glb",
+      "target_path": "ROOT/R-NEW-20261026-060/LOD0/R-NEW-20261026-060_LOD0.glb",
+      "bytes": 1130464,
+      "sha256": "af52587defcf59d32e5cde9bf08ae45c2280f20d4852091f43a7bbe6764ee8a7"
+    },
+    {
+      "staged_filename": "ROOT_0004__R-NEW-20261026-060_LOD1.blend",
+      "target_path": "ROOT/R-NEW-20261026-060/LOD1/R-NEW-20261026-060_LOD1.blend",
+      "bytes": 358660,
+      "sha256": "82b968372c472e2a9b8ce4761a437a9c41cf6782a1b4218be12a663062c0ecad"
+    },
+    {
+      "staged_filename": "ROOT_0005__R-NEW-20261026-060_LOD1.fbx",
+      "target_path": "ROOT/R-NEW-20261026-060/LOD1/R-NEW-20261026-060_LOD1.fbx",
+      "bytes": 552348,
+      "sha256": "3c9f85255e70d42ee91d3facf5945130d6b6154cdfc1ca150639234ba1cacd7d"
+    },
+    {
+      "staged_filename": "ROOT_0006__R-NEW-20261026-060_LOD1.glb",
+      "target_path": "ROOT/R-NEW-20261026-060/LOD1/R-NEW-20261026-060_LOD1.glb",
+      "bytes": 862580,
+      "sha256": "e23a2c5a06e449831a14e6dfef72d3b766cf1a7cd86260fdff9bb3e08079665a"
+    },
+    {
+      "staged_filename": "ROOT_0007__R-NEW-20261026-060_LOD2.blend",
+      "target_path": "ROOT/R-NEW-20261026-060/LOD2/R-NEW-20261026-060_LOD2.blend",
+      "bytes": 284270,
+      "sha256": "26ab67694889f5e799f3876764e152de24572c4c2316986c9d4d7badef79a7e7"
+    },
+    {
+      "staged_filename": "ROOT_0008__R-NEW-20261026-060_LOD2.fbx",
+      "target_path": "ROOT/R-NEW-20261026-060/LOD2/R-NEW-20261026-060_LOD2.fbx",
+      "bytes": 424556,
+      "sha256": "e2ef459ba5ba745fc24359e44ce6483a25236036ed92ff29ea4baceb64752da2"
+    },
+    {
+      "staged_filename": "ROOT_0009__R-NEW-20261026-060_LOD2.glb",
+      "target_path": "ROOT/R-NEW-20261026-060/LOD2/R-NEW-20261026-060_LOD2.glb",
+      "bytes": 646444,
+      "sha256": "8cf131ed8735a3268227506a02f20459dfd226fe7ee3736c8c5af70a72b3a7cb"
+    },
+    {
+      "staged_filename": "ROOT_0010__QA_AND_LIMITS.json",
+      "target_path": "ROOT/R-NEW-20261026-060/QA_AND_LIMITS.json",
+      "bytes": 1765,
+      "sha256": "d620c4bca14d692652c14e865820f94c9f85cb413804080796bc5654a32a7e74"
+    },
+    {
+      "staged_filename": "ROOT_0011__README_KO.md",
+      "target_path": "ROOT/R-NEW-20261026-060/README_KO.md",
+      "bytes": 1123,
+      "sha256": "1a79d0f726e6b1e83def904d53eb4a0f83e81ca2e1376bac5f7cfea36ece0ef4"
+    },
+    {
+      "staged_filename": "ROOT_0012__LOD0_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-060/RENDERS_FINAL/LOD0_hero.png",
+      "bytes": 941494,
+      "sha256": "a397d3d52763c73ee37d533e93050e2b831dd48224de5f25f35cdc8b45d5cacb"
+    },
+    {
+      "staged_filename": "ROOT_0013__LOD1_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-060/RENDERS_FINAL/LOD1_hero.png",
+      "bytes": 938589,
+      "sha256": "7632d8ba80d8d4d012ccf32b94867cd8dc8d386239482b5d8d02aea67a8b4692"
+    },
+    {
+      "staged_filename": "ROOT_0014__LOD2_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-060/RENDERS_FINAL/LOD2_hero.png",
+      "bytes": 935693,
+      "sha256": "b30936428fea9d7d38cd71b39bee34a3268658c9eae8af1325c90614ec8234fc"
+    },
+    {
+      "staged_filename": "ROOT_0015__R-NEW-20261026-061_LOD0.blend",
+      "target_path": "ROOT/R-NEW-20261026-061/LOD0/R-NEW-20261026-061_LOD0.blend",
+      "bytes": 866954,
+      "sha256": "5915ada8f82f827140596e17dee1226febfb4d1831161637b63bbc0ada1fc7ce"
+    },
+    {
+      "staged_filename": "ROOT_0016__R-NEW-20261026-061_LOD0.fbx",
+      "target_path": "ROOT/R-NEW-20261026-061/LOD0/R-NEW-20261026-061_LOD0.fbx",
+      "bytes": 1582316,
+      "sha256": "87a182b275af11913daa304a427f264601ee6263a330979b3040fb93c92af795"
+    },
+    {
+      "staged_filename": "ROOT_0017__R-NEW-20261026-061_LOD0.glb",
+      "target_path": "ROOT/R-NEW-20261026-061/LOD0/R-NEW-20261026-061_LOD0.glb",
+      "bytes": 2299184,
+      "sha256": "3f7ccf468a3d0f979dbb309d126acc38413a3bb467c371a12c88fd4abcc85db9"
+    },
+    {
+      "staged_filename": "ROOT_0018__R-NEW-20261026-061_LOD1.blend",
+      "target_path": "ROOT/R-NEW-20261026-061/LOD1/R-NEW-20261026-061_LOD1.blend",
+      "bytes": 615573,
+      "sha256": "f651e5b9404d30d12c27b16008f772a3ce18b2623fc6e0524e482bcd9740623c"
+    },
+    {
+      "staged_filename": "ROOT_0019__R-NEW-20261026-061_LOD1.fbx",
+      "target_path": "ROOT/R-NEW-20261026-061/LOD1/R-NEW-20261026-061_LOD1.fbx",
+      "bytes": 1231676,
+      "sha256": "4ffa16c23c44bb74d3a519a8ae70478b5d6a6062daca6791da45f2789800d637"
+    },
+    {
+      "staged_filename": "ROOT_0020__R-NEW-20261026-061_LOD1.glb",
+      "target_path": "ROOT/R-NEW-20261026-061/LOD1/R-NEW-20261026-061_LOD1.glb",
+      "bytes": 1792020,
+      "sha256": "9d9fa2bd9d9f6e8fd37dc62b48609ccee775201e6c7687391f43c320f50467aa"
+    },
+    {
+      "staged_filename": "ROOT_0021__R-NEW-20261026-061_LOD2.blend",
+      "target_path": "ROOT/R-NEW-20261026-061/LOD2/R-NEW-20261026-061_LOD2.blend",
+      "bytes": 520647,
+      "sha256": "e1870702a273e7494adff07aec060b240ff135401d06bada10bba179f638a20a"
+    },
+    {
+      "staged_filename": "ROOT_0022__R-NEW-20261026-061_LOD2.fbx",
+      "target_path": "ROOT/R-NEW-20261026-061/LOD2/R-NEW-20261026-061_LOD2.fbx",
+      "bytes": 1061388,
+      "sha256": "af30bfd2745ef39d1b3d2e323c3516203fa8d784a55ddcd30975a175684decf9"
+    },
+    {
+      "staged_filename": "ROOT_0023__R-NEW-20261026-061_LOD2.glb",
+      "target_path": "ROOT/R-NEW-20261026-061/LOD2/R-NEW-20261026-061_LOD2.glb",
+      "bytes": 1497184,
+      "sha256": "d754394aa25e14de0c5d5f956424d40b1ddfbdc2525e56981ad3dd12164acb7e"
+    },
+    {
+      "staged_filename": "ROOT_0024__QA_AND_LIMITS.json",
+      "target_path": "ROOT/R-NEW-20261026-061/QA_AND_LIMITS.json",
+      "bytes": 1845,
+      "sha256": "f8a9df3f57e1454ca8cb4999880cbadd8fc122d36e1ab992bb724b65862287df"
+    },
+    {
+      "staged_filename": "ROOT_0025__README_KO.md",
+      "target_path": "ROOT/R-NEW-20261026-061/README_KO.md",
+      "bytes": 1159,
+      "sha256": "94f414e3022b36459ff477bc8e0da8462ee65248ab8d7e380ae1550b0b70ba97"
+    },
+    {
+      "staged_filename": "ROOT_0026__IMPORT_FBX_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-061/RENDERS_FINAL/IMPORT_FBX_hero.png",
+      "bytes": 1269767,
+      "sha256": "b10adeb7bc2bd2d6e5e973e94f96ed2d5816785659dbd16724d615916c4d755b"
+    },
+    {
+      "staged_filename": "ROOT_0027__IMPORT_GLB_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-061/RENDERS_FINAL/IMPORT_GLB_hero.png",
+      "bytes": 1269947,
+      "sha256": "036ac26a3d7d48592f87f55eb59a050a9ea74bce67381b376dee3e2c6d3f8821"
+    },
+    {
+      "staged_filename": "ROOT_0028__LOD0_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-061/RENDERS_FINAL/LOD0_hero.png",
+      "bytes": 1270653,
+      "sha256": "b805050c9f2aaf14c9d5ae28e422c272c34b28018d40044c2cb00e9e44afee75"
+    },
+    {
+      "staged_filename": "ROOT_0029__R-NEW-20261026-062_LOD0.blend",
+      "target_path": "ROOT/R-NEW-20261026-062/LOD0/R-NEW-20261026-062_LOD0.blend",
+      "bytes": 423395,
+      "sha256": "595b953cc3ba5fe0ad6eccbf6c2571e28799896bb1cd2b81cc527a9d86b7d432"
+    },
+    {
+      "staged_filename": "ROOT_0030__R-NEW-20261026-062_LOD0.fbx",
+      "target_path": "ROOT/R-NEW-20261026-062/LOD0/R-NEW-20261026-062_LOD0.fbx",
+      "bytes": 622556,
+      "sha256": "bff579bcfd9452c14c94f51e3d03d17e214d90a6b36f62988df60cf3f6d0ce42"
+    },
+    {
+      "staged_filename": "ROOT_0031__R-NEW-20261026-062_LOD0.glb",
+      "target_path": "ROOT/R-NEW-20261026-062/LOD0/R-NEW-20261026-062_LOD0.glb",
+      "bytes": 1003088,
+      "sha256": "d166112b6186a351ee7446b109f37ce77d813b3da57d47fb6509aceff04d31fe"
+    },
+    {
+      "staged_filename": "ROOT_0032__R-NEW-20261026-062_LOD1.blend",
+      "target_path": "ROOT/R-NEW-20261026-062/LOD1/R-NEW-20261026-062_LOD1.blend",
+      "bytes": 310550,
+      "sha256": "d5ecb8564c5e57cbea65121d36528c84c264da3c7fb9029fe7f813ebd0d6eae6"
+    },
+    {
+      "staged_filename": "ROOT_0033__R-NEW-20261026-062_LOD1.fbx",
+      "target_path": "ROOT/R-NEW-20261026-062/LOD1/R-NEW-20261026-062_LOD1.fbx",
+      "bytes": 452236,
+      "sha256": "4d46ef0c85d0fb09900abab4e3cf66e9a05dba9a6014da489daf7ad0e7022ff7"
+    },
+    {
+      "staged_filename": "ROOT_0034__R-NEW-20261026-062_LOD1.glb",
+      "target_path": "ROOT/R-NEW-20261026-062/LOD1/R-NEW-20261026-062_LOD1.glb",
+      "bytes": 718656,
+      "sha256": "c6e8d22ea132d96724fad991ab43efe97ecbbeb6cc03dfb7f185983c835ffde0"
+    },
+    {
+      "staged_filename": "ROOT_0035__R-NEW-20261026-062_LOD2.blend",
+      "target_path": "ROOT/R-NEW-20261026-062/LOD2/R-NEW-20261026-062_LOD2.blend",
+      "bytes": 244227,
+      "sha256": "c29a705d56c8d86c6f4693364b5a60eaa19d31a61019d4e92094656389cf2231"
+    },
+    {
+      "staged_filename": "ROOT_0036__R-NEW-20261026-062_LOD2.fbx",
+      "target_path": "ROOT/R-NEW-20261026-062/LOD2/R-NEW-20261026-062_LOD2.fbx",
+      "bytes": 340748,
+      "sha256": "fe4e376b616a6029ec4f37b76851e022d90dd2b75078d1c5eb7759cc64abb742"
+    },
+    {
+      "staged_filename": "ROOT_0037__R-NEW-20261026-062_LOD2.glb",
+      "target_path": "ROOT/R-NEW-20261026-062/LOD2/R-NEW-20261026-062_LOD2.glb",
+      "bytes": 533336,
+      "sha256": "b6d556c7d88407fd7aa2ac051e34cc309edf5e420658a47765441ca119df2df9"
+    },
+    {
+      "staged_filename": "ROOT_0038__QA_AND_LIMITS.json",
+      "target_path": "ROOT/R-NEW-20261026-062/QA_AND_LIMITS.json",
+      "bytes": 1753,
+      "sha256": "9ae85e353a6136a9d3722490017526ad6e29e484d2b15522ffa94bc62560a739"
+    },
+    {
+      "staged_filename": "ROOT_0039__README_KO.md",
+      "target_path": "ROOT/R-NEW-20261026-062/README_KO.md",
+      "bytes": 1118,
+      "sha256": "00ce6423261a0a422b32d47417acb3b937a7fac4ac7059612e7d42f99b647b53"
+    },
+    {
+      "staged_filename": "ROOT_0040__IMPORT_FBX_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-062/RENDERS_FINAL/IMPORT_FBX_hero.png",
+      "bytes": 862017,
+      "sha256": "dc3d67a7aae4b88ef6f98c638500d0d74c8780ac53427277cf7a56a2f3480825"
+    },
+    {
+      "staged_filename": "ROOT_0041__IMPORT_GLB_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-062/RENDERS_FINAL/IMPORT_GLB_hero.png",
+      "bytes": 861746,
+      "sha256": "8f3c7dcf0828ce1b42b1dbd772b0f1bc512f7c1d7773c2f5dfc1215dae6f2140"
+    },
+    {
+      "staged_filename": "ROOT_0042__LOD0_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-062/RENDERS_FINAL/LOD0_hero.png",
+      "bytes": 862563,
+      "sha256": "72256d0c05dda104e5e5f38d9093f536cb227d013dfc1aaca3e5d7f28aa05950"
+    },
+    {
+      "staged_filename": "ROOT_0043__R-NEW-20261026-063_LOD0.blend",
+      "target_path": "ROOT/R-NEW-20261026-063/LOD0/R-NEW-20261026-063_LOD0.blend",
+      "bytes": 325991,
+      "sha256": "95dcce70db0a2cacdf02bff5a4b7edaef94bc9c6d4f5e9b061f7c5751696406f"
+    },
+    {
+      "staged_filename": "ROOT_0044__R-NEW-20261026-063_LOD0.fbx",
+      "target_path": "ROOT/R-NEW-20261026-063/LOD0/R-NEW-20261026-063_LOD0.fbx",
+      "bytes": 616764,
+      "sha256": "afa4ca4daa930f2be115c2d406b05a44dff99833e825b26acb3219f1c41359f6"
+    },
+    {
+      "staged_filename": "ROOT_0045__R-NEW-20261026-063_LOD0.glb",
+      "target_path": "ROOT/R-NEW-20261026-063/LOD0/R-NEW-20261026-063_LOD0.glb",
+      "bytes": 1032704,
+      "sha256": "0c8495c9698862629d1c7aaee8ed195858f82941d5dcc75eb41133b1a8ddd102"
+    },
+    {
+      "staged_filename": "ROOT_0046__R-NEW-20261026-063_LOD1.blend",
+      "target_path": "ROOT/R-NEW-20261026-063/LOD1/R-NEW-20261026-063_LOD1.blend",
+      "bytes": 249224,
+      "sha256": "142220695cada1aec3ed19589002558705c98eeaa7ff6daf40eef99a9adf77ca"
+    },
+    {
+      "staged_filename": "ROOT_0047__R-NEW-20261026-063_LOD1.fbx",
+      "target_path": "ROOT/R-NEW-20261026-063/LOD1/R-NEW-20261026-063_LOD1.fbx",
+      "bytes": 475196,
+      "sha256": "fdd1d951d4c5fce62adcf6df594d0284b7a61fa87f590420569ba63534b6c013"
+    },
+    {
+      "staged_filename": "ROOT_0048__R-NEW-20261026-063_LOD1.glb",
+      "target_path": "ROOT/R-NEW-20261026-063/LOD1/R-NEW-20261026-063_LOD1.glb",
+      "bytes": 776148,
+      "sha256": "6bed1da33a3e9e27d0ca47ff64098ebe682c79ca913eed6043fa49b4236a43d9"
+    },
+    {
+      "staged_filename": "ROOT_0049__R-NEW-20261026-063_LOD2.blend",
+      "target_path": "ROOT/R-NEW-20261026-063/LOD2/R-NEW-20261026-063_LOD2.blend",
+      "bytes": 214517,
+      "sha256": "89a677570f50f922a43ea66851090db8092e7ff4607228393e4f7d43443c2fcd"
+    },
+    {
+      "staged_filename": "ROOT_0050__R-NEW-20261026-063_LOD2.fbx",
+      "target_path": "ROOT/R-NEW-20261026-063/LOD2/R-NEW-20261026-063_LOD2.fbx",
+      "bytes": 399356,
+      "sha256": "af288c809ce7c4cf82369ce1cd6a883f1c5eaf28aae212b2a2d234244360b97c"
+    },
+    {
+      "staged_filename": "ROOT_0051__R-NEW-20261026-063_LOD2.glb",
+      "target_path": "ROOT/R-NEW-20261026-063/LOD2/R-NEW-20261026-063_LOD2.glb",
+      "bytes": 647956,
+      "sha256": "f8ee537d954e5a5bd5238d887aeb04b1488468eb56c5328015d495f1382a5dae"
+    },
+    {
+      "staged_filename": "ROOT_0052__QA_AND_LIMITS.json",
+      "target_path": "ROOT/R-NEW-20261026-063/QA_AND_LIMITS.json",
+      "bytes": 1805,
+      "sha256": "40040d6fc86c9de9533deceed76dacb49a9aeacaa973ac4519b6d6c692f45ac9"
+    },
+    {
+      "staged_filename": "ROOT_0053__README_KO.md",
+      "target_path": "ROOT/R-NEW-20261026-063/README_KO.md",
+      "bytes": 1131,
+      "sha256": "22bfaeeb4ccf0f6e3b8272f44e94f876d31b8114bc82549fef3f032de72a50c4"
+    },
+    {
+      "staged_filename": "ROOT_0054__IMPORT_FBX_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-063/RENDERS_FINAL/IMPORT_FBX_hero.png",
+      "bytes": 868434,
+      "sha256": "cda95741955dfbe4f15c2d3dc232a7e67492f09b644902cd0f0042e846872213"
+    },
+    {
+      "staged_filename": "ROOT_0055__IMPORT_GLB_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-063/RENDERS_FINAL/IMPORT_GLB_hero.png",
+      "bytes": 868439,
+      "sha256": "a8793bae4a371ae5b63635f1c414091c0d129cc399e4316f5f755600fe1ca052"
+    },
+    {
+      "staged_filename": "ROOT_0056__LOD0_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-063/RENDERS_FINAL/LOD0_hero.png",
+      "bytes": 869398,
+      "sha256": "9660a207b32517111d89e6e86fd895a53a0be145ec05f2c5824e192a391534a4"
+    },
+    {
+      "staged_filename": "ROOT_0057__R-NEW-20261026-064_LOD0.blend",
+      "target_path": "ROOT/R-NEW-20261026-064/LOD0/R-NEW-20261026-064_LOD0.blend",
+      "bytes": 275979,
+      "sha256": "3accfb80494165ffd269da52dccefa591c25380c2d55a8d15474ccb870d4c704"
+    },
+    {
+      "staged_filename": "ROOT_0058__R-NEW-20261026-064_LOD0.fbx",
+      "target_path": "ROOT/R-NEW-20261026-064/LOD0/R-NEW-20261026-064_LOD0.fbx",
+      "bytes": 503276,
+      "sha256": "348316e8b535c7b4c2ceac936a14b9861dc4e9bec4dcef5a36e504eb0782d982"
+    },
+    {
+      "staged_filename": "ROOT_0059__R-NEW-20261026-064_LOD0.glb",
+      "target_path": "ROOT/R-NEW-20261026-064/LOD0/R-NEW-20261026-064_LOD0.glb",
+      "bytes": 830248,
+      "sha256": "70bb0077b14750409dbcd60f95cad4f14d6368b658209836172e5fbfdcbe932d"
+    },
+    {
+      "staged_filename": "ROOT_0060__R-NEW-20261026-064_LOD1.blend",
+      "target_path": "ROOT/R-NEW-20261026-064/LOD1/R-NEW-20261026-064_LOD1.blend",
+      "bytes": 228651,
+      "sha256": "0275564e635cb77e69bc63783e5de21596176096d3a0c359061a73b469c730af"
+    },
+    {
+      "staged_filename": "ROOT_0061__R-NEW-20261026-064_LOD1.fbx",
+      "target_path": "ROOT/R-NEW-20261026-064/LOD1/R-NEW-20261026-064_LOD1.fbx",
+      "bytes": 375340,
+      "sha256": "aee95f7acb80438be673feb7da5647bfb89053e2a6012c2360f9294e8a2625c5"
+    },
+    {
+      "staged_filename": "ROOT_0062__R-NEW-20261026-064_LOD1.glb",
+      "target_path": "ROOT/R-NEW-20261026-064/LOD1/R-NEW-20261026-064_LOD1.glb",
+      "bytes": 601684,
+      "sha256": "752da1970da1ff34df10e3dec5b517935587e3e09d51e62709c986ee26cde607"
+    },
+    {
+      "staged_filename": "ROOT_0063__R-NEW-20261026-064_LOD2.blend",
+      "target_path": "ROOT/R-NEW-20261026-064/LOD2/R-NEW-20261026-064_LOD2.blend",
+      "bytes": 192768,
+      "sha256": "392638aa49fc5f3fca10d7104dcad4ed2d6a14364bc86efcd23edbda7c2a5e75"
+    },
+    {
+      "staged_filename": "ROOT_0064__R-NEW-20261026-064_LOD2.fbx",
+      "target_path": "ROOT/R-NEW-20261026-064/LOD2/R-NEW-20261026-064_LOD2.fbx",
+      "bytes": 280876,
+      "sha256": "6246f50a3097e8070db0fd56450c13082ff220bd6c7fbf316b8b6e6e99fdf4ad"
+    },
+    {
+      "staged_filename": "ROOT_0065__R-NEW-20261026-064_LOD2.glb",
+      "target_path": "ROOT/R-NEW-20261026-064/LOD2/R-NEW-20261026-064_LOD2.glb",
+      "bytes": 442192,
+      "sha256": "e2568b4b795b44c896807a383e8dbc7085cf472a0942db37076c8f6674ed56d8"
+    },
+    {
+      "staged_filename": "ROOT_0066__QA_AND_LIMITS.json",
+      "target_path": "ROOT/R-NEW-20261026-064/QA_AND_LIMITS.json",
+      "bytes": 1821,
+      "sha256": "f01c73e0806367e46981be83f942d71f975260fdbad4d80799a46e134f2ed74c"
+    },
+    {
+      "staged_filename": "ROOT_0067__README_KO.md",
+      "target_path": "ROOT/R-NEW-20261026-064/README_KO.md",
+      "bytes": 1131,
+      "sha256": "9795ee8b34e9096d00b750d902695b00fed6236c8db41c374826ce5118eed1a2"
+    },
+    {
+      "staged_filename": "ROOT_0068__IMPORT_FBX_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-064/RENDERS_FINAL/IMPORT_FBX_hero.png",
+      "bytes": 1052593,
+      "sha256": "b530c387cd3ec01527719ee56349a84afc821f6f3e7c5c1f010e21ba92f86c57"
+    },
+    {
+      "staged_filename": "ROOT_0069__IMPORT_GLB_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-064/RENDERS_FINAL/IMPORT_GLB_hero.png",
+      "bytes": 1052644,
+      "sha256": "b03762e1542817df8edfb41f174c87aa8560b4f15365b3a106f14a3264f1b3f5"
+    },
+    {
+      "staged_filename": "ROOT_0070__LOD0_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-064/RENDERS_FINAL/LOD0_hero.png",
+      "bytes": 1052690,
+      "sha256": "fd9b04762efc0358ee1a58a44de869397199d12c4871edc08cb3da59958f60aa"
+    },
+    {
+      "staged_filename": "ROOT_0071__R-NEW-20261026-065_LOD0.blend",
+      "target_path": "ROOT/R-NEW-20261026-065/LOD0/R-NEW-20261026-065_LOD0.blend",
+      "bytes": 695597,
+      "sha256": "a8d571df9b164df9eb53eb9c016eb9e7c8b42ce980df135dd4002558317243df"
+    },
+    {
+      "staged_filename": "ROOT_0072__R-NEW-20261026-065_LOD0.fbx",
+      "target_path": "ROOT/R-NEW-20261026-065/LOD0/R-NEW-20261026-065_LOD0.fbx",
+      "bytes": 1086268,
+      "sha256": "3514371a1921faf71a308e1998a17eb73f6f3272979667fd9a021eabcf6e764b"
+    },
+    {
+      "staged_filename": "ROOT_0073__R-NEW-20261026-065_LOD0.glb",
+      "target_path": "ROOT/R-NEW-20261026-065/LOD0/R-NEW-20261026-065_LOD0.glb",
+      "bytes": 1523864,
+      "sha256": "ad3a5bcdaaa99fd494692b9a80280c0d69121d841baa335a3447f4d0d9918367"
+    },
+    {
+      "staged_filename": "ROOT_0074__R-NEW-20261026-065_LOD1.blend",
+      "target_path": "ROOT/R-NEW-20261026-065/LOD1/R-NEW-20261026-065_LOD1.blend",
+      "bytes": 452059,
+      "sha256": "019e2d496eaab1ad9142e1ba7fd29ab534b3dfbc03a0fe10d10d0c533bfbd6f1"
+    },
+    {
+      "staged_filename": "ROOT_0075__R-NEW-20261026-065_LOD1.fbx",
+      "target_path": "ROOT/R-NEW-20261026-065/LOD1/R-NEW-20261026-065_LOD1.fbx",
+      "bytes": 744956,
+      "sha256": "f53e54f7d8b9f750e81a5038903fe943960f4c8d60e0aafcbf92c9f5021f9e3c"
+    },
+    {
+      "staged_filename": "ROOT_0076__R-NEW-20261026-065_LOD1.glb",
+      "target_path": "ROOT/R-NEW-20261026-065/LOD1/R-NEW-20261026-065_LOD1.glb",
+      "bytes": 1090356,
+      "sha256": "20a6f252cf533c21c7bf60a80948196043f329e4ffaae796763d56ae6a39ace1"
+    },
+    {
+      "staged_filename": "ROOT_0077__R-NEW-20261026-065_LOD2.blend",
+      "target_path": "ROOT/R-NEW-20261026-065/LOD2/R-NEW-20261026-065_LOD2.blend",
+      "bytes": 323861,
+      "sha256": "928e80d94f4038bd59b7d0bef807ca2e6404e4fb90036eb85c3be5be9664aa84"
+    },
+    {
+      "staged_filename": "ROOT_0078__R-NEW-20261026-065_LOD2.fbx",
+      "target_path": "ROOT/R-NEW-20261026-065/LOD2/R-NEW-20261026-065_LOD2.fbx",
+      "bytes": 520620,
+      "sha256": "c2553df73c2d2f69d6faefdee485d27a98b0c530ae74112a7982f403a6eaaf8f"
+    },
+    {
+      "staged_filename": "ROOT_0079__R-NEW-20261026-065_LOD2.glb",
+      "target_path": "ROOT/R-NEW-20261026-065/LOD2/R-NEW-20261026-065_LOD2.glb",
+      "bytes": 784128,
+      "sha256": "4d8c3ba00850d7d43fde44ae86ad90f5c2a513ba38f1c4fc9f1630d553ebcd87"
+    },
+    {
+      "staged_filename": "ROOT_0080__QA_AND_LIMITS.json",
+      "target_path": "ROOT/R-NEW-20261026-065/QA_AND_LIMITS.json",
+      "bytes": 1975,
+      "sha256": "f95595e53fc4038225d282be6468c6e2788969bc3c108ea382f4ddbb212f9070"
+    },
+    {
+      "staged_filename": "ROOT_0081__README_KO.md",
+      "target_path": "ROOT/R-NEW-20261026-065/README_KO.md",
+      "bytes": 1123,
+      "sha256": "c83fd9623e6c7a2ab43a3350ff58df5c18ddd21555cb3e37a05e0b812f9bf1a4"
+    },
+    {
+      "staged_filename": "ROOT_0082__IMPORT_FBX_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-065/RENDERS_FINAL/IMPORT_FBX_hero.png",
+      "bytes": 883701,
+      "sha256": "81ee4b2eabe096eee394f5ffcf24ea2cc148a1ff09822b5e03caadc1b0a4457d"
+    },
+    {
+      "staged_filename": "ROOT_0083__IMPORT_GLB_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-065/RENDERS_FINAL/IMPORT_GLB_hero.png",
+      "bytes": 883618,
+      "sha256": "b2f7b083ef5bf9c91c26bf6db2875c580d6c032adf808219ad4d552871ff8473"
+    },
+    {
+      "staged_filename": "ROOT_0084__LOD0_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-065/RENDERS_FINAL/LOD0_hero.png",
+      "bytes": 883736,
+      "sha256": "8e358135fea9f5079db3d0ce3bc4fea725611d38ce36d6dd36c9c46538f334c6"
+    },
+    {
+      "staged_filename": "ROOT_0085__R-NEW-20261026-066_LOD0.blend",
+      "target_path": "ROOT/R-NEW-20261026-066/LOD0/R-NEW-20261026-066_LOD0.blend",
+      "bytes": 515459,
+      "sha256": "4fb77d0834e3077db106a4417eae1c2b304bbc5ffd6283d2dac18c08e9659a9f"
+    },
+    {
+      "staged_filename": "ROOT_0086__R-NEW-20261026-066_LOD0.fbx",
+      "target_path": "ROOT/R-NEW-20261026-066/LOD0/R-NEW-20261026-066_LOD0.fbx",
+      "bytes": 875884,
+      "sha256": "16d9c7a4bcf3f003fd50d511d333a44dd81acecfc60a2eafc53121d94399a036"
+    },
+    {
+      "staged_filename": "ROOT_0087__R-NEW-20261026-066_LOD0.glb",
+      "target_path": "ROOT/R-NEW-20261026-066/LOD0/R-NEW-20261026-066_LOD0.glb",
+      "bytes": 1353388,
+      "sha256": "e3f8f5bb825287059240cc88d27da2eafd06fcd9b6a2d5f69d737ee50372ad12"
+    },
+    {
+      "staged_filename": "ROOT_0088__R-NEW-20261026-066_LOD1.blend",
+      "target_path": "ROOT/R-NEW-20261026-066/LOD1/R-NEW-20261026-066_LOD1.blend",
+      "bytes": 361013,
+      "sha256": "6f3e8a250782f7e732da6a7c3b6db8c0e9d081d50e056a5e4f2e4319e1e7f466"
+    },
+    {
+      "staged_filename": "ROOT_0089__R-NEW-20261026-066_LOD1.fbx",
+      "target_path": "ROOT/R-NEW-20261026-066/LOD1/R-NEW-20261026-066_LOD1.fbx",
+      "bytes": 608252,
+      "sha256": "052730b2968eed52f06ee173eb66a1b7c75586eaf9ed8c26753cb62f675142b7"
+    },
+    {
+      "staged_filename": "ROOT_0090__R-NEW-20261026-066_LOD1.glb",
+      "target_path": "ROOT/R-NEW-20261026-066/LOD1/R-NEW-20261026-066_LOD1.glb",
+      "bytes": 991256,
+      "sha256": "bba5ca92e8bb62bbadaed19ae99961ef4c3f45f83bf30d7a508ccd9bdc177914"
+    },
+    {
+      "staged_filename": "ROOT_0091__R-NEW-20261026-066_LOD2.blend",
+      "target_path": "ROOT/R-NEW-20261026-066/LOD2/R-NEW-20261026-066_LOD2.blend",
+      "bytes": 285312,
+      "sha256": "e991d91a1195c812c9975bc5f7cdaf916db11e78f1a3e58fde2d1d8469b4667e"
+    },
+    {
+      "staged_filename": "ROOT_0092__R-NEW-20261026-066_LOD2.fbx",
+      "target_path": "ROOT/R-NEW-20261026-066/LOD2/R-NEW-20261026-066_LOD2.fbx",
+      "bytes": 474572,
+      "sha256": "58f559e97ba36a821d41fa1de3d5a23daf5db63000c3f25f6cc16b7895ae37bf"
+    },
+    {
+      "staged_filename": "ROOT_0093__R-NEW-20261026-066_LOD2.glb",
+      "target_path": "ROOT/R-NEW-20261026-066/LOD2/R-NEW-20261026-066_LOD2.glb",
+      "bytes": 797160,
+      "sha256": "a3a4a8d14f20bfa9182392a89d9cf88c65f79edd821a706ebbad4f5bc8372340"
+    },
+    {
+      "staged_filename": "ROOT_0094__QA_AND_LIMITS.json",
+      "target_path": "ROOT/R-NEW-20261026-066/QA_AND_LIMITS.json",
+      "bytes": 1920,
+      "sha256": "fc9bb7a4ee0aaeb5ccbbb37d8225a5e28bcdf691683f85675a2a1af6d9e69954"
+    },
+    {
+      "staged_filename": "ROOT_0095__README_KO.md",
+      "target_path": "ROOT/R-NEW-20261026-066/README_KO.md",
+      "bytes": 1117,
+      "sha256": "fbdfa6b08b6939755b0c59562756214119ebcd13540c3778e316992a50542c1b"
+    },
+    {
+      "staged_filename": "ROOT_0096__IMPORT_FBX_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-066/RENDERS_FINAL/IMPORT_FBX_hero.png",
+      "bytes": 782102,
+      "sha256": "48ddb13ebdb090317549c2891be1cec301de4a8ebc64a2cfe90cff161c977cf5"
+    },
+    {
+      "staged_filename": "ROOT_0097__IMPORT_GLB_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-066/RENDERS_FINAL/IMPORT_GLB_hero.png",
+      "bytes": 782202,
+      "sha256": "bba3b49d83255ff8276980e60e07fdc4145a8b5351c17ae799e55e3acdade48e"
+    },
+    {
+      "staged_filename": "ROOT_0098__LOD0_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-066/RENDERS_FINAL/LOD0_hero.png",
+      "bytes": 782170,
+      "sha256": "04e25a38fa541cc68686c599a06b6f04059fa84162b161efec88e1fd65ac05b9"
+    },
+    {
+      "staged_filename": "ROOT_0099__R-NEW-20261026-067_LOD0.blend",
+      "target_path": "ROOT/R-NEW-20261026-067/LOD0/R-NEW-20261026-067_LOD0.blend",
+      "bytes": 488196,
+      "sha256": "f1464e84baab354e022d95138caf0780bb054da910acffdf86ea94d2a78bb70e"
+    },
+    {
+      "staged_filename": "ROOT_0100__R-NEW-20261026-067_LOD0.fbx",
+      "target_path": "ROOT/R-NEW-20261026-067/LOD0/R-NEW-20261026-067_LOD0.fbx",
+      "bytes": 1038748,
+      "sha256": "105e19543b0e56d33f373744d22f7a20bd313e7ccef676d1313d2af20fcea2a3"
+    },
+    {
+      "staged_filename": "ROOT_0101__R-NEW-20261026-067_LOD0.glb",
+      "target_path": "ROOT/R-NEW-20261026-067/LOD0/R-NEW-20261026-067_LOD0.glb",
+      "bytes": 1661688,
+      "sha256": "eae4d33c5242cfefa3a64f57d5439c08ba25854057863649d292166cfa006ce1"
+    },
+    {
+      "staged_filename": "ROOT_0102__R-NEW-20261026-067_LOD1.blend",
+      "target_path": "ROOT/R-NEW-20261026-067/LOD1/R-NEW-20261026-067_LOD1.blend",
+      "bytes": 346169,
+      "sha256": "97db0cef831fff953428e7bbe75d2a2acd844a426cb430ccd6c2c4ffe34a8810"
+    },
+    {
+      "staged_filename": "ROOT_0103__R-NEW-20261026-067_LOD1.fbx",
+      "target_path": "ROOT/R-NEW-20261026-067/LOD1/R-NEW-20261026-067_LOD1.fbx",
+      "bytes": 713756,
+      "sha256": "03a2c93e17eba9f5cac31adc13440ffd712b4c47f99eb5789c01ccea45e2ecb6"
+    },
+    {
+      "staged_filename": "ROOT_0104__R-NEW-20261026-067_LOD1.glb",
+      "target_path": "ROOT/R-NEW-20261026-067/LOD1/R-NEW-20261026-067_LOD1.glb",
+      "bytes": 1136900,
+      "sha256": "5dd629a6d9600ee42d5932d02a758734333e8ef9cb8407feede447a3889241ff"
+    },
+    {
+      "staged_filename": "ROOT_0105__R-NEW-20261026-067_LOD2.blend",
+      "target_path": "ROOT/R-NEW-20261026-067/LOD2/R-NEW-20261026-067_LOD2.blend",
+      "bytes": 264557,
+      "sha256": "df6b412dd60997201dbcb19e829fa18a9f803360cf9415a6e202a3588438dd99"
+    },
+    {
+      "staged_filename": "ROOT_0106__R-NEW-20261026-067_LOD2.fbx",
+      "target_path": "ROOT/R-NEW-20261026-067/LOD2/R-NEW-20261026-067_LOD2.fbx",
+      "bytes": 504972,
+      "sha256": "f0d435bfea897ebd0867de52b57aab89f559248656032b093cd6d90e075764ea"
+    },
+    {
+      "staged_filename": "ROOT_0107__R-NEW-20261026-067_LOD2.glb",
+      "target_path": "ROOT/R-NEW-20261026-067/LOD2/R-NEW-20261026-067_LOD2.glb",
+      "bytes": 814944,
+      "sha256": "07c65cdb501cd01a68223b466b8ad05cc6710fa073963cb2b59d9aace42de9ef"
+    },
+    {
+      "staged_filename": "ROOT_0108__QA_AND_LIMITS.json",
+      "target_path": "ROOT/R-NEW-20261026-067/QA_AND_LIMITS.json",
+      "bytes": 2023,
+      "sha256": "d6e95f3c7f2fc62aea1006898e13f4a4844014723cc731f2be726236e83275a1"
+    },
+    {
+      "staged_filename": "ROOT_0109__README_KO.md",
+      "target_path": "ROOT/R-NEW-20261026-067/README_KO.md",
+      "bytes": 1141,
+      "sha256": "2d5e22525e8b26a3a4b6ace003c0e5e5a7aa6e8cd775e0e103e3db36128309bb"
+    },
+    {
+      "staged_filename": "ROOT_0110__IMPORT_FBX_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-067/RENDERS_FINAL/IMPORT_FBX_hero.png",
+      "bytes": 1022416,
+      "sha256": "8f94226795ab62c4132d7e9a979dc7549ad0ad2d8b87fbef7c626b38f0906c85"
+    },
+    {
+      "staged_filename": "ROOT_0111__IMPORT_GLB_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-067/RENDERS_FINAL/IMPORT_GLB_hero.png",
+      "bytes": 1022263,
+      "sha256": "1ae520d32ff6c437388b8e96cc8afc1631fa4f729555073b86872aa1c6d1eefa"
+    },
+    {
+      "staged_filename": "ROOT_0112__LOD0_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-067/RENDERS_FINAL/LOD0_hero.png",
+      "bytes": 1022575,
+      "sha256": "e63fc9d51e97b57386f4c89ff43baa5454b61515715fc86b929bdac8628ecff4"
+    },
+    {
+      "staged_filename": "ROOT_0113__R-NEW-20261026-068_LOD0.blend",
+      "target_path": "ROOT/R-NEW-20261026-068/LOD0/R-NEW-20261026-068_LOD0.blend",
+      "bytes": 432668,
+      "sha256": "163968e66687e3a42c881bda5be65cd7c2bfb599402174543908d60c5303f016"
+    },
+    {
+      "staged_filename": "ROOT_0114__R-NEW-20261026-068_LOD0.fbx",
+      "target_path": "ROOT/R-NEW-20261026-068/LOD0/R-NEW-20261026-068_LOD0.fbx",
+      "bytes": 1985116,
+      "sha256": "233a74835553e49fc53e0624f0e95c310db484e5e60cdf12659847a852ac411a"
+    },
+    {
+      "staged_filename": "ROOT_0115__R-NEW-20261026-068_LOD0.glb",
+      "target_path": "ROOT/R-NEW-20261026-068/LOD0/R-NEW-20261026-068_LOD0.glb",
+      "bytes": 3890856,
+      "sha256": "06c03d0f206f009e10b17fa18778012e8b7565250eb4d3c58fdf940433a27f8b"
+    },
+    {
+      "staged_filename": "ROOT_0116__R-NEW-20261026-068_LOD1.blend",
+      "target_path": "ROOT/R-NEW-20261026-068/LOD1/R-NEW-20261026-068_LOD1.blend",
+      "bytes": 305704,
+      "sha256": "398f0627239213cd4b22011e7104c1a1991295694b3497811605fd7bfd356023"
+    },
+    {
+      "staged_filename": "ROOT_0117__R-NEW-20261026-068_LOD1.fbx",
+      "target_path": "ROOT/R-NEW-20261026-068/LOD1/R-NEW-20261026-068_LOD1.fbx",
+      "bytes": 1522636,
+      "sha256": "53d78e5d72469f0ff4085f80ed5124d29b5c4b5b96283cc7f4ea85f5c26366a9"
+    },
+    {
+      "staged_filename": "ROOT_0118__R-NEW-20261026-068_LOD1.glb",
+      "target_path": "ROOT/R-NEW-20261026-068/LOD1/R-NEW-20261026-068_LOD1.glb",
+      "bytes": 2939408,
+      "sha256": "9fe487131587fe8e8693677e673cb0cd6eaa56a7efd78ad9cc7be2fbd0d51dde"
+    },
+    {
+      "staged_filename": "ROOT_0119__R-NEW-20261026-068_LOD2.blend",
+      "target_path": "ROOT/R-NEW-20261026-068/LOD2/R-NEW-20261026-068_LOD2.blend",
+      "bytes": 237778,
+      "sha256": "b0331b92c4687fdd7252c41928a2b02fa988d3505d5977f0ed0205ff7ec4a17f"
+    },
+    {
+      "staged_filename": "ROOT_0120__R-NEW-20261026-068_LOD2.fbx",
+      "target_path": "ROOT/R-NEW-20261026-068/LOD2/R-NEW-20261026-068_LOD2.fbx",
+      "bytes": 1138092,
+      "sha256": "c9ea01d9eff75ff11bd54c56de6a5b710369b3cc629a189d3b21a8bfebdf6c86"
+    },
+    {
+      "staged_filename": "ROOT_0121__R-NEW-20261026-068_LOD2.glb",
+      "target_path": "ROOT/R-NEW-20261026-068/LOD2/R-NEW-20261026-068_LOD2.glb",
+      "bytes": 2077520,
+      "sha256": "6d07a65d91395fbfd397311d6cb66f71f243b091952ab7f0638a264e9ed7ae78"
+    },
+    {
+      "staged_filename": "ROOT_0122__QA_AND_LIMITS.json",
+      "target_path": "ROOT/R-NEW-20261026-068/QA_AND_LIMITS.json",
+      "bytes": 1951,
+      "sha256": "363ea1a1bb961750a28a5c5383cbe4ec235754852eb54b2258ef91ae86141969"
+    },
+    {
+      "staged_filename": "ROOT_0123__README_KO.md",
+      "target_path": "ROOT/R-NEW-20261026-068/README_KO.md",
+      "bytes": 1126,
+      "sha256": "bc725217b7951b3f8fb0e263fb937afef7cf321d05cf093c45457f1a6793febc"
+    },
+    {
+      "staged_filename": "ROOT_0124__IMPORT_FBX_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-068/RENDERS_FINAL/IMPORT_FBX_hero.png",
+      "bytes": 1257027,
+      "sha256": "b7996096070644e7dddc076ae8e7e1380c1b1c16abb43942c2c300b488f16498"
+    },
+    {
+      "staged_filename": "ROOT_0125__IMPORT_GLB_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-068/RENDERS_FINAL/IMPORT_GLB_hero.png",
+      "bytes": 1256862,
+      "sha256": "96782193498cb9e4e5e726ba726541cd99ddce85150db6ee9a3f7619c3aab692"
+    },
+    {
+      "staged_filename": "ROOT_0126__LOD0_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-068/RENDERS_FINAL/LOD0_hero.png",
+      "bytes": 1257017,
+      "sha256": "45b698d74523f3b833432689a0022fae16b902c93d752ff939e438b9129ca0e0"
+    },
+    {
+      "staged_filename": "ROOT_0127__R-NEW-20261026-069_LOD0.blend",
+      "target_path": "ROOT/R-NEW-20261026-069/LOD0/R-NEW-20261026-069_LOD0.blend",
+      "bytes": 320815,
+      "sha256": "8556d1476f53de9e52ccd96d91e07b49c889d066eff945688bccc310f2c0faf8"
+    },
+    {
+      "staged_filename": "ROOT_0128__R-NEW-20261026-069_LOD0.fbx",
+      "target_path": "ROOT/R-NEW-20261026-069/LOD0/R-NEW-20261026-069_LOD0.fbx",
+      "bytes": 690940,
+      "sha256": "8cf87a9d13fe7b8f4365cad031498f15b74f4282bdfd62188f4d3b11cfd53f07"
+    },
+    {
+      "staged_filename": "ROOT_0129__R-NEW-20261026-069_LOD0.glb",
+      "target_path": "ROOT/R-NEW-20261026-069/LOD0/R-NEW-20261026-069_LOD0.glb",
+      "bytes": 1322868,
+      "sha256": "16c71300fd38dbb91358381fd81cb4bb3a78d13f4ac9be39fe8067c470f7406f"
+    },
+    {
+      "staged_filename": "ROOT_0130__R-NEW-20261026-069_LOD1.blend",
+      "target_path": "ROOT/R-NEW-20261026-069/LOD1/R-NEW-20261026-069_LOD1.blend",
+      "bytes": 266642,
+      "sha256": "934cb9d6d1b652c2936a5db8218ae261aae7dbdb109bb81086c9fed27cdeba3b"
+    },
+    {
+      "staged_filename": "ROOT_0131__R-NEW-20261026-069_LOD1.fbx",
+      "target_path": "ROOT/R-NEW-20261026-069/LOD1/R-NEW-20261026-069_LOD1.fbx",
+      "bytes": 574556,
+      "sha256": "e292b87d29492fdc4061d773138ef6add34b0a420d5583bd1f7e12e1999c9ca4"
+    },
+    {
+      "staged_filename": "ROOT_0132__R-NEW-20261026-069_LOD1.glb",
+      "target_path": "ROOT/R-NEW-20261026-069/LOD1/R-NEW-20261026-069_LOD1.glb",
+      "bytes": 1077968,
+      "sha256": "70b6edb0cbcb5903916aabf4cb8991d3eb4628ddfae76240a12c5a73f5c39070"
+    },
+    {
+      "staged_filename": "ROOT_0133__R-NEW-20261026-069_LOD2.blend",
+      "target_path": "ROOT/R-NEW-20261026-069/LOD2/R-NEW-20261026-069_LOD2.blend",
+      "bytes": 227367,
+      "sha256": "08c1fff100017a07b2aa571bc91549a2316ae3e00861cae2c60906edd02588bb"
+    },
+    {
+      "staged_filename": "ROOT_0134__R-NEW-20261026-069_LOD2.fbx",
+      "target_path": "ROOT/R-NEW-20261026-069/LOD2/R-NEW-20261026-069_LOD2.fbx",
+      "bytes": 487228,
+      "sha256": "e35e2b7e7f44f674e0b2dac67bdd1d8f6661d50b3377f47c5498066272a7b45e"
+    },
+    {
+      "staged_filename": "ROOT_0135__R-NEW-20261026-069_LOD2.glb",
+      "target_path": "ROOT/R-NEW-20261026-069/LOD2/R-NEW-20261026-069_LOD2.glb",
+      "bytes": 896300,
+      "sha256": "591d2efe41c9baddab1bd483262d51fdba1713a7078ccc4a238893f4759f64c3"
+    },
+    {
+      "staged_filename": "ROOT_0136__QA_AND_LIMITS.json",
+      "target_path": "ROOT/R-NEW-20261026-069/QA_AND_LIMITS.json",
+      "bytes": 2028,
+      "sha256": "947c3eeceec07bc13d6a61292621fa7a172ef2c7c4b3d212d747bed920218f7a"
+    },
+    {
+      "staged_filename": "ROOT_0137__README_KO.md",
+      "target_path": "ROOT/R-NEW-20261026-069/README_KO.md",
+      "bytes": 1131,
+      "sha256": "bc51192ac687f8525489d226b70497d2e9e04daecd12aa7b7960e5c7cf84437a"
+    },
+    {
+      "staged_filename": "ROOT_0138__IMPORT_FBX_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-069/RENDERS_FINAL/IMPORT_FBX_hero.png",
+      "bytes": 1397303,
+      "sha256": "33eed137724a054d06815568cf384cc87eb7c6641409857eea9c45b189f0ad41"
+    },
+    {
+      "staged_filename": "ROOT_0139__IMPORT_GLB_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-069/RENDERS_FINAL/IMPORT_GLB_hero.png",
+      "bytes": 1397277,
+      "sha256": "1759f4ba0348518deb76098dc4608dddd06dec7d8a6da59aaeed1cedd815dd8e"
+    },
+    {
+      "staged_filename": "ROOT_0140__LOD0_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-069/RENDERS_FINAL/LOD0_hero.png",
+      "bytes": 1397350,
+      "sha256": "f76ee7c6155f4864bfc2a41d4a822a7fc41291f53c606cb170e3e23fe777d99a"
+    },
+    {
+      "staged_filename": "ROOT_0141__R-NEW-20261026-070_LOD0.blend",
+      "target_path": "ROOT/R-NEW-20261026-070/LOD0/R-NEW-20261026-070_LOD0.blend",
+      "bytes": 242475,
+      "sha256": "08b6576694013fe5c21a15144468bf96ac6f771b9c6f0337a0cb8e3e7a049881"
+    },
+    {
+      "staged_filename": "ROOT_0142__R-NEW-20261026-070_LOD0.fbx",
+      "target_path": "ROOT/R-NEW-20261026-070/LOD0/R-NEW-20261026-070_LOD0.fbx",
+      "bytes": 439948,
+      "sha256": "64785a4d144a2e8cb7e760ff60cb373c306a1c1968a106990e27c0140785f775"
+    },
+    {
+      "staged_filename": "ROOT_0143__R-NEW-20261026-070_LOD0.glb",
+      "target_path": "ROOT/R-NEW-20261026-070/LOD0/R-NEW-20261026-070_LOD0.glb",
+      "bytes": 762488,
+      "sha256": "0a1e2877b8f909e9fc753dd72077fee7a4821150a7bdd6186c8cf7f4b96be705"
+    },
+    {
+      "staged_filename": "ROOT_0144__R-NEW-20261026-070_LOD1.blend",
+      "target_path": "ROOT/R-NEW-20261026-070/LOD1/R-NEW-20261026-070_LOD1.blend",
+      "bytes": 196001,
+      "sha256": "38a6eb9cf8c05ccccd16f52a2f37afc5cd60829187f5bb81b9709b169dea06a9"
+    },
+    {
+      "staged_filename": "ROOT_0145__R-NEW-20261026-070_LOD1.fbx",
+      "target_path": "ROOT/R-NEW-20261026-070/LOD1/R-NEW-20261026-070_LOD1.fbx",
+      "bytes": 299004,
+      "sha256": "a0c43385332febc8ceadd12b1662b87dd4229655fc3f7237c74d5d29ce8c1b99"
+    },
+    {
+      "staged_filename": "ROOT_0146__R-NEW-20261026-070_LOD1.glb",
+      "target_path": "ROOT/R-NEW-20261026-070/LOD1/R-NEW-20261026-070_LOD1.glb",
+      "bytes": 457864,
+      "sha256": "9321a21534ed795b307562af731562bd73db00ccd5277340494ce27b8eda8302"
+    },
+    {
+      "staged_filename": "ROOT_0147__R-NEW-20261026-070_LOD2.blend",
+      "target_path": "ROOT/R-NEW-20261026-070/LOD2/R-NEW-20261026-070_LOD2.blend",
+      "bytes": 160142,
+      "sha256": "cb4df78eee5c2ce65174c2504479ec6bba6c164b817c0f9575aefe8e38841c27"
+    },
+    {
+      "staged_filename": "ROOT_0148__R-NEW-20261026-070_LOD2.fbx",
+      "target_path": "ROOT/R-NEW-20261026-070/LOD2/R-NEW-20261026-070_LOD2.fbx",
+      "bytes": 199084,
+      "sha256": "b311d07e9bac10fb931becd829ff7b67680048d1a8ec8fb9a7439b4f1bcedcb1"
+    },
+    {
+      "staged_filename": "ROOT_0149__R-NEW-20261026-070_LOD2.glb",
+      "target_path": "ROOT/R-NEW-20261026-070/LOD2/R-NEW-20261026-070_LOD2.glb",
+      "bytes": 254928,
+      "sha256": "961c8caa6acb7948b4fa42913fd1e827ee064f152ac938cc6585221cc6998df2"
+    },
+    {
+      "staged_filename": "ROOT_0150__QA_AND_LIMITS.json",
+      "target_path": "ROOT/R-NEW-20261026-070/QA_AND_LIMITS.json",
+      "bytes": 2006,
+      "sha256": "20dfc83248a1833471709df0ebaf16eb250f6171cf40eeb6776d8ea39aa3cd40"
+    },
+    {
+      "staged_filename": "ROOT_0151__README_KO.md",
+      "target_path": "ROOT/R-NEW-20261026-070/README_KO.md",
+      "bytes": 1126,
+      "sha256": "d2c8918a7487da98b94bbff6f72ab2c142a6e904e2f9eae9c854e67400a8dd92"
+    },
+    {
+      "staged_filename": "ROOT_0152__IMPORT_FBX_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-070/RENDERS_FINAL/IMPORT_FBX_hero.png",
+      "bytes": 1419359,
+      "sha256": "3bf9a82b1660e4a96dc9d530692f06c32b7300b5b624c8ee38c11e75f408def4"
+    },
+    {
+      "staged_filename": "ROOT_0153__IMPORT_GLB_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-070/RENDERS_FINAL/IMPORT_GLB_hero.png",
+      "bytes": 1419178,
+      "sha256": "f2f2d0f62f0c8b5ceb24b6ac27fbde1f93cc1b444612905738a7081ae631df42"
+    },
+    {
+      "staged_filename": "ROOT_0154__LOD0_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-070/RENDERS_FINAL/LOD0_hero.png",
+      "bytes": 1419509,
+      "sha256": "21b770b64cb9a76e7f2f91d817393275129bdcf2508f5590434def6c8c071f0a"
+    },
+    {
+      "staged_filename": "ROOT_0155__R-NEW-20261026-071_LOD0.blend",
+      "target_path": "ROOT/R-NEW-20261026-071/LOD0/R-NEW-20261026-071_LOD0.blend",
+      "bytes": 501574,
+      "sha256": "88a9554d4c19b3051a266df2052a51fd9e3b8c164417d9b01fc1af3fd5ccadd6"
+    },
+    {
+      "staged_filename": "ROOT_0156__R-NEW-20261026-071_LOD0.fbx",
+      "target_path": "ROOT/R-NEW-20261026-071/LOD0/R-NEW-20261026-071_LOD0.fbx",
+      "bytes": 1305964,
+      "sha256": "9908e0bbb70094901f85ba414d5102b2601b9ef875a88c95d17a927eb25fca63"
+    },
+    {
+      "staged_filename": "ROOT_0157__R-NEW-20261026-071_LOD0.glb",
+      "target_path": "ROOT/R-NEW-20261026-071/LOD0/R-NEW-20261026-071_LOD0.glb",
+      "bytes": 2196108,
+      "sha256": "175d1f1c30288a36a36835d3b4db8e4883e4d2ec647fb0e9228eae82a6ae9091"
+    },
+    {
+      "staged_filename": "ROOT_0158__R-NEW-20261026-071_LOD1.blend",
+      "target_path": "ROOT/R-NEW-20261026-071/LOD1/R-NEW-20261026-071_LOD1.blend",
+      "bytes": 364220,
+      "sha256": "79e5c8ffbca946e0a8d8f96c3a305cc7eec2561bb7289c8e861168feccc50d28"
+    },
+    {
+      "staged_filename": "ROOT_0159__R-NEW-20261026-071_LOD1.fbx",
+      "target_path": "ROOT/R-NEW-20261026-071/LOD1/R-NEW-20261026-071_LOD1.fbx",
+      "bytes": 927980,
+      "sha256": "6b51c7c55805902835699c60a898512d340c24bbf60039cfa96f327b976b6c0b"
+    },
+    {
+      "staged_filename": "ROOT_0160__R-NEW-20261026-071_LOD1.glb",
+      "target_path": "ROOT/R-NEW-20261026-071/LOD1/R-NEW-20261026-071_LOD1.glb",
+      "bytes": 1431660,
+      "sha256": "34eabe0f73d1137b5a005822692ad927a0aa1f8d01195f6e4a16da71559c4eb4"
+    },
+    {
+      "staged_filename": "ROOT_0161__R-NEW-20261026-071_LOD2.blend",
+      "target_path": "ROOT/R-NEW-20261026-071/LOD2/R-NEW-20261026-071_LOD2.blend",
+      "bytes": 253270,
+      "sha256": "5f247e7cf9d59d2ddd256de8610a39006d046ccaecaac8b5ef51eb39f36c107c"
+    },
+    {
+      "staged_filename": "ROOT_0162__R-NEW-20261026-071_LOD2.fbx",
+      "target_path": "ROOT/R-NEW-20261026-071/LOD2/R-NEW-20261026-071_LOD2.fbx",
+      "bytes": 641468,
+      "sha256": "a90e924bacb96da29c9896d550be90834e00c269c908d9eb6e7712e7bce337af"
+    },
+    {
+      "staged_filename": "ROOT_0163__R-NEW-20261026-071_LOD2.glb",
+      "target_path": "ROOT/R-NEW-20261026-071/LOD2/R-NEW-20261026-071_LOD2.glb",
+      "bytes": 858964,
+      "sha256": "db0da355611caf4b507490e7110fac106acf9d51960ec9b2ac098ef1411da6d5"
+    },
+    {
+      "staged_filename": "ROOT_0164__QA_AND_LIMITS.json",
+      "target_path": "ROOT/R-NEW-20261026-071/QA_AND_LIMITS.json",
+      "bytes": 1970,
+      "sha256": "3749c4255842c6571cce072311d42715eccc8a035688c8c34218d5e143dd69e8"
+    },
+    {
+      "staged_filename": "ROOT_0165__README_KO.md",
+      "target_path": "ROOT/R-NEW-20261026-071/README_KO.md",
+      "bytes": 1136,
+      "sha256": "e33232d011126a417611c882c51431d67ebdc79730224c5a10497af1be78b357"
+    },
+    {
+      "staged_filename": "ROOT_0166__IMPORT_FBX_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-071/RENDERS_FINAL/IMPORT_FBX_hero.png",
+      "bytes": 1437313,
+      "sha256": "3f0b31b3ef6793e9b1716113c607f30d093d5ba8031de319d1d8393e684ed0f8"
+    },
+    {
+      "staged_filename": "ROOT_0167__IMPORT_GLB_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-071/RENDERS_FINAL/IMPORT_GLB_hero.png",
+      "bytes": 1437291,
+      "sha256": "2babffdcacb6978cbfa45514440e6adab42875ec83814d0a8b656be36843eda6"
+    },
+    {
+      "staged_filename": "ROOT_0168__LOD0_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-071/RENDERS_FINAL/LOD0_hero.png",
+      "bytes": 1437356,
+      "sha256": "e61364f2e8195b74a8840c6b8f5ddf136171a4bda80d84cffa0eb6cff4964a39"
+    },
+    {
+      "staged_filename": "ROOT_0169__R-NEW-20261026-072_LOD0.blend",
+      "target_path": "ROOT/R-NEW-20261026-072/LOD0/R-NEW-20261026-072_LOD0.blend",
+      "bytes": 549790,
+      "sha256": "47b2f190aba558c25125e5f9742bc0326ca66a70261cc08661da38c21affa5b1"
+    },
+    {
+      "staged_filename": "ROOT_0170__R-NEW-20261026-072_LOD0.fbx",
+      "target_path": "ROOT/R-NEW-20261026-072/LOD0/R-NEW-20261026-072_LOD0.fbx",
+      "bytes": 1389564,
+      "sha256": "d6406165ba3c1885541572d1a03260da36b12027515fc82d6503de6fa491649f"
+    },
+    {
+      "staged_filename": "ROOT_0171__R-NEW-20261026-072_LOD0.glb",
+      "target_path": "ROOT/R-NEW-20261026-072/LOD0/R-NEW-20261026-072_LOD0.glb",
+      "bytes": 1994284,
+      "sha256": "45303d232af97781c07e32ad051c0e56e67483a1aaf7cfc39e58fe71aa9491b3"
+    },
+    {
+      "staged_filename": "ROOT_0172__R-NEW-20261026-072_LOD1.blend",
+      "target_path": "ROOT/R-NEW-20261026-072/LOD1/R-NEW-20261026-072_LOD1.blend",
+      "bytes": 384180,
+      "sha256": "98b55e8e310dccd452fb5d0311f38f48fb2f39bb0341ae34346c8ea80619eca2"
+    },
+    {
+      "staged_filename": "ROOT_0173__R-NEW-20261026-072_LOD1.fbx",
+      "target_path": "ROOT/R-NEW-20261026-072/LOD1/R-NEW-20261026-072_LOD1.fbx",
+      "bytes": 920044,
+      "sha256": "032a8ccc60396614812d3b38438ebf008992da4aad204945c6982f10adab9ea1"
+    },
+    {
+      "staged_filename": "ROOT_0174__R-NEW-20261026-072_LOD1.glb",
+      "target_path": "ROOT/R-NEW-20261026-072/LOD1/R-NEW-20261026-072_LOD1.glb",
+      "bytes": 1260356,
+      "sha256": "c953442320b76c56cc028e6aabcb6e81ff88ff0a9071d5f33c8adf4e526bc131"
+    },
+    {
+      "staged_filename": "ROOT_0175__R-NEW-20261026-072_LOD2.blend",
+      "target_path": "ROOT/R-NEW-20261026-072/LOD2/R-NEW-20261026-072_LOD2.blend",
+      "bytes": 262173,
+      "sha256": "459348a25ae5ef22ce22abc3aa47350a4d144495c5925f68f40f27c6f6dec279"
+    },
+    {
+      "staged_filename": "ROOT_0176__R-NEW-20261026-072_LOD2.fbx",
+      "target_path": "ROOT/R-NEW-20261026-072/LOD2/R-NEW-20261026-072_LOD2.fbx",
+      "bytes": 587324,
+      "sha256": "ef1452b4b2134eadeb7e33ea3cdba1e2414e8fa0934e866c4a0f2e78da7035fb"
+    },
+    {
+      "staged_filename": "ROOT_0177__R-NEW-20261026-072_LOD2.glb",
+      "target_path": "ROOT/R-NEW-20261026-072/LOD2/R-NEW-20261026-072_LOD2.glb",
+      "bytes": 751620,
+      "sha256": "17ec7d84cfbc32d9266599f82246c5cb79ac884940163db4850f72f4e299f8c0"
+    },
+    {
+      "staged_filename": "ROOT_0178__QA_AND_LIMITS.json",
+      "target_path": "ROOT/R-NEW-20261026-072/QA_AND_LIMITS.json",
+      "bytes": 2018,
+      "sha256": "344da8e2c9f14e856824af7ef904ce430f3c5c6af9ec1d9b5b86cf54f696747d"
+    },
+    {
+      "staged_filename": "ROOT_0179__README_KO.md",
+      "target_path": "ROOT/R-NEW-20261026-072/README_KO.md",
+      "bytes": 1135,
+      "sha256": "b84b996d03ef923e4266891111c85f7fd5cdd59e3321ff00e54bd3e1a5f4a954"
+    },
+    {
+      "staged_filename": "ROOT_0180__IMPORT_FBX_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-072/RENDERS_FINAL/IMPORT_FBX_hero.png",
+      "bytes": 1746298,
+      "sha256": "b8b600107ae0c8c1f568540112cbb7a66b61de665c8130756e22dcd9b624fa8a"
+    },
+    {
+      "staged_filename": "ROOT_0181__IMPORT_GLB_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-072/RENDERS_FINAL/IMPORT_GLB_hero.png",
+      "bytes": 1746305,
+      "sha256": "129641afce7c73256229497fc3b5170c6171d26531ac69ed88a64003bb19bf0a"
+    },
+    {
+      "staged_filename": "ROOT_0182__LOD0_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-072/RENDERS_FINAL/LOD0_hero.png",
+      "bytes": 1746369,
+      "sha256": "cf181d5f0e2aea66837231be4208fbe19fe0dcc12365956e18c93a4246ffc65d"
+    },
+    {
+      "staged_filename": "ROOT_0183__R-NEW-20261026-073_LOD0.blend",
+      "target_path": "ROOT/R-NEW-20261026-073/LOD0/R-NEW-20261026-073_LOD0.blend",
+      "bytes": 504277,
+      "sha256": "4278db0bc3bcaf6d8794dee0a6be10f0e7314fc2601690018bde56133beff952"
+    },
+    {
+      "staged_filename": "ROOT_0184__R-NEW-20261026-073_LOD0.fbx",
+      "target_path": "ROOT/R-NEW-20261026-073/LOD0/R-NEW-20261026-073_LOD0.fbx",
+      "bytes": 850524,
+      "sha256": "a2373e18648e9d9c4869d4b8a545676c562959fb690c41965e767315f8db104a"
+    },
+    {
+      "staged_filename": "ROOT_0185__R-NEW-20261026-073_LOD0.glb",
+      "target_path": "ROOT/R-NEW-20261026-073/LOD0/R-NEW-20261026-073_LOD0.glb",
+      "bytes": 1525504,
+      "sha256": "1cef15523d1b44e0cd89451f3b2a4d66ebc9eb1522dcb527d61f3fce73b096d5"
+    },
+    {
+      "staged_filename": "ROOT_0186__R-NEW-20261026-073_LOD1.blend",
+      "target_path": "ROOT/R-NEW-20261026-073/LOD1/R-NEW-20261026-073_LOD1.blend",
+      "bytes": 347376,
+      "sha256": "879d8793b27bead14f5e36bbe21567f8b5874a2e40d4f65a343f37425a0c5fae"
+    },
+    {
+      "staged_filename": "ROOT_0187__R-NEW-20261026-073_LOD1.fbx",
+      "target_path": "ROOT/R-NEW-20261026-073/LOD1/R-NEW-20261026-073_LOD1.fbx",
+      "bytes": 596748,
+      "sha256": "a02ea74686e87264769996353bfd5a17a0d613f63cfef7368b07c979f751b123"
+    },
+    {
+      "staged_filename": "ROOT_0188__R-NEW-20261026-073_LOD1.glb",
+      "target_path": "ROOT/R-NEW-20261026-073/LOD1/R-NEW-20261026-073_LOD1.glb",
+      "bytes": 1000456,
+      "sha256": "31468ecbd52d49d1ed21e7fcd57d5655720b373303876de66f07f4f78960da6a"
+    },
+    {
+      "staged_filename": "ROOT_0189__R-NEW-20261026-073_LOD2.blend",
+      "target_path": "ROOT/R-NEW-20261026-073/LOD2/R-NEW-20261026-073_LOD2.blend",
+      "bytes": 247661,
+      "sha256": "6236b68dcf644e0765acb8f26fe0b4b77ad736872b44e1e8d627f6dd5cd9aed6"
+    },
+    {
+      "staged_filename": "ROOT_0190__R-NEW-20261026-073_LOD2.fbx",
+      "target_path": "ROOT/R-NEW-20261026-073/LOD2/R-NEW-20261026-073_LOD2.fbx",
+      "bytes": 418188,
+      "sha256": "0e9b64610357009cace615896dd161b8d1a3ec1af183b78ee0b3f14da5a73fbd"
+    },
+    {
+      "staged_filename": "ROOT_0191__R-NEW-20261026-073_LOD2.glb",
+      "target_path": "ROOT/R-NEW-20261026-073/LOD2/R-NEW-20261026-073_LOD2.glb",
+      "bytes": 615452,
+      "sha256": "38c8f3524cb08bf31ad8dc57f899f6b04b1c9c402792b9dd31cc796fad30528f"
+    },
+    {
+      "staged_filename": "ROOT_0192__QA_AND_LIMITS.json",
+      "target_path": "ROOT/R-NEW-20261026-073/QA_AND_LIMITS.json",
+      "bytes": 1926,
+      "sha256": "444b23acbd357fce47995593d5378616ac20087c68bb196266e93a8f7f0db1ef"
+    },
+    {
+      "staged_filename": "ROOT_0193__README_KO.md",
+      "target_path": "ROOT/R-NEW-20261026-073/README_KO.md",
+      "bytes": 1134,
+      "sha256": "efcc4c758601fdef7baca742c79d4e91b48b15de1152d307e5cd95a92ecc819a"
+    },
+    {
+      "staged_filename": "ROOT_0194__IMPORT_FBX_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-073/RENDERS_FINAL/IMPORT_FBX_hero.png",
+      "bytes": 1434700,
+      "sha256": "0beaf99c00d7ad2ce4a7daa9915df4fc465e6dd14318e299aa3528b043e1faea"
+    },
+    {
+      "staged_filename": "ROOT_0195__IMPORT_GLB_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-073/RENDERS_FINAL/IMPORT_GLB_hero.png",
+      "bytes": 1434638,
+      "sha256": "ed89ea4a295e83ad759decc7139cdaee811d9dd31af39706a64ace8c5997d3b0"
+    },
+    {
+      "staged_filename": "ROOT_0196__LOD0_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-073/RENDERS_FINAL/LOD0_hero.png",
+      "bytes": 1434852,
+      "sha256": "73dc73b546d603d52dddf7ff9c708a38576efcabd68365c2976ca44bf8bc4038"
+    },
+    {
+      "staged_filename": "ROOT_0197__R-NEW-20261026-074_LOD0.blend",
+      "target_path": "ROOT/R-NEW-20261026-074/LOD0/R-NEW-20261026-074_LOD0.blend",
+      "bytes": 472910,
+      "sha256": "d17a97e09d13a33d473bd3eef50c4ba3184079d7479363000a12d1aae424af44"
+    },
+    {
+      "staged_filename": "ROOT_0198__R-NEW-20261026-074_LOD0.fbx",
+      "target_path": "ROOT/R-NEW-20261026-074/LOD0/R-NEW-20261026-074_LOD0.fbx",
+      "bytes": 1004460,
+      "sha256": "0901b7939ed240d41e9daa889160da35987df4eb1b37e52f2d63089f816d71b1"
+    },
+    {
+      "staged_filename": "ROOT_0199__R-NEW-20261026-074_LOD0.glb",
+      "target_path": "ROOT/R-NEW-20261026-074/LOD0/R-NEW-20261026-074_LOD0.glb",
+      "bytes": 1682016,
+      "sha256": "264e113f0bdc4a1f5666df6350095bc804cd39e7537ff4d7fd6016ca9e332343"
+    },
+    {
+      "staged_filename": "ROOT_0200__R-NEW-20261026-074_LOD1.blend",
+      "target_path": "ROOT/R-NEW-20261026-074/LOD1/R-NEW-20261026-074_LOD1.blend",
+      "bytes": 327265,
+      "sha256": "7f72f96404d10bfbc5bb062155a1a537ec31cd50c2123dfd76002dd0b08f02da"
+    },
+    {
+      "staged_filename": "ROOT_0201__R-NEW-20261026-074_LOD1.fbx",
+      "target_path": "ROOT/R-NEW-20261026-074/LOD1/R-NEW-20261026-074_LOD1.fbx",
+      "bytes": 719260,
+      "sha256": "756c88b3339e6ed0a7501d088c874ab66c94248d210c294da7339c4c91a60823"
+    },
+    {
+      "staged_filename": "ROOT_0202__R-NEW-20261026-074_LOD1.glb",
+      "target_path": "ROOT/R-NEW-20261026-074/LOD1/R-NEW-20261026-074_LOD1.glb",
+      "bytes": 1101896,
+      "sha256": "ab27fb11c71fd2deda2aabf04aedbb45926a471701433cbf7355b034c982f823"
+    },
+    {
+      "staged_filename": "ROOT_0203__R-NEW-20261026-074_LOD2.blend",
+      "target_path": "ROOT/R-NEW-20261026-074/LOD2/R-NEW-20261026-074_LOD2.blend",
+      "bytes": 245867,
+      "sha256": "c86e69af9e8925f4b2c262f86183875734ffd6133b38a94118a5a8e3ec4c0e48"
+    },
+    {
+      "staged_filename": "ROOT_0204__R-NEW-20261026-074_LOD2.fbx",
+      "target_path": "ROOT/R-NEW-20261026-074/LOD2/R-NEW-20261026-074_LOD2.fbx",
+      "bytes": 519004,
+      "sha256": "277ed0e08b4aab079264ac72cdef188f7c91f2fedf098de9e92d26d85b046ab4"
+    },
+    {
+      "staged_filename": "ROOT_0205__R-NEW-20261026-074_LOD2.glb",
+      "target_path": "ROOT/R-NEW-20261026-074/LOD2/R-NEW-20261026-074_LOD2.glb",
+      "bytes": 689136,
+      "sha256": "b4ca6d9ea628cd20d86d48b51118ff2f7a7e00ea36848aec8e9b607346494a06"
+    },
+    {
+      "staged_filename": "ROOT_0206__QA_AND_LIMITS.json",
+      "target_path": "ROOT/R-NEW-20261026-074/QA_AND_LIMITS.json",
+      "bytes": 1910,
+      "sha256": "687bcacc648ce2b691fab084191851bdd77cde5033232318b7b115ce20fad7db"
+    },
+    {
+      "staged_filename": "ROOT_0207__README_KO.md",
+      "target_path": "ROOT/R-NEW-20261026-074/README_KO.md",
+      "bytes": 1134,
+      "sha256": "f4ade0156a8763c24333591d02279f4c3f695c46696026b0e922670ef3094e16"
+    },
+    {
+      "staged_filename": "ROOT_0208__IMPORT_FBX_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-074/RENDERS_FINAL/IMPORT_FBX_hero.png",
+      "bytes": 1400115,
+      "sha256": "34437c5186386550b655fd2d12a5506414de8b084e1a7e6bc5fb7e802b489e63"
+    },
+    {
+      "staged_filename": "ROOT_0209__IMPORT_GLB_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-074/RENDERS_FINAL/IMPORT_GLB_hero.png",
+      "bytes": 1399983,
+      "sha256": "fb3ae149e48e6c9c7bc3280b0c18d68193f388508a2b0e5fdd1fceab55a1bd82"
+    },
+    {
+      "staged_filename": "ROOT_0210__LOD0_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-074/RENDERS_FINAL/LOD0_hero.png",
+      "bytes": 1399977,
+      "sha256": "a9a98254d8ebadb546c0451b02ab1f555a6e4c431c984e89c0e8d9294ba3f532"
+    },
+    {
+      "staged_filename": "ROOT_0211__R-NEW-20261026-075_LOD0.blend",
+      "target_path": "ROOT/R-NEW-20261026-075/LOD0/R-NEW-20261026-075_LOD0.blend",
+      "bytes": 913746,
+      "sha256": "178f7d5c3b8883f2829c19b038e24e039cae7816aa75486ab6bb412a8e4a2bdd"
+    },
+    {
+      "staged_filename": "ROOT_0212__R-NEW-20261026-075_LOD0.fbx",
+      "target_path": "ROOT/R-NEW-20261026-075/LOD0/R-NEW-20261026-075_LOD0.fbx",
+      "bytes": 1997788,
+      "sha256": "342f8a6d1e4e11cff550694b6f5bad673db75d4f3f9b557b076f6cdecd79c9c1"
+    },
+    {
+      "staged_filename": "ROOT_0213__R-NEW-20261026-075_LOD0.glb",
+      "target_path": "ROOT/R-NEW-20261026-075/LOD0/R-NEW-20261026-075_LOD0.glb",
+      "bytes": 2186468,
+      "sha256": "664dfd84220c730008959746ca6431b2cce8b6f9bf3c68d914362378661134c0"
+    },
+    {
+      "staged_filename": "ROOT_0214__R-NEW-20261026-075_LOD1.blend",
+      "target_path": "ROOT/R-NEW-20261026-075/LOD1/R-NEW-20261026-075_LOD1.blend",
+      "bytes": 539457,
+      "sha256": "5b1c761207647c625e258ab492f4e675c4e9d0321ef0816f2360e111c18b9213"
+    },
+    {
+      "staged_filename": "ROOT_0215__R-NEW-20261026-075_LOD1.fbx",
+      "target_path": "ROOT/R-NEW-20261026-075/LOD1/R-NEW-20261026-075_LOD1.fbx",
+      "bytes": 1145388,
+      "sha256": "8ae8e8ebbecf20201de6f5c4fff86dc7c0f32490e7e0b8ea8df882abc570074f"
+    },
+    {
+      "staged_filename": "ROOT_0216__R-NEW-20261026-075_LOD1.glb",
+      "target_path": "ROOT/R-NEW-20261026-075/LOD1/R-NEW-20261026-075_LOD1.glb",
+      "bytes": 1257612,
+      "sha256": "3387c7ff342c092f81154643e81ae57cc919d74e4c4b3f7e9bce1743c8caa72b"
+    },
+    {
+      "staged_filename": "ROOT_0217__R-NEW-20261026-075_LOD2.blend",
+      "target_path": "ROOT/R-NEW-20261026-075/LOD2/R-NEW-20261026-075_LOD2.blend",
+      "bytes": 284386,
+      "sha256": "c2245543da29645aa0da10353dbb6d6332953ee037ed3b2f2c8397a9b5e694c0"
+    },
+    {
+      "staged_filename": "ROOT_0218__R-NEW-20261026-075_LOD2.fbx",
+      "target_path": "ROOT/R-NEW-20261026-075/LOD2/R-NEW-20261026-075_LOD2.fbx",
+      "bytes": 664140,
+      "sha256": "6c8dd0606b21cee91d70914df94baa68c587a57bad8ea4815acd5a1825c9f248"
+    },
+    {
+      "staged_filename": "ROOT_0219__R-NEW-20261026-075_LOD2.glb",
+      "target_path": "ROOT/R-NEW-20261026-075/LOD2/R-NEW-20261026-075_LOD2.glb",
+      "bytes": 705436,
+      "sha256": "9bf5a70440d2d234ea4d448a4ab4ab600b51f1d5603f7691711bac59928f04f3"
+    },
+    {
+      "staged_filename": "ROOT_0220__QA_AND_LIMITS.json",
+      "target_path": "ROOT/R-NEW-20261026-075/QA_AND_LIMITS.json",
+      "bytes": 1980,
+      "sha256": "ffc34f781e9a0bb7b280ad4737067ee72282f8652577ca39b615942c5d5abbc0"
+    },
+    {
+      "staged_filename": "ROOT_0221__README_KO.md",
+      "target_path": "ROOT/R-NEW-20261026-075/README_KO.md",
+      "bytes": 1133,
+      "sha256": "fc684a71329d11d8995e4f12d87d7b100483e5d1986040e4ca8531ecc445311c"
+    },
+    {
+      "staged_filename": "ROOT_0222__IMPORT_FBX_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-075/RENDERS_FINAL/IMPORT_FBX_hero.png",
+      "bytes": 1186422,
+      "sha256": "003cff493e5d8d3b9768faca3968cab532f13a6d05640f15c971a1060263ef1b"
+    },
+    {
+      "staged_filename": "ROOT_0223__IMPORT_GLB_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-075/RENDERS_FINAL/IMPORT_GLB_hero.png",
+      "bytes": 1186233,
+      "sha256": "9b01414c08224bff52b2bd651c4a1b76e321267b96880a79a7162cf48729664e"
+    },
+    {
+      "staged_filename": "ROOT_0224__LOD0_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-075/RENDERS_FINAL/LOD0_hero.png",
+      "bytes": 1186479,
+      "sha256": "5fe5736ce91206653bcf29d6d954cb6ead5d5bcb2f4938966f8e626aa78a70d9"
+    },
+    {
+      "staged_filename": "ROOT_0225__R-NEW-20261026-076_LOD0.blend",
+      "target_path": "ROOT/R-NEW-20261026-076/LOD0/R-NEW-20261026-076_LOD0.blend",
+      "bytes": 254451,
+      "sha256": "e8018d1b4203448dc9b0669bef4bf5c40bcc2f7be92cafff192d5d714870acfa"
+    },
+    {
+      "staged_filename": "ROOT_0226__R-NEW-20261026-076_LOD0.fbx",
+      "target_path": "ROOT/R-NEW-20261026-076/LOD0/R-NEW-20261026-076_LOD0.fbx",
+      "bytes": 422140,
+      "sha256": "370e44c176e8ed93a8c418dfb0c9259371286ed8143fce346087635adb2a6b48"
+    },
+    {
+      "staged_filename": "ROOT_0227__R-NEW-20261026-076_LOD0.glb",
+      "target_path": "ROOT/R-NEW-20261026-076/LOD0/R-NEW-20261026-076_LOD0.glb",
+      "bytes": 587972,
+      "sha256": "bf249dd391e13a7293ca4794d86115f981d60302531d004d05bdd1a22866d829"
+    },
+    {
+      "staged_filename": "ROOT_0228__R-NEW-20261026-076_LOD1.blend",
+      "target_path": "ROOT/R-NEW-20261026-076/LOD1/R-NEW-20261026-076_LOD1.blend",
+      "bytes": 205164,
+      "sha256": "5eafc673ce86e905d008c88f5d4a176acc8a391aa470eed40ca48cf5e950f0be"
+    },
+    {
+      "staged_filename": "ROOT_0229__R-NEW-20261026-076_LOD1.fbx",
+      "target_path": "ROOT/R-NEW-20261026-076/LOD1/R-NEW-20261026-076_LOD1.fbx",
+      "bytes": 325884,
+      "sha256": "5b4257547b1bc05feeb5281dde6f06662dcdf8ed560429909ff21d64637b6d56"
+    },
+    {
+      "staged_filename": "ROOT_0230__R-NEW-20261026-076_LOD1.glb",
+      "target_path": "ROOT/R-NEW-20261026-076/LOD1/R-NEW-20261026-076_LOD1.glb",
+      "bytes": 406672,
+      "sha256": "c15ad8a89f8e2b5c265d0827973f1fb977873101d9dab00987ac239307993fe8"
+    },
+    {
+      "staged_filename": "ROOT_0231__R-NEW-20261026-076_LOD2.blend",
+      "target_path": "ROOT/R-NEW-20261026-076/LOD2/R-NEW-20261026-076_LOD2.blend",
+      "bytes": 167748,
+      "sha256": "986fd5756e3814558d7df65b8f968ba2ae77957dd4929894d34354f3e0fd0daf"
+    },
+    {
+      "staged_filename": "ROOT_0232__R-NEW-20261026-076_LOD2.fbx",
+      "target_path": "ROOT/R-NEW-20261026-076/LOD2/R-NEW-20261026-076_LOD2.fbx",
+      "bytes": 257132,
+      "sha256": "ebaef92c255ab49c3da8f48b1445dd1569eb1d1b54ab64daa04d51de862f181f"
+    },
+    {
+      "staged_filename": "ROOT_0233__R-NEW-20261026-076_LOD2.glb",
+      "target_path": "ROOT/R-NEW-20261026-076/LOD2/R-NEW-20261026-076_LOD2.glb",
+      "bytes": 272496,
+      "sha256": "b8a9a02b5a2b63a80b59abfb9ce113b57a4a33da044150d012b45c66dee2346f"
+    },
+    {
+      "staged_filename": "ROOT_0234__QA_AND_LIMITS.json",
+      "target_path": "ROOT/R-NEW-20261026-076/QA_AND_LIMITS.json",
+      "bytes": 1954,
+      "sha256": "427d7e98e50971abe3391d09d023746109e4f14a7064e5232eaff9ddbb3d7ea2"
+    },
+    {
+      "staged_filename": "ROOT_0235__README_KO.md",
+      "target_path": "ROOT/R-NEW-20261026-076/README_KO.md",
+      "bytes": 1136,
+      "sha256": "65a523a318c3aac5d4fc8aa67568dc9c431875aeb7dbc4e096d5e8ef7e0eb102"
+    },
+    {
+      "staged_filename": "ROOT_0236__IMPORT_FBX_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-076/RENDERS_FINAL/IMPORT_FBX_hero.png",
+      "bytes": 1818637,
+      "sha256": "2e2ceb652c5434bbe4f49965d3a1f01d7c37dca85c4933d6dd5874e248011d44"
+    },
+    {
+      "staged_filename": "ROOT_0237__IMPORT_GLB_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-076/RENDERS_FINAL/IMPORT_GLB_hero.png",
+      "bytes": 1818855,
+      "sha256": "aa639cbbd6bc8dccb2e343128f26938372cc9696f7026ea68075ab16ec19abdc"
+    },
+    {
+      "staged_filename": "ROOT_0238__LOD0_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-076/RENDERS_FINAL/LOD0_hero.png",
+      "bytes": 1818814,
+      "sha256": "105c71b3178f642220a49763b4c8f6bf478577a6b5ebe50b0998ff4b3bdf1b30"
+    },
+    {
+      "staged_filename": "ROOT_0239__R-NEW-20261026-077_LOD0.blend",
+      "target_path": "ROOT/R-NEW-20261026-077/LOD0/R-NEW-20261026-077_LOD0.blend",
+      "bytes": 414671,
+      "sha256": "9482fa36c797e5c7689c82aac6b6ff94a5c92c043cf8b075ca34a4df5074743b"
+    },
+    {
+      "staged_filename": "ROOT_0240__R-NEW-20261026-077_LOD0.fbx",
+      "target_path": "ROOT/R-NEW-20261026-077/LOD0/R-NEW-20261026-077_LOD0.fbx",
+      "bytes": 886156,
+      "sha256": "43e17e81146c0e9dafd1b20a7e872803fb988414681279bde28e86f63656fa28"
+    },
+    {
+      "staged_filename": "ROOT_0241__R-NEW-20261026-077_LOD0.glb",
+      "target_path": "ROOT/R-NEW-20261026-077/LOD0/R-NEW-20261026-077_LOD0.glb",
+      "bytes": 1377512,
+      "sha256": "4fdb94d4a7607bf866e74691408c9d87a09ccb846ac701666dd2c59ac2f28b30"
+    },
+    {
+      "staged_filename": "ROOT_0242__R-NEW-20261026-077_LOD1.blend",
+      "target_path": "ROOT/R-NEW-20261026-077/LOD1/R-NEW-20261026-077_LOD1.blend",
+      "bytes": 300262,
+      "sha256": "28661085e4ab50a573eb6bbbd496a0574ace23477dc3615b800243c519804336"
+    },
+    {
+      "staged_filename": "ROOT_0243__R-NEW-20261026-077_LOD1.fbx",
+      "target_path": "ROOT/R-NEW-20261026-077/LOD1/R-NEW-20261026-077_LOD1.fbx",
+      "bytes": 648764,
+      "sha256": "aef89e1c19151d5856323e0088a1197cafd064b6e4e00272005384c7fcdcca05"
+    },
+    {
+      "staged_filename": "ROOT_0244__R-NEW-20261026-077_LOD1.glb",
+      "target_path": "ROOT/R-NEW-20261026-077/LOD1/R-NEW-20261026-077_LOD1.glb",
+      "bytes": 918892,
+      "sha256": "6afcdf2499f3880829485d60d58ce9817219b22b1b5147d9f91db9ae1883ae20"
+    },
+    {
+      "staged_filename": "ROOT_0245__R-NEW-20261026-077_LOD2.blend",
+      "target_path": "ROOT/R-NEW-20261026-077/LOD2/R-NEW-20261026-077_LOD2.blend",
+      "bytes": 232344,
+      "sha256": "9f4dd7aa20a7060629f23081af0913099d21c345f66f199f4347c9f2c0faf35a"
+    },
+    {
+      "staged_filename": "ROOT_0246__R-NEW-20261026-077_LOD2.fbx",
+      "target_path": "ROOT/R-NEW-20261026-077/LOD2/R-NEW-20261026-077_LOD2.fbx",
+      "bytes": 477708,
+      "sha256": "57d7de019c94687947f09ca301903362a9e279964cda95617eb46bae43e5b6a8"
+    },
+    {
+      "staged_filename": "ROOT_0247__R-NEW-20261026-077_LOD2.glb",
+      "target_path": "ROOT/R-NEW-20261026-077/LOD2/R-NEW-20261026-077_LOD2.glb",
+      "bytes": 593056,
+      "sha256": "877c582a592b93f47fcec93160fb40ef531d8ae147b425882f7d4467eff387d9"
+    },
+    {
+      "staged_filename": "ROOT_0248__QA_AND_LIMITS.json",
+      "target_path": "ROOT/R-NEW-20261026-077/QA_AND_LIMITS.json",
+      "bytes": 1917,
+      "sha256": "1725afccce3c48358406ce29486decc13ca98979d49256551ca99dc3ae563f85"
+    },
+    {
+      "staged_filename": "ROOT_0249__README_KO.md",
+      "target_path": "ROOT/R-NEW-20261026-077/README_KO.md",
+      "bytes": 1140,
+      "sha256": "51866fcfe65dc2dfde801b6d91676ab795fa04ae55cbca129b07ee28c269b6e5"
+    },
+    {
+      "staged_filename": "ROOT_0250__IMPORT_FBX_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-077/RENDERS_FINAL/IMPORT_FBX_hero.png",
+      "bytes": 1381117,
+      "sha256": "b9440cadc0d30d91a713e6b5e9de48272b52a094bea1547772d8bd9fb5b6b90f"
+    },
+    {
+      "staged_filename": "ROOT_0251__IMPORT_GLB_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-077/RENDERS_FINAL/IMPORT_GLB_hero.png",
+      "bytes": 1381025,
+      "sha256": "1127529295a4083e7f4925eaed46a29a7fe60dc550c779006863a7cc255ef4cd"
+    },
+    {
+      "staged_filename": "ROOT_0252__LOD0_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-077/RENDERS_FINAL/LOD0_hero.png",
+      "bytes": 1381263,
+      "sha256": "10d5872a2630b0ef2f0c62be43c07c7df877e70c3259ced7fa472a9a01e8c9ab"
+    },
+    {
+      "staged_filename": "ROOT_0253__R-NEW-20261026-078_LOD0.blend",
+      "target_path": "ROOT/R-NEW-20261026-078/LOD0/R-NEW-20261026-078_LOD0.blend",
+      "bytes": 226479,
+      "sha256": "60d8e79b7d92b68e3371d1339133928d124ec700382ccd7075a943ba3af7c9c1"
+    },
+    {
+      "staged_filename": "ROOT_0254__R-NEW-20261026-078_LOD0.fbx",
+      "target_path": "ROOT/R-NEW-20261026-078/LOD0/R-NEW-20261026-078_LOD0.fbx",
+      "bytes": 1170748,
+      "sha256": "7a66b09718728481ff463fd3f91c80247a7abf4a416091f4257200b28aedff58"
+    },
+    {
+      "staged_filename": "ROOT_0255__R-NEW-20261026-078_LOD0.glb",
+      "target_path": "ROOT/R-NEW-20261026-078/LOD0/R-NEW-20261026-078_LOD0.glb",
+      "bytes": 2016624,
+      "sha256": "ef0517b410c91a2b67b719a58300666158143f5d31dcd62b69d191328d79b5c5"
+    },
+    {
+      "staged_filename": "ROOT_0256__R-NEW-20261026-078_LOD1.blend",
+      "target_path": "ROOT/R-NEW-20261026-078/LOD1/R-NEW-20261026-078_LOD1.blend",
+      "bytes": 199824,
+      "sha256": "d661ad4d35b85518e9003f6e7ee7b48759ed9476d9a4f49030a7540693f54756"
+    },
+    {
+      "staged_filename": "ROOT_0257__R-NEW-20261026-078_LOD1.fbx",
+      "target_path": "ROOT/R-NEW-20261026-078/LOD1/R-NEW-20261026-078_LOD1.fbx",
+      "bytes": 965900,
+      "sha256": "5e67ce469b1ada7ce43abaa10f793a0dd2a1acc96ecf5d8f41c470c4dba2eb8f"
+    },
+    {
+      "staged_filename": "ROOT_0258__R-NEW-20261026-078_LOD1.glb",
+      "target_path": "ROOT/R-NEW-20261026-078/LOD1/R-NEW-20261026-078_LOD1.glb",
+      "bytes": 1386452,
+      "sha256": "f044ffe4ef4d3d77ea060f578aa7c8fac169d01089278086d4b6b80bf86acca1"
+    },
+    {
+      "staged_filename": "ROOT_0259__R-NEW-20261026-078_LOD2.blend",
+      "target_path": "ROOT/R-NEW-20261026-078/LOD2/R-NEW-20261026-078_LOD2.blend",
+      "bytes": 186720,
+      "sha256": "c163a44bcbfa3f3e17db2fbee8b698f192ae6ae011adfa5501090ab5fe06e300"
+    },
+    {
+      "staged_filename": "ROOT_0260__R-NEW-20261026-078_LOD2.fbx",
+      "target_path": "ROOT/R-NEW-20261026-078/LOD2/R-NEW-20261026-078_LOD2.fbx",
+      "bytes": 816540,
+      "sha256": "af509c0287b7d8c4973ad1f65515c3e671e25ae7bef304d408202607ee97acdc"
+    },
+    {
+      "staged_filename": "ROOT_0261__R-NEW-20261026-078_LOD2.glb",
+      "target_path": "ROOT/R-NEW-20261026-078/LOD2/R-NEW-20261026-078_LOD2.glb",
+      "bytes": 920616,
+      "sha256": "d1e8f57dc500b38fe9410cc70898ebbb4d2e1247a7fd85209c682ec288773f64"
+    },
+    {
+      "staged_filename": "ROOT_0262__QA_AND_LIMITS.json",
+      "target_path": "ROOT/R-NEW-20261026-078/QA_AND_LIMITS.json",
+      "bytes": 1972,
+      "sha256": "518fe0729465d2f197f3aa2e4dadf3ca46baaef2116e1474b726886c06b90236"
+    },
+    {
+      "staged_filename": "ROOT_0263__README_KO.md",
+      "target_path": "ROOT/R-NEW-20261026-078/README_KO.md",
+      "bytes": 1125,
+      "sha256": "519b8bcbca64eae6bf0d727e0046062d0db76f842cd869ef766c27f9c05034ff"
+    },
+    {
+      "staged_filename": "ROOT_0264__IMPORT_FBX_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-078/RENDERS_FINAL/IMPORT_FBX_hero.png",
+      "bytes": 1537285,
+      "sha256": "497c0b7f334e1d4f4a7d37f28a34cd92c7a404d03a4f2da39f3b1e95cb00d74f"
+    },
+    {
+      "staged_filename": "ROOT_0265__IMPORT_GLB_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-078/RENDERS_FINAL/IMPORT_GLB_hero.png",
+      "bytes": 1537121,
+      "sha256": "19f84f94693f87a74114ad185e13b81cf42d08f5a907b1c6661b60a5cc891a40"
+    },
+    {
+      "staged_filename": "ROOT_0266__LOD0_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-078/RENDERS_FINAL/LOD0_hero.png",
+      "bytes": 1537268,
+      "sha256": "6e3c043de4f68b760eb275c87d7f422f4f43019af54c6ea202f7f9aad5ed927d"
+    },
+    {
+      "staged_filename": "ROOT_0267__R-NEW-20261026-079_LOD0.blend",
+      "target_path": "ROOT/R-NEW-20261026-079/LOD0/R-NEW-20261026-079_LOD0.blend",
+      "bytes": 309137,
+      "sha256": "42a24d6052229ca60a4b3aac341fde76f58b82309ea6574b7ddf46ec082e4ce4"
+    },
+    {
+      "staged_filename": "ROOT_0268__R-NEW-20261026-079_LOD0.fbx",
+      "target_path": "ROOT/R-NEW-20261026-079/LOD0/R-NEW-20261026-079_LOD0.fbx",
+      "bytes": 448828,
+      "sha256": "1a13cf3238ddb83c533cd79a0aa9441fb967140f4ab5268e90e9d2aaa9766045"
+    },
+    {
+      "staged_filename": "ROOT_0269__R-NEW-20261026-079_LOD0.glb",
+      "target_path": "ROOT/R-NEW-20261026-079/LOD0/R-NEW-20261026-079_LOD0.glb",
+      "bytes": 542308,
+      "sha256": "3f70467728af97d270f815a282ec5069d77cd025d1d354330456a0f3f200d822"
+    },
+    {
+      "staged_filename": "ROOT_0270__R-NEW-20261026-079_LOD1.blend",
+      "target_path": "ROOT/R-NEW-20261026-079/LOD1/R-NEW-20261026-079_LOD1.blend",
+      "bytes": 245708,
+      "sha256": "7b2f71f5ad1a9b7a3199e2bd36cefe1c9765be24301d7356f44402c464a0d75a"
+    },
+    {
+      "staged_filename": "ROOT_0271__R-NEW-20261026-079_LOD1.fbx",
+      "target_path": "ROOT/R-NEW-20261026-079/LOD1/R-NEW-20261026-079_LOD1.fbx",
+      "bytes": 344604,
+      "sha256": "6d4210e6a02c977b09ae9c8997f04bb138a7ec55e7cfe0b439387c2ed0ba032d"
+    },
+    {
+      "staged_filename": "ROOT_0272__R-NEW-20261026-079_LOD1.glb",
+      "target_path": "ROOT/R-NEW-20261026-079/LOD1/R-NEW-20261026-079_LOD1.glb",
+      "bytes": 395952,
+      "sha256": "9a64a809697806ec5344dd2dd43a6d4a52b7c5d4366ad7314289a77dbdae64a9"
+    },
+    {
+      "staged_filename": "ROOT_0273__R-NEW-20261026-079_LOD2.blend",
+      "target_path": "ROOT/R-NEW-20261026-079/LOD2/R-NEW-20261026-079_LOD2.blend",
+      "bytes": 201595,
+      "sha256": "66992b23f8d520b65243c8299ee7ce3f83119fec4221a1b1082a8cd2907d26c4"
+    },
+    {
+      "staged_filename": "ROOT_0274__R-NEW-20261026-079_LOD2.fbx",
+      "target_path": "ROOT/R-NEW-20261026-079/LOD2/R-NEW-20261026-079_LOD2.fbx",
+      "bytes": 275836,
+      "sha256": "c4ad1c97e51c1ad417286a7c21c5ecc739a2d80d8b4c699ee622afcc85519b78"
+    },
+    {
+      "staged_filename": "ROOT_0275__R-NEW-20261026-079_LOD2.glb",
+      "target_path": "ROOT/R-NEW-20261026-079/LOD2/R-NEW-20261026-079_LOD2.glb",
+      "bytes": 292016,
+      "sha256": "10faa8239a504a2a6f8fd256d3624fbd4e152c97f7b6c99be4cedd7893305299"
+    },
+    {
+      "staged_filename": "ROOT_0276__QA_AND_LIMITS.json",
+      "target_path": "ROOT/R-NEW-20261026-079/QA_AND_LIMITS.json",
+      "bytes": 3451,
+      "sha256": "b6c1a2f1f335ad56b45a308c279ec21daf04ff05876f14f3871b87c5074c25c7"
+    },
+    {
+      "staged_filename": "ROOT_0277__README_KO.md",
+      "target_path": "ROOT/R-NEW-20261026-079/README_KO.md",
+      "bytes": 1413,
+      "sha256": "50fc04ae18e6c82c8b9c7667b64030e479cdaff297ff752b5dedd9752724a5b3"
+    },
+    {
+      "staged_filename": "ROOT_0278__IMPORT_FBX_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-079/RENDERS_FINAL/IMPORT_FBX_hero.png",
+      "bytes": 1740926,
+      "sha256": "485427e0572c4fd24de1d6da1f294f0d0c8ec2d19e2cb5ce22e81c73714ddf32"
+    },
+    {
+      "staged_filename": "ROOT_0279__IMPORT_GLB_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-079/RENDERS_FINAL/IMPORT_GLB_hero.png",
+      "bytes": 1740947,
+      "sha256": "c6b8cff9358e1407281a29a66b0731b9ebb477d84fd0f8ec361b21d507cecdb7"
+    },
+    {
+      "staged_filename": "ROOT_0280__LOD0_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-079/RENDERS_FINAL/LOD0_hero.png",
+      "bytes": 1741121,
+      "sha256": "0ffc6da48eab5a1b06d480ff27dfce960efcf1169e0fa8badfe9a86433379741"
+    },
+    {
+      "staged_filename": "ROOT_0281__SHA256SUMS.txt",
+      "target_path": "ROOT/R-NEW-20261026-079/SHA256SUMS.txt",
+      "bytes": 1355,
+      "sha256": "33890bfe9cab7b99e2ae3f122ae154a4095acc6694d2a44c22f4084e45185644"
+    },
+    {
+      "staged_filename": "ROOT_0282__R-NEW-20261026-080_LOD0.blend",
+      "target_path": "ROOT/R-NEW-20261026-080/LOD0/R-NEW-20261026-080_LOD0.blend",
+      "bytes": 220105,
+      "sha256": "9489eaa0a2a3bbb1234d2a3c9b7df160deaa3a2381a9294a22f84fb28a226471"
+    },
+    {
+      "staged_filename": "ROOT_0283__R-NEW-20261026-080_LOD0.fbx",
+      "target_path": "ROOT/R-NEW-20261026-080/LOD0/R-NEW-20261026-080_LOD0.fbx",
+      "bytes": 292908,
+      "sha256": "7d229e71d975d2afecbea4f7ec1b0c9af8bad9c43059c07c3e2700588191b71a"
+    },
+    {
+      "staged_filename": "ROOT_0284__R-NEW-20261026-080_LOD0.glb",
+      "target_path": "ROOT/R-NEW-20261026-080/LOD0/R-NEW-20261026-080_LOD0.glb",
+      "bytes": 288464,
+      "sha256": "d45eee6fce00da01c669e93939113f88f3aa9a146a58a9f7e28d0becbe7919c9"
+    },
+    {
+      "staged_filename": "ROOT_0285__R-NEW-20261026-080_LOD1.blend",
+      "target_path": "ROOT/R-NEW-20261026-080/LOD1/R-NEW-20261026-080_LOD1.blend",
+      "bytes": 154120,
+      "sha256": "e66b09364ad5ededb72756fb20485efa549940a84af0c4385473ccf191ff5357"
+    },
+    {
+      "staged_filename": "ROOT_0286__R-NEW-20261026-080_LOD1.fbx",
+      "target_path": "ROOT/R-NEW-20261026-080/LOD1/R-NEW-20261026-080_LOD1.fbx",
+      "bytes": 178588,
+      "sha256": "9944d5ce5915d90b4eec77fca4b3478ad31e781b7b04d30317f1b106a4f419e7"
+    },
+    {
+      "staged_filename": "ROOT_0287__R-NEW-20261026-080_LOD1.glb",
+      "target_path": "ROOT/R-NEW-20261026-080/LOD1/R-NEW-20261026-080_LOD1.glb",
+      "bytes": 160736,
+      "sha256": "475daf3a0d42a351ced0aa0fc7fb7b0117ab00ada4fb1506632b9d40ec231637"
+    },
+    {
+      "staged_filename": "ROOT_0288__R-NEW-20261026-080_LOD2.blend",
+      "target_path": "ROOT/R-NEW-20261026-080/LOD2/R-NEW-20261026-080_LOD2.blend",
+      "bytes": 132953,
+      "sha256": "a9e6666729ea1f13aa941aa80aa6be393bfbca2833b7bf9e3385eef94fc7c075"
+    },
+    {
+      "staged_filename": "ROOT_0289__R-NEW-20261026-080_LOD2.fbx",
+      "target_path": "ROOT/R-NEW-20261026-080/LOD2/R-NEW-20261026-080_LOD2.fbx",
+      "bytes": 138204,
+      "sha256": "8ab04b5ba074167ae8a41c7fe50930d3d889220ad657580d3a8b9c3a8cef2df0"
+    },
+    {
+      "staged_filename": "ROOT_0290__R-NEW-20261026-080_LOD2.glb",
+      "target_path": "ROOT/R-NEW-20261026-080/LOD2/R-NEW-20261026-080_LOD2.glb",
+      "bytes": 117544,
+      "sha256": "ed6740367692795ea0492e19fda812d56bffb9259e12192319d9c4f7cad160b7"
+    },
+    {
+      "staged_filename": "ROOT_0291__QA_AND_LIMITS.json",
+      "target_path": "ROOT/R-NEW-20261026-080/QA_AND_LIMITS.json",
+      "bytes": 3731,
+      "sha256": "4602fb843da601ce072549fd9f02dd6fc513073bb1c9af080fefa7375ea0f1b6"
+    },
+    {
+      "staged_filename": "ROOT_0292__README_KO.md",
+      "target_path": "ROOT/R-NEW-20261026-080/README_KO.md",
+      "bytes": 1695,
+      "sha256": "afbe3b658ee2cb327e5977cce109bd97a6077e327c217bb015ca4f2dbad01b89"
+    },
+    {
+      "staged_filename": "ROOT_0293__IMPORT_FBX_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-080/RENDERS_FINAL/IMPORT_FBX_hero.png",
+      "bytes": 1886587,
+      "sha256": "be3c86e5caa14dd0260430c2185af8a98eadbe2227a11a462ac262327334a61f"
+    },
+    {
+      "staged_filename": "ROOT_0294__IMPORT_GLB_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-080/RENDERS_FINAL/IMPORT_GLB_hero.png",
+      "bytes": 1886442,
+      "sha256": "2e3fe12e7be96615eebfcfdd93c2f84ad1040d5839152f06ce87b98bef88be31"
+    },
+    {
+      "staged_filename": "ROOT_0295__LOD0_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-080/RENDERS_FINAL/LOD0_hero.png",
+      "bytes": 1886647,
+      "sha256": "11c432597bf77c5cce62b197b193beddd2cfe757d48c17a01c5ff22577617582"
+    },
+    {
+      "staged_filename": "ROOT_0296__SHA256SUMS.txt",
+      "target_path": "ROOT/R-NEW-20261026-080/SHA256SUMS.txt",
+      "bytes": 1355,
+      "sha256": "38c5afb7bdda9097ecc37fbaf4f338778e42dc446b922700939a54625d64cedd"
+    },
+    {
+      "staged_filename": "ROOT_0297__R-NEW-20261026-081_LOD0.blend",
+      "target_path": "ROOT/R-NEW-20261026-081/LOD0/R-NEW-20261026-081_LOD0.blend",
+      "bytes": 219944,
+      "sha256": "f4691ae6c78a838f3232a007aa25a84395ef92aa2b2e54023d2ac85a8ac638f1"
+    },
+    {
+      "staged_filename": "ROOT_0298__R-NEW-20261026-081_LOD0.fbx",
+      "target_path": "ROOT/R-NEW-20261026-081/LOD0/R-NEW-20261026-081_LOD0.fbx",
+      "bytes": 414220,
+      "sha256": "a1b7dd506074637cad5fb7a9913de8bc6ec19c1ca47449f375307d4d37fa8679"
+    },
+    {
+      "staged_filename": "ROOT_0299__R-NEW-20261026-081_LOD0.glb",
+      "target_path": "ROOT/R-NEW-20261026-081/LOD0/R-NEW-20261026-081_LOD0.glb",
+      "bytes": 867068,
+      "sha256": "fc54e6992ad40eaf21cb13981d1655493711897c72274e38e05933efacaa949e"
+    },
+    {
+      "staged_filename": "ROOT_0300__R-NEW-20261026-081_LOD1.blend",
+      "target_path": "ROOT/R-NEW-20261026-081/LOD1/R-NEW-20261026-081_LOD1.blend",
+      "bytes": 178859,
+      "sha256": "aa6856fe19ed9866177f3fe2902f1267abb5092b9bcaea311fd6d93c480599b5"
+    },
+    {
+      "staged_filename": "ROOT_0301__R-NEW-20261026-081_LOD1.fbx",
+      "target_path": "ROOT/R-NEW-20261026-081/LOD1/R-NEW-20261026-081_LOD1.fbx",
+      "bytes": 312892,
+      "sha256": "733588ee5628363757ddddf7269c3797cc00cbda902ffbc8b27a02e41bed92fa"
+    },
+    {
+      "staged_filename": "ROOT_0302__R-NEW-20261026-081_LOD1.glb",
+      "target_path": "ROOT/R-NEW-20261026-081/LOD1/R-NEW-20261026-081_LOD1.glb",
+      "bytes": 568572,
+      "sha256": "908938edaea837a55709beb584122439513625ce3aaf239c6be77bafcccd76ba"
+    },
+    {
+      "staged_filename": "ROOT_0303__R-NEW-20261026-081_LOD2.blend",
+      "target_path": "ROOT/R-NEW-20261026-081/LOD2/R-NEW-20261026-081_LOD2.blend",
+      "bytes": 148785,
+      "sha256": "798c5909f4022ebe2336486b34ee436008d8103c6e0283b8430135825256dbb2"
+    },
+    {
+      "staged_filename": "ROOT_0304__R-NEW-20261026-081_LOD2.fbx",
+      "target_path": "ROOT/R-NEW-20261026-081/LOD2/R-NEW-20261026-081_LOD2.fbx",
+      "bytes": 235404,
+      "sha256": "090fcbac9266d97a30e49879eea3324e789a4e9907fe8d9911a9ff00cd6398b9"
+    },
+    {
+      "staged_filename": "ROOT_0305__R-NEW-20261026-081_LOD2.glb",
+      "target_path": "ROOT/R-NEW-20261026-081/LOD2/R-NEW-20261026-081_LOD2.glb",
+      "bytes": 342072,
+      "sha256": "f5d094832c3ffd02150b53c632e2459b8c5192f422322ca7057b93714d0cbe80"
+    },
+    {
+      "staged_filename": "ROOT_0306__QA_AND_LIMITS.json",
+      "target_path": "ROOT/R-NEW-20261026-081/QA_AND_LIMITS.json",
+      "bytes": 3689,
+      "sha256": "ffa71be3afc5fed72805699d360fe2718c7bb1ae626d52e8f05f9a5572e0e431"
+    },
+    {
+      "staged_filename": "ROOT_0307__README_KO.md",
+      "target_path": "ROOT/R-NEW-20261026-081/README_KO.md",
+      "bytes": 1852,
+      "sha256": "a4f529f7d1cc8b5885a837eb87340730b6d2d76b9b2c6ef3c24c1a7cde287513"
+    },
+    {
+      "staged_filename": "ROOT_0308__IMPORT_FBX_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-081/RENDERS_FINAL/IMPORT_FBX_hero.png",
+      "bytes": 1510107,
+      "sha256": "01c9bf1f722f4ccb44a4115927f9ca20f619087d982385a48020aaa08e3efafc"
+    },
+    {
+      "staged_filename": "ROOT_0309__IMPORT_GLB_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-081/RENDERS_FINAL/IMPORT_GLB_hero.png",
+      "bytes": 1510218,
+      "sha256": "0f14d5fa9bdb1a189dee28030b86b1f409191faeae17b0c6409e60c7463fa937"
+    },
+    {
+      "staged_filename": "ROOT_0310__LOD0_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-081/RENDERS_FINAL/LOD0_hero.png",
+      "bytes": 1510155,
+      "sha256": "f33766dbc28de3566b2fbdafcaaf601151fc5bcd71862a22a91dd52bc3bcb7db"
+    },
+    {
+      "staged_filename": "ROOT_0311__SHA256SUMS.txt",
+      "target_path": "ROOT/R-NEW-20261026-081/SHA256SUMS.txt",
+      "bytes": 1355,
+      "sha256": "49def3ab43d9893e08cdc2d2049c441bd53f9f50cc259918a42302132341de54"
+    },
+    {
+      "staged_filename": "ROOT_0312__R-NEW-20261026-082_LOD0.blend",
+      "target_path": "ROOT/R-NEW-20261026-082/LOD0/R-NEW-20261026-082_LOD0.blend",
+      "bytes": 216157,
+      "sha256": "65c565e619c0e5a434033a06a26427c6527d7ed2ce49b3200332d48acddc8d8b"
+    },
+    {
+      "staged_filename": "ROOT_0313__R-NEW-20261026-082_LOD0.fbx",
+      "target_path": "ROOT/R-NEW-20261026-082/LOD0/R-NEW-20261026-082_LOD0.fbx",
+      "bytes": 663292,
+      "sha256": "ec9cb18e5745b36190ce55bedb7e2e78c5bfb3ec4dfdf9fc6cbc8d8b4016975f"
+    },
+    {
+      "staged_filename": "ROOT_0314__R-NEW-20261026-082_LOD0.glb",
+      "target_path": "ROOT/R-NEW-20261026-082/LOD0/R-NEW-20261026-082_LOD0.glb",
+      "bytes": 1231156,
+      "sha256": "c1d20438a154c8d6d39f6e3711e33898ec2f656d17f5415480f86b51f9773ee4"
+    },
+    {
+      "staged_filename": "ROOT_0315__R-NEW-20261026-082_LOD1.blend",
+      "target_path": "ROOT/R-NEW-20261026-082/LOD1/R-NEW-20261026-082_LOD1.blend",
+      "bytes": 182110,
+      "sha256": "0b158919561b89343ea4595f5c1fa0c7e6c2ad96493927cbd41cd4c5ab2b1172"
+    },
+    {
+      "staged_filename": "ROOT_0316__R-NEW-20261026-082_LOD1.fbx",
+      "target_path": "ROOT/R-NEW-20261026-082/LOD1/R-NEW-20261026-082_LOD1.fbx",
+      "bytes": 434620,
+      "sha256": "fdba3de8679130dbee7cda53e33b29276d2c4f5a1386d946cb9e7ef3783143b8"
+    },
+    {
+      "staged_filename": "ROOT_0317__R-NEW-20261026-082_LOD1.glb",
+      "target_path": "ROOT/R-NEW-20261026-082/LOD1/R-NEW-20261026-082_LOD1.glb",
+      "bytes": 635948,
+      "sha256": "1b797f63a8ea91f34b377ea9c9427179abc8a97d227d1420ec9dcbabdcfaa6fc"
+    },
+    {
+      "staged_filename": "ROOT_0318__R-NEW-20261026-082_LOD2.blend",
+      "target_path": "ROOT/R-NEW-20261026-082/LOD2/R-NEW-20261026-082_LOD2.blend",
+      "bytes": 155380,
+      "sha256": "c0f540a8779f217fb22c923b90cbb5f53d531e580ca632eac67901b2404696e1"
+    },
+    {
+      "staged_filename": "ROOT_0319__R-NEW-20261026-082_LOD2.fbx",
+      "target_path": "ROOT/R-NEW-20261026-082/LOD2/R-NEW-20261026-082_LOD2.fbx",
+      "bytes": 312780,
+      "sha256": "7614ed32fbde98d6841e4d703be5740ab33629befabf8df808c52cc0b7977443"
+    },
+    {
+      "staged_filename": "ROOT_0320__R-NEW-20261026-082_LOD2.glb",
+      "target_path": "ROOT/R-NEW-20261026-082/LOD2/R-NEW-20261026-082_LOD2.glb",
+      "bytes": 326060,
+      "sha256": "45f32d89657c63804b2c25eb740be24250eddc8ed2dd7c2bedffb00501e89c77"
+    },
+    {
+      "staged_filename": "ROOT_0321__QA_AND_LIMITS.json",
+      "target_path": "ROOT/R-NEW-20261026-082/QA_AND_LIMITS.json",
+      "bytes": 3819,
+      "sha256": "392471411c39f55c24a7a0350d02a77aca7f4afcdffd31ebe92a46c66e8d6980"
+    },
+    {
+      "staged_filename": "ROOT_0322__README_KO.md",
+      "target_path": "ROOT/R-NEW-20261026-082/README_KO.md",
+      "bytes": 1789,
+      "sha256": "f49ca90b2f376abfd9a1dc4c5c5556a5e32ab36b1b64c1768ae059445368ef95"
+    },
+    {
+      "staged_filename": "ROOT_0323__IMPORT_FBX_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-082/RENDERS_FINAL/IMPORT_FBX_hero.png",
+      "bytes": 1544350,
+      "sha256": "e623533a4804e8afbef0e87888597329001e6d73e09f8de22b1bab821b657d92"
+    },
+    {
+      "staged_filename": "ROOT_0324__IMPORT_GLB_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-082/RENDERS_FINAL/IMPORT_GLB_hero.png",
+      "bytes": 1544458,
+      "sha256": "eb6a1ce1c4420db1e26c173f3a061f3a3a3f7c676014e02ce067a2d33d194c67"
+    },
+    {
+      "staged_filename": "ROOT_0325__LOD0_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-082/RENDERS_FINAL/LOD0_hero.png",
+      "bytes": 1544529,
+      "sha256": "1effa35bebd327e94a6c533772711875e80d98c59b076d6b945e666c4ec4683c"
+    },
+    {
+      "staged_filename": "ROOT_0326__SHA256SUMS.txt",
+      "target_path": "ROOT/R-NEW-20261026-082/SHA256SUMS.txt",
+      "bytes": 1355,
+      "sha256": "394b17a1d5a8d123e0b3a80a10d2cf161109c04825fedc6f6b531984fc19ebde"
+    },
+    {
+      "staged_filename": "ROOT_0327__R-NEW-20261026-083_LOD0.blend",
+      "target_path": "ROOT/R-NEW-20261026-083/LOD0/R-NEW-20261026-083_LOD0.blend",
+      "bytes": 482509,
+      "sha256": "b3b741fa85b0b131c26b6f4d721b9b6f7c89c6b717e3f6346a5128fb2ad35b3a"
+    },
+    {
+      "staged_filename": "ROOT_0328__R-NEW-20261026-083_LOD0.fbx",
+      "target_path": "ROOT/R-NEW-20261026-083/LOD0/R-NEW-20261026-083_LOD0.fbx",
+      "bytes": 849852,
+      "sha256": "51d438afbd6acda3dfa799d428d03971823a92e827841a705adc8a902d1d9c8b"
+    },
+    {
+      "staged_filename": "ROOT_0329__R-NEW-20261026-083_LOD0.glb",
+      "target_path": "ROOT/R-NEW-20261026-083/LOD0/R-NEW-20261026-083_LOD0.glb",
+      "bytes": 1111908,
+      "sha256": "374b931c473d2d9e4afc6dda05cdbae7a043839c56a9ad0549bc74a263e77ff6"
+    },
+    {
+      "staged_filename": "ROOT_0330__R-NEW-20261026-083_LOD1.blend",
+      "target_path": "ROOT/R-NEW-20261026-083/LOD1/R-NEW-20261026-083_LOD1.blend",
+      "bytes": 324592,
+      "sha256": "5af4f962a0dce0d3464e86639456765348bf8f82935fb8d12f45d52603d798d2"
+    },
+    {
+      "staged_filename": "ROOT_0331__R-NEW-20261026-083_LOD1.fbx",
+      "target_path": "ROOT/R-NEW-20261026-083/LOD1/R-NEW-20261026-083_LOD1.fbx",
+      "bytes": 523260,
+      "sha256": "452cc960a72f303854072a38738c951439bb6673478f07e7df5ad02e7863612b"
+    },
+    {
+      "staged_filename": "ROOT_0332__R-NEW-20261026-083_LOD1.glb",
+      "target_path": "ROOT/R-NEW-20261026-083/LOD1/R-NEW-20261026-083_LOD1.glb",
+      "bytes": 583924,
+      "sha256": "fd9d65a4febca05c5bc2ae7fea61c043541864c41077317a970bd151a3ef34c0"
+    },
+    {
+      "staged_filename": "ROOT_0333__R-NEW-20261026-083_LOD2.blend",
+      "target_path": "ROOT/R-NEW-20261026-083/LOD2/R-NEW-20261026-083_LOD2.blend",
+      "bytes": 223143,
+      "sha256": "721747e2b2e13d6cef55fe17eed88f388bc8a4a4816896f72520283738715a97"
+    },
+    {
+      "staged_filename": "ROOT_0334__R-NEW-20261026-083_LOD2.fbx",
+      "target_path": "ROOT/R-NEW-20261026-083/LOD2/R-NEW-20261026-083_LOD2.fbx",
+      "bytes": 344876,
+      "sha256": "90c9b94eb9d2bad8278b489706a3a8e5195dacb594ccfd4835a113719154f2f0"
+    },
+    {
+      "staged_filename": "ROOT_0335__R-NEW-20261026-083_LOD2.glb",
+      "target_path": "ROOT/R-NEW-20261026-083/LOD2/R-NEW-20261026-083_LOD2.glb",
+      "bytes": 332728,
+      "sha256": "4582fb333217d9c23f31b4999484b078ce68210f3a01234b24e8d3f8a33b1d6d"
+    },
+    {
+      "staged_filename": "ROOT_0336__QA_AND_LIMITS.json",
+      "target_path": "ROOT/R-NEW-20261026-083/QA_AND_LIMITS.json",
+      "bytes": 3844,
+      "sha256": "59f54933a4f9e90387bd7c0671eea0950a3c2b5bce3a83164b058788e583a359"
+    },
+    {
+      "staged_filename": "ROOT_0337__README_KO.md",
+      "target_path": "ROOT/R-NEW-20261026-083/README_KO.md",
+      "bytes": 1865,
+      "sha256": "78b4b61e9dff7e3d560dade57cc9e162946ee0e5197ba323c67e535134f8d250"
+    },
+    {
+      "staged_filename": "ROOT_0338__IMPORT_FBX_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-083/RENDERS_FINAL/IMPORT_FBX_hero.png",
+      "bytes": 1547760,
+      "sha256": "aa7847ed8e0ecc7ad5b6c335cfe8477639251047a09011042ea443d5b31b7263"
+    },
+    {
+      "staged_filename": "ROOT_0339__IMPORT_GLB_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-083/RENDERS_FINAL/IMPORT_GLB_hero.png",
+      "bytes": 1547686,
+      "sha256": "5ee8ba81235550ba9e26b06be6808844e1f4c3cc510e742c235b5cc91183fff5"
+    },
+    {
+      "staged_filename": "ROOT_0340__LOD0_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-083/RENDERS_FINAL/LOD0_hero.png",
+      "bytes": 1547832,
+      "sha256": "2590c062e0ac6458a9cf7197df2229e4e2f70ec74a075fcf8096612de0fcc992"
+    },
+    {
+      "staged_filename": "ROOT_0341__SHA256SUMS.txt",
+      "target_path": "ROOT/R-NEW-20261026-083/SHA256SUMS.txt",
+      "bytes": 1355,
+      "sha256": "e48646457a5bfb69bbf9a81fc42fe81ab7e5008904cb1408390e64f3f82ccbdc"
+    },
+    {
+      "staged_filename": "ROOT_0342__R-NEW-20261026-084_LOD0.blend",
+      "target_path": "ROOT/R-NEW-20261026-084/LOD0/R-NEW-20261026-084_LOD0.blend",
+      "bytes": 192795,
+      "sha256": "741894a8958e3db385930f17351f7dd5e389d12c33aa2a45a9cad7834b4661a2"
+    },
+    {
+      "staged_filename": "ROOT_0343__R-NEW-20261026-084_LOD0.fbx",
+      "target_path": "ROOT/R-NEW-20261026-084/LOD0/R-NEW-20261026-084_LOD0.fbx",
+      "bytes": 433308,
+      "sha256": "914c1e4e0742dfe891598e056040cbbf4796df68c079b5c979d5b0c50daf0538"
+    },
+    {
+      "staged_filename": "ROOT_0344__R-NEW-20261026-084_LOD0.glb",
+      "target_path": "ROOT/R-NEW-20261026-084/LOD0/R-NEW-20261026-084_LOD0.glb",
+      "bytes": 777156,
+      "sha256": "878a85f4d1ba97388ca7966ab30cf014995a68058521ed87e40ba80f0f609ada"
+    },
+    {
+      "staged_filename": "ROOT_0345__R-NEW-20261026-084_LOD1.blend",
+      "target_path": "ROOT/R-NEW-20261026-084/LOD1/R-NEW-20261026-084_LOD1.blend",
+      "bytes": 154635,
+      "sha256": "45711cf825421752807016304f931b42c88dfdb6823ec41e40dfc50647ce1ce6"
+    },
+    {
+      "staged_filename": "ROOT_0346__R-NEW-20261026-084_LOD1.fbx",
+      "target_path": "ROOT/R-NEW-20261026-084/LOD1/R-NEW-20261026-084_LOD1.fbx",
+      "bytes": 288828,
+      "sha256": "69ed490249e1745dce8986975324dd1b0a87df5a08f166010d449eed062da34e"
+    },
+    {
+      "staged_filename": "ROOT_0347__R-NEW-20261026-084_LOD1.glb",
+      "target_path": "ROOT/R-NEW-20261026-084/LOD1/R-NEW-20261026-084_LOD1.glb",
+      "bytes": 358308,
+      "sha256": "de00554d0c398ac0fcc06dea69204bfe2e2dda4fbe0f533dbd6d4508cb24a8fd"
+    },
+    {
+      "staged_filename": "ROOT_0348__R-NEW-20261026-084_LOD2.blend",
+      "target_path": "ROOT/R-NEW-20261026-084/LOD2/R-NEW-20261026-084_LOD2.blend",
+      "bytes": 135013,
+      "sha256": "3f73ca483b608c19d071aa6628b20fec0c8210f41b9c93f46f037a60792c09e4"
+    },
+    {
+      "staged_filename": "ROOT_0349__R-NEW-20261026-084_LOD2.fbx",
+      "target_path": "ROOT/R-NEW-20261026-084/LOD2/R-NEW-20261026-084_LOD2.fbx",
+      "bytes": 227068,
+      "sha256": "dbada87fd935bd3dbd2096d1c5729270f5ef8de55cbd8187921e96010d64780d"
+    },
+    {
+      "staged_filename": "ROOT_0350__R-NEW-20261026-084_LOD2.glb",
+      "target_path": "ROOT/R-NEW-20261026-084/LOD2/R-NEW-20261026-084_LOD2.glb",
+      "bytes": 204740,
+      "sha256": "1d6e2df54410e29edb4b673e066efe4ddd6c07b97328338e2793179b45c1c7bc"
+    },
+    {
+      "staged_filename": "ROOT_0351__QA_AND_LIMITS.json",
+      "target_path": "ROOT/R-NEW-20261026-084/QA_AND_LIMITS.json",
+      "bytes": 3903,
+      "sha256": "0cabfc9e6b964a2444291b290c5fd4d84e7bd1664ca9b0be18c0bd95aa8c7655"
+    },
+    {
+      "staged_filename": "ROOT_0352__README_KO.md",
+      "target_path": "ROOT/R-NEW-20261026-084/README_KO.md",
+      "bytes": 1845,
+      "sha256": "62825ed2b67971046e34997f71d813da91431de584012dda056992205dd35389"
+    },
+    {
+      "staged_filename": "ROOT_0353__IMPORT_FBX_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-084/RENDERS_FINAL/IMPORT_FBX_hero.png",
+      "bytes": 1349744,
+      "sha256": "91865eec7a5d88ef14502ea0686383db55315b62c9bcff6c317c6e6a4cc946b6"
+    },
+    {
+      "staged_filename": "ROOT_0354__IMPORT_GLB_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-084/RENDERS_FINAL/IMPORT_GLB_hero.png",
+      "bytes": 1349858,
+      "sha256": "5f0d811e89c091fb580e5e6bf1dcba419a98610f51c7ba15a39c3990e595ecc2"
+    },
+    {
+      "staged_filename": "ROOT_0355__LOD0_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-084/RENDERS_FINAL/LOD0_hero.png",
+      "bytes": 1349944,
+      "sha256": "b37be80c58939af9e4df5fdf5ed763b1043625f5c82c905b651dd283d1597933"
+    },
+    {
+      "staged_filename": "ROOT_0356__SHA256SUMS.txt",
+      "target_path": "ROOT/R-NEW-20261026-084/SHA256SUMS.txt",
+      "bytes": 1355,
+      "sha256": "79b8cd0163ff240ca68a41c8cb4c79e7dafcfb224640975255e41ff2ef6f72ed"
+    },
+    {
+      "staged_filename": "ROOT_0357__R-NEW-20261026-085_LOD0.blend",
+      "target_path": "ROOT/R-NEW-20261026-085/LOD0/R-NEW-20261026-085_LOD0.blend",
+      "bytes": 180854,
+      "sha256": "24962c0509bd457e544e3b5e1a767ed47e2376ab187fe01dbad01acfeb31e8ec"
+    },
+    {
+      "staged_filename": "ROOT_0358__R-NEW-20261026-085_LOD0.fbx",
+      "target_path": "ROOT/R-NEW-20261026-085/LOD0/R-NEW-20261026-085_LOD0.fbx",
+      "bytes": 187228,
+      "sha256": "5c9870a1f8db8111a763f4a3ad85f55640ffd6eaad0486a261e0f1578f0dc7f9"
+    },
+    {
+      "staged_filename": "ROOT_0359__R-NEW-20261026-085_LOD0.glb",
+      "target_path": "ROOT/R-NEW-20261026-085/LOD0/R-NEW-20261026-085_LOD0.glb",
+      "bytes": 193916,
+      "sha256": "78239e1466b85434fa90aaabd7ea7e5e36679dd3fdacf2763c5310973985182e"
+    },
+    {
+      "staged_filename": "ROOT_0360__R-NEW-20261026-085_LOD1.blend",
+      "target_path": "ROOT/R-NEW-20261026-085/LOD1/R-NEW-20261026-085_LOD1.blend",
+      "bytes": 138711,
+      "sha256": "c37f75509d5c5a35d2cecc79ca4c407f0c716c245d1484bc64846e642e4ce073"
+    },
+    {
+      "staged_filename": "ROOT_0361__R-NEW-20261026-085_LOD1.fbx",
+      "target_path": "ROOT/R-NEW-20261026-085/LOD1/R-NEW-20261026-085_LOD1.fbx",
+      "bytes": 129372,
+      "sha256": "f6c7556b15962afdb2bd436575cabfb52d38fa8f392b312b220d38d19f557862"
+    },
+    {
+      "staged_filename": "ROOT_0362__R-NEW-20261026-085_LOD1.glb",
+      "target_path": "ROOT/R-NEW-20261026-085/LOD1/R-NEW-20261026-085_LOD1.glb",
+      "bytes": 119588,
+      "sha256": "d1c5e7f4cf9bf3f4adec13038c4fa1fa9293691051aa1548cbd725d524d4ce62"
+    },
+    {
+      "staged_filename": "ROOT_0363__R-NEW-20261026-085_LOD2.blend",
+      "target_path": "ROOT/R-NEW-20261026-085/LOD2/R-NEW-20261026-085_LOD2.blend",
+      "bytes": 118597,
+      "sha256": "2a6cf27916ecf8064eb222225968d40927262da26deab69e36b4077301fbb064"
+    },
+    {
+      "staged_filename": "ROOT_0364__R-NEW-20261026-085_LOD2.fbx",
+      "target_path": "ROOT/R-NEW-20261026-085/LOD2/R-NEW-20261026-085_LOD2.fbx",
+      "bytes": 100924,
+      "sha256": "91122220a3d061c8ba1da79a4e812b9ea190344720d7a758eab76d5707d2321c"
+    },
+    {
+      "staged_filename": "ROOT_0365__R-NEW-20261026-085_LOD2.glb",
+      "target_path": "ROOT/R-NEW-20261026-085/LOD2/R-NEW-20261026-085_LOD2.glb",
+      "bytes": 78160,
+      "sha256": "54e2d2b05fc20065358acf9e9ad6ae5ed6e4e0567267b7e4e5571b8d8c42f708"
+    },
+    {
+      "staged_filename": "ROOT_0366__QA_AND_LIMITS.json",
+      "target_path": "ROOT/R-NEW-20261026-085/QA_AND_LIMITS.json",
+      "bytes": 4097,
+      "sha256": "d048424182baf130b1531d790f667b260287c9df59f16b58374be7471540345c"
+    },
+    {
+      "staged_filename": "ROOT_0367__README_KO.md",
+      "target_path": "ROOT/R-NEW-20261026-085/README_KO.md",
+      "bytes": 1858,
+      "sha256": "21f82ec4f0e62a2f265c2815215245a7ce963048c2e7dbfc6b54f7d1ffde07f8"
+    },
+    {
+      "staged_filename": "ROOT_0368__IMPORT_FBX_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-085/RENDERS_FINAL/IMPORT_FBX_hero.png",
+      "bytes": 1448228,
+      "sha256": "0b5b5b1d3613a1ad97757e1c1e6f9326ea198515368905a961adfc55f2be9588"
+    },
+    {
+      "staged_filename": "ROOT_0369__IMPORT_GLB_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-085/RENDERS_FINAL/IMPORT_GLB_hero.png",
+      "bytes": 1448416,
+      "sha256": "2249efb93271a6fcc3fc7b8294f7b059b6a35d6029fd83956477fc06d5f2098c"
+    },
+    {
+      "staged_filename": "ROOT_0370__LOD0_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-085/RENDERS_FINAL/LOD0_hero.png",
+      "bytes": 1448276,
+      "sha256": "44785b55bbbe94aed9454046fa480ee0552da3574daf92f6d1b37bdb416cb629"
+    },
+    {
+      "staged_filename": "ROOT_0371__SHA256SUMS.txt",
+      "target_path": "ROOT/R-NEW-20261026-085/SHA256SUMS.txt",
+      "bytes": 1355,
+      "sha256": "f0c90fa07f16eeb7b18cbe17a94fb231138154809875fd6006dd8f6b1d402037"
+    },
+    {
+      "staged_filename": "ROOT_0372__R-NEW-20261026-086_LOD0.blend",
+      "target_path": "ROOT/R-NEW-20261026-086/LOD0/R-NEW-20261026-086_LOD0.blend",
+      "bytes": 171838,
+      "sha256": "e017f0d027f167994cd7445ddd41578f2d9658c80c46b8136c7a363cd68ebd08"
+    },
+    {
+      "staged_filename": "ROOT_0373__R-NEW-20261026-086_LOD0.fbx",
+      "target_path": "ROOT/R-NEW-20261026-086/LOD0/R-NEW-20261026-086_LOD0.fbx",
+      "bytes": 274140,
+      "sha256": "d81eb165a21567a50013c5454969615b39507eecf9ccc471c3fb17119eb0da2d"
+    },
+    {
+      "staged_filename": "ROOT_0374__R-NEW-20261026-086_LOD0.glb",
+      "target_path": "ROOT/R-NEW-20261026-086/LOD0/R-NEW-20261026-086_LOD0.glb",
+      "bytes": 597840,
+      "sha256": "90c117443883356340368aba61e967bc7febafb9de0c25db17a0db52bf3b642e"
+    },
+    {
+      "staged_filename": "ROOT_0375__R-NEW-20261026-086_LOD1.blend",
+      "target_path": "ROOT/R-NEW-20261026-086/LOD1/R-NEW-20261026-086_LOD1.blend",
+      "bytes": 125575,
+      "sha256": "ce63c829f6e5c567af382c06cfdf3c2676ade854d20b4c7f862eec200076ba80"
+    },
+    {
+      "staged_filename": "ROOT_0376__R-NEW-20261026-086_LOD1.fbx",
+      "target_path": "ROOT/R-NEW-20261026-086/LOD1/R-NEW-20261026-086_LOD1.fbx",
+      "bytes": 147820,
+      "sha256": "f273c4902784892ea2db693309569541d126c54a16c0cc2bfdf3a2e137b310e3"
+    },
+    {
+      "staged_filename": "ROOT_0377__R-NEW-20261026-086_LOD1.glb",
+      "target_path": "ROOT/R-NEW-20261026-086/LOD1/R-NEW-20261026-086_LOD1.glb",
+      "bytes": 234964,
+      "sha256": "e04f0abc8af6ab4553ac5f97c55f466fcad87444ae1634e3af2ba9d82300093e"
+    },
+    {
+      "staged_filename": "ROOT_0378__R-NEW-20261026-086_LOD2.blend",
+      "target_path": "ROOT/R-NEW-20261026-086/LOD2/R-NEW-20261026-086_LOD2.blend",
+      "bytes": 104166,
+      "sha256": "2c4df035b3855444f51a6fd308202fadbac8b2e8e5a44346338265ae51683beb"
+    },
+    {
+      "staged_filename": "ROOT_0379__R-NEW-20261026-086_LOD2.fbx",
+      "target_path": "ROOT/R-NEW-20261026-086/LOD2/R-NEW-20261026-086_LOD2.fbx",
+      "bytes": 99868,
+      "sha256": "7b46e2675d13fcc1371bd413e884a4ec3b3da5184fb2ac71d5f3983e687e70a4"
+    },
+    {
+      "staged_filename": "ROOT_0380__R-NEW-20261026-086_LOD2.glb",
+      "target_path": "ROOT/R-NEW-20261026-086/LOD2/R-NEW-20261026-086_LOD2.glb",
+      "bytes": 91736,
+      "sha256": "15f5e0bc7a291e58f69dec549f74f17c1c7623a0e405e5f7c724ba443f566ef7"
+    },
+    {
+      "staged_filename": "ROOT_0381__QA_AND_LIMITS.json",
+      "target_path": "ROOT/R-NEW-20261026-086/QA_AND_LIMITS.json",
+      "bytes": 3935,
+      "sha256": "f11df399f5d3dd7a062d1eb629d3e07e9be42c2ba4e9959fdcfb18cabce5ce60"
+    },
+    {
+      "staged_filename": "ROOT_0382__README_KO.md",
+      "target_path": "ROOT/R-NEW-20261026-086/README_KO.md",
+      "bytes": 1866,
+      "sha256": "b6beb0bcc7e11e6cc58bff16436414838bb77089b1f0523223cfdfd0999109b9"
+    },
+    {
+      "staged_filename": "ROOT_0383__IMPORT_FBX_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-086/RENDERS_FINAL/IMPORT_FBX_hero.png",
+      "bytes": 1503581,
+      "sha256": "ad14bd329fa55fa274f05c4f64fc5e414b0aa6ea0a0d766980bb71b8cd95a2f2"
+    },
+    {
+      "staged_filename": "ROOT_0384__IMPORT_GLB_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-086/RENDERS_FINAL/IMPORT_GLB_hero.png",
+      "bytes": 1503488,
+      "sha256": "62b7c30cf9d6b3ecf56e4907119ffabf53452311bd250bea58ea23a4b5d3de85"
+    },
+    {
+      "staged_filename": "ROOT_0385__LOD0_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-086/RENDERS_FINAL/LOD0_hero.png",
+      "bytes": 1503613,
+      "sha256": "c26a9ed2796b92f98c80b83f73b1fe5d3adb0b4fd40626076fc7eca3699fce28"
+    },
+    {
+      "staged_filename": "ROOT_0386__SHA256SUMS.txt",
+      "target_path": "ROOT/R-NEW-20261026-086/SHA256SUMS.txt",
+      "bytes": 1355,
+      "sha256": "abd226d159d53543d79a8c53648c1f38642bd95e49da1b7a9b3db8b450287d51"
+    },
+    {
+      "staged_filename": "ROOT_0387__R-NEW-20261026-089_LOD0.blend",
+      "target_path": "ROOT/R-NEW-20261026-089/LOD0/R-NEW-20261026-089_LOD0.blend",
+      "bytes": 170785,
+      "sha256": "a0eafa0e55a6ddb656ee9d7b25d39c1ae359467a6acf1b880b492280dc65b7c8"
+    },
+    {
+      "staged_filename": "ROOT_0388__R-NEW-20261026-089_LOD0.fbx",
+      "target_path": "ROOT/R-NEW-20261026-089/LOD0/R-NEW-20261026-089_LOD0.fbx",
+      "bytes": 358108,
+      "sha256": "17a80c7842ad2a00d671befdafeba1132b229e5e73a7f379824a8c86812bc4e4"
+    },
+    {
+      "staged_filename": "ROOT_0389__R-NEW-20261026-089_LOD0.glb",
+      "target_path": "ROOT/R-NEW-20261026-089/LOD0/R-NEW-20261026-089_LOD0.glb",
+      "bytes": 676428,
+      "sha256": "35f689f0da47fc43a08ae14c4231d809f51b3e615fdcb53080c7bb3bc280c2a1"
+    },
+    {
+      "staged_filename": "ROOT_0390__R-NEW-20261026-089_LOD1.blend",
+      "target_path": "ROOT/R-NEW-20261026-089/LOD1/R-NEW-20261026-089_LOD1.blend",
+      "bytes": 146800,
+      "sha256": "8ca9f702097441fc9c7141e1f82b8d130f97fffc0b379d428cf46cd0e14c11ca"
+    },
+    {
+      "staged_filename": "ROOT_0391__R-NEW-20261026-089_LOD1.fbx",
+      "target_path": "ROOT/R-NEW-20261026-089/LOD1/R-NEW-20261026-089_LOD1.fbx",
+      "bytes": 275324,
+      "sha256": "04cb41f76175c161085d6a973b1abfc7d74964369ee01bd2790211a71a5078db"
+    },
+    {
+      "staged_filename": "ROOT_0392__R-NEW-20261026-089_LOD1.glb",
+      "target_path": "ROOT/R-NEW-20261026-089/LOD1/R-NEW-20261026-089_LOD1.glb",
+      "bytes": 415920,
+      "sha256": "8311a16013a463713686c9e4b8ac3fd3dfee1ad9cb623f588c701da16a8c3308"
+    },
+    {
+      "staged_filename": "ROOT_0393__R-NEW-20261026-089_LOD2.blend",
+      "target_path": "ROOT/R-NEW-20261026-089/LOD2/R-NEW-20261026-089_LOD2.blend",
+      "bytes": 129545,
+      "sha256": "362dfc892b3f717ba3859221ad546d3cef1998dba50e7e7ac706ab5a60c3b12d"
+    },
+    {
+      "staged_filename": "ROOT_0394__R-NEW-20261026-089_LOD2.fbx",
+      "target_path": "ROOT/R-NEW-20261026-089/LOD2/R-NEW-20261026-089_LOD2.fbx",
+      "bytes": 217948,
+      "sha256": "4eb9132ddb0d19bc919ff4ab422a03b92ca58622e14f543a0c2cf160e14ff076"
+    },
+    {
+      "staged_filename": "ROOT_0395__R-NEW-20261026-089_LOD2.glb",
+      "target_path": "ROOT/R-NEW-20261026-089/LOD2/R-NEW-20261026-089_LOD2.glb",
+      "bytes": 230960,
+      "sha256": "caf47ad7dbbca32c919cabdca4bc7c16fca3387fd707f1bd3b4d3a544d7e5e22"
+    },
+    {
+      "staged_filename": "ROOT_0396__QA_AND_LIMITS.json",
+      "target_path": "ROOT/R-NEW-20261026-089/QA_AND_LIMITS.json",
+      "bytes": 3887,
+      "sha256": "f5ef9b903957bcca4d26f013b927dc83dd8d7f060926c378f4f7c613a91198c9"
+    },
+    {
+      "staged_filename": "ROOT_0397__README_KO.md",
+      "target_path": "ROOT/R-NEW-20261026-089/README_KO.md",
+      "bytes": 1963,
+      "sha256": "38319f8be98dcf06f1b5ea98a2649df8b69dc42e50200beb319daf4f5ff43b5b"
+    },
+    {
+      "staged_filename": "ROOT_0398__IMPORT_FBX_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-089/RENDERS_FINAL/IMPORT_FBX_hero.png",
+      "bytes": 1550340,
+      "sha256": "dd51e87625c2600f12433e2939f5d8f92c2c7139923d19d8467c1eecd2956ffd"
+    },
+    {
+      "staged_filename": "ROOT_0399__IMPORT_GLB_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-089/RENDERS_FINAL/IMPORT_GLB_hero.png",
+      "bytes": 1550257,
+      "sha256": "e15ba29c74420bd1dfb6583ef01fc98f7cc33afa72ea80c4dfc904c97268a857"
+    },
+    {
+      "staged_filename": "ROOT_0400__LOD0_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-089/RENDERS_FINAL/LOD0_hero.png",
+      "bytes": 1550397,
+      "sha256": "9edcd070bafdb698c2a7ad385e263171178a82729f548067fc9638d66bc971e1"
+    },
+    {
+      "staged_filename": "ROOT_0401__SHA256SUMS.txt",
+      "target_path": "ROOT/R-NEW-20261026-089/SHA256SUMS.txt",
+      "bytes": 1355,
+      "sha256": "601a8ba31ed4f482830bdeb0347a301f3892abaf275c5673ada15470d7a83399"
+    },
+    {
+      "staged_filename": "ROOT_0402__R-NEW-20261026-090_LOD0.blend",
+      "target_path": "ROOT/R-NEW-20261026-090/LOD0/R-NEW-20261026-090_LOD0.blend",
+      "bytes": 264266,
+      "sha256": "c339641a177ca7c1ca07f8bfaf921bea4d3ea7f63879d01112401d2de91546ce"
+    },
+    {
+      "staged_filename": "ROOT_0403__R-NEW-20261026-090_LOD0.fbx",
+      "target_path": "ROOT/R-NEW-20261026-090/LOD0/R-NEW-20261026-090_LOD0.fbx",
+      "bytes": 511292,
+      "sha256": "cac6a9b206574060b96a735e55a29a90b5fe70f3d9d892dc7031e906ba751a6a"
+    },
+    {
+      "staged_filename": "ROOT_0404__R-NEW-20261026-090_LOD0.glb",
+      "target_path": "ROOT/R-NEW-20261026-090/LOD0/R-NEW-20261026-090_LOD0.glb",
+      "bytes": 836648,
+      "sha256": "04964b67b7f49e5a37dd7ad5ad8bf20132fbc157d8d5e8aac343c878cd84e647"
+    },
+    {
+      "staged_filename": "ROOT_0405__R-NEW-20261026-090_LOD1.blend",
+      "target_path": "ROOT/R-NEW-20261026-090/LOD1/R-NEW-20261026-090_LOD1.blend",
+      "bytes": 185855,
+      "sha256": "2d465eb779e756d17bd7603499db75b55e404c219ab5ad45caa903178706288b"
+    },
+    {
+      "staged_filename": "ROOT_0406__R-NEW-20261026-090_LOD1.fbx",
+      "target_path": "ROOT/R-NEW-20261026-090/LOD1/R-NEW-20261026-090_LOD1.fbx",
+      "bytes": 328924,
+      "sha256": "838982eee74efb681da0924e8e9b9e03ef4b42472fb31c2bef477d5930f5cd72"
+    },
+    {
+      "staged_filename": "ROOT_0407__R-NEW-20261026-090_LOD1.glb",
+      "target_path": "ROOT/R-NEW-20261026-090/LOD1/R-NEW-20261026-090_LOD1.glb",
+      "bytes": 403292,
+      "sha256": "8ef390da6242888c6af79404be2ae51417a20e1e81b7d443b764fb1c3998023a"
+    },
+    {
+      "staged_filename": "ROOT_0408__R-NEW-20261026-090_LOD2.blend",
+      "target_path": "ROOT/R-NEW-20261026-090/LOD2/R-NEW-20261026-090_LOD2.blend",
+      "bytes": 150093,
+      "sha256": "cb95065a9751ef6dc8a1cc4b54bd955333e6d59d9d80acd0e76cfe35d1d75674"
+    },
+    {
+      "staged_filename": "ROOT_0409__R-NEW-20261026-090_LOD2.fbx",
+      "target_path": "ROOT/R-NEW-20261026-090/LOD2/R-NEW-20261026-090_LOD2.fbx",
+      "bytes": 245836,
+      "sha256": "181c3e72be560727ffefbe3853d99de1c7a3852fc0585c13dd8877c02389f38d"
+    },
+    {
+      "staged_filename": "ROOT_0410__R-NEW-20261026-090_LOD2.glb",
+      "target_path": "ROOT/R-NEW-20261026-090/LOD2/R-NEW-20261026-090_LOD2.glb",
+      "bytes": 245476,
+      "sha256": "df9954e22fce9b32be88c57d8271661ae8fad9caa9ad485c843a7b6e416da5f5"
+    },
+    {
+      "staged_filename": "ROOT_0411__QA_AND_LIMITS.json",
+      "target_path": "ROOT/R-NEW-20261026-090/QA_AND_LIMITS.json",
+      "bytes": 3633,
+      "sha256": "f60220c6d9b3f427a204e160747f0c7cbc897197eab5209b1276b866baff132b"
+    },
+    {
+      "staged_filename": "ROOT_0412__README_KO.md",
+      "target_path": "ROOT/R-NEW-20261026-090/README_KO.md",
+      "bytes": 1561,
+      "sha256": "568b697c04bd002cb4f53f2a1c802bbdf2320857fa6c04bba0d9dc11520a37d1"
+    },
+    {
+      "staged_filename": "ROOT_0413__IMPORT_FBX_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-090/RENDERS_FINAL/IMPORT_FBX_hero.png",
+      "bytes": 1757478,
+      "sha256": "c3bd1f417ce4fb5f2ab9b28cc76abaf00736ad2533a0c3715a3ba5ab16ebbeed"
+    },
+    {
+      "staged_filename": "ROOT_0414__IMPORT_GLB_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-090/RENDERS_FINAL/IMPORT_GLB_hero.png",
+      "bytes": 1757577,
+      "sha256": "1e1ce66b7fba4c403fdc91cbfe10d05655dc03af8bf968fa62e7f18e1c0edd79"
+    },
+    {
+      "staged_filename": "ROOT_0415__LOD0_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-090/RENDERS_FINAL/LOD0_hero.png",
+      "bytes": 1757650,
+      "sha256": "af63fd0cf5e71a9644205f31ce3052c1c1b9664105cf642501e2e159f1125a0c"
+    },
+    {
+      "staged_filename": "ROOT_0416__SHA256SUMS.txt",
+      "target_path": "ROOT/R-NEW-20261026-090/SHA256SUMS.txt",
+      "bytes": 1355,
+      "sha256": "4fcb9a5203715c9d078b9f80616480a9031a7d37459a1458c8db63e6e2f73f56"
+    },
+    {
+      "staged_filename": "ROOT_0417__R-NEW-20261026-091_LOD0.blend",
+      "target_path": "ROOT/R-NEW-20261026-091/LOD0/R-NEW-20261026-091_LOD0.blend",
+      "bytes": 364390,
+      "sha256": "7061694f07355e9c419450db88c8336abc4f3919b96c992be2ffc64a6a3b99d2"
+    },
+    {
+      "staged_filename": "ROOT_0418__R-NEW-20261026-091_LOD0.fbx",
+      "target_path": "ROOT/R-NEW-20261026-091/LOD0/R-NEW-20261026-091_LOD0.fbx",
+      "bytes": 811852,
+      "sha256": "25738de7fb12211899ed1fbb25c014b1f22d277d1247b63af6cc1be6010a8b0d"
+    },
+    {
+      "staged_filename": "ROOT_0419__R-NEW-20261026-091_LOD0.glb",
+      "target_path": "ROOT/R-NEW-20261026-091/LOD0/R-NEW-20261026-091_LOD0.glb",
+      "bytes": 1514916,
+      "sha256": "e83be95b5aa5a42de677856f1de6dbe3cacce01c2eb06f1bdadc595ea5190728"
+    },
+    {
+      "staged_filename": "ROOT_0420__R-NEW-20261026-091_LOD1.blend",
+      "target_path": "ROOT/R-NEW-20261026-091/LOD1/R-NEW-20261026-091_LOD1.blend",
+      "bytes": 225382,
+      "sha256": "4e39f76cd378b784e16a60daa6ffa82b3de954e33fd75819cc3e6a7cff11e040"
+    },
+    {
+      "staged_filename": "ROOT_0421__R-NEW-20261026-091_LOD1.fbx",
+      "target_path": "ROOT/R-NEW-20261026-091/LOD1/R-NEW-20261026-091_LOD1.fbx",
+      "bytes": 513820,
+      "sha256": "eb94c917d26c4f7363cbf5e2107f54d755b89268e08731fd583044e07369013a"
+    },
+    {
+      "staged_filename": "ROOT_0422__R-NEW-20261026-091_LOD1.glb",
+      "target_path": "ROOT/R-NEW-20261026-091/LOD1/R-NEW-20261026-091_LOD1.glb",
+      "bytes": 792832,
+      "sha256": "2fc370d907ee124bf62919236b27a30e592217e493fa373fac2c60ed5d8a323c"
+    },
+    {
+      "staged_filename": "ROOT_0423__R-NEW-20261026-091_LOD2.blend",
+      "target_path": "ROOT/R-NEW-20261026-091/LOD2/R-NEW-20261026-091_LOD2.blend",
+      "bytes": 175184,
+      "sha256": "5bf00a3c04dc9cd93921cfc1ed83c2966c0560efb7b2461221ac0345e210cb74"
+    },
+    {
+      "staged_filename": "ROOT_0424__R-NEW-20261026-091_LOD2.fbx",
+      "target_path": "ROOT/R-NEW-20261026-091/LOD2/R-NEW-20261026-091_LOD2.fbx",
+      "bytes": 349212,
+      "sha256": "0d99289b6c83c9b71ae0ecb429c18552f0b95f4af8030b44f57f5bb26cf2332a"
+    },
+    {
+      "staged_filename": "ROOT_0425__R-NEW-20261026-091_LOD2.glb",
+      "target_path": "ROOT/R-NEW-20261026-091/LOD2/R-NEW-20261026-091_LOD2.glb",
+      "bytes": 425528,
+      "sha256": "851370c2f9945d146cd37f8e5d926e4cf37dada70d7c001c4186382bbef9ca24"
+    },
+    {
+      "staged_filename": "ROOT_0426__QA_AND_LIMITS.json",
+      "target_path": "ROOT/R-NEW-20261026-091/QA_AND_LIMITS.json",
+      "bytes": 3596,
+      "sha256": "951b2fd75d4ee97a278867a8ef51663999f8cd606c70c5d4269bc338002ee720"
+    },
+    {
+      "staged_filename": "ROOT_0427__README_KO.md",
+      "target_path": "ROOT/R-NEW-20261026-091/README_KO.md",
+      "bytes": 1698,
+      "sha256": "21a4188ab611f3602387dfb92d5f6241380f16c968deef7db721a062bf9ab0bf"
+    },
+    {
+      "staged_filename": "ROOT_0428__IMPORT_FBX_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-091/RENDERS_FINAL/IMPORT_FBX_hero.png",
+      "bytes": 1915191,
+      "sha256": "e5d8170c2073b8aed43effcbf0b465a6796ae5094c7340c75b30f37c295695d0"
+    },
+    {
+      "staged_filename": "ROOT_0429__IMPORT_GLB_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-091/RENDERS_FINAL/IMPORT_GLB_hero.png",
+      "bytes": 1915088,
+      "sha256": "db1279e09ea5fd892952a0f5abf6fc2084785074ee1017604505e868b744fc59"
+    },
+    {
+      "staged_filename": "ROOT_0430__LOD0_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-091/RENDERS_FINAL/LOD0_hero.png",
+      "bytes": 1915320,
+      "sha256": "06f200f92075848e009772ee24d153743da1a535030bea54daacb35aaa64b5f8"
+    },
+    {
+      "staged_filename": "ROOT_0431__SHA256SUMS.txt",
+      "target_path": "ROOT/R-NEW-20261026-091/SHA256SUMS.txt",
+      "bytes": 1355,
+      "sha256": "1fb5cda67b1672057f453d90063b2462859b326b6b5e5c42c050adf02aac3139"
+    },
+    {
+      "staged_filename": "ROOT_0432__R-NEW-20261026-092_LOD0.blend",
+      "target_path": "ROOT/R-NEW-20261026-092/LOD0/R-NEW-20261026-092_LOD0.blend",
+      "bytes": 251061,
+      "sha256": "98858ce52c386e12545092274d8c22557d95be0a02637ca3773f7b827c22ce8e"
+    },
+    {
+      "staged_filename": "ROOT_0433__R-NEW-20261026-092_LOD0.fbx",
+      "target_path": "ROOT/R-NEW-20261026-092/LOD0/R-NEW-20261026-092_LOD0.fbx",
+      "bytes": 403964,
+      "sha256": "18b0db30854d68c8dc65feb2e78399a9af7d9033a871af133efd529d1221e207"
+    },
+    {
+      "staged_filename": "ROOT_0434__R-NEW-20261026-092_LOD0.glb",
+      "target_path": "ROOT/R-NEW-20261026-092/LOD0/R-NEW-20261026-092_LOD0.glb",
+      "bytes": 615656,
+      "sha256": "150bf03430c9b85de7a47b01f39d16e0d5e3c2b62c1221aebb1a6155f8a6eaf5"
+    },
+    {
+      "staged_filename": "ROOT_0435__R-NEW-20261026-092_LOD1.blend",
+      "target_path": "ROOT/R-NEW-20261026-092/LOD1/R-NEW-20261026-092_LOD1.blend",
+      "bytes": 186062,
+      "sha256": "e4b377780619294839bb6416a1a66a34bd47900da3f35623762961006d176858"
+    },
+    {
+      "staged_filename": "ROOT_0436__R-NEW-20261026-092_LOD1.fbx",
+      "target_path": "ROOT/R-NEW-20261026-092/LOD1/R-NEW-20261026-092_LOD1.fbx",
+      "bytes": 277404,
+      "sha256": "5de78b212ea4b718b4bf2abe8d701ead18ebfef54a715424079b158300ed385c"
+    },
+    {
+      "staged_filename": "ROOT_0437__R-NEW-20261026-092_LOD1.glb",
+      "target_path": "ROOT/R-NEW-20261026-092/LOD1/R-NEW-20261026-092_LOD1.glb",
+      "bytes": 327120,
+      "sha256": "8ebc5736c269ca598b351ee194236d13b6aad546c354679f68c706526a15cd8d"
+    },
+    {
+      "staged_filename": "ROOT_0438__R-NEW-20261026-092_LOD2.blend",
+      "target_path": "ROOT/R-NEW-20261026-092/LOD2/R-NEW-20261026-092_LOD2.blend",
+      "bytes": 144958,
+      "sha256": "b6862493662194f3b7ebb52c493261cad86b6219c009308376ea0822744f0583"
+    },
+    {
+      "staged_filename": "ROOT_0439__R-NEW-20261026-092_LOD2.fbx",
+      "target_path": "ROOT/R-NEW-20261026-092/LOD2/R-NEW-20261026-092_LOD2.fbx",
+      "bytes": 214268,
+      "sha256": "8ff9f3af987b00026cd9e4f91a18142fa55f6c0362f50740c7f2bd7c01cc30f5"
+    },
+    {
+      "staged_filename": "ROOT_0440__R-NEW-20261026-092_LOD2.glb",
+      "target_path": "ROOT/R-NEW-20261026-092/LOD2/R-NEW-20261026-092_LOD2.glb",
+      "bytes": 201904,
+      "sha256": "4c338aaa855699d74e4a7048700ac07f7d09f3b20203b177a0d8c833d710dfb6"
+    },
+    {
+      "staged_filename": "ROOT_0441__QA_AND_LIMITS.json",
+      "target_path": "ROOT/R-NEW-20261026-092/QA_AND_LIMITS.json",
+      "bytes": 3658,
+      "sha256": "0db402a78e197b5f9e8c599661087a8670fe1765ad540c89e91c8b89f3f14481"
+    },
+    {
+      "staged_filename": "ROOT_0442__README_KO.md",
+      "target_path": "ROOT/R-NEW-20261026-092/README_KO.md",
+      "bytes": 1630,
+      "sha256": "df53d597cdf662e3589127ffca9da1becb300ce5fb0f2c960b2c0f5a2d1b53d9"
+    },
+    {
+      "staged_filename": "ROOT_0443__IMPORT_FBX_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-092/RENDERS_FINAL/IMPORT_FBX_hero.png",
+      "bytes": 1348601,
+      "sha256": "6826f2237d1f57ec674ac1d0f4ef09daf9c68a9afc8cf90f9b9e9bdea05d0bdc"
+    },
+    {
+      "staged_filename": "ROOT_0444__IMPORT_GLB_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-092/RENDERS_FINAL/IMPORT_GLB_hero.png",
+      "bytes": 1348586,
+      "sha256": "f23c3e314e015c0e550716f571070c81f6789ac58280a6c82c551c7c7fec11d5"
+    },
+    {
+      "staged_filename": "ROOT_0445__LOD0_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-092/RENDERS_FINAL/LOD0_hero.png",
+      "bytes": 1348724,
+      "sha256": "52a0c1b9dc9e568d06103fb362eaf8b6d9eb9fd74dc0e2bfc770af471c73a9aa"
+    },
+    {
+      "staged_filename": "ROOT_0446__SHA256SUMS.txt",
+      "target_path": "ROOT/R-NEW-20261026-092/SHA256SUMS.txt",
+      "bytes": 1355,
+      "sha256": "e0ca5ed736b3c8acd8a9c1d9b5dea4cf072cd0241275b466b6af127a9331b940"
+    },
+    {
+      "staged_filename": "ROOT_0447__R-NEW-20261026-093_LOD0.blend",
+      "target_path": "ROOT/R-NEW-20261026-093/LOD0/R-NEW-20261026-093_LOD0.blend",
+      "bytes": 169179,
+      "sha256": "2b0e00a214630f97d662ca7728a1114d04b94b6d062c0cabe693dd0374e77ab9"
+    },
+    {
+      "staged_filename": "ROOT_0448__R-NEW-20261026-093_LOD0.fbx",
+      "target_path": "ROOT/R-NEW-20261026-093/LOD0/R-NEW-20261026-093_LOD0.fbx",
+      "bytes": 196220,
+      "sha256": "d3d7e976dddb2179e9df639a260dd85a2e6157fb5e158fa3bcb19cd23d9fde34"
+    },
+    {
+      "staged_filename": "ROOT_0449__R-NEW-20261026-093_LOD0.glb",
+      "target_path": "ROOT/R-NEW-20261026-093/LOD0/R-NEW-20261026-093_LOD0.glb",
+      "bytes": 351624,
+      "sha256": "2b9a4f014c9e11e731e1f54f36bcf8db23c64904f5f43eeb2945f42867bb76de"
+    },
+    {
+      "staged_filename": "ROOT_0450__R-NEW-20261026-093_LOD1.blend",
+      "target_path": "ROOT/R-NEW-20261026-093/LOD1/R-NEW-20261026-093_LOD1.blend",
+      "bytes": 138742,
+      "sha256": "c3fc6ca716ffdc60ca05b8213fd2eafdc85f693d9b0ba15d689714bcee116cf6"
+    },
+    {
+      "staged_filename": "ROOT_0451__R-NEW-20261026-093_LOD1.fbx",
+      "target_path": "ROOT/R-NEW-20261026-093/LOD1/R-NEW-20261026-093_LOD1.fbx",
+      "bytes": 141532,
+      "sha256": "4e077dd5add99d042c1d01e3832e6acd6c2cb12a61cc305d4c4d7d2300b3d3f9"
+    },
+    {
+      "staged_filename": "ROOT_0452__R-NEW-20261026-093_LOD1.glb",
+      "target_path": "ROOT/R-NEW-20261026-093/LOD1/R-NEW-20261026-093_LOD1.glb",
+      "bytes": 193040,
+      "sha256": "74d8463b5e352078a88755b4a36de1b95d3d92c952a712432fa36155edd7a1dd"
+    },
+    {
+      "staged_filename": "ROOT_0453__R-NEW-20261026-093_LOD2.blend",
+      "target_path": "ROOT/R-NEW-20261026-093/LOD2/R-NEW-20261026-093_LOD2.blend",
+      "bytes": 120742,
+      "sha256": "d1ddce7f74f5ad7000d43d9b7b026a21af46ab5b57b2322eaf2700ae8c503ef0"
+    },
+    {
+      "staged_filename": "ROOT_0454__R-NEW-20261026-093_LOD2.fbx",
+      "target_path": "ROOT/R-NEW-20261026-093/LOD2/R-NEW-20261026-093_LOD2.fbx",
+      "bytes": 115628,
+      "sha256": "bad6dced011a940d1fe9b87a3da894d85d84d74176840afd5dcde5871c1edc02"
+    },
+    {
+      "staged_filename": "ROOT_0455__R-NEW-20261026-093_LOD2.glb",
+      "target_path": "ROOT/R-NEW-20261026-093/LOD2/R-NEW-20261026-093_LOD2.glb",
+      "bytes": 122700,
+      "sha256": "2994c70cdeff7d003f785dea935a6b194aa52dcb87f84d92a92511f9936e34d4"
+    },
+    {
+      "staged_filename": "ROOT_0456__QA_AND_LIMITS.json",
+      "target_path": "ROOT/R-NEW-20261026-093/QA_AND_LIMITS.json",
+      "bytes": 3681,
+      "sha256": "58068be0b1d8b34102b82333c3ed7cf7715a272951c2b742002ee754c24ae1d8"
+    },
+    {
+      "staged_filename": "ROOT_0457__README_KO.md",
+      "target_path": "ROOT/R-NEW-20261026-093/README_KO.md",
+      "bytes": 1535,
+      "sha256": "a322d518bda4d9ff48c16cda238198bc8920b15279b4ec60d15f34444fa6e871"
+    },
+    {
+      "staged_filename": "ROOT_0458__IMPORT_FBX_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-093/RENDERS_FINAL/IMPORT_FBX_hero.png",
+      "bytes": 1389210,
+      "sha256": "3b5c1303c905cdad165978344d57852f52e5996f24e7f62a2db1bca5870d8a29"
+    },
+    {
+      "staged_filename": "ROOT_0459__IMPORT_GLB_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-093/RENDERS_FINAL/IMPORT_GLB_hero.png",
+      "bytes": 1389248,
+      "sha256": "e2b0f6e36ace89db530d45e7ed6780913fa5890431ce9897e1c0f206df89e3c2"
+    },
+    {
+      "staged_filename": "ROOT_0460__LOD0_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-093/RENDERS_FINAL/LOD0_hero.png",
+      "bytes": 1389422,
+      "sha256": "6fa931f3f8bce6ea64c932e0777225bb5aeb1781916abd6b852e822e3f1b5ce1"
+    },
+    {
+      "staged_filename": "ROOT_0461__SHA256SUMS.txt",
+      "target_path": "ROOT/R-NEW-20261026-093/SHA256SUMS.txt",
+      "bytes": 1355,
+      "sha256": "e372f6ae9d18e261f5bf75ef0bfa82ca37462c24b943bd5c9bb0b32a9b9ee63a"
+    },
+    {
+      "staged_filename": "ROOT_0462__R-NEW-20261026-094_LOD0.blend",
+      "target_path": "ROOT/R-NEW-20261026-094/LOD0/R-NEW-20261026-094_LOD0.blend",
+      "bytes": 190571,
+      "sha256": "e75f8049877109fcf027a2613558bfc699e771095c6869ef95cff35df5c6484a"
+    },
+    {
+      "staged_filename": "ROOT_0463__R-NEW-20261026-094_LOD0.fbx",
+      "target_path": "ROOT/R-NEW-20261026-094/LOD0/R-NEW-20261026-094_LOD0.fbx",
+      "bytes": 314828,
+      "sha256": "23a4bbfea988e875c7349d217c8aae5191949c2589836797fbc8e1feaacad54e"
+    },
+    {
+      "staged_filename": "ROOT_0464__R-NEW-20261026-094_LOD0.glb",
+      "target_path": "ROOT/R-NEW-20261026-094/LOD0/R-NEW-20261026-094_LOD0.glb",
+      "bytes": 625148,
+      "sha256": "dfe02a7c275be1ad98a9a0ea654048cfd1eeaa7aac6841a92f7f26f6b3b83b2f"
+    },
+    {
+      "staged_filename": "ROOT_0465__R-NEW-20261026-094_LOD1.blend",
+      "target_path": "ROOT/R-NEW-20261026-094/LOD1/R-NEW-20261026-094_LOD1.blend",
+      "bytes": 146961,
+      "sha256": "f66146394b16fb3894429201b265f2b56046221d68e2469e9558b0448a3d5b87"
+    },
+    {
+      "staged_filename": "ROOT_0466__R-NEW-20261026-094_LOD1.fbx",
+      "target_path": "ROOT/R-NEW-20261026-094/LOD1/R-NEW-20261026-094_LOD1.fbx",
+      "bytes": 210844,
+      "sha256": "945693888171bae307e12491e2a7638312d0600a836f43773221bdde2a832735"
+    },
+    {
+      "staged_filename": "ROOT_0467__R-NEW-20261026-094_LOD1.glb",
+      "target_path": "ROOT/R-NEW-20261026-094/LOD1/R-NEW-20261026-094_LOD1.glb",
+      "bytes": 288844,
+      "sha256": "75e6e16a7d427e3363b57c130bf476b21201663b1cf71aec83748fa7a1886cf1"
+    },
+    {
+      "staged_filename": "ROOT_0468__R-NEW-20261026-094_LOD2.blend",
+      "target_path": "ROOT/R-NEW-20261026-094/LOD2/R-NEW-20261026-094_LOD2.blend",
+      "bytes": 127959,
+      "sha256": "5f223a66fa12ad9207912d3433eeef443dc37df00abebefa7296f9109f3ddbed"
+    },
+    {
+      "staged_filename": "ROOT_0469__R-NEW-20261026-094_LOD2.fbx",
+      "target_path": "ROOT/R-NEW-20261026-094/LOD2/R-NEW-20261026-094_LOD2.fbx",
+      "bytes": 169388,
+      "sha256": "4ac1264b8545c2130eb94697be3a927dbf4a035d9dc12cf598d71e0bb5a65e8f"
+    },
+    {
+      "staged_filename": "ROOT_0470__R-NEW-20261026-094_LOD2.glb",
+      "target_path": "ROOT/R-NEW-20261026-094/LOD2/R-NEW-20261026-094_LOD2.glb",
+      "bytes": 169060,
+      "sha256": "52c23cc91e6ce1d4d5f4f73efaa3fa255cb754b7f8caeb202f517c87b8fc0588"
+    },
+    {
+      "staged_filename": "ROOT_0471__QA_AND_LIMITS.json",
+      "target_path": "ROOT/R-NEW-20261026-094/QA_AND_LIMITS.json",
+      "bytes": 3602,
+      "sha256": "98054189fc7d6d8526b3a714bc34fd7695989561be47d5492614d78a3a308601"
+    },
+    {
+      "staged_filename": "ROOT_0472__README_KO.md",
+      "target_path": "ROOT/R-NEW-20261026-094/README_KO.md",
+      "bytes": 1658,
+      "sha256": "fe9b80ee34b4208780cc7e382b4a6aa8030b912117bcdab96f24295e8154a8d2"
+    },
+    {
+      "staged_filename": "ROOT_0473__IMPORT_FBX_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-094/RENDERS_FINAL/IMPORT_FBX_hero.png",
+      "bytes": 1545880,
+      "sha256": "b8d3098e124d3848eb46f9af0db3083cebbe9edd2c8b9445e0655e4dd89d3e8a"
+    },
+    {
+      "staged_filename": "ROOT_0474__IMPORT_GLB_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-094/RENDERS_FINAL/IMPORT_GLB_hero.png",
+      "bytes": 1545933,
+      "sha256": "1d90d678fc4f525eca018f7255214b5155253eb82d0cd14da06b3b68c06e6eba"
+    },
+    {
+      "staged_filename": "ROOT_0475__LOD0_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-094/RENDERS_FINAL/LOD0_hero.png",
+      "bytes": 1546027,
+      "sha256": "f055c11508140125fc3485a89c3996e12bed9ca52bcd27ab976c7ed4912bfafe"
+    },
+    {
+      "staged_filename": "ROOT_0476__SHA256SUMS.txt",
+      "target_path": "ROOT/R-NEW-20261026-094/SHA256SUMS.txt",
+      "bytes": 1355,
+      "sha256": "5f8db3c57ee58c1c39e46880d72dd160c74a693d9b861e0ef25344a039a13ce8"
+    },
+    {
+      "staged_filename": "ROOT_0477__R-NEW-20261026-095_LOD0.blend",
+      "target_path": "ROOT/R-NEW-20261026-095/LOD0/R-NEW-20261026-095_LOD0.blend",
+      "bytes": 368085,
+      "sha256": "f8bd8b3453953507fe8c540a667fb13d055bb339259f6887df2b741ee62e7604"
+    },
+    {
+      "staged_filename": "ROOT_0478__R-NEW-20261026-095_LOD0.fbx",
+      "target_path": "ROOT/R-NEW-20261026-095/LOD0/R-NEW-20261026-095_LOD0.fbx",
+      "bytes": 733324,
+      "sha256": "b60882b5d8cfe4291ee8314fd387aa9683ecce474a751e833c41109f87657920"
+    },
+    {
+      "staged_filename": "ROOT_0479__R-NEW-20261026-095_LOD0.glb",
+      "target_path": "ROOT/R-NEW-20261026-095/LOD0/R-NEW-20261026-095_LOD0.glb",
+      "bytes": 1214564,
+      "sha256": "7c378af839ce96a41c4d67ebe8e205acdcb9459487b1614023b4353a1cf8f81f"
+    },
+    {
+      "staged_filename": "ROOT_0480__R-NEW-20261026-095_LOD1.blend",
+      "target_path": "ROOT/R-NEW-20261026-095/LOD1/R-NEW-20261026-095_LOD1.blend",
+      "bytes": 242927,
+      "sha256": "5e641ec20ec8f6db96e0f7569885c0599d773277f3df1d56b36edbd807707289"
+    },
+    {
+      "staged_filename": "ROOT_0481__R-NEW-20261026-095_LOD1.fbx",
+      "target_path": "ROOT/R-NEW-20261026-095/LOD1/R-NEW-20261026-095_LOD1.fbx",
+      "bytes": 443308,
+      "sha256": "ca811c8e5ee780ab8c47f984c782edeb87419bee7e316f44d9509bcdf64b05ad"
+    },
+    {
+      "staged_filename": "ROOT_0482__R-NEW-20261026-095_LOD1.glb",
+      "target_path": "ROOT/R-NEW-20261026-095/LOD1/R-NEW-20261026-095_LOD1.glb",
+      "bytes": 592844,
+      "sha256": "9e15f76861b8652575491e3255aef92f7f359889ffaded03830f95941206830a"
+    },
+    {
+      "staged_filename": "ROOT_0483__R-NEW-20261026-095_LOD2.blend",
+      "target_path": "ROOT/R-NEW-20261026-095/LOD2/R-NEW-20261026-095_LOD2.blend",
+      "bytes": 179170,
+      "sha256": "b6769025daddff93237ef1a348bd281a5f07e857878486133bbf296d03bad7f7"
+    },
+    {
+      "staged_filename": "ROOT_0484__R-NEW-20261026-095_LOD2.fbx",
+      "target_path": "ROOT/R-NEW-20261026-095/LOD2/R-NEW-20261026-095_LOD2.fbx",
+      "bytes": 318236,
+      "sha256": "fe60f94ccdaf90d477d2f1f5d789dab49735c51a5f7003a8c729b0c03a49ef57"
+    },
+    {
+      "staged_filename": "ROOT_0485__R-NEW-20261026-095_LOD2.glb",
+      "target_path": "ROOT/R-NEW-20261026-095/LOD2/R-NEW-20261026-095_LOD2.glb",
+      "bytes": 345976,
+      "sha256": "dbd1e0dfb0bb5593d59c0833e2b2f25dc28f9d76aec98cd26b481d6fae3acfc1"
+    },
+    {
+      "staged_filename": "ROOT_0486__QA_AND_LIMITS.json",
+      "target_path": "ROOT/R-NEW-20261026-095/QA_AND_LIMITS.json",
+      "bytes": 3740,
+      "sha256": "46165e4cd2356e10a30a15b75d4a192a5c854baf7d5cb46a0b7cf6a44a2463b8"
+    },
+    {
+      "staged_filename": "ROOT_0487__README_KO.md",
+      "target_path": "ROOT/R-NEW-20261026-095/README_KO.md",
+      "bytes": 1784,
+      "sha256": "69c4ca56e2de91fef7e7f765142f894e6ccebee2d764e19c8fd258023dc3c75d"
+    },
+    {
+      "staged_filename": "ROOT_0488__IMPORT_FBX_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-095/RENDERS_FINAL/IMPORT_FBX_hero.png",
+      "bytes": 1416030,
+      "sha256": "600a591c4de0b75b857166b016ddfcca0be493bb9c5d207b964d7ffda81ada48"
+    },
+    {
+      "staged_filename": "ROOT_0489__IMPORT_GLB_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-095/RENDERS_FINAL/IMPORT_GLB_hero.png",
+      "bytes": 1416216,
+      "sha256": "e2307437b5cfd6dcb5941e484407772bbf22543e684ea90cce3b5866d35b220f"
+    },
+    {
+      "staged_filename": "ROOT_0490__LOD0_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-095/RENDERS_FINAL/LOD0_hero.png",
+      "bytes": 1416178,
+      "sha256": "cb2a1ea686ee8beba2e43462e6605f30d96ddfac246349865851c379caef7055"
+    },
+    {
+      "staged_filename": "ROOT_0491__SHA256SUMS.txt",
+      "target_path": "ROOT/R-NEW-20261026-095/SHA256SUMS.txt",
+      "bytes": 1355,
+      "sha256": "c01c55c756156e5263e5521520df3a067b47a44b98ccf876ccc6d6520acea4b8"
+    },
+    {
+      "staged_filename": "ROOT_0492__R-NEW-20261026-096_LOD0.blend",
+      "target_path": "ROOT/R-NEW-20261026-096/LOD0/R-NEW-20261026-096_LOD0.blend",
+      "bytes": 309509,
+      "sha256": "4d21b5d5a14c1b6730a5eb1548eea8de5952d4ab22e9876053d2f180cac06d77"
+    },
+    {
+      "staged_filename": "ROOT_0493__R-NEW-20261026-096_LOD0.fbx",
+      "target_path": "ROOT/R-NEW-20261026-096/LOD0/R-NEW-20261026-096_LOD0.fbx",
+      "bytes": 628108,
+      "sha256": "ba4d2ca620b8de6659ae541ca161345e6c253e146e030be7a919444c427a1531"
+    },
+    {
+      "staged_filename": "ROOT_0494__R-NEW-20261026-096_LOD0.glb",
+      "target_path": "ROOT/R-NEW-20261026-096/LOD0/R-NEW-20261026-096_LOD0.glb",
+      "bytes": 1200904,
+      "sha256": "434605e2a6090bce11ff93b980f31b780b31e4d587593e09a988b84fd19292b0"
+    },
+    {
+      "staged_filename": "ROOT_0495__R-NEW-20261026-096_LOD1.blend",
+      "target_path": "ROOT/R-NEW-20261026-096/LOD1/R-NEW-20261026-096_LOD1.blend",
+      "bytes": 210441,
+      "sha256": "8110766d9cf783691ff002f199b1479608dcb5d51ceeb98d4999d16cc021b3fa"
+    },
+    {
+      "staged_filename": "ROOT_0496__R-NEW-20261026-096_LOD1.fbx",
+      "target_path": "ROOT/R-NEW-20261026-096/LOD1/R-NEW-20261026-096_LOD1.fbx",
+      "bytes": 397484,
+      "sha256": "16602bba4f4ed8834eb8e520ac671372e6463cb1ae8ae721000f247105cd31ee"
+    },
+    {
+      "staged_filename": "ROOT_0497__R-NEW-20261026-096_LOD1.glb",
+      "target_path": "ROOT/R-NEW-20261026-096/LOD1/R-NEW-20261026-096_LOD1.glb",
+      "bytes": 560768,
+      "sha256": "e6cd418d74d9a7b5b2e682e7082819184e591cdc3625f5b1a20c2796e0a69b4b"
+    },
+    {
+      "staged_filename": "ROOT_0498__R-NEW-20261026-096_LOD2.blend",
+      "target_path": "ROOT/R-NEW-20261026-096/LOD2/R-NEW-20261026-096_LOD2.blend",
+      "bytes": 168118,
+      "sha256": "6bea1d01572a147e17fa31c7360df3dd5c53b07320c99f7584e4231e6f4f8240"
+    },
+    {
+      "staged_filename": "ROOT_0499__R-NEW-20261026-096_LOD2.fbx",
+      "target_path": "ROOT/R-NEW-20261026-096/LOD2/R-NEW-20261026-096_LOD2.fbx",
+      "bytes": 299820,
+      "sha256": "bf283d6d65cc63a9bbc48519819f0c82a4bd75f7be69c4a2bfcb8fcff4cca440"
+    },
+    {
+      "staged_filename": "ROOT_0500__R-NEW-20261026-096_LOD2.glb",
+      "target_path": "ROOT/R-NEW-20261026-096/LOD2/R-NEW-20261026-096_LOD2.glb",
+      "bytes": 319488,
+      "sha256": "615e7ee45e06c38dd5d0a3b37dc299e5dcd0b30ff3cfa65750de4e700a2e10b0"
+    },
+    {
+      "staged_filename": "ROOT_0501__QA_AND_LIMITS.json",
+      "target_path": "ROOT/R-NEW-20261026-096/QA_AND_LIMITS.json",
+      "bytes": 3702,
+      "sha256": "e9536d6c369eab5b1a54b46dcb05bf66ca08ba8bb5234d5644ddfbd05eea1ca8"
+    },
+    {
+      "staged_filename": "ROOT_0502__README_KO.md",
+      "target_path": "ROOT/R-NEW-20261026-096/README_KO.md",
+      "bytes": 1768,
+      "sha256": "27b2f72def6abd536c859caa4cb718ef32c777662dcf91892e9912d43a625d47"
+    },
+    {
+      "staged_filename": "ROOT_0503__IMPORT_FBX_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-096/RENDERS_FINAL/IMPORT_FBX_hero.png",
+      "bytes": 1521367,
+      "sha256": "231cf3d823b28b60e00ae09ecd61dc69409ca1f33f290b30a0ced21a628e74a6"
+    },
+    {
+      "staged_filename": "ROOT_0504__IMPORT_GLB_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-096/RENDERS_FINAL/IMPORT_GLB_hero.png",
+      "bytes": 1521422,
+      "sha256": "c11d8aa347248c9c87ee57204dd5933468a1e858772f3793756f49e98e01495e"
+    },
+    {
+      "staged_filename": "ROOT_0505__LOD0_hero.png",
+      "target_path": "ROOT/R-NEW-20261026-096/RENDERS_FINAL/LOD0_hero.png",
+      "bytes": 1521487,
+      "sha256": "a9e04c37c59cc593bebb0d86b3dfe81f420129e32df6a565a963a1e19fbde64d"
+    },
+    {
+      "staged_filename": "ROOT_0506__SHA256SUMS.txt",
+      "target_path": "ROOT/R-NEW-20261026-096/SHA256SUMS.txt",
+      "bytes": 1355,
+      "sha256": "5adc9b6f9ae548c9ff3f7801313a2e467f72a8d6cd2227b766f5ac580a33a634"
+    },
+    {
+      "staged_filename": "ROOT_0507__SHA256SUMS.txt",
+      "target_path": "ROOT/SHA256SUMS.txt",
+      "bytes": 32117,
+      "sha256": "3eedd555beea107600b0bd2102b2971de47fc3fcc09298ae6152d05f32a062a3"
+    }
+  ]
+}

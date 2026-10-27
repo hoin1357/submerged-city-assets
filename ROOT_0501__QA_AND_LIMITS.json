@@ -1,0 +1,90 @@
+{
+  "asset_id": "R-NEW-20261026-096",
+  "name": "Unloaded tire changing machine, original static complete assembly",
+  "selected_revision": "R5_CLEAR_CRADLE_CURVATURE",
+  "new_design_count": 1,
+  "model_files": 9,
+  "formats": [
+    "BLEND",
+    "FBX",
+    "GLB"
+  ],
+  "lods": 3,
+  "triangles": [
+    22104,
+    10312,
+    5176
+  ],
+  "lod_triangle_reduction_percent": [
+    0.0,
+    53.34781035106768,
+    76.58342381469417
+  ],
+  "approximate_dimensions_m": [
+    1.0978263020515442,
+    1.1089110970497131,
+    1.665000081062317
+  ],
+  "geometry_uv_material_reimport_checks_passed": 6,
+  "raw_glb_indexed_uv_checks_passed": 3,
+  "raw_fbx_uv_native_actual_triangle_checks_passed": 3,
+  "external_resource_dependencies_required": false,
+  "delivery_format": "Uncompressed individual files",
+  "actual_final_renders_in_loose_delivery": 3,
+  "total_local_final_QA_render_count": 14,
+  "additional_QA_views_included": false,
+  "included_render_files": [
+    "LOD0_hero.png",
+    "IMPORT_GLB_hero.png",
+    "IMPORT_FBX_hero.png"
+  ],
+  "measured_import_normal_drift": [
+    {
+      "tier": 0,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0006088333443156186,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 0,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.1696418193818683e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.000636298150879317,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.086162567138672e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0005527530628965764,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.03224743857769e-07,
+      "raw_normal_payload_pass": true
+    }
+  ],
+  "limits": "Original unbranded static complete unloaded automotive tire changer: four front pedals, cabinet and ground feet, wheel-lift rails and attached low cradle, central vertical clamping spindle and small turntable, rear columns and overhead mounting arm/head, upper/lower assist rollers, control pod, blank display/gauge, attached rear motor/reservoir/electrical housing/air tank, two routed hoses. One integrated assembly only, no separate tank/lift/tool/component counts and no tire/rim workpiece. Supplier-hosted manufacturer publication exterior multi-view images personally inspected; photo-versus-render production not independently established. Own approximate scale and proportions; no manufacturer dimension claim. Hidden drives, hydraulic/pneumatic pathways and electrical parts generalized; no tire servicing, hydraulic/pneumatic operation, load, electrical/safety, rig, collider or Unity certification. No universal shading parity. Original mesh/plain materials; reference imagery/PDF/labels/photo textures/private notes excluded.",
+  "source_reference_pages": [
+    "https://s3.amazonaws.com/cdn.autobodytoolmart.com/downloads/tech-sheets/ranger-user-manual.pdf"
+  ],
+  "rights": "Original geometry/plain materials. Private reference image, markings, photo textures, failed versions and internal notes excluded. Public repository does not imply reference-photo redistribution rights."
+}

@@ -1,0 +1,19 @@
+{
+  "asset_id": "B-NEW-20261027-115",
+  "revision": "R3",
+  "name": "Complete generic party mask",
+  "design_count": 1,
+  "model_count": 9,
+  "lod_triangles": [
+    16416,
+    7904,
+    2804
+  ],
+  "materials": 2,
+  "unit": "meter",
+  "up_axis": "Z",
+  "static_only": true,
+  "hidden_geometry": "Generic rear strap and inner shell",
+  "external_dependencies": [],
+  "engine_validation": "Blender reimport only; target engine not tested"
+}

@@ -1,0 +1,17 @@
+{
+  "asset_id": "B-NEW-20261027-116",
+  "revision": "R1",
+  "name": "Complete generic hot air balloon",
+  "design_count": 1,
+  "model_count": 9,
+  "lod_triangles": [
+    23916,
+    11092,
+    5220
+  ],
+  "materials": 4,
+  "static_only": true,
+  "external_dependencies": [],
+  "source_quality": "225x300 single view; hidden joints generalized",
+  "flight_or_burner_implementation": false
+}

@@ -1,0 +1,164 @@
+{
+  "files": [
+    {
+      "path": "B/assets/B-NEW-20261027-115/ASSET.json",
+      "bytes": 439,
+      "sha256": "4107b39df71521786aece10a7cfea7126fbf5e113ebbbd3c452dff98e6fad1e4"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-115/README.md",
+      "bytes": 2348,
+      "sha256": "e76d66bcdce8889182f7666eb02cbf00d97dd3a70fe2cf16a57f197152fcca6b"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-115/models/B-NEW-20261027-115_LOD0.blend",
+      "bytes": 512150,
+      "sha256": "936db5a2a369d228707dc82cb9746f1a9942147d14c70a8da85a0490878ffcd4"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-115/models/B-NEW-20261027-115_LOD0.fbx",
+      "bytes": 637372,
+      "sha256": "f940e2c2a7408e82273b8b66f676ae94a7a6f41c49ed0f06ec5f70f9b4842ac6"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-115/models/B-NEW-20261027-115_LOD0.glb",
+      "bytes": 1676776,
+      "sha256": "6e90cf264d62a340e49fbc90d1d6a6e40058ae12b2e125e05c3e2748c206684a"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-115/models/B-NEW-20261027-115_LOD1.blend",
+      "bytes": 290271,
+      "sha256": "af53a1226534d4d9cb6fe987e1009104e95d9cc79b9a8f91f65fcc1c8fa20043"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-115/models/B-NEW-20261027-115_LOD1.fbx",
+      "bytes": 298716,
+      "sha256": "99e88cb959c03656de07f2c0eac8be79e07a41fa53c8ade28500762e0c0b76e2"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-115/models/B-NEW-20261027-115_LOD1.glb",
+      "bytes": 808544,
+      "sha256": "1f828b21696508e1529180d83eabbca29a70a9f44fc981ebc036fe11b56d0f59"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-115/models/B-NEW-20261027-115_LOD2.blend",
+      "bytes": 156764,
+      "sha256": "b8eeac3f501350a48d1735c0a82d4c2f22d5f9c4b3c9a279b860f356df3ee28e"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-115/models/B-NEW-20261027-115_LOD2.fbx",
+      "bytes": 111356,
+      "sha256": "f2829d8b51852f00291618de83a597a58d272797e612fbb3535294369bcaf2f1"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-115/models/B-NEW-20261027-115_LOD2.glb",
+      "bytes": 288332,
+      "sha256": "199ad5de5b79b786ced102039a72e2ce0aab2f3a2292d4658ecebf486beba1c7"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-115/renders/recognition128.png",
+      "bytes": 18354,
+      "sha256": "b3f028b68c8b36ebcb074a892d1fa6d6b5dafde3999f6bb8cb5551ff69861014"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-115/renders/reverse.png",
+      "bytes": 228891,
+      "sha256": "4d61f743e20b49f8624a5764fc1ddacbefafb33e987dcffb48531dbf86615c47"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-115/renders/whole.png",
+      "bytes": 235562,
+      "sha256": "e8ada379e0a3b6f4461d4e166ec7ce6b056ecf722096de53c43b7de7c7b2f29f"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-115/SHA256SUMS.txt",
+      "bytes": 1331,
+      "sha256": "6953c481e274fb72bdf34d416ec29bba13c8d6fb5d7aa1002c2ba798fd6b7f01"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-116/ASSET.json",
+      "bytes": 389,
+      "sha256": "0351dd6ffdee74850069039b25b4dd512f445b863a01f24d67157e1a75413f59"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-116/README.md",
+      "bytes": 2465,
+      "sha256": "0fa818c73994b78e487dddb6f927f0e5ee4f5d96b57503cd4a95118488efdc3e"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-116/models/B-NEW-20261027-116_LOD0.blend",
+      "bytes": 698651,
+      "sha256": "bb22346b61ef62f16ead32434b7b04b22dda4a6667299138428b66af82fa3987"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-116/models/B-NEW-20261027-116_LOD0.fbx",
+      "bytes": 798972,
+      "sha256": "f03c5c6f2540f184c63414129d71c5db9616a5e0bc4cebb243e527dc28f767d3"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-116/models/B-NEW-20261027-116_LOD0.glb",
+      "bytes": 2443660,
+      "sha256": "d11b6be3fd256e0ba2ff6dcdba6ec98ccc14592913dd2c2e396857f7a7c596dc"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-116/models/B-NEW-20261027-116_LOD1.blend",
+      "bytes": 370597,
+      "sha256": "0fa9dfc23c11c0283c6f0d5c1f8049a9a9bdc0d2a1e27ca080bf217d0eba97ed"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-116/models/B-NEW-20261027-116_LOD1.fbx",
+      "bytes": 370044,
+      "sha256": "7e9c57ba734a489f0e5d5c3537841b6544cf72dafe5c7dea4968c06f918fbbe9"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-116/models/B-NEW-20261027-116_LOD1.glb",
+      "bytes": 1135604,
+      "sha256": "244230f1b0bcef77cbd92fc8d673f48a14f3d4702c160293b9aee59389aa6a1f"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-116/models/B-NEW-20261027-116_LOD2.blend",
+      "bytes": 219792,
+      "sha256": "34c76ce7e00c2168bfd7865f740b226814925cc6522b6b91f538bebeb84fe3c9"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-116/models/B-NEW-20261027-116_LOD2.fbx",
+      "bytes": 184620,
+      "sha256": "377d94133cef84c62c93368e1ca1ace621ab3a09513fc098c59cd94126291ee5"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-116/models/B-NEW-20261027-116_LOD2.glb",
+      "bytes": 536628,
+      "sha256": "691bbad472679f90520bde0e9ade985595e7268ea0e40c29abb9105f4c2410cb"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-116/renders/basket.png",
+      "bytes": 284383,
+      "sha256": "f673d6dec6a0238157a4f2f75850686be6308c1339b45041f84f1df5a8741516"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-116/renders/neck.png",
+      "bytes": 333426,
+      "sha256": "2900d9177a473f97a26ceea4c7fcfc74ef3842950f20d5aa8009c1547bc62431"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-116/renders/recognition128.png",
+      "bytes": 19632,
+      "sha256": "1734bac5ae67d5c9d477daf8be69f3f82c096577abb62d462fc044aa0233b134"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-116/renders/reverse.png",
+      "bytes": 256077,
+      "sha256": "5867ff04583c086edf7cce026e782a5776c9c09fe47a578240c5469532ebc39f"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-116/renders/whole.png",
+      "bytes": 259440,
+      "sha256": "26d1b27c69509c5f18c0ab429ebecf85e1bffacd481700f1a1088e5e9829e350"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-116/SHA256SUMS.txt",
+      "bytes": 1499,
+      "sha256": "1f6253478221c7d3b3a713595750246e66473f7ce41cda34674defb527652968"
+    }
+  ]
+}

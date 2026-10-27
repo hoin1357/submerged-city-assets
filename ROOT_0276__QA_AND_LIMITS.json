@@ -1,0 +1,91 @@
+{
+  "asset_id": "R-NEW-20261026-079",
+  "name": "Short-mounted ship engine-order telegraph, original static instrument",
+  "selected_revision": "R5_SEATED_LINK_ROOT",
+  "new_design_count": 1,
+  "model_files": 9,
+  "formats": [
+    "BLEND",
+    "FBX",
+    "GLB"
+  ],
+  "lods": 3,
+  "triangles": [
+    12868,
+    8724,
+    5768
+  ],
+  "lod_triangle_reduction_percent": [
+    0.0,
+    32.20391669257072,
+    55.175629468448875
+  ],
+  "approximate_dimensions_m": [
+    0.4189999997615814,
+    0.13950000703334808,
+    0.4309999942779541
+  ],
+  "geometry_uv_material_reimport_checks_passed": 6,
+  "raw_glb_indexed_uv_checks_passed": 3,
+  "raw_fbx_uv_native_actual_triangle_checks_passed": 3,
+  "external_resource_dependencies_required": false,
+  "delivery_format": "Uncompressed individual files",
+  "actual_final_renders_in_loose_delivery": 3,
+  "total_local_final_QA_render_count": 14,
+  "additional_QA_views_included": false,
+  "included_render_files": [
+    "LOD0_hero.png",
+    "IMPORT_GLB_hero.png",
+    "IMPORT_FBX_hero.png"
+  ],
+  "measured_import_normal_drift": [
+    {
+      "tier": 0,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0003055805391995044,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 0,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.682209014892578e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.000284263443372803,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.682209014892578e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.00030992363583304494,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.5636927089222153e-07,
+      "raw_normal_payload_pass": true
+    }
+  ],
+  "limits": "Original unbranded short-mounted ship engine-order telegraph instrument. Thick brass-colored drum/bezel, pale radial command dial with original AHEAD/ASTERN/FULL/HALF/SLOW/STOP and simplified STAND/DONE labels, fixed central pointer, short flange mount and partial side linkage. Complete instrument rather than invented full pedestal. Original approximate0.420x0.140x0.431m envelope, not reference-measured. Photograph source caption identifies SteamTugYelta engine-room unit,2011; photographer/license not independently established. Short mount, partial side-link termination and back cover generic/inferred; cropped long grip and hidden internals not reconstructed. No signaling/engine control/rig/load/safety/collider/Unity certification or universal shading equivalence.",
+  "source_reference_pages": [
+    "https://github.com/samwilson/portadelaide/blob/main/content/images/Yelta1.JPG",
+    "https://github.com/samwilson/portadelaide/blob/main/content/File/Yelta1.JPG.txt"
+  ],
+  "rights": "Original geometry/plain materials and original typeset generic order words; photo,manufacturer logo,failed versions andinternalnotes excluded."
+}

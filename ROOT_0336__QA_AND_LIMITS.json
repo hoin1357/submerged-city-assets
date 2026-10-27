@@ -1,0 +1,95 @@
+{
+  "asset_id": "R-NEW-20261026-083",
+  "name": "Wheeled pressure washer with stored hose and trigger gun, original static assembly",
+  "selected_revision": "R3_CLEAR_WHEEL_FOOT",
+  "new_design_count": 1,
+  "model_files": 9,
+  "formats": [
+    "BLEND",
+    "FBX",
+    "GLB"
+  ],
+  "lods": 3,
+  "triangles": [
+    26256,
+    13448,
+    6732
+  ],
+  "lod_triangle_reduction_percent": [
+    0.0,
+    48.7812309567337,
+    74.3601462522852
+  ],
+  "approximate_dimensions_m": [
+    0.4688607007265091,
+    0.45194384455680847,
+    0.9690170288085938
+  ],
+  "geometry_uv_material_reimport_checks_passed": 6,
+  "raw_glb_indexed_uv_checks_passed": 3,
+  "raw_fbx_uv_native_actual_triangle_checks_passed": 3,
+  "external_resource_dependencies_required": false,
+  "delivery_format": "Uncompressed individual files",
+  "actual_final_renders_in_loose_delivery": 3,
+  "total_local_final_QA_render_count": 14,
+  "additional_QA_views_included": false,
+  "included_render_files": [
+    "LOD0_hero.png",
+    "IMPORT_GLB_hero.png",
+    "IMPORT_FBX_hero.png"
+  ],
+  "measured_import_normal_drift": [
+    {
+      "tier": 0,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0007706330324726248,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 0,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 3.03925246810483e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.005908320803651176,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.980232238769545e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.000386307328299896,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.9351883535969604e-07,
+      "raw_normal_payload_pass": true
+    }
+  ],
+  "limits": "Original unbranded static complete wheeled pressure washer: closed pump/motor case, two grounded wheels/front foot, open carry handle, stored lance and trigger gun with actual open guard and supported clips, continuous pressure hose and separate power lead in separated pitched coils with real hooks and seated ends, generic stored plug and external fittings. Original approximate scale, not source-measured. Published BOSS_neutral experimental object-stimulus reference; exact machine model, photographer/photo-versus-studio-render attribution and per-image rights not independently established. Hidden pump, valves, electrical parts and exact fitting internals not reconstructed. No actual pressure/water/electrical/rig/load/safety/collider/Unity certification or universal shading equivalence.",
+  "source_reference_pages": [
+    "https://github.com/expfactory/expfactory-experiments/blob/49b8123f18b26d94dfc010bb8a6ec7458b265e2e/object_rating/images/BOSS_neutral/pressurewasher.jpg"
+  ],
+  "rights": "Original geometry/plain materials; private reference images, logos, failed versions and internal notes excluded. Repository software license not asserted to settle stimulus-image rights.",
+  "visual_preview_limits": [
+    "Original simplified angular hose lead routing, not a physical flexible-hose simulation.",
+    "40-sample undenoised Cycles previews show sampling noise, not an authored dirt texture.",
+    "Local lower/side close-up views crop some wheel/foot edges; hero and rear show the complete assembly."
+  ]
+}

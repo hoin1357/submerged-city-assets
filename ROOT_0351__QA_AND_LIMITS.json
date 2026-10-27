@@ -1,0 +1,94 @@
+{
+  "asset_id": "R-NEW-20261026-084",
+  "name": "Carnival high-striker with companion mallet, original static assembly",
+  "selected_revision": "R3_CONTAINED_REAR_BRACES",
+  "new_design_count": 1,
+  "model_files": 9,
+  "formats": [
+    "BLEND",
+    "FBX",
+    "GLB"
+  ],
+  "lods": 3,
+  "triangles": [
+    13272,
+    5868,
+    2820
+  ],
+  "lod_triangle_reduction_percent": [
+    0.0,
+    55.78661844484629,
+    78.75226039783001
+  ],
+  "approximate_dimensions_m": [
+    0.47999998927116394,
+    1.2750000059604645,
+    3.171000011265278
+  ],
+  "geometry_uv_material_reimport_checks_passed": 6,
+  "raw_glb_indexed_uv_checks_passed": 3,
+  "raw_fbx_uv_native_actual_triangle_checks_passed": 3,
+  "external_resource_dependencies_required": false,
+  "delivery_format": "Uncompressed individual files",
+  "actual_final_renders_in_loose_delivery": 3,
+  "total_local_final_QA_render_count": 14,
+  "additional_QA_views_included": false,
+  "included_render_files": [
+    "LOD0_hero.png",
+    "IMPORT_GLB_hero.png",
+    "IMPORT_FBX_hero.png"
+  ],
+  "measured_import_normal_drift": [
+    {
+      "tier": 0,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0003462732953985691,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 0,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 4.6648013122375395e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.00012229622929543231,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 4.2981520598697824e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.00012110416735228462,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 4.2981520598697824e-07,
+      "raw_normal_payload_pass": true
+    }
+  ],
+  "limits": "Original unbranded static carnival high-striker complete assembly with companion mallet, counted once: grounded base, tall closed score post/pale face/edge rails, original uncalibrated score stripes, central raised guide, centrally supported convex shell bell, static strike lever/pivot brackets/support block/pad, rear-open resting slider carriage with actual guide and board clearance, grounded mallet head and seated handle/grip leaning on strike-pad side. Own approximate scale, no manufacturer measurement. Published BOSS_neutral object-stimulus reference; original photographer/photo-versus-render attribution and per-image rights not independently established. Hidden rear supports, pivot and slider details are generic original inference, not verified operating mechanism. No actual force scoring, ringing, impact safety, load, rig, collider or Unity certification or universal shading equivalence.",
+  "source_reference_pages": [
+    "https://github.com/expfactory/expfactory-experiments/blob/49b8123f18b26d94dfc010bb8a6ec7458b265e2e/object_rating/images/BOSS_neutral/highstrikergame.jpg"
+  ],
+  "rights": "Original geometry/plain materials. Private reference images, reflected photographic environment, logos, failed versions and internal notes excluded. Software license not asserted to settle stimulus-image rights.",
+  "visual_preview_limits": [
+    "40-sample undenoised Cycles previews show noise on reflective metal and red enamel; not an authored wear texture.",
+    "Detail views intentionally crop whole-object extents; hero/rear provide full assembly framing."
+  ]
+}

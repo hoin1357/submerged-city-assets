@@ -1,0 +1,92 @@
+{
+  "asset_id": "R-NEW-20261026-089",
+  "name": "Desktop vacuum-forming machine, original static complete assembly",
+  "selected_revision": "R3_CLEAR_VENT_BEVEL",
+  "new_design_count": 1,
+  "model_files": 9,
+  "formats": [
+    "BLEND",
+    "FBX",
+    "GLB"
+  ],
+  "lods": 3,
+  "triangles": [
+    10544,
+    6256,
+    2960
+  ],
+  "lod_triangle_reduction_percent": [
+    0.0,
+    40.667678300455236,
+    71.92716236722306
+  ],
+  "approximate_dimensions_m": [
+    0.7599999904632568,
+    0.6477927267551422,
+    1.340000033378601
+  ],
+  "geometry_uv_material_reimport_checks_passed": 6,
+  "raw_glb_indexed_uv_checks_passed": 3,
+  "raw_fbx_uv_native_actual_triangle_checks_passed": 3,
+  "external_resource_dependencies_required": false,
+  "delivery_format": "Uncompressed individual files",
+  "actual_final_renders_in_loose_delivery": 3,
+  "total_local_final_QA_render_count": 14,
+  "additional_QA_views_included": false,
+  "included_render_files": [
+    "LOD0_hero.png",
+    "IMPORT_GLB_hero.png",
+    "IMPORT_FBX_hero.png"
+  ],
+  "measured_import_normal_drift": [
+    {
+      "tier": 0,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 8.660816419103637e-05,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 0,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.3174736401762353e-06,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.00012339778894336154,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 6.94061923501351e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.00013610243279936154,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 6.343430013202294e-07,
+      "raw_normal_payload_pass": true
+    }
+  ],
+  "limits": "Original unbranded static complete self-contained desktop vacuum-forming machine, counted once: two tall profiled guide columns, broad supported overhead heater hood with generic closed underside, raised double sheet-clamping frame and side carriages, two original red-gripped clamps, wide supported platen with actual central opening over closed dark recess, framed lower cabinet, two rocker switches and backed side vent grille. Own approximate scale and original raised-frame pose, not reference-measured dimensions. Actual prototype photos published by RickSollie/Fornax-Vacuum-Former inspected; photo redistribution rights not independently certified, reference copies excluded. No internal heater, vacuum motor or wiring reconstruction; no functional sheet forming, heating, airflow, electrical safety, rig, collider or Unity certification or universal shading equivalence.",
+  "source_reference_pages": [
+    "https://github.com/RickSollie/Fornax-Vacuum-Former/blob/ab2f5f0d18b47f0194230f6c24ca985fa467dd4e/images/fornax2.jpg",
+    "https://github.com/RickSollie/Fornax-Vacuum-Former/blob/ab2f5f0d18b47f0194230f6c24ca985fa467dd4e/images/fornax.jpg"
+  ],
+  "rights": "Original geometry/plain materials. Private reference image, markings, photo textures, failed versions and internal notes excluded. Public repository does not imply reference-photo redistribution rights.",
+  "render_limits": "Cycles40 undenoised actual renders retain sample noise, especially metal recesses; detail views intentionally crop rest of assembly. No universal native/import shading equivalence."
+}

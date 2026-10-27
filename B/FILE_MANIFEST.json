@@ -1,0 +1,74 @@
+{
+  "files": [
+    {
+      "path": "B/assets/B-NEW-20261027-114/ASSET.json",
+      "bytes": 435,
+      "sha256": "e53d8c30168dcb319bfc21eade179a04d0687088fdf88a418c13629ad2864191"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-114/README.md",
+      "bytes": 1202,
+      "sha256": "15230390aa65caf8fdd990d19ea5b7e3e1021b008a1deeb7ee2d7e41ab6d4b90"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-114/SHA256SUMS.txt",
+      "bytes": 1276,
+      "sha256": "84395c1b60f8739d0038e04c6abb611de4afba5dcaac7be9107f71eeb1626387"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-114/models/B-NEW-20261027-114_LOD0.blend",
+      "bytes": 593839,
+      "sha256": "ce99f3e27532b8fc3051c6b24ecf6cc29bb64a9166294bfcf3f77b6491ab8da8"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-114/models/B-NEW-20261027-114_LOD0.fbx",
+      "bytes": 4285564,
+      "sha256": "6c2b1b6ba2a05adc63eb3c69fafca4213f60e34e81c3a562284a4c8839b32c14"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-114/models/B-NEW-20261027-114_LOD0.glb",
+      "bytes": 9936704,
+      "sha256": "3f584fab5584572e43b235eac2b41921b400f774d7d43ebc3788ce7e89142857"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-114/models/B-NEW-20261027-114_LOD1.blend",
+      "bytes": 355510,
+      "sha256": "16cf3ad1f2c58e1db3769d0264f458d87e6a98ea34aa0f63f9a62a6e88ed9412"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-114/models/B-NEW-20261027-114_LOD1.fbx",
+      "bytes": 2192092,
+      "sha256": "82e8ec4aee0776c9aaf88d2f8fa84e3abef9e8fb93b73841a5eddd6fd1d219c7"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-114/models/B-NEW-20261027-114_LOD1.glb",
+      "bytes": 4440744,
+      "sha256": "903ed33814952e2fdc147d9e578d5743e372c14454bbdfd18bc08b69558543a6"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-114/models/B-NEW-20261027-114_LOD2.blend",
+      "bytes": 240997,
+      "sha256": "329f7c0c50021f1250a1c70b400d3f8cb423f129b046ae0c4f724aeaf05745ff"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-114/models/B-NEW-20261027-114_LOD2.fbx",
+      "bytes": 1311340,
+      "sha256": "1297e97d8d0634ed2e391f74ccf63c8436e4cc594dbf24e7f9aa667f9babd1d8"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-114/models/B-NEW-20261027-114_LOD2.glb",
+      "bytes": 2098376,
+      "sha256": "286547604a692e1a94cdcc87ec926a818506765e5cad5665f03bb25478e4d73d"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-114/renders/B-NEW-20261027-114_reverse.png",
+      "bytes": 170418,
+      "sha256": "a36998e48be8717d05c4e205a48c2bc88800831a1712aa65177219a885c9ccb8"
+    },
+    {
+      "path": "B/assets/B-NEW-20261027-114/renders/B-NEW-20261027-114_whole.png",
+      "bytes": 180864,
+      "sha256": "f6960a17cbfe4846f059cb27803e29d6ed22e95c1147550e203cfb5cab457151"
+    }
+  ]
+}

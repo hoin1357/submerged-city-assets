@@ -1,0 +1,20 @@
+{
+  "asset_id": "B-NEW-20261027-114",
+  "name": "Complete floral wreath",
+  "revision": "R3",
+  "designs": 1,
+  "models": 9,
+  "triangles": [
+    93424,
+    40572,
+    17972
+  ],
+  "units": "meters, approximate authored proportions",
+  "native_up_axis": "Z",
+  "materials": 5,
+  "external_dependencies": [],
+  "static": true,
+  "unity_tested": false,
+  "hidden_backing": "generic approximation",
+  "reference_images_included": false
+}

@@ -1,0 +1,45 @@
+{
+  "asset_id": "R-NEW-20261025-051",
+  "revision": "R17_GENTLER_VALIDATED_REDUCTION",
+  "new_design_count": 0,
+  "selected_replacement": false,
+  "model_files": 9,
+  "triangles": [
+    74240,
+    63440,
+    50480
+  ],
+  "reductions_from_repaired_LOD0_percent": [
+    0,
+    14.547413793103448,
+    32.004310344827594
+  ],
+  "original_each_tier_triangles": 125164,
+  "changes": [
+    "Two original shell internal closure caps removed and equal perimeter joined with100nm weld tolerance; one closed two-tone shell. LOD0 no longer original-byte-identical.",
+    "Only original two large shell exterior surfaces reduced; local contact/sharp/defect neighborhoods protected; no source-normal transfer masking.",
+    "USB molding metal-facing end extended400micrometres with cable-facing end fixed for actual buried seating instead of coincident butt surface.",
+    "Remaining43 original detail mesh records verified exact for coordinates,UV,cornernormals,materials and matrices in alltiers."
+  ],
+  "technical_completion": "Independent numeric gates PASS: exact adjacency-inclusive self, closedness, minimum altitude, UV/PBR, direct100nm coplanar, exterior comparison,43 unchanged mesh records, assembly/apertures, full USB cap convex half-space backing, six imports and raw encoded normals/UV/dependencies. Actual final17views and writer completion are separately bound in candidate receipt; final review completed; this same-ID update is selected for this batch.",
+  "limits": "Existing generic static gamepad quality repair, not new design. OriginalR8 registry/public214 untouched. No functionalcontrols/electrical/ergonomic/rig/collider/Unitycert. Short presentation cable and generic hidden supports. Recognition assistant judgment, not audience study. No global exact surface-deviation guarantee. Private source photographs not included; original geometry/plainmaterials. Rendering floor is presentation-only0.2mm below actualminimum; no functional standing/grounding claim. Actual inserted USB cap support tested; no electrical operation certification.",
+  "render_correction": "Initial preview floor atz0 obscured original negative-z grip ends. Separate CAMERA_R2 uses true bboxminimumz minus0.2mm, model bytes unchanged. Initial views retained not final evidence. Initial close mouth view was clipped by default0.1m camera near plane; separate MOUTH_VIEW_R3 uses10micrometre near plane and lower0.18W underside light (R2 was overly bright), no model edits. Final visual evidence excludes initial clipped mouth image, which remains preserved.",
+  "unchanged_other_mesh_records_verified": 43,
+  "actual_final_QA_views": 17,
+  "representative_renders": 3,
+  "additional_QA_views_local_only": 14,
+  "min_altitude_m": 1.018149e-06,
+  "USB_terminal_cap_samples_all_inside_per_tier": 132,
+  "USB_minimum_surface_margin_m": 0.000147669,
+  "sampled_bidirectional_surface_max_m": 2.91056e-05,
+  "LOD0_exterior_coordinate_UV_normal_difference": 0,
+  "USB_full_terminal_cap_inside_proof": "Convex molding half-space inequalities on all terminal cap vertices prove both complete cap triangles inside; minimum147.669micrometre margin. Not electrical/mechanical function certification.",
+  "reconstructed_normal_max_delta": {
+    "GLB": 0.0014772394,
+    "FBX": 0.0084377803,
+    "strict_equality": false,
+    "raw_encoded_normal_delivery": "PASS"
+  },
+  "same_ID_only": true,
+  "delivery_status": "Selected same-ID quality update for this final batch; historical selections and earlier public batches preserved."
+}

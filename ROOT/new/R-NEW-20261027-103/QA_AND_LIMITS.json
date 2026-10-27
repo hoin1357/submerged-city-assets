@@ -1,0 +1,100 @@
+{
+  "asset_id": "R-NEW-20261027-103",
+  "name": "Whole original open costume crown",
+  "selected_revision": "R1_OPEN_SCALLOPED_BAND",
+  "new_design_count": 1,
+  "model_files": 9,
+  "formats": [
+    "BLEND",
+    "FBX",
+    "GLB"
+  ],
+  "lods": 3,
+  "triangles": [
+    14592,
+    7680,
+    3840
+  ],
+  "lod_triangle_reduction_percent": [
+    0.0,
+    47.36842105263158,
+    73.6842105263158
+  ],
+  "approximate_dimensions_m": [
+    0.2199999988079071,
+    0.2199999988079071,
+    0.12800000607967377
+  ],
+  "geometry_uv_material_reimport_checks_passed": 6,
+  "raw_glb_indexed_uv_checks_passed": 3,
+  "raw_fbx_uv_native_actual_triangle_checks_passed": 3,
+  "external_resource_dependencies_required": false,
+  "delivery_format": "Uncompressed individual files",
+  "actual_final_renders_in_loose_delivery": 3,
+  "total_local_final_QA_render_count": 14,
+  "additional_QA_views_included": false,
+  "included_render_files": [
+    "LOD0_hero.png",
+    "IMPORT_GLB_hero.png",
+    "IMPORT_FBX_hero.png"
+  ],
+  "measured_import_normal_drift": [
+    {
+      "tier": 0,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.00013689806353325845,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 0,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.03224743857769e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.00013340396030411215,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.086162567138672e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.00012484646740209448,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.086162567138672e-07,
+      "raw_normal_payload_pass": true
+    }
+  ],
+  "limits": "Original complete costume crown with an open circular head band and eight repeated raised scalloped points, rolled bottom ridges and actual inner wall/thickness. One connected annular material shell, open top and bottom. Published BOSS whole crown stimulus personally inspected; original photographer/maker unverified. Own approximate dimensions and simplified hidden underside; not a historical/manufacturer reconstruction. No copied photograph/texture/logo, no old chess component, no jewels/colour/point-count variants counted. Plain original metallic material and geometry only. Static prop; no wearable fit, material assay, safety, rig, collider or Unity certification. Actual unlabelled128px reviewers recognition is conservative judgment, not audience study. Reduced curvature and undenoised grain disclosed; no universal imported-shading equivalence.",
+  "recognition_gate": {
+    "status": "PASS",
+    "actual_pixels": [
+      128,
+      128
+    ],
+    "image_sha256": "3a62c96f6a63bf0b8b7a5fafb02ab92987177b5f5f489218a9928270c1122d85",
+    "method": "Reviewers personally reviewed actual unlabelled whole model render, conservative judgment not audience test",
+    "recognition_image_included_in_loose": false
+  },
+  "source_reference_pages": [
+    "https://github.com/expfactory/expfactory-experiments/blob/49b8123f18b26d94dfc010bb8a6ec7458b265e2e/object_rating/images/BOSS_neutral/crown.jpg"
+  ],
+  "rights": "Original geometry/plain materials. Private reference image, photo textures, failed versions and internal notes excluded. Public repository does not imply reference-photo redistribution rights."
+}

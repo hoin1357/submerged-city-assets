@@ -1,0 +1,110 @@
+{
+  "asset_id": "R-NEW-20261027-108",
+  "name": "Whole original bowtie static accessory",
+  "selected_revision": "R2_CENTERED_WRAP",
+  "new_design_count": 1,
+  "model_files": 9,
+  "formats": [
+    "BLEND",
+    "FBX",
+    "GLB"
+  ],
+  "lods": 3,
+  "triangles": [
+    14348,
+    5484,
+    1548
+  ],
+  "lod_triangle_reduction_percent": [
+    0.0,
+    61.77864510733203,
+    89.21103986618344
+  ],
+  "approximate_dimensions_m": [
+    0.12800000607967377,
+    0.05299999937415123,
+    0.018435999751091003
+  ],
+  "geometry_uv_material_reimport_checks_passed": 6,
+  "raw_glb_indexed_uv_checks_passed": 3,
+  "raw_fbx_uv_native_actual_triangle_checks_passed": 3,
+  "external_resource_dependencies_required": false,
+  "delivery_format": "Uncompressed individual files",
+  "actual_final_renders_in_loose_delivery": 3,
+  "total_local_final_QA_render_count": 14,
+  "additional_QA_views_included": false,
+  "included_render_files": [
+    "LOD0_hero.png",
+    "IMPORT_GLB_hero.png",
+    "IMPORT_FBX_hero.png"
+  ],
+  "measured_import_normal_drift": [
+    {
+      "tier": 0,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0007072054706749899,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 0,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.086162567138672e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0006345714220983591,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.2302015940987714e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.000586178356967901,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.0271193773169504e-07,
+      "raw_normal_payload_pass": true
+    }
+  ],
+  "limits": "Original whole bowtie accessory: broad folded fabric wings, gathered central wrap and generic inferred rear fastening block, one set counts1. Entirely original geometry and plain PBR, no old ribbon extraction or copied photo weave. Whole pinned BOSS photograph personally inspected; photographer/maker unverified. Hidden rear/fastener and scale generalized, not source-observed exact manufacturing. No colour/material/knot/size variants counted. No tailoring/fastening operation/wearability/clothphysics/rig/collider/safety/Unity certification. Actual128px recognition is assistant judgment not audience study. Stylized smooth cloth lacks fine weave, lowLOD curves coarser, undenoised preview grain and imported shading differences disclosed.",
+  "recognition_gate": {
+    "status": "PASS",
+    "actual_pixels": [
+      128,
+      128
+    ],
+    "image_sha256": "7482bc83ef37267866d4517b15ed774991bffa0cb35b75a5e3f19e20b8c8cb12",
+    "additional_parent_inspected_images": [
+      {
+        "file": "LOD2_unlabelled.png",
+        "sha256": "c61635f55da7395a3b5789be89215e535c276c13d9b3988f7530e368fe9c841a",
+        "pixels": [
+          128,
+          128
+        ]
+      }
+    ],
+    "method": "Author reviewed all3 and parent LOD0/LOD2 actual unlabelled128px, conservative judgment not audience test",
+    "recognition_image_included_in_loose": false
+  },
+  "source_reference_pages": [
+    "https://github.com/expfactory/expfactory-experiments/blob/49b8123f18b26d94dfc010bb8a6ec7458b265e2e/object_rating/images/BOSS_neutral/bowtie.jpg"
+  ],
+  "rights": "Original geometry/plain materials; private reference image, photo textures, failed revisions and internal notes excluded. No reference redistribution rights presumed."
+}

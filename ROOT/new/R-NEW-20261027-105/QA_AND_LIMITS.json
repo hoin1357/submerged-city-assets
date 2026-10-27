@@ -1,0 +1,106 @@
+{
+  "asset_id": "R-NEW-20261027-105",
+  "name": "Whole original USB flash drive static prop",
+  "selected_revision": "R1_COMPLETE_STICK",
+  "new_design_count": 1,
+  "model_files": 9,
+  "formats": [
+    "BLEND",
+    "FBX",
+    "GLB"
+  ],
+  "lods": 3,
+  "triangles": [
+    10412,
+    4364,
+    1564
+  ],
+  "lod_triangle_reduction_percent": [
+    0.0,
+    58.086822896657694,
+    84.97887053399923
+  ],
+  "approximate_dimensions_m": [
+    0.061000000685453415,
+    0.01899999938905239,
+    0.008249999955296516
+  ],
+  "geometry_uv_material_reimport_checks_passed": 6,
+  "raw_glb_indexed_uv_checks_passed": 3,
+  "raw_fbx_uv_native_actual_triangle_checks_passed": 3,
+  "external_resource_dependencies_required": false,
+  "delivery_format": "Uncompressed individual files",
+  "actual_final_renders_in_loose_delivery": 3,
+  "total_local_final_QA_render_count": 14,
+  "additional_QA_views_included": false,
+  "included_render_files": [
+    "LOD0_hero.png",
+    "IMPORT_GLB_hero.png",
+    "IMPORT_FBX_hero.png"
+  ],
+  "measured_import_normal_drift": [
+    {
+      "tier": 0,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0004759173798350698,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 0,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.8872850381855235e-06,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.000427321661399435,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.8872850381855235e-06,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0001298710291377105,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.8872850381855235e-06,
+      "raw_normal_payload_pass": true
+    }
+  ],
+  "limits": "Original complete independent USB-memory-stick-shaped static prop: wide rounded enclosure, seated plain top decoration, projecting hollow connector shell with two actual retaining holes, generic seated insulating tongue and four contact strips. New authored whole mesh assembly, no extracted controller/webcam/scanner plug. Published BOSS whole flash-drive stimulus personally inspected; photographer/maker unverified. Own approximate scale; hidden tongue/contact dimensions are generic inferred exterior detail, not reference-verified electronics or exact USB specification. No separate cap/cable, copied photo/texture/logo/capacity label, no connector/colour/size variants counted. No storage/electrical/compatibility/data capacity/rig/collider/safety/Unity certification. Actual128px recognition separate from technical QA and not audience study. LowerLOD roundings and undenoised preview grain disclosed; no universal imported-shading parity.",
+  "recognition_gate": {
+    "status": "PASS",
+    "actual_pixels": [
+      128,
+      128
+    ],
+    "image_sha256": "1422f32645884daec74584b1675ea2504c2852deef9c6ed93b3872652e85a902",
+    "additional_parent_inspected_images": [
+      {
+        "path": "LOD2_unlabelled.png (review evidence not included)",
+        "sha256": "9d5f29800a71b9667fd8224c5cb8fa7c1016f159887cf24ea49c4e4c4db7d0e9"
+      }
+    ],
+    "method": "Author reviewed all3 and parent LOD0/LOD2 actual unlabelled128px, conservative judgment not audience test",
+    "recognition_image_included_in_loose": false
+  },
+  "source_reference_pages": [
+    "https://github.com/expfactory/expfactory-experiments/blob/49b8123f18b26d94dfc010bb8a6ec7458b265e2e/object_rating/images/BOSS_neutral/usbkey.jpg"
+  ],
+  "rights": "Original geometry/plain materials; private reference image, photo textures, failed revisions and internal notes excluded. No reference redistribution rights presumed."
+}

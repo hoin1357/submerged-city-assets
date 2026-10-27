@@ -1,0 +1,106 @@
+{
+  "asset_id": "R-NEW-20261027-104",
+  "name": "Whole original one-piece ice-cube tray",
+  "selected_revision": "R3_EXPLICIT_FLOOR_FANS",
+  "new_design_count": 1,
+  "model_files": 9,
+  "formats": [
+    "BLEND",
+    "FBX",
+    "GLB"
+  ],
+  "lods": 3,
+  "triangles": [
+    12528,
+    8352,
+    4176
+  ],
+  "lod_triangle_reduction_percent": [
+    0.0,
+    33.333333333333336,
+    66.66666666666667
+  ],
+  "approximate_dimensions_m": [
+    0.335999995470047,
+    0.09600000083446503,
+    0.032499998807907104
+  ],
+  "geometry_uv_material_reimport_checks_passed": 6,
+  "raw_glb_indexed_uv_checks_passed": 3,
+  "raw_fbx_uv_native_actual_triangle_checks_passed": 3,
+  "external_resource_dependencies_required": false,
+  "delivery_format": "Uncompressed individual files",
+  "actual_final_renders_in_loose_delivery": 3,
+  "total_local_final_QA_render_count": 14,
+  "additional_QA_views_included": false,
+  "included_render_files": [
+    "LOD0_hero.png",
+    "IMPORT_GLB_hero.png",
+    "IMPORT_FBX_hero.png"
+  ],
+  "measured_import_normal_drift": [
+    {
+      "tier": 0,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0006258762813379685,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 0,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.0212918469683135e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0003022805155672224,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.0212918469683135e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0003110766525034657,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.1696418193818683e-07,
+      "raw_normal_payload_pass": true
+    }
+  ],
+  "limits": "Original whole elongated one-piece ice cube mould tray with14small tapered open wells, shared deck, actual closed well floors and thin continuous material shell. Published BOSS whole tray stimulus personally inspected; original photographer/maker unverified. Own approximate dimensions, inferred underside/thickness and simplified mould corner radii, not exact manufacturer reconstruction. No copied photo/texture/logo or existing lunchbox components. One complete mould, not compartment-count/colour/material novelty. Static prop, no food-contact/freezer/material/thermal/physical function/safety/rig/collider/Unity certification. Actual unlabelled128px reviewers recognition is conservative judgment, not audience study. Reduced curvature and undenoised preview grain disclosed, no universal imported-shading equality.",
+  "recognition_gate": {
+    "status": "PASS",
+    "actual_pixels": [
+      128,
+      128
+    ],
+    "image_sha256": "2116f0108bee0794f05dc17f89f882c705b376608ef5cb52c6a6a58f9a011feb",
+    "method": "Reviewers personally reviewed actual unlabelled whole model render, conservative judgment not audience test",
+    "recognition_image_included_in_loose": false,
+    "additional_parent_inspected_images": [
+      {
+        "path": "LOD2_unlabelled.png (review evidence not included)",
+        "sha256": "eea90d5ac64349d378b27bdb6d1f9ad88cc53c1ff70e35f54f7cfbe37e80524e"
+      }
+    ]
+  },
+  "source_reference_pages": [
+    "https://github.com/expfactory/expfactory-experiments/blob/49b8123f18b26d94dfc010bb8a6ec7458b265e2e/object_rating/images/BOSS_neutral/icecubetray01a.jpg"
+  ],
+  "rights": "Original geometry/plain material. Private reference image, photo textures, failed versions and internal notes excluded. Public repository does not imply reference-photo redistribution rights."
+}

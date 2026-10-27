@@ -1,0 +1,100 @@
+{
+  "asset_id": "R-NEW-20261027-101",
+  "name": "Plain short-sleeved T-shirt, whole original static garment",
+  "selected_revision": "R2_MONOTONE_NECK_FOLDS",
+  "new_design_count": 1,
+  "model_files": 9,
+  "formats": [
+    "BLEND",
+    "FBX",
+    "GLB"
+  ],
+  "lods": 3,
+  "triangles": [
+    40928,
+    23408,
+    10752
+  ],
+  "lod_triangle_reduction_percent": [
+    0.0,
+    42.8068803752932,
+    73.72947615324472
+  ],
+  "approximate_dimensions_m": [
+    0.9263071417808533,
+    0.6599260867824341,
+    0.026641231030225754
+  ],
+  "geometry_uv_material_reimport_checks_passed": 6,
+  "raw_glb_indexed_uv_checks_passed": 3,
+  "raw_fbx_uv_native_actual_triangle_checks_passed": 3,
+  "external_resource_dependencies_required": false,
+  "delivery_format": "Uncompressed individual files",
+  "actual_final_renders_in_loose_delivery": 3,
+  "total_local_final_QA_render_count": 14,
+  "additional_QA_views_included": false,
+  "included_render_files": [
+    "LOD0_hero.png",
+    "IMPORT_GLB_hero.png",
+    "IMPORT_FBX_hero.png"
+  ],
+  "measured_import_normal_drift": [
+    {
+      "tier": 0,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0007174066374505742,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 0,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.086162567138672e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0007763746508613916,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.086162567138672e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0007528277608077785,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.0212918469683135e-07,
+      "raw_normal_payload_pass": true
+    }
+  ],
+  "limits": "Original plain short-sleeved T-shirt as one complete static laid-flat garment: continuous fabric shell with real neck, two cuff and bottom-hem apertures, shallow geometric folds and original unbranded plain materials. One full BOSS published photographic-looking stimulus personally inspected from pinned public research repository; photographer/maker not certified. Own approximate proportions and generalized unseen back. Nominal wall modifier1.2mm with sampled nearest opposite-layer variation about1.106–1.967mm, not uniform physical thickness. No copied label/image/texture or separate sleeve/colour/fit counts. No wearable fit, cloth physics, rig, collider, textile/safety or Unity certification. Actual unlabelled128px image independently checked by author and parent: T-shirt immediately recognizable, conservative judgment not audience testing. Reduced tessellation and undenoised preview grain disclosed; no universal imported-shading equivalence.",
+  "source_reference_pages": [
+    "https://github.com/expfactory/expfactory-experiments/blob/49b8123f18b26d94dfc010bb8a6ec7458b265e2e/object_rating/images/BOSS_neutral/tshirt.jpg"
+  ],
+  "rights": "Original geometry/plain materials. Private reference image, markings, photo textures, failed versions and internal notes excluded. Public repository does not imply reference-photo redistribution rights.",
+  "recognition_gate": {
+    "status": "PASS",
+    "actual_pixels": [
+      128,
+      128
+    ],
+    "image_sha256": "72e601f745403de99854fa5e6d335d966c27483ca15717aeb726c3c9d0698617",
+    "method": "Reviewers personally reviewed actual unlabelled whole model render, conservative judgment not audience test",
+    "recognition_image_included_in_loose": false
+  }
+}

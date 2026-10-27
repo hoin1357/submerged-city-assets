@@ -1,0 +1,110 @@
+{
+  "asset_id": "R-NEW-20261027-112",
+  "name": "Whole original shucked corn cob static prop",
+  "selected_revision": "R2_KERNELLED_ROUNDED_TIP",
+  "new_design_count": 1,
+  "model_files": 9,
+  "formats": [
+    "BLEND",
+    "FBX",
+    "GLB"
+  ],
+  "lods": 3,
+  "triangles": [
+    42240,
+    17760,
+    8064
+  ],
+  "lod_triangle_reduction_percent": [
+    0.0,
+    57.95454545454546,
+    80.9090909090909
+  ],
+  "approximate_dimensions_m": [
+    0.04603683389723301,
+    0.04537214711308479,
+    0.1899999976158142
+  ],
+  "geometry_uv_material_reimport_checks_passed": 6,
+  "raw_glb_indexed_uv_checks_passed": 3,
+  "raw_fbx_uv_native_actual_triangle_checks_passed": 3,
+  "external_resource_dependencies_required": false,
+  "delivery_format": "Uncompressed individual files",
+  "actual_final_renders_in_loose_delivery": 3,
+  "total_local_final_QA_render_count": 14,
+  "additional_QA_views_included": false,
+  "included_render_files": [
+    "LOD0_hero.png",
+    "IMPORT_GLB_hero.png",
+    "IMPORT_FBX_hero.png"
+  ],
+  "measured_import_normal_drift": [
+    {
+      "tier": 0,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.00876268231951141,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 0,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.2302015940987714e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0005996189018956082,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.1696418193818683e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0005945261670350582,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.0281460268521606e-07,
+      "raw_normal_payload_pass": true
+    }
+  ],
+  "limits": "One original whole shucked corn cob with continuous geometric kernel relief; one closed material-volume mesh, no buried intersecting spheres or separately counted kernels/husk/colour/size variants. Two original100x100 Fruits360 photographs personally inspected, publisher Mihai Oltean, CC-BY-SA4.0, private only. No copied photograph texture or redistribution, no claim that enlargement adds source detail. Own approximate scale and generalized kernel count, base and hidden tip. Sixteen longitudinal rows and twenty-four main-body axial relief cells, with additional tapered relief over the rounded tip, are original approximations, not source-verified anatomy. No edibility/biology/material/safety/rig/collider/Unity certification. Assistant actual128px recognition not audience study. Regular stylized kernels, simpler relief in lowerLOD, preview grain and non-equivalent imported shading qualified.",
+  "recognition_gate": {
+    "status": "PASS",
+    "actual_pixels": [
+      128,
+      128
+    ],
+    "image_sha256": "fc3649864f2770c5ef827aa85fd2acb0c07f46e6ffb72021b5244e758ab9aa8f",
+    "additional_parent_inspected_images": [
+      {
+        "file": "LOD2_unlabelled.png",
+        "sha256": "a2abcf4ba997f7e5081f211dbdd3a4dc4195d6ff228dbe6f235e42a6e924842b",
+        "pixels": [
+          128,
+          128
+        ]
+      }
+    ],
+    "method": "Author reviewed all3 and parent LOD0/LOD2 actual unlabelled128px, conservative judgment not audience test",
+    "recognition_image_included_in_loose": false
+  },
+  "source_reference_pages": [
+    "https://github.com/fruits-360/fruits-360-100x100/tree/bed1c24ee70de1569272de3882fbde88211c08b5/Test/Corn%201"
+  ],
+  "rights": "Original authored geometry/plain materials; source photographs by publisher Mihai Oltean, CC-BY-SA4.0 https://creativecommons.org/licenses/by-sa/4.0/ . Photographs not redistributed or used as mapped textures; no endorsement implied. Failed revisions/internal notes excluded."
+}

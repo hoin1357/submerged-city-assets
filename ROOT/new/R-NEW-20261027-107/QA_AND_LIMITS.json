@@ -1,0 +1,110 @@
+{
+  "asset_id": "R-NEW-20261027-107",
+  "name": "Whole original generic onion static prop",
+  "selected_revision": "R2_CONTINUOUS_SKIN_BANDS",
+  "new_design_count": 1,
+  "model_files": 9,
+  "formats": [
+    "BLEND",
+    "FBX",
+    "GLB"
+  ],
+  "lods": 3,
+  "triangles": [
+    19840,
+    8064,
+    2496
+  ],
+  "lod_triangle_reduction_percent": [
+    0.0,
+    59.354838709677416,
+    87.41935483870968
+  ],
+  "approximate_dimensions_m": [
+    0.0853862352669239,
+    0.08544208481907845,
+    0.0868000015616417
+  ],
+  "geometry_uv_material_reimport_checks_passed": 6,
+  "raw_glb_indexed_uv_checks_passed": 3,
+  "raw_fbx_uv_native_actual_triangle_checks_passed": 3,
+  "external_resource_dependencies_required": false,
+  "delivery_format": "Uncompressed individual files",
+  "actual_final_renders_in_loose_delivery": 3,
+  "total_local_final_QA_render_count": 14,
+  "additional_QA_views_included": false,
+  "included_render_files": [
+    "LOD0_hero.png",
+    "IMPORT_GLB_hero.png",
+    "IMPORT_FBX_hero.png"
+  ],
+  "measured_import_normal_drift": [
+    {
+      "tier": 0,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.007205594415267219,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 0,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.1696418193818683e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.009875889563071862,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.0485709734063626e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.00612243757833779,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.03224743857769e-07,
+      "raw_normal_payload_pass": true
+    }
+  ],
+  "limits": "Original whole generic onion: one closed bulb with integral short dry neck, basal root scar and shallow longitudinal skin cues. No loose detached layers or copied photo textures. Two pinned fruits360 photographs personally inspected, publisher Mihai Oltean, source CC-BY-SA4.0; photos private and not included. Own approximate scale/generalized hidden underside and skin detail, not exact biological reconstruction. One whole onion only, no cultivar/colour/size variants counted. No food/edibility/biological/material/safety/rig/collider/Unity function certification. Actual128px recognition is assistant judgment not audience study. Stylized regular skin bands, not photoreal skin. LOD2 GLB drops an unused skin0 slot; name-based used PBR and actual triangle-material assignments verified, no identical slot count/order claim. ReducedLOD simplification and mild undenoised render grain disclosed; no universal imported shading parity.",
+  "recognition_gate": {
+    "status": "PASS",
+    "actual_pixels": [
+      128,
+      128
+    ],
+    "image_sha256": "504b0415925a7003b7b2290cfe4d41e0888964b4f777843993dc7a758c5edb5d",
+    "additional_parent_inspected_images": [
+      {
+        "file": "LOD2_unlabelled.png",
+        "sha256": "6e8f97dbc0f49ba6dba5c1e5ed30271a9f38c2837ee162059dfb0c28ba5e904f",
+        "pixels": [
+          128,
+          128
+        ]
+      }
+    ],
+    "method": "Author reviewed all3 and parent LOD0/LOD2 actual unlabelled128px, conservative judgment not audience test",
+    "recognition_image_included_in_loose": false
+  },
+  "source_reference_pages": [
+    "https://github.com/fruits-360/fruits-360-original-size/tree/d08d3d5b1abfdace697870b0f6aeee0a4edb74b4/Test/Onion%20White%202"
+  ],
+  "rights": "Original authored geometry/plain materials; source photographs by publisher Mihai Oltean, CC-BY-SA4.0 https://creativecommons.org/licenses/by-sa/4.0/ . Photographs not redistributed or used as mapped textures; no endorsement implied. Failed revisions/internal notes excluded."
+}

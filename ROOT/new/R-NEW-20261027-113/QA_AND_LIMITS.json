@@ -1,0 +1,110 @@
+{
+  "asset_id": "R-NEW-20261027-113",
+  "name": "Original school semicircular protractor static prop",
+  "selected_revision": "R2_RETAINED_RADIAL_TICKS",
+  "new_design_count": 1,
+  "model_files": 9,
+  "formats": [
+    "BLEND",
+    "FBX",
+    "GLB"
+  ],
+  "lods": 3,
+  "triangles": [
+    57834,
+    19596,
+    5118
+  ],
+  "lod_triangle_reduction_percent": [
+    0.0,
+    66.11681709720925,
+    91.15053428778918
+  ],
+  "approximate_dimensions_m": [
+    0.15000000596046448,
+    0.07500000298023224,
+    0.0017999999690800905
+  ],
+  "geometry_uv_material_reimport_checks_passed": 6,
+  "raw_glb_indexed_uv_checks_passed": 3,
+  "raw_fbx_uv_native_actual_triangle_checks_passed": 3,
+  "external_resource_dependencies_required": false,
+  "delivery_format": "Uncompressed individual files",
+  "actual_final_renders_in_loose_delivery": 3,
+  "total_local_final_QA_render_count": 14,
+  "additional_QA_views_included": false,
+  "included_render_files": [
+    "LOD0_hero.png",
+    "IMPORT_GLB_hero.png",
+    "IMPORT_FBX_hero.png"
+  ],
+  "measured_import_normal_drift": [
+    {
+      "tier": 0,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 4.9406356659177135e-05,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 0,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0022120293446746078,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.4194351490499767e-05,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.004376782175131005,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 1.2341387494588123e-05,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 5.751717418802289e-07,
+      "raw_normal_payload_pass": true
+    }
+  ],
+  "limits": "One original school semicircular protractor. Single closed 1.8mm thick plate with intrinsic top-face material radial graduations and arc rings, not floating decals or overlapping markings. Own approximate 150mm scale, opaque polymer and unnumbered scale design; hidden back generalized. R1 lowerLOD internal rays omitted due to sampling threshold, preserved HOLD; R2 restores them. No copied photograph/branding, no certified angle accuracy, manufacturing, material safety, rig, collider or Unity function. Recognition is assistant visual judgment, not audience study. LowerLOD has coarser outline and wider/quantized scale marks. Preview grain and importer shading differences qualified.",
+  "recognition_gate": {
+    "status": "PASS",
+    "actual_pixels": [
+      128,
+      128
+    ],
+    "image_sha256": "e74965a599daabcb5856c82323eef9c97f2c1adac3ac1b0746bdf3963aa65188",
+    "additional_parent_inspected_images": [
+      {
+        "file": "LOD2_unlabelled.png",
+        "sha256": "1d7f6f9ec53d60ad383d445ac691fd4c412aeaf18c44bbbb5d4e6e763bb65de0",
+        "pixels": [
+          128,
+          128
+        ]
+      }
+    ],
+    "method": "Author reviewed all3 and parent LOD0/LOD2 actual unlabelled128px, conservative judgment not audience test",
+    "recognition_image_included_in_loose": false
+  },
+  "source_reference_pages": [
+    "https://github.com/expfactory/expfactory-experiments/blob/49b8123f18b26d94dfc010bb8a6ec7458b265e2e/object_rating/images/BOSS_neutral/protractor.jpg"
+  ],
+  "rights": "Original authored geometry/plain materials. Published BOSS stimulus reference photograph personally inspected privately; individual photo rights unknown, repository software MIT not asserted as photo license. No photo texture or reference redistribution, no endorsement."
+}

@@ -1,0 +1,110 @@
+{
+  "asset_id": "R-NEW-20261027-106",
+  "name": "Whole original triangle instrument and beater static set",
+  "selected_revision": "R1_OPEN_ROD_AND_BEATER",
+  "new_design_count": 1,
+  "model_files": 9,
+  "formats": [
+    "BLEND",
+    "FBX",
+    "GLB"
+  ],
+  "lods": 3,
+  "triangles": [
+    4992,
+    2304,
+    768
+  ],
+  "lod_triangle_reduction_percent": [
+    0.0,
+    53.84615384615385,
+    84.61538461538461
+  ],
+  "approximate_dimensions_m": [
+    0.2038462534546852,
+    0.21663258224725723,
+    0.014000000432133675
+  ],
+  "geometry_uv_material_reimport_checks_passed": 6,
+  "raw_glb_indexed_uv_checks_passed": 3,
+  "raw_fbx_uv_native_actual_triangle_checks_passed": 3,
+  "external_resource_dependencies_required": false,
+  "delivery_format": "Uncompressed individual files",
+  "actual_final_renders_in_loose_delivery": 3,
+  "total_local_final_QA_render_count": 14,
+  "additional_QA_views_included": false,
+  "included_render_files": [
+    "LOD0_hero.png",
+    "IMPORT_GLB_hero.png",
+    "IMPORT_FBX_hero.png"
+  ],
+  "measured_import_normal_drift": [
+    {
+      "tier": 0,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0002684115110897063,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 0,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 1.4536424438347837e-05,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.00035997074822591226,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 8.591545277025197e-06,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.00048553123477877084,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 5.851278055695745e-06,
+      "raw_normal_payload_pass": true
+    }
+  ],
+  "limits": "Original whole school triangle percussion instrument and separate black-handled beater, one set counts1. Open-corner continuous round-bar triangle with rounded bends and closed end faces; shaft seated inside grip. Two intended separate physical components, no invented hanger/stand. Published BOSS full stimulus personally inspected, photographer/maker unknown. Original approximate scale and generalized end finishing/grip attachment, no copied geometry/phototexture/logo. No sound/tuning/music response/physical material/safety/Unity function certification. Actual128px recognition is assistant judgment, not audience study. ReducedLOD angularity and undenoised render grain disclosed, no universal imported shading parity.",
+  "recognition_gate": {
+    "status": "PASS",
+    "actual_pixels": [
+      128,
+      128
+    ],
+    "image_sha256": "244a41b9342de264b746901ccf5d1f3604218e9ecd2bf114442d290fe94ae3e3",
+    "additional_parent_inspected_images": [
+      {
+        "file": "LOD2_unlabelled.png",
+        "sha256": "da73eacd4f1982bbe8e688d2d9b7f0eba1f00a46f490d3eb186667e3187b7fe0",
+        "pixels": [
+          128,
+          128
+        ]
+      }
+    ],
+    "method": "Author reviewed all3 and parent LOD0/LOD2 actual unlabelled128px, conservative judgment not audience test",
+    "recognition_image_included_in_loose": false
+  },
+  "source_reference_pages": [
+    "https://github.com/expfactory/expfactory-experiments/blob/49b8123f18b26d94dfc010bb8a6ec7458b265e2e/object_rating/images/BOSS_neutral/triangle.jpg"
+  ],
+  "rights": "Original geometry/plain materials; private reference image, photo textures, failed revisions and internal notes excluded. No reference redistribution rights presumed."
+}

@@ -1,0 +1,100 @@
+{
+  "asset_id": "R-NEW-20261027-102",
+  "name": "Cuffed beanie, whole original static cap",
+  "selected_revision": "R2_CONTINUOUS_CUFF_MATERIAL",
+  "new_design_count": 1,
+  "model_files": 9,
+  "formats": [
+    "BLEND",
+    "FBX",
+    "GLB"
+  ],
+  "lods": 3,
+  "triangles": [
+    17408,
+    7680,
+    3456
+  ],
+  "lod_triangle_reduction_percent": [
+    0.0,
+    55.88235294117647,
+    80.14705882352942
+  ],
+  "approximate_dimensions_m": [
+    0.2532999962568283,
+    0.21783800423145294,
+    0.19920000433921814
+  ],
+  "geometry_uv_material_reimport_checks_passed": 6,
+  "raw_glb_indexed_uv_checks_passed": 3,
+  "raw_fbx_uv_native_actual_triangle_checks_passed": 3,
+  "external_resource_dependencies_required": false,
+  "delivery_format": "Uncompressed individual files",
+  "actual_final_renders_in_loose_delivery": 3,
+  "total_local_final_QA_render_count": 14,
+  "additional_QA_views_included": false,
+  "included_render_files": [
+    "LOD0_hero.png",
+    "IMPORT_GLB_hero.png",
+    "IMPORT_FBX_hero.png"
+  ],
+  "measured_import_normal_drift": [
+    {
+      "tier": 0,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0068681616597980584,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 0,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.1696418193818683e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.010004592960880642,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.1696418193818683e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.006605018898243818,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.0271193773169504e-07,
+      "raw_normal_payload_pass": true
+    }
+  ],
+  "limits": "Original complete cuffed beanie with rounded closed crown, raised folded-cuff exterior and open lower aperture into real hollow head space. One connected closed material-volume shell, shallow original rib relief, own plain olive materials. Published BOSS whole cap stimulus personally inspected; photographer/maker unverified, unseen inside/back and scale generalized. Folded cuff represented as original thickened exterior, not an exact reconstruction of layered knit internals. Sampled positive radial material spans3.410–22.548mm, cuff thickest; radial spans are not uniform normal wall thickness. No copied photos/labels/patterns/textures, no color/stripe/knit variants counted. Static prop, no wearable fit/clothphysics/rig/collider/safety/Unity certification. Actual128px unlabelled render separately inspected by reviewers as immediately recognizable beanie, conservative judgment not audience study. Reduced curvature and undenoised preview grain disclosed; no universal imported-shading equivalence.",
+  "source_reference_pages": [
+    "https://github.com/expfactory/expfactory-experiments/blob/49b8123f18b26d94dfc010bb8a6ec7458b265e2e/object_rating/images/BOSS_neutral/tuque03a.jpg"
+  ],
+  "rights": "Original geometry/plain materials. Private reference image, markings, photo textures, failed versions and internal notes excluded. Public repository does not imply reference-photo redistribution rights.",
+  "recognition_gate": {
+    "status": "PASS",
+    "actual_pixels": [
+      128,
+      128
+    ],
+    "image_sha256": "3de34533c250fd763809b9a7b81ad8d9c73fa5bce4ce3cd090f53251df90b283",
+    "method": "Reviewers personally reviewed actual unlabelled whole model render, conservative judgment not audience test",
+    "recognition_image_included_in_loose": false
+  }
+}

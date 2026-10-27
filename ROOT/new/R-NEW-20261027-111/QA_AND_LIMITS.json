@@ -1,0 +1,110 @@
+{
+  "asset_id": "R-NEW-20261027-111",
+  "name": "Whole original standard long necktie static prop",
+  "selected_revision": "R1_LONG_BLADE_NECK_LOOP",
+  "new_design_count": 1,
+  "model_files": 9,
+  "formats": [
+    "BLEND",
+    "FBX",
+    "GLB"
+  ],
+  "lods": 3,
+  "triangles": [
+    19056,
+    8096,
+    2128
+  ],
+  "lod_triangle_reduction_percent": [
+    0.0,
+    57.51469353484466,
+    88.83291351805205
+  ],
+  "approximate_dimensions_m": [
+    0.10797702521085739,
+    0.6040000021457672,
+    0.011599999852478504
+  ],
+  "geometry_uv_material_reimport_checks_passed": 6,
+  "raw_glb_indexed_uv_checks_passed": 3,
+  "raw_fbx_uv_native_actual_triangle_checks_passed": 3,
+  "external_resource_dependencies_required": false,
+  "delivery_format": "Uncompressed individual files",
+  "actual_final_renders_in_loose_delivery": 3,
+  "total_local_final_QA_render_count": 14,
+  "additional_QA_views_included": false,
+  "included_render_files": [
+    "LOD0_hero.png",
+    "IMPORT_GLB_hero.png",
+    "IMPORT_FBX_hero.png"
+  ],
+  "measured_import_normal_drift": [
+    {
+      "tier": 0,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0006652059384885588,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 0,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.1696418193818683e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0006356301108621216,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.0268626336800121e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0005805352800501483,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.0281460268521606e-07,
+      "raw_normal_payload_pass": true
+    }
+  ],
+  "limits": "One original whole standard long necktie: pointed tapering front blade, compact gathered knot, flattened neck loop and generalized narrower rear blade. Personally inspected complete pinned BOSS photograph, source photographer/maker/context unverified, private reference only. No copied photo texture or bowtie mesh extension. Own approximate scale/folds, hidden rear blade/internal knot route generalized. Solid thin cloth volumes rather than exact sewn layers. No knot/color/width/length variants counted. No tying-method/tailoring/wearability/cloth simulation/material/safety/rig/collider/Unity certification. Actual128px recognition is assistant judgment not audience study. ReducedLOD simplification and undenoised grain disclosed, no universal shading parity.",
+  "recognition_gate": {
+    "status": "PASS",
+    "actual_pixels": [
+      128,
+      128
+    ],
+    "image_sha256": "bdb724e823f5d77def33440546a4dbeef5968a463e813fc61d2843cd57ea1f30",
+    "additional_parent_inspected_images": [
+      {
+        "file": "LOD2_unlabelled.png",
+        "sha256": "8cd47d3ffd58091136167bed7e5ffeba0805c2e7fcf71a66fb412a4c8066b69b",
+        "pixels": [
+          128,
+          128
+        ]
+      }
+    ],
+    "method": "Author reviewed all3 and parent LOD0/LOD2 actual unlabelled128px, conservative judgment not audience test",
+    "recognition_image_included_in_loose": false
+  },
+  "source_reference_pages": [
+    "https://github.com/expfactory/expfactory-experiments/blob/49b8123f18b26d94dfc010bb8a6ec7458b265e2e/object_rating/images/BOSS_neutral/tie02.jpg"
+  ],
+  "rights": "Original geometry and plain PBR materials; source photograph private only, photographer/maker/context unverified. No copied photo texture, no source photo redistribution or endorsement. Failed camera views/internal notes excluded."
+}

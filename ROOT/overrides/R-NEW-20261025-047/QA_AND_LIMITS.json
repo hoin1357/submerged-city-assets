@@ -1,0 +1,48 @@
+{
+  "asset_id": "R-NEW-20261025-047",
+  "name": "Existing baseball glove repaired cuff and genuine reducedLOD candidate",
+  "revision": "R18_LOCAL_HOOD_PROTECTION",
+  "new_design_count": 0,
+  "selected_replacement": false,
+  "model_files": 9,
+  "formats": [
+    "BLEND",
+    "FBX",
+    "GLB"
+  ],
+  "lods": 3,
+  "triangles": [
+    102228,
+    69416,
+    55548
+  ],
+  "lod_triangle_reduction_percent": [
+    0.0,
+    32.09688148061196,
+    45.66263645967836
+  ],
+  "original_R14_identical_tier_triangle_count": 97448,
+  "original_selected_files_untouched": true,
+  "candidate_LOD0_whole_byte_exact_original": false,
+  "unchanged_other_mesh_records_count": 28,
+  "rebuilt_cuff_meshes": 1,
+  "reseated_stitches": 56,
+  "candidate_status": "Final review completed; same-ID update selected for delivery.",
+  "limits": "Same ROOT047 original static baseball glove, quality repair only, newdesign0. Historical R14 files remain preserved; this batch provides the reviewed same-ID update. Rebuilt coarse cuff as closed sampled curved band following original hood profile and reseated56stitches; original28other meshes exact in all tiers, main palm/hood unchanged atLOD0 and genuinely reduced inLOD1/2. LOD0 whole payload is NOT byte-identical to original because cuff/stitches are repaired. Original R14 97448triangles per identical tier; repairedLOD0 102228 includes more cuff detail. Reduced tiers69416/55548. R15 excessive hood deformation andR16/R17 tiny new steep facets held. R18 freezes neighborhoods of confirmed new hood facets, no source-normal transfer camouflage. Exact numeric gates and actual views separately assessed; no closure/fit/load/materialsafety/rig/collider/Unity certification, generic hidden stalls/sewing pattern. Reconstructed shading differs byformat; preview noise, original stylized faceted fingertips/layered seams qualified. Samples do not constitute global exact surface-distance or mechanical validity proof.",
+  "source_reference": "Previously inspected manufacturer exterior photographs; not included. Original geometry and plain materials, no copied photograph textures or branding.",
+  "rights": "Manufacturer photographs privately referenced only, not included; original authored geometry/plain materials.",
+  "actual_final_QA_views": 16,
+  "representative_renders": 3,
+  "additional_QA_views_included": false,
+  "technical_completion": "Completed numeric gates: exact self/manifold/UV, six split reimports, raw UV/normal/dependencies, strict+100nm coplanarity, preserved apertures and protected contact records, robust winding attachment and actual all16 visual views. Independent hash seal and final review completed. Historical registry selection is preserved.",
+  "reconstructed_normal_max_difference": {
+    "GLB": 0.00106281,
+    "FBX": 0.00694267,
+    "raw_encoded_payloads_pass": true,
+    "pixel_equivalence_claimed": false
+  },
+  "surface_distance_limit": "Sampled bidirectional LOD2 palm maxima27.533/16.216 micrometres; hood46.407/43.548 micrometres, not global Hausdorff bound.",
+  "renderer_exit_code_unavailable_after_transport_disconnect": true,
+  "renderer_complete_log_and_all16_decoded_images_verified": true,
+  "delivery_status": "Selected same-ID quality update for this final batch; historical selections and earlier public batches preserved."
+}

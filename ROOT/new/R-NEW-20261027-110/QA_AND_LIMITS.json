@@ -1,0 +1,110 @@
+{
+  "asset_id": "R-NEW-20261027-110",
+  "name": "Whole original wire paperclip static prop",
+  "selected_revision": "R1_CONTINUOUS_NESTED_WIRE",
+  "new_design_count": 1,
+  "model_files": 9,
+  "formats": [
+    "BLEND",
+    "FBX",
+    "GLB"
+  ],
+  "lods": 3,
+  "triangles": [
+    8512,
+    3560,
+    1080
+  ],
+  "lod_triangle_reduction_percent": [
+    0.0,
+    58.176691729323316,
+    87.31203007518798
+  ],
+  "approximate_dimensions_m": [
+    0.008750000037252903,
+    0.03215000219643116,
+    0.000750000006519258
+  ],
+  "geometry_uv_material_reimport_checks_passed": 6,
+  "raw_glb_indexed_uv_checks_passed": 3,
+  "raw_fbx_uv_native_actual_triangle_checks_passed": 3,
+  "external_resource_dependencies_required": false,
+  "delivery_format": "Uncompressed individual files",
+  "actual_final_renders_in_loose_delivery": 3,
+  "total_local_final_QA_render_count": 14,
+  "additional_QA_views_included": false,
+  "included_render_files": [
+    "LOD0_hero.png",
+    "IMPORT_GLB_hero.png",
+    "IMPORT_FBX_hero.png"
+  ],
+  "measured_import_normal_drift": [
+    {
+      "tier": 0,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.00011506680919233446,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 0,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 6.570975184530796e-06,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.00012052093073309548,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 5.723445742719113e-06,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.00012002370218444815,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 1.4539596439636203e-06,
+      "raw_normal_payload_pass": true
+    }
+  ],
+  "limits": "One original whole continuous bent-wire paperclip, nested elongated U bends with two closed exposed wire ends. Personally inspected the complete pinned BOSS photograph, source identity/photographer/maker unverified; private reference not mapped or redistributed. Own approximate scale, wire section and tiny clearance; no exact manufacturing or functional spring/holding-force claim. Not extracted binder-clip handles. No colour/size/loop-count variants counted. No material/physical/safety/rig/collider/Unity certification. Actual128px recognition is assistant judgment, not audience study. ReducedLOD bend/tube faceting and undenoised render grain disclosed; no universal imported shading/pixel parity. Initial failed128 camera-near-plane views preserved privately; corrected camera used for final recognition, model bytes unchanged.",
+  "recognition_gate": {
+    "status": "PASS",
+    "actual_pixels": [
+      128,
+      128
+    ],
+    "image_sha256": "63dd659ec2146cb7800a8d3031968ddec33529f7c3d69942a36e52b91474f7f2",
+    "additional_parent_inspected_images": [
+      {
+        "file": "LOD2_unlabelled.png",
+        "sha256": "e83a8808232d22f989b4d0cda740486782c6820c2ec858e1026c99892163f4c4",
+        "pixels": [
+          128,
+          128
+        ]
+      }
+    ],
+    "method": "Author reviewed all3 and parent LOD0/LOD2 actual unlabelled128px, conservative judgment not audience test",
+    "recognition_image_included_in_loose": false
+  },
+  "source_reference_pages": [
+    "https://github.com/expfactory/expfactory-experiments/blob/49b8123f18b26d94dfc010bb8a6ec7458b265e2e/object_rating/images/BOSS_neutral/paperclip03.jpg"
+  ],
+  "rights": "Original geometry and plain PBR materials; source photograph private only, photographer/maker/context unverified. No copied photo texture, no source photo redistribution or endorsement. Failed camera views/internal notes excluded."
+}

@@ -1,0 +1,110 @@
+{
+  "asset_id": "R-NEW-20261027-109",
+  "name": "Whole original generic mushroom static prop",
+  "selected_revision": "R1_ORGANIC_CAP_STEM",
+  "new_design_count": 1,
+  "model_files": 9,
+  "formats": [
+    "BLEND",
+    "FBX",
+    "GLB"
+  ],
+  "lods": 3,
+  "triangles": [
+    19968,
+    8880,
+    4032
+  ],
+  "lod_triangle_reduction_percent": [
+    0.0,
+    55.52884615384615,
+    79.8076923076923
+  ],
+  "approximate_dimensions_m": [
+    0.10003425925970078,
+    0.10003353655338287,
+    0.06700076907873154
+  ],
+  "geometry_uv_material_reimport_checks_passed": 6,
+  "raw_glb_indexed_uv_checks_passed": 3,
+  "raw_fbx_uv_native_actual_triangle_checks_passed": 3,
+  "external_resource_dependencies_required": false,
+  "delivery_format": "Uncompressed individual files",
+  "actual_final_renders_in_loose_delivery": 3,
+  "total_local_final_QA_render_count": 14,
+  "additional_QA_views_included": false,
+  "included_render_files": [
+    "LOD0_hero.png",
+    "IMPORT_GLB_hero.png",
+    "IMPORT_FBX_hero.png"
+  ],
+  "measured_import_normal_drift": [
+    {
+      "tier": 0,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0018636979448977725,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 0,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.086162567138672e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0006362652639169817,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.03224743857769e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0005308633404020402,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.086162567138672e-07,
+      "raw_normal_payload_pass": true
+    }
+  ],
+  "limits": "One original complete generic mushroom, a continuous closed organic cap/stem/underside material volume with shallow radial gill cues. Two actual fruits360 photographs personally inspected, publisher Mihai Oltean, CC-BY-SA4.0. Source photos private, not mapped or redistributed. Own approximate scale, hidden stem end and gill details generalized; no source-verified exact species/anatomy. No camera mount. One whole fungus only, no colour/species/size variants counted. No edibility/biology/physical material/safety/rig/collider/Unity certification. Actual128px recognition is assistant judgment, not audience study. Smooth stylized cap, regular gill relief rather than microscopic biological detail. LowerLOD curvature/gill simplification and mild undenoised render grain disclosed; no universal imported shading/pixel parity.",
+  "recognition_gate": {
+    "status": "PASS",
+    "actual_pixels": [
+      128,
+      128
+    ],
+    "image_sha256": "dcffea26d01768044f3950d6f5f821a9240ac056a3cb0b5137c51fded4d11598",
+    "additional_parent_inspected_images": [
+      {
+        "file": "LOD2_unlabelled.png",
+        "sha256": "456785166e360f9c7b3f899756a8439afd9e381aa9e44c793e070154a163872b",
+        "pixels": [
+          128,
+          128
+        ]
+      }
+    ],
+    "method": "Author reviewed all3 and parent LOD0/LOD2 actual unlabelled128px, conservative judgment not audience test",
+    "recognition_image_included_in_loose": false
+  },
+  "source_reference_pages": [
+    "https://github.com/fruits-360/fruits-360-original-size/tree/d08d3d5b1abfdace697870b0f6aeee0a4edb74b4/Test/Mushroom%20champignon%201"
+  ],
+  "rights": "Original authored geometry/plain materials; source photographs by publisher Mihai Oltean, CC-BY-SA4.0 https://creativecommons.org/licenses/by-sa/4.0/ . Photographs not redistributed or used as mapped textures; no endorsement implied. Failed revisions/internal notes excluded."
+}

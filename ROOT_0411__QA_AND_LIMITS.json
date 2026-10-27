@@ -1,0 +1,90 @@
+{
+  "asset_id": "R-NEW-20261026-090",
+  "name": "Foot-operated sheet-metal shear, original static complete assembly",
+  "selected_revision": "R2_CLEAR_LINKAGE_SUPPORTED_GAUGE",
+  "new_design_count": 1,
+  "model_files": 9,
+  "formats": [
+    "BLEND",
+    "FBX",
+    "GLB"
+  ],
+  "lods": 3,
+  "triangles": [
+    16396,
+    7844,
+    3932
+  ],
+  "lod_triangle_reduction_percent": [
+    0.0,
+    52.15906318614296,
+    76.01854110758721
+  ],
+  "approximate_dimensions_m": [
+    1.2560001611709595,
+    1.2500000298023224,
+    1.0049999952316284
+  ],
+  "geometry_uv_material_reimport_checks_passed": 6,
+  "raw_glb_indexed_uv_checks_passed": 3,
+  "raw_fbx_uv_native_actual_triangle_checks_passed": 3,
+  "external_resource_dependencies_required": false,
+  "delivery_format": "Uncompressed individual files",
+  "actual_final_renders_in_loose_delivery": 3,
+  "total_local_final_QA_render_count": 14,
+  "additional_QA_views_included": false,
+  "included_render_files": [
+    "LOD0_hero.png",
+    "IMPORT_GLB_hero.png",
+    "IMPORT_FBX_hero.png"
+  ],
+  "measured_import_normal_drift": [
+    {
+      "tier": 0,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0006181192372138034,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 0,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.384185791015625e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0003514373105352559,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.1696418193818683e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0005086393330594811,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.03224743857769e-07,
+      "raw_normal_payload_pass": true
+    }
+  ],
+  "limits": "Original unbranded static complete floor-standing foot-operated sheet-metal squaring shear: integral side frames and feet, long bed and blunt blade exteriors, crowned crosshead, front stock arms and stops, spring-stud hold-down, low full-width treadle, rear hinge pins and externally routed vertical rods with turnbuckles, supported rear gauge. Reference is an actual PEXTO 137/152 manual assembly drawing, not a photograph; original approximate scale and static pose, no manufacturer dimensional claim. Lower rod/hinge contact is fully concealed within the generic coupling-pin envelope; a static joint union, not a functional bearing. Hidden bearings, cutting interfaces and operating mechanisms are generic exterior interpretations. No cutting, movement, load, electrical, safety, rig, collider or Unity certification; no universal shading parity. Reference PDF and raster drawings excluded.",
+  "source_reference_pages": [
+    "https://github.com/bharvey88/dms-source/blob/3e5d0f595b8debe2a3f26ef15abfb501d9e1c378/public/files/194510971/Pexto_K-137_foot_shear.pdf"
+  ],
+  "rights": "Original geometry/plain materials. Private reference PDF and technical drawing raster copies, markings, photo textures, failed versions and internal notes excluded. Public manual hosting does not certify redistribution rights."
+}

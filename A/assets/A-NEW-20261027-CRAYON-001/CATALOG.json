@@ -1,0 +1,84 @@
+{
+  "id": "A-NEW-20261027-CRAYON-001",
+  "revision": "R1",
+  "same_id_override": false,
+  "new_type_increment": 1,
+  "triangles_LOD0_LOD1_LOD2": [
+    2432,
+    1216,
+    608
+  ],
+  "models_and_render": [
+    {
+      "bytes": 138968,
+      "sha256": "8c193b731f20af57558bd89eb75c9c7ee4256aab654eb11075bc62c349d1ac49",
+      "git_blob_sha1": "d6265b1adc42b4b1be089bae2bc3576116b1f6b1",
+      "path": "models/A-NEW-20261027-CRAYON-001_LOD0_R1.blend"
+    },
+    {
+      "bytes": 74433,
+      "sha256": "5c113a4f22f730f0740707d61531918fa2b8631d22d73eb4584560d94fe5f536",
+      "git_blob_sha1": "36072e41f4a007ff7684f6365842f8a2f0bf465f",
+      "path": "models/A-NEW-20261027-CRAYON-001_LOD0_R1.fbx"
+    },
+    {
+      "bytes": 87652,
+      "sha256": "36413f083c14d33ba8964c9ac687618a822e1da4f20374db3134bc4266690437",
+      "git_blob_sha1": "8ed1706bb02d6b9f36d735e62e4161bec338156b",
+      "path": "models/A-NEW-20261027-CRAYON-001_LOD0_R1.glb"
+    },
+    {
+      "bytes": 110741,
+      "sha256": "55c98c06c7e56e0be5b688e7070fca54923dd3732d86cf457c675a761e0d89b3",
+      "git_blob_sha1": "ccfe1fdd51a4fc9a37e289bc99693a8af701b0f8",
+      "path": "models/A-NEW-20261027-CRAYON-001_LOD1_R1.blend"
+    },
+    {
+      "bytes": 47265,
+      "sha256": "a55f0b96c12dba06f28c0c3f86d8f4b100d9e9a5566dbb6fbee17d416591b4c0",
+      "git_blob_sha1": "eaa720145fa872a1a6c74d70892ec3843b29b973",
+      "path": "models/A-NEW-20261027-CRAYON-001_LOD1_R1.fbx"
+    },
+    {
+      "bytes": 46556,
+      "sha256": "9f27132cbcd8dbe2e4818bb1f5d64105491aade481bd509cff05328499ae449b",
+      "git_blob_sha1": "2943794cb6fd0ccb015b4eb119fb0da6e1ec8863",
+      "path": "models/A-NEW-20261027-CRAYON-001_LOD1_R1.glb"
+    },
+    {
+      "bytes": 100948,
+      "sha256": "680941b1b225adc3a2a4644e965347b05606207fab62d7f82bf95a99ea27ced5",
+      "git_blob_sha1": "345c443150dad29dfb59875e2293106529e3b8cf",
+      "path": "models/A-NEW-20261027-CRAYON-001_LOD2_R1.blend"
+    },
+    {
+      "bytes": 33601,
+      "sha256": "c25682c7f46de022f7185539d8fc0418c924210ce411508e2ec085094db6d202",
+      "git_blob_sha1": "674d930a413daf46974634a6529974d579145909",
+      "path": "models/A-NEW-20261027-CRAYON-001_LOD2_R1.fbx"
+    },
+    {
+      "bytes": 26004,
+      "sha256": "40197ecb2a3c198d2db5ab21deec35e6b274fe20c91660cc54b2425880f9d64f",
+      "git_blob_sha1": "2052cd35c242080f2e3ece9e5e341c7a0373410a",
+      "path": "models/A-NEW-20261027-CRAYON-001_LOD2_R1.glb"
+    },
+    {
+      "bytes": 313090,
+      "sha256": "99816a4157d2fade656b6d1018f0607ada7894860f3f305eaa2af85d017578b2",
+      "git_blob_sha1": "a1a27a8d474b62ddf852b99c0a4963bcc189f8a6",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "One original whole generic crayon with a blunt exposed colored tip, thin paper-like sleeve and flat exposed colored rear. One type only; no color, length, wrapper, brand or wear variants counted. No prior pencil or brush components copied or extracted.",
+    "Closed continuous core and a separate thick annular sleeve overlap as one static assembly. The sleeve has two plain narrow bands, no printed words, logos or copied source graphics. No sharpened wooden cone, graphite lead or removable cap is added.",
+    "Three decreasing LODs in BLEND, GLB and FBX, with radial tessellation reduced while preserving the blunt tip and paper boundaries. Approximate authored length 9.2 cm; no exact measured reproduction.",
+    "Actual unlabeled 128px renders personally reviewed: short blunt colored tip, sleeve and exposed flat rear read as crayon rather than an ordinary pencil or featureless rod. Assistant judgment only, not an audience test.",
+    "Backside, tip wear, wrapper construction and dimensions are generic. Material names describe visual appearance only; no actual wax/paper composition, drawing function, toxicity, child-safety or other safety claim.",
+    "Nine models reimported and actually rendered. No Unity/runtime, drawing behavior or physical simulation verification claimed.",
+    "Valid overlapping planar per-face UVs are supplied, not a unique packed bake atlas. Plain materials have no external image dependencies.",
+    "Private BOSS stimulus photographer, maker, shooting context and redistribution rights remain unverified. No source photo, copied texture, branding or labels delivered."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

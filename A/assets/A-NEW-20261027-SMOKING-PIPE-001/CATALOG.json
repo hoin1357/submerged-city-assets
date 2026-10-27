@@ -1,0 +1,84 @@
+{
+  "id": "A-NEW-20261027-SMOKING-PIPE-001",
+  "revision": "R1",
+  "same_id_override": false,
+  "new_type_increment": 1,
+  "triangles_LOD0_LOD1_LOD2": [
+    3584,
+    2240,
+    1344
+  ],
+  "models_and_render": [
+    {
+      "bytes": 160910,
+      "sha256": "a52a884825275f6ad574e455dae494231cf49a73cbf8e28947627b200ce42b86",
+      "git_blob_sha1": "1d71a3c7eb3ca3292dda17e23e9acafe6b73b51c",
+      "path": "models/A-NEW-20261027-SMOKING-PIPE-001_LOD0_R1.blend"
+    },
+    {
+      "bytes": 106827,
+      "sha256": "408a62bba42f6f149567f3a34c197ba48b927cd4b73f25eca2ccee012d3b9984",
+      "git_blob_sha1": "e65b57f7dc4750d2f3d1891318d60a9c5083f002",
+      "path": "models/A-NEW-20261027-SMOKING-PIPE-001_LOD0_R1.fbx"
+    },
+    {
+      "bytes": 102268,
+      "sha256": "f4dad757d6fd641e503a35628165de557c434d2a398bb0d6ce173c9d1aa7fad7",
+      "git_blob_sha1": "d60d77d865fc0f281bd1ce365531dd3559369231",
+      "path": "models/A-NEW-20261027-SMOKING-PIPE-001_LOD0_R1.glb"
+    },
+    {
+      "bytes": 130216,
+      "sha256": "1a11366c969ac84cd995099d9615691f2ca8d5ca51008153184bcbf25901defd",
+      "git_blob_sha1": "5ff0563761fce1295792d81e5b636a2a79e2101e",
+      "path": "models/A-NEW-20261027-SMOKING-PIPE-001_LOD1_R1.blend"
+    },
+    {
+      "bytes": 74491,
+      "sha256": "22e4da33ec297f6630fe0285ab5f260a1f148ac15d4b4f2a66b15aa4e22b04e2",
+      "git_blob_sha1": "d219f195b315ce66ba91c21ff74daebdf4bade13",
+      "path": "models/A-NEW-20261027-SMOKING-PIPE-001_LOD1_R1.fbx"
+    },
+    {
+      "bytes": 66428,
+      "sha256": "61a5d79afa825727450fe702756f4d3478d8e393890968fb77556b706b89b77a",
+      "git_blob_sha1": "6852f9a951f7a43cbf936010c210373910bd0934",
+      "path": "models/A-NEW-20261027-SMOKING-PIPE-001_LOD1_R1.glb"
+    },
+    {
+      "bytes": 112654,
+      "sha256": "dcdb95672fa090e910eb7628d4c0c72656becc65d74a0377e70cc917f0622f86",
+      "git_blob_sha1": "0a02185453d7b8c3b09a087703fa484bbeb3042e",
+      "path": "models/A-NEW-20261027-SMOKING-PIPE-001_LOD2_R1.blend"
+    },
+    {
+      "bytes": 54171,
+      "sha256": "41d03ecf66e75103823d40407d1bc5a4ef538b70d7897014a06081124a5bd8c5",
+      "git_blob_sha1": "a158b14f5df27132964f4ac60c0dcab79ad8e188",
+      "path": "models/A-NEW-20261027-SMOKING-PIPE-001_LOD2_R1.fbx"
+    },
+    {
+      "bytes": 42492,
+      "sha256": "c218b76d37b8b8df0a84100aa1e087784385f9b2b2d0d98ba1a64824f9e6de2e",
+      "git_blob_sha1": "edf00f1c094a470f06441524714df95d98207f2d",
+      "path": "models/A-NEW-20261027-SMOKING-PIPE-001_LOD2_R1.glb"
+    },
+    {
+      "bytes": 321597,
+      "sha256": "752f1514d644437bdcfc9c18b17a8f5b67672c949dc424b690847374b13935e2",
+      "git_blob_sha1": "2eb42ab899b17bf220f454942e8f5e6548f5f6b3",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "One fresh original complete traditional pipe as a static visual prop. Bowl, shank and tapered mouthpiece form one assembly. No color, curvature, size, material or left/right variants counted; no prior asset parts extracted.",
+    "Open upright bowl with a visible recessed closed floor, rounded lateral shank and long dark tapered flattened mouthpiece. Approximate own dimensions: 18.3 cm long and 5.35 cm high. Not a measured product replica.",
+    "Hidden bottom and interior are generic. There is no continuous internal smoke passage, functional mouthpiece bore, combustion system or operating mechanism. No use instructions, consumables, smoking-safety or functionality claim.",
+    "Shank overlaps bowl and stem overlaps shank as intentional fixed static attachment regions. No loose or disconnected pieces. Bowl interior opening remains visible.",
+    "Actual unlabeled 128px views reviewed for familiar traditional-pipe silhouette rather than a plumbing fitting. Assistant visual judgment only, not an audience test.",
+    "Three decreasing LODs in BLEND, GLB and FBX. Actual reimport renders checked. No Unity, runtime, simulation or rig validation claimed.",
+    "Valid overlapping per-face planar UVs, not a unique packed bake atlas. Plain materials require no external textures and make no claim about real material composition.",
+    "Private published BOSS reference has unverified original photographer/manufacturer and unmeasured geometry. No reference photograph, brand, logo or photo texture included."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

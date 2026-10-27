@@ -1,0 +1,84 @@
+{
+  "id": "A-NEW-20261027-PINECONE-001",
+  "revision": "R1",
+  "same_id_override": false,
+  "new_type_increment": 1,
+  "triangles_LOD0_LOD1_LOD2": [
+    33824,
+    15104,
+    4936
+  ],
+  "models_and_render": [
+    {
+      "bytes": 479899,
+      "sha256": "98c9d9cd558ae666240e779989e20e05e3ea3a659788cb31ab9652289d7ebd19",
+      "git_blob_sha1": "cb15c8eb16fffb11f2000091ea14f2635e606ca0",
+      "path": "models/A-NEW-20261027-PINECONE-001_LOD0_R1.blend"
+    },
+    {
+      "bytes": 1198383,
+      "sha256": "77a44774b8832e77baa08dbaa41bc9469340d022e7be297cfad8094752e9a671",
+      "git_blob_sha1": "850a06c2e6639e3bff6d6d324056535f9c176784",
+      "path": "models/A-NEW-20261027-PINECONE-001_LOD0_R1.fbx"
+    },
+    {
+      "bytes": 1119096,
+      "sha256": "e0d5aa5c079f426691f6deab8896a9390836778bc0edca166d63663ef28d3321",
+      "git_blob_sha1": "a45ca103d64f677d397b1c116a209a12bbaca76d",
+      "path": "models/A-NEW-20261027-PINECONE-001_LOD0_R1.glb"
+    },
+    {
+      "bytes": 282043,
+      "sha256": "b3055fb9588d0735ea827ac4480c58acaee17fbdd5edf225fe23ac4de918ab30",
+      "git_blob_sha1": "37c65af17c67c757c8f342ca238b0a2b0756595c",
+      "path": "models/A-NEW-20261027-PINECONE-001_LOD1_R1.blend"
+    },
+    {
+      "bytes": 703503,
+      "sha256": "2cfe5678154e0b854c9cf54af9ae570c1ff9bd94b1ce01e773b9675413b39967",
+      "git_blob_sha1": "f7af0a45e747fba8b55975b2f79ee5cfde4d922f",
+      "path": "models/A-NEW-20261027-PINECONE-001_LOD1_R1.fbx"
+    },
+    {
+      "bytes": 614744,
+      "sha256": "d8986e42956d57ff7f813028cc2c492f8f3101b0ff3616e04f12e6bc612457bc",
+      "git_blob_sha1": "1370968cef8322cbd663f09eb7169f02d33bc0ad",
+      "path": "models/A-NEW-20261027-PINECONE-001_LOD1_R1.glb"
+    },
+    {
+      "bytes": 169940,
+      "sha256": "f56f087867076024f2343ecde68bc60609f6184cb8651c462e402925b57bfc32",
+      "git_blob_sha1": "c7aa19e99f8dbc4b59775701ac30c525005b9e92",
+      "path": "models/A-NEW-20261027-PINECONE-001_LOD2_R1.blend"
+    },
+    {
+      "bytes": 423839,
+      "sha256": "057b2aa1e24d11fe46285597a6e27fc43c6763107141a0151a02448629a62084",
+      "git_blob_sha1": "6f573701c32c704eb305037f259b8784dd1487c4",
+      "path": "models/A-NEW-20261027-PINECONE-001_LOD2_R1.fbx"
+    },
+    {
+      "bytes": 308396,
+      "sha256": "166dfdb3fd119c7f5663f36ece994923573def5a4155725f5de9493552f1f0e8",
+      "git_blob_sha1": "fb3f76eacf61b662a5ffa7d0f6a8f3bbe5b02450",
+      "path": "models/A-NEW-20261027-PINECONE-001_LOD2_R1.glb"
+    },
+    {
+      "bytes": 424682,
+      "sha256": "703c4486b9f9b9b724213cded3806c152a684d10a2afddfe19bfa70e82e4636d",
+      "git_blob_sha1": "f2f9c51232c5784086ae7082442ac199ac17d830",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "One original whole fallen conifer cone, described generically as a pinecone. One type only; no species, open/closed, scale-count, color or size variants counted. No existing tree or wreath component was copied or extracted.",
+    "104 individually thick closed woody scales arranged in staggered rows, anchored into a closed central core. Spaces between projecting scale edges are actual geometry, not a photo texture. The assembly remains one complete cone; scales and seeds are not separate assets.",
+    "Three genuinely reduced LODs retain the scale arrangement while reducing scale and core tessellation. Overall authored height approximately 17.4 cm; this is not a measured botanical reconstruction.",
+    "Single-view hidden back, core, seed anatomy, exact thickness, dimensions and scale count are generalized. No exact botanical species, growth stage or biological-function claims.",
+    "Actual unlabeled 128px renders reviewed: tapered elongated cone and alternating overlapping woody scales read as a pinecone, not a flower or stacked discs. Assistant visual judgment only, not an audience study.",
+    "Nine BLEND/GLB/FBX models reimported and actually rendered. No Unity/runtime or physical simulation verification claimed.",
+    "Valid overlapping planar per-face UVs are supplied, not a unique packed bake atlas. Plain materials require no external images.",
+    "Private BOSS stimulus photographer, original context, species and redistribution rights are unverified. No source photograph, copied image texture, brand or label is delivered."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

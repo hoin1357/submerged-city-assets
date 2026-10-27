@@ -1,0 +1,82 @@
+{
+  "id": "A-NEW-20261027-FOOTBALL-001",
+  "revision": "R2",
+  "same_id_override": false,
+  "new_type_increment": 1,
+  "triangles_LOD0_LOD1_LOD2": [
+    13920,
+    8804,
+    5796
+  ],
+  "models_and_render": [
+    {
+      "bytes": 428644,
+      "sha256": "1a91fc20aaf6b95895c73b87ad9611ee26c9d38586e53e23eaee465846a9c20e",
+      "git_blob_sha1": "a2d160bcbdba7a1e70074742c5cce3bb7b58c5bd",
+      "path": "models/A-NEW-20261027-FOOTBALL-001_LOD0_R2.blend"
+    },
+    {
+      "bytes": 339455,
+      "sha256": "c44f52600aa75fad165adc7b4e296ec4e41ccfefd35b169efa84cce59c6bf861",
+      "git_blob_sha1": "2dc2a2388417acf400db049b1ca4c434d013270d",
+      "path": "models/A-NEW-20261027-FOOTBALL-001_LOD0_R2.fbx"
+    },
+    {
+      "bytes": 356096,
+      "sha256": "2051b0e339dc89bb2102418af1822bb34703bf44d8653439a7e8bcab3d013796",
+      "git_blob_sha1": "aed3059cf4e3d91a011985459f668f3f8301d409",
+      "path": "models/A-NEW-20261027-FOOTBALL-001_LOD0_R2.glb"
+    },
+    {
+      "bytes": 299596,
+      "sha256": "a3375dcbafec7e389e02f9cff5b0c2455f0f04327605466f1978bec7f1e710cd",
+      "git_blob_sha1": "da62da78ced36aee29684fd7b8c137f057033d05",
+      "path": "models/A-NEW-20261027-FOOTBALL-001_LOD1_R2.blend"
+    },
+    {
+      "bytes": 222847,
+      "sha256": "c4307d4400b7f8ade74a3e11df96419dc40c4cfec0b3c0927738731de2d429e6",
+      "git_blob_sha1": "380be02880baaccc449540c10cb170bc1d7d01f0",
+      "path": "models/A-NEW-20261027-FOOTBALL-001_LOD1_R2.fbx"
+    },
+    {
+      "bytes": 238104,
+      "sha256": "a57cbaf40ff12163bb31bff7d2da3b2773bff1c2bc744b5bc2533667b65eb44e",
+      "git_blob_sha1": "ada2eaac2aba2dc051df9fce11bdf90676a78bab",
+      "path": "models/A-NEW-20261027-FOOTBALL-001_LOD1_R2.glb"
+    },
+    {
+      "bytes": 224968,
+      "sha256": "a54acd1735d2357269cd2a202ad225c1c47c4de943320b024c37081bfadc1242",
+      "git_blob_sha1": "6145dc4af9c9f2e705f2d358a4793ade72015c9f",
+      "path": "models/A-NEW-20261027-FOOTBALL-001_LOD2_R2.blend"
+    },
+    {
+      "bytes": 154943,
+      "sha256": "1acffb3bd1729cb11f7b471ce60445cc982387bfe7dc63ac5fa8bbc5cb26f816",
+      "git_blob_sha1": "26a27f3355ada6693d415d44373d751979d5af56",
+      "path": "models/A-NEW-20261027-FOOTBALL-001_LOD2_R2.fbx"
+    },
+    {
+      "bytes": 169112,
+      "sha256": "42f649bd5817f347fc5e72a06a0c432fd749148865b23ab183051ae91f6ec30c",
+      "git_blob_sha1": "8a18516d8ba42e73522febbc8a66900178185810",
+      "path": "models/A-NEW-20261027-FOOTBALL-001_LOD2_R2.glb"
+    },
+    {
+      "bytes": 365099,
+      "sha256": "f0d3b4e2c81499a6b075262b892461c9810ea788b3ffe20428afcde8d00ade6a",
+      "git_blob_sha1": "7bf19d47bfb7afb5b3646c2f14f87e27340e04ca",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "One complete original generic laced oval football, one type only. No separate rugby label, color, size, stripe, material or sports-name variants counted. No old sphere, speedbag, toy or other component copied or extracted.",
+    "One explicitly closed, connected pointed oval exterior. Recessed panel seam, two raised longitudinal lace runs and eight transverse ties are real surface geometry sharing body topology. Junctions form a continuous union surface rather than overlapping cords or hidden duplicate contact faces. Concealed cord underpasses, thread holes and internal routing are generalized; no mechanical lacing or inflation simulation claimed.",
+    "Authored length0.29m and broad radius0.084m are approximate visual proportions, not certified dimensions. Hidden underside and internal construction generic. No sports-standard, material accuracy, pressure, performance or safety claim.",
+    "Three decreasing LODs, BLEND/GLB/FBX, nine actual reimports and35renders reviewed. Unlabeled128px oblique view reads as a laced football from pointed oval body and central transverse ties. Assistant judgment, not audience test. Reverse or end-on diagnostic views cannot expose the front lacing and are not used alone as the recognition view.",
+    "Valid per-face planar UVs overlap intentionally; not a unique bake atlas. Plain materials only, without external textures, brands, copied source graphics or labels. Actual raised laces are not a painted image.",
+    "Private reference: expfactory/expfactory-experiments commit49b8123f18b26d94dfc010bb8a6ec7458b265e2e, object_rating/images/BOSS_neutral/football.jpg, SHA256e7c415fef0feccbe089d5187e7f4d44f6ee98cea35d97a0a739c3907e25849a1. Actual source pixels viewed. Original photographer/manufacturer and redistribution rights unverified; source photograph excluded from delivery."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

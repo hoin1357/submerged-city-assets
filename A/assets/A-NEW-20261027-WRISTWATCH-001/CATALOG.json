@@ -1,0 +1,83 @@
+{
+  "id": "A-NEW-20261027-WRISTWATCH-001",
+  "revision": "R3",
+  "same_id_override": false,
+  "new_type_increment": 1,
+  "triangles_LOD0_LOD1_LOD2": [
+    10480,
+    6952,
+    3840
+  ],
+  "models_and_render": [
+    {
+      "bytes": 321966,
+      "sha256": "1833f3d2aa18347b7dcd84a31da1b605e70099d19ed43298520e69a5ff66c52d",
+      "git_blob_sha1": "97bd7baac58bdfac757a78952b7375a775bf2fa7",
+      "path": "models/A-NEW-20261027-WRISTWATCH-001_LOD0_R3.blend"
+    },
+    {
+      "bytes": 233373,
+      "sha256": "0b53be5efc7b935c571258a29b13f9e112a4785d11bbd209a5b2076da54ecdad",
+      "git_blob_sha1": "571712a67076960e8fb69f4354e40c4039d040c1",
+      "path": "models/A-NEW-20261027-WRISTWATCH-001_LOD0_R3.fbx"
+    },
+    {
+      "bytes": 291648,
+      "sha256": "c89b122169449e758d76fa7433f848ac3b0d5915813aba6d80d0c508efff59ee",
+      "git_blob_sha1": "517d944f79147bc1f55f32007ed3b71ae4bf2c0e",
+      "path": "models/A-NEW-20261027-WRISTWATCH-001_LOD0_R3.glb"
+    },
+    {
+      "bytes": 244242,
+      "sha256": "e194d7af5e83b5eb79931e3bc7ce6551ca27e8e502293fea959f2ec8035dc6f0",
+      "git_blob_sha1": "b60ef1abbec0715cb2210f69d1158b8169d36dd3",
+      "path": "models/A-NEW-20261027-WRISTWATCH-001_LOD1_R3.blend"
+    },
+    {
+      "bytes": 162557,
+      "sha256": "468b649a3543eb0c1771b6bc33f8f62493bc38992643e527845653b7e123966a",
+      "git_blob_sha1": "bcaadd8920a0767ccfe6ea7946c84e0cec4c8529",
+      "path": "models/A-NEW-20261027-WRISTWATCH-001_LOD1_R3.fbx"
+    },
+    {
+      "bytes": 201032,
+      "sha256": "254cdcea4dcdd24c2f5a815b8daffb3d9b073d1eceb6c6498fdadc11870a5c6e",
+      "git_blob_sha1": "3a122ed573c0efb6a0c6a0e5d78dc0a5f8122c90",
+      "path": "models/A-NEW-20261027-WRISTWATCH-001_LOD1_R3.glb"
+    },
+    {
+      "bytes": 176250,
+      "sha256": "1263404eaa8064a989a5de0e0c40c604ba6622e3b28894655f5b011bb1b34da5",
+      "git_blob_sha1": "ae768fad476900359fc1ecf825eb86f8a2dc2bb2",
+      "path": "models/A-NEW-20261027-WRISTWATCH-001_LOD2_R3.blend"
+    },
+    {
+      "bytes": 102509,
+      "sha256": "896781de5357763f95ce1f7bb5ea3db1e43d06a1230238908edfc99b04cd2d8d",
+      "git_blob_sha1": "bbcac7b54c0aa8b10ef5a176e66db10195347007",
+      "path": "models/A-NEW-20261027-WRISTWATCH-001_LOD2_R3.fbx"
+    },
+    {
+      "bytes": 115268,
+      "sha256": "0ad8c696486e9d2c95a8b17f2f2ad2b7d56572246e23c498a996742bf8b3b47f",
+      "git_blob_sha1": "e32b1b317cd7f3a797a4a406e77ebe7c738e9b58",
+      "path": "models/A-NEW-20261027-WRISTWATCH-001_LOD2_R3.glb"
+    },
+    {
+      "bytes": 352591,
+      "sha256": "a1711c2d8eada3d1800690371657d19ca5dfec77553bd65f49491f935bbe7b5f",
+      "git_blob_sha1": "3646d0d75c250c1978319dd1d0eadef5b0da5e95",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "One complete original generic wristwatch, one type only. No band material, color, size or styling variants counted. No stopwatch or previous component meshes extracted or reused.",
+    "Two closed meshes: original integrated case/dial/crown/bracelet, and finite-thickness clear crystal seated on the shared circular retainer edge. Case, side crown, paired band attachments, link relief and widened clasp region use connected topology. Band joints and clasp are static surface relief with continuous concealed bridges, not independently articulated links or a working clasp.",
+    "Dial hands are raised integrated surface relief with approximately3mm clearance beneath the crystal. Twelve plain indices, no words, branding or logo. Crystal uses simple alpha transparency; optical accuracy is not claimed. Open wrist loop remains clear in every reimport.",
+    "Approximate authored dimensions, hidden back and internal mechanisms are generic. No timekeeping, wearable fit, clasp locking, link articulation, water resistance or physical safety claim. No internal watch mechanism reconstructed.",
+    "Three decreasing LODs in BLEND/FBX/GLB; nine reimports and35actual rendered views inspected. Unlabeled128px recognition reads round dial/hands, side crown and encircling band as wristwatch. Assistant judgment, not audience testing or engine validation.",
+    "Per-face planar UVs intentionally overlap; not a unique packed baking atlas. Original plain materials and geometry, no photographic textures. Thin seam relief may soften at reduced LOD and small views.",
+    "Private reference: expfactory/expfactory-experiments commit49b8123f18b26d94dfc010bb8a6ec7458b265e2e, object_rating/images/BOSS_neutral/watch02a.jpg SHA256c86830808bfce84c3323df04e86d27a7fc76a55f537330d541bba521504823b9. Actual full pixels directly inspected. Independent BOSS stimulus; photographer, manufacturer and redistribution rights unverified. Reference photo excluded from delivery."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

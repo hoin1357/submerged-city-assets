@@ -1,0 +1,82 @@
+{
+  "id": "A-NEW-20261027-SAFETY-PIN-001",
+  "revision": "R1",
+  "same_id_override": false,
+  "new_type_increment": 1,
+  "triangles_LOD0_LOD1_LOD2": [
+    8736,
+    3904,
+    1896
+  ],
+  "models_and_render": [
+    {
+      "bytes": 311969,
+      "sha256": "ea8cf4e4bb836edc6c154ce9c9c792c467633494d4cfe9db3ec6fcab1c3ddd97",
+      "git_blob_sha1": "129e9440576b7dea2d46920e5100d848dd65bd5a",
+      "path": "models/A-NEW-20261027-SAFETY-PIN-001_LOD0_R1.blend"
+    },
+    {
+      "bytes": 275981,
+      "sha256": "455b7ce01822d156be6e975253615e118dd740d924ba625357a80dec4c8d8882",
+      "git_blob_sha1": "b647368d4b287bc7048c3ddb1cfdd9f1cf1e253b",
+      "path": "models/A-NEW-20261027-SAFETY-PIN-001_LOD0_R1.fbx"
+    },
+    {
+      "bytes": 226044,
+      "sha256": "815774071350b6f8cf84f543d62a8c3726d9c5787552b7040aa966097272489a",
+      "git_blob_sha1": "c098cd6e40d290c1f92450422f3d5a43d8f8ed05",
+      "path": "models/A-NEW-20261027-SAFETY-PIN-001_LOD0_R1.glb"
+    },
+    {
+      "bytes": 183931,
+      "sha256": "0a978ccc3f0d058bbf317aa7d6641b71e4ead836f6a1e716f88bd63ca18c6e53",
+      "git_blob_sha1": "fd0b06ff5296a92b36fc3bd5a92b399d6cf1989b",
+      "path": "models/A-NEW-20261027-SAFETY-PIN-001_LOD1_R1.blend"
+    },
+    {
+      "bytes": 133005,
+      "sha256": "1b43127fec715e6ad7621d2bd1400fab9ee16865a14d8d7a68cff3d8cc2f3eff",
+      "git_blob_sha1": "87def12f7a551ca4b3cc49c8a36cd87cec4a7c1c",
+      "path": "models/A-NEW-20261027-SAFETY-PIN-001_LOD1_R1.fbx"
+    },
+    {
+      "bytes": 108636,
+      "sha256": "160c7b9344718b3545f5da9f3469e5ac0370b266b5147aca81bdca4db83d48ee",
+      "git_blob_sha1": "10ca3913d32ee3aff64aaf4df7887e1d8d12fa6a",
+      "path": "models/A-NEW-20261027-SAFETY-PIN-001_LOD1_R1.glb"
+    },
+    {
+      "bytes": 133331,
+      "sha256": "729e8dd51381c2b8542c62e33612f4beba3ddd4903dbf3dacf0fe7b0cec1364f",
+      "git_blob_sha1": "f434a6ea14de4338ef75ceabef6ac482dcb7dee0",
+      "path": "models/A-NEW-20261027-SAFETY-PIN-001_LOD2_R1.blend"
+    },
+    {
+      "bytes": 73437,
+      "sha256": "6e7c9e871c3764dd84e7ee4b85d197b5ff396b6e2c61112d5c9148753d332a16",
+      "git_blob_sha1": "563194c1791bbc38113d5403433877d6f3f5e038",
+      "path": "models/A-NEW-20261027-SAFETY-PIN-001_LOD2_R1.fbx"
+    },
+    {
+      "bytes": 58568,
+      "sha256": "d22e38f228e37701780af0854762f140a2e6989d3cc670f31d3370f14f0207c1",
+      "git_blob_sha1": "a7ae810cc03dcfda6a87d238707be7c24ebcabfe",
+      "path": "models/A-NEW-20261027-SAFETY-PIN-001_LOD2_R1.glb"
+    },
+    {
+      "bytes": 276480,
+      "sha256": "d09319e4dec49f000403267c9338318a351a486ce3f3f0e1f627c57549f39bc7",
+      "git_blob_sha1": "1070c5594c988f6c75185a4be4a31176597e26cc",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "One complete original open safety pin, one type only. No open/closed pose, color, size or decorative variants counted. No existing pincushion, extinguisher or grooming-set components copied or extracted.",
+    "One closed connected mesh with explicit shared section topology from the pointed needle through the helical coil and fixed arm into the widened folded protective clasp. Coil and clasp openings remain clear. No Boolean repair or hidden overlapping joint. Approximate clasp wall thickness 0.9 mm.",
+    "Generic static game prop with approximate authored span 63 mm. Hidden rear surfaces, exact coil pitch, material and dimensions generalized from one private photograph. No functional locking, elasticity, wearing safety, manufacturing accuracy or certification claim.",
+    "Three decreasing LODs in BLEND/GLB/FBX, nine reimports and 35 actual renders checked. Unlabeled 128px views retain the open pin silhouette, coil, free needle and folded clasp. Assistant visual judgment, not audience testing or game-engine validation. Thin metal is view-dependent and edge-on silhouettes are naturally narrow.",
+    "Per-face planar UVs overlap intentionally; not a unique packed bake atlas. Plain metal material, no image textures, copied labels or source pixels.",
+    "Private reference: expfactory/expfactory-experiments, commit 49b8123f18b26d94dfc010bb8a6ec7458b265e2e, object_rating/images/BOSS_neutral/safetypin.jpg. SHA256 fbd04566c4b337d68a701558a74b39a8efff6d9877cb2950aa96982f844b463b. Actual pixels directly inspected. Original photographer, maker and redistribution rights unverified; source photograph is not included in delivery."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

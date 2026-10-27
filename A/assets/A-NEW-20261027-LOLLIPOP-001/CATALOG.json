@@ -1,0 +1,83 @@
+{
+  "id": "A-NEW-20261027-LOLLIPOP-001",
+  "revision": "R1",
+  "same_id_override": false,
+  "new_type_increment": 1,
+  "triangles_LOD0_LOD1_LOD2": [
+    5848,
+    2320,
+    920
+  ],
+  "models_and_render": [
+    {
+      "bytes": 225293,
+      "sha256": "89853d888896c6c084d2d3f9657e574efe3a9c28871fe0bc7d94f2c1ead1f731",
+      "git_blob_sha1": "fbd8b064c4c0cb30c71fb49f00be19613c14e2f6",
+      "path": "models/A-NEW-20261027-LOLLIPOP-001_LOD0_R1.blend"
+    },
+    {
+      "bytes": 176223,
+      "sha256": "174bf5b8a8a11cc20d65027cf4a086493fdaa3f98ea4bcd1bd8f2f313f3fb31a",
+      "git_blob_sha1": "e248969d5328ab36acb29e6e0dff234afbb025b5",
+      "path": "models/A-NEW-20261027-LOLLIPOP-001_LOD0_R1.fbx"
+    },
+    {
+      "bytes": 348192,
+      "sha256": "5ae1b0196f725650e5229bdefd64d3b453b48a9dd5afaa81e6e240eeb6822eb1",
+      "git_blob_sha1": "f4ffc95206616c896acc77395534a7c5b559d7e7",
+      "path": "models/A-NEW-20261027-LOLLIPOP-001_LOD0_R1.glb"
+    },
+    {
+      "bytes": 139217,
+      "sha256": "4cc726fc4176161c75aaa8a67f6270417adaf0df170904e274e48b6f56f33dcc",
+      "git_blob_sha1": "dd9d88002b889e50b2589fbf266fda45bc7656a6",
+      "path": "models/A-NEW-20261027-LOLLIPOP-001_LOD1_R1.blend"
+    },
+    {
+      "bytes": 82783,
+      "sha256": "ad7c5055e6ac91636463cee01d07913bf31345f46818fa734ab74d3d42dc4915",
+      "git_blob_sha1": "4dc48d0474b1afa2b74247a2412cc97d05a1f719",
+      "path": "models/A-NEW-20261027-LOLLIPOP-001_LOD1_R1.fbx"
+    },
+    {
+      "bytes": 136796,
+      "sha256": "480c379970083c98d2a37044407b1aa1f3d12447cd53db4b27397fc94c31d302",
+      "git_blob_sha1": "d75a7f8bf3c944ab2e6532e088a41963be613a00",
+      "path": "models/A-NEW-20261027-LOLLIPOP-001_LOD1_R1.glb"
+    },
+    {
+      "bytes": 109275,
+      "sha256": "1ef7a4b44acf67a2f9fafbfa9c06a8193e20efb4cc49a11953a54c6a91a740a5",
+      "git_blob_sha1": "234b62c99b3204d354d17c1cec10dd51c2accd5b",
+      "path": "models/A-NEW-20261027-LOLLIPOP-001_LOD2_R1.blend"
+    },
+    {
+      "bytes": 46015,
+      "sha256": "75ec741dbef3082a52c51fa40ac06eada00c8717692757c0b0654803bb3bdd28",
+      "git_blob_sha1": "3408d2409ead7db90519a7dd13c532ec58a2f60d",
+      "path": "models/A-NEW-20261027-LOLLIPOP-001_LOD2_R1.fbx"
+    },
+    {
+      "bytes": 59524,
+      "sha256": "f6ec0853bb9611179130d223242bbd842d342d03f4fdb39b04af84ed06ebdc27",
+      "git_blob_sha1": "f5a1435d8e7d11643a37cbeff3f185c8c358375c",
+      "path": "models/A-NEW-20261027-LOLLIPOP-001_LOD2_R1.glb"
+    },
+    {
+      "bytes": 329746,
+      "sha256": "14b699f3219860806b8c34d6b3702d242574bd009e008dbdbb9df58953a19594",
+      "git_blob_sha1": "f6d708634152176670d99d3c9500950b9ab478e0",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "One original complete wrapped lollipop. Round flattened head, long stick and wrapper together count one. No flavor, color, size, side or packaging variants counted.",
+    "Fresh geometry, not a gumball extracted or reused from a vending machine, and not another prior candy asset with a stick attached. Generic modeling helpers only were reused.",
+    "Own approximate dimensions: around 24 cm overall. Single source view supports complete silhouette; reverse shape, folds, seal and dimensions are generic.",
+    "No flavor, edibility, ingredient, real material, manufacturing, food-safety or operational claim. Static visual prop only.",
+    "Private published BOSS stimulus has unverified original photographer/manufacturer. No source photograph, logo or branding included.",
+    "UVs use valid overlapping per-face planar projections, not a unique packed bake atlas. Plain materials need no external textures.",
+    "Actual unlabeled full and 128px renders reviewed as a recognizable lollipop, with round head and long stick readable through the wrapper. Assistant visual judgment only, not an audience test."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

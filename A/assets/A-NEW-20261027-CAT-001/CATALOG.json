@@ -1,0 +1,82 @@
+{
+  "id": "A-NEW-20261027-CAT-001",
+  "revision": "R1",
+  "same_id_override": false,
+  "new_type_increment": 1,
+  "triangles_LOD0_LOD1_LOD2": [
+    13000,
+    7000,
+    3600
+  ],
+  "models_and_render": [
+    {
+      "bytes": 508789,
+      "sha256": "236422daa21c34ddb773c21ededb93d8ad7438a920d2146e86a322643a003bd6",
+      "git_blob_sha1": "8d6ab1f265ca7cb5453e070babeacc5385a36f9d",
+      "path": "models/A-NEW-20261027-CAT-001_LOD0_R1.blend"
+    },
+    {
+      "bytes": 425684,
+      "sha256": "7275f4e99883c19a16c363e55c41428ce87837af7f3c9e883f07304b2e2aa231",
+      "git_blob_sha1": "61f2826dd70267f9690f73eb9ea47e6845128c52",
+      "path": "models/A-NEW-20261027-CAT-001_LOD0_R1.fbx"
+    },
+    {
+      "bytes": 369112,
+      "sha256": "f87c042265e3bd24c2b74cb0d0c1ae9ac08197f458f64741e6f8535bcd3c03e9",
+      "git_blob_sha1": "aac690b400dc1325b4f10ac1174f98a3fdd1e90c",
+      "path": "models/A-NEW-20261027-CAT-001_LOD0_R1.glb"
+    },
+    {
+      "bytes": 319974,
+      "sha256": "894e82cc43e618dd0a2ec89479d164353fff225b359711a76c61f867d45f7225",
+      "git_blob_sha1": "dd212b737929e5e0b9120e675c75ec5a8853f5af",
+      "path": "models/A-NEW-20261027-CAT-001_LOD1_R1.blend"
+    },
+    {
+      "bytes": 241284,
+      "sha256": "7aff5c39231f2af5d0794690d5c931b13d74d6c8a8bc4ec8d0cc885a460d90e2",
+      "git_blob_sha1": "08f2c8c09f88e50f5e7d9ff4a7ef52b9733c5512",
+      "path": "models/A-NEW-20261027-CAT-001_LOD1_R1.fbx"
+    },
+    {
+      "bytes": 210308,
+      "sha256": "14d34bbcc48b508404317d004b95ff3862d769c9ad86f586975287f30080298a",
+      "git_blob_sha1": "3addf554542f1695daeb5a4b138c9626dc0b4fb8",
+      "path": "models/A-NEW-20261027-CAT-001_LOD1_R1.glb"
+    },
+    {
+      "bytes": 210518,
+      "sha256": "2091ae745d3226bd4c7e1243031ed769b59a361b9cf9c703b3f87ef40663c5f4",
+      "git_blob_sha1": "9c00f3ccc69d5ebbb6cbdd86a94de2cf82fb6311",
+      "path": "models/A-NEW-20261027-CAT-001_LOD2_R1.blend"
+    },
+    {
+      "bytes": 135188,
+      "sha256": "e17b546b0028345f10f4ef6bf07c896f45ede9334f4e616f225f7b38e40d8eaf",
+      "git_blob_sha1": "e4d44a184c1dde72d0daa604dd18c65f0202aacc",
+      "path": "models/A-NEW-20261027-CAT-001_LOD2_R1.fbx"
+    },
+    {
+      "bytes": 117036,
+      "sha256": "4e943a65e352b118b24f9199ab10ad278fb51ceb326235f5528d63e8bb7d376e",
+      "git_blob_sha1": "9f5940685e1b8fa07403eccb31c53ec673432513",
+      "path": "models/A-NEW-20261027-CAT-001_LOD2_R1.glb"
+    },
+    {
+      "bytes": 301795,
+      "sha256": "7eaf6c4a6dbb16b21cfb582d42e93d0eeaa65a4a1b3a8c0dc0015624ddcf2eb7",
+      "git_blob_sha1": "11d3b9e60309e457dfd53256390c314dc81af5b9",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "One complete original generic reclining cat. Short muzzle, triangular ears, long low torso, relaxed forelegs, bent hind legs and long slender curved tail are a newly authored whole form. No dog, toy bird or other animal mesh reused or recoloured. One type only; no breed, pose, size, fur colour or toy/living-material variants counted.",
+    "Original feline sculpt volumes are fused into a single closed continuous outer skin before LOD reduction and export. Internal seed overlap is not delivered. All nine final models contain one connected closed positive-volume surface; limbs, ears, muzzle and tail are connected through shared boundary geometry. Eyes, nose, ear interior and mouth are surface material regions without buried eyeball meshes.",
+    "Only the left animal in the reference is used for overall feline form. Reclining pose generalized to expose a legible short face and body; unseen face front, toes, underside, rear surfaces, fine fur and dimensions are generic. Right cat, sofa, remotes and photographed fur patterns are excluded. Static prop, no rigging, gait, anatomy precision or breed identification claim.",
+    "Three actually reduced LODs, nine BLEND/FBX/GLB reimports and39actual renders checked. Four extra left-front views expose the long tail that is occluded from the opposite angle; original35views remain preserved. Native unlabeled128px LOD0/2 views read as a reclining cat through ears, short muzzle, elongated body, paws and tail. Assistant judgment, not audience testing or Unity runtime verification.",
+    "Per-triangle planar UVs intentionally overlap, not a unique packed lightmap atlas. Original plain gray materials and geometry only, no image textures, copied fur patterns or photographed background. Fine fur and whisker strands are simplified rather than individually reconstructed.",
+    "Private source: huggingface/transformers commit455c9a0491e3f4b8438186ea15ed0206c9a6da46, tests/fixtures/tests_samples/COCO/000000039769.png SHA256cf6f3c4befa148732c7453e0de5afab00f682427435fead2d88b07a9615cdac2. Full original pixels directly viewed; left cat only. Photographer, breed and image rights unverified; no public photo redistribution or rights claim."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

@@ -1,0 +1,84 @@
+{
+  "id": "A-NEW-20261027-TROUSERS-001",
+  "revision": "R1",
+  "same_id_override": false,
+  "new_type_increment": 1,
+  "triangles_LOD0_LOD1_LOD2": [
+    7520,
+    4312,
+    2080
+  ],
+  "models_and_render": [
+    {
+      "bytes": 256850,
+      "sha256": "7f2c9e5cc4e1ee8827a7412bc5f6950ca63ff605dba437d5d991e4ea30451f80",
+      "git_blob_sha1": "643ab0e0127e1e56a2599483b1c167aa7bd010c6",
+      "path": "models/A-NEW-20261027-TROUSERS-001_LOD0_R1.blend"
+    },
+    {
+      "bytes": 245295,
+      "sha256": "5a84dfa30df5a0bc4d07d7d2da423b95c91f462f8bd6656f3aa50ac7180f64f6",
+      "git_blob_sha1": "19d6ad322774d7e996b7f6d98476ed5541ae24bb",
+      "path": "models/A-NEW-20261027-TROUSERS-001_LOD0_R1.fbx"
+    },
+    {
+      "bytes": 233948,
+      "sha256": "8be326872a98e37b7159da68ec18acced1a5ff5af11df6a7f0c4654fef901da7",
+      "git_blob_sha1": "7b90fdec85eb1cba02262a019bfe8786ffa02cbf",
+      "path": "models/A-NEW-20261027-TROUSERS-001_LOD0_R1.glb"
+    },
+    {
+      "bytes": 179312,
+      "sha256": "eacfff72d93b0efa6083f7ae240216741eeb49451688f88b524644b33ae7d781",
+      "git_blob_sha1": "3d8c523bd26e689a555511cc99f3c2d2f57e9972",
+      "path": "models/A-NEW-20261027-TROUSERS-001_LOD1_R1.blend"
+    },
+    {
+      "bytes": 168511,
+      "sha256": "bcdda36c83b9b66e29bf3cd2df1e6421d4fedf174057aaa0e2efb78574b40aea",
+      "git_blob_sha1": "8cfbcc655f3668282b28fe9fe9c6a0578e8db6be",
+      "path": "models/A-NEW-20261027-TROUSERS-001_LOD1_R1.fbx"
+    },
+    {
+      "bytes": 153192,
+      "sha256": "6194d9b5dbff50016b81a8998420320f8fa51becd2222810493e2ea5783686d8",
+      "git_blob_sha1": "9e283ae9303bf1c0a52050aceb030cacf7a0b4e1",
+      "path": "models/A-NEW-20261027-TROUSERS-001_LOD1_R1.glb"
+    },
+    {
+      "bytes": 126821,
+      "sha256": "d72a6f019452941aefedb702db82cda452d73090eac92e2b70ee56b1155bb3e5",
+      "git_blob_sha1": "c67bbede48203f2d46c0fe3613056e63b5b2e120",
+      "path": "models/A-NEW-20261027-TROUSERS-001_LOD2_R1.blend"
+    },
+    {
+      "bytes": 109199,
+      "sha256": "32cc4c19df89273ccd88ab5525a02ba0912f35ad5c9fffc92a2c90acef0028aa",
+      "git_blob_sha1": "136a80cbdc93819b87422b43e6792660ded25134",
+      "path": "models/A-NEW-20261027-TROUSERS-001_LOD2_R1.fbx"
+    },
+    {
+      "bytes": 73000,
+      "sha256": "6ef209566ce6855016a9ce5235c6a51ddcd7898e62570a16cf5e5db76e4884a2",
+      "git_blob_sha1": "3a8b99c7c2676378d7b70dcf30980dca92c73b99",
+      "path": "models/A-NEW-20261027-TROUSERS-001_LOD2_R1.glb"
+    },
+    {
+      "bytes": 371580,
+      "sha256": "9f1bdb9009f9710cf83445fce92bd77f16363d47d26bff7f70b77247dc7fe98f",
+      "git_blob_sha1": "8d4dec0917cd5fdfa973294649346c5b11f6b47e",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "One original complete pair of long trousers. Both legs form one garment; no color, fit or fabric variants counted. Geometry was authored afresh, not extracted from any survival suit or earlier outfit.",
+    "Own approximate dimensions, about 1.03 m long. Front reference silhouette informs waist, crotch, legs, closure and cuffs; exact measurements, tailoring and fit are not reproduced.",
+    "Waist and both cuffs are genuine open boundaries of the hollow garment. The cloth is a closed solid shell with authored 4 mm thickness for static visualization, not measured textile thickness.",
+    "Rear surfaces and hidden construction are generic. Pocket and fly details are raised decorative seam lines over the cloth, not functional pockets or an operating zipper. No hidden rear-pocket pattern is claimed observed.",
+    "No body, mannequin, rig, cloth simulation or wearable fit provided. No operation, safety or Unity certification.",
+    "Private source is a published BOSS stimulus with original photographer/maker unverified. No source photograph, brand, logo or photo texture is included.",
+    "UVs are valid overlapping per-face planar projections, not a unique packed bake atlas. Original plain material colors require no external textures.",
+    "Unlabelled actual full-size and 128px renders were reviewed as recognizable trousers. This is an assistant visual judgment, not a player audience test."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

@@ -1,0 +1,84 @@
+{
+  "id": "A-NEW-20261027-SOCK-001",
+  "revision": "R1",
+  "same_id_override": false,
+  "new_type_increment": 1,
+  "triangles_LOD0_LOD1_LOD2": [
+    15360,
+    6400,
+    2400
+  ],
+  "models_and_render": [
+    {
+      "bytes": 516621,
+      "sha256": "bbe44439207b182b5eabea487b8048c05affaafffaee6dfb110f65dc6d4f5aa5",
+      "git_blob_sha1": "082f5778b80b2edcb6f3c65c001336362cf1b731",
+      "path": "models/A-NEW-20261027-SOCK-001_LOD0_R1.blend"
+    },
+    {
+      "bytes": 443875,
+      "sha256": "6ed98d910c7bc90dfef78136ed6edc0d7b154e6e24f669e206b4aa8bf20b0083",
+      "git_blob_sha1": "c06e5a317860894022cec44638ff85b463729cad",
+      "path": "models/A-NEW-20261027-SOCK-001_LOD0_R1.fbx"
+    },
+    {
+      "bytes": 372376,
+      "sha256": "cbfab1a2460153a9e89693dcd7fa30ed3cb8977d58912222c1356deec7618726",
+      "git_blob_sha1": "eb1d6c47a92adc6e03db01827a541fad238a1dd6",
+      "path": "models/A-NEW-20261027-SOCK-001_LOD0_R1.glb"
+    },
+    {
+      "bytes": 259713,
+      "sha256": "b8d3a1bc5d4bb987a774ceca0c298e89cc66fbc8e50a6e8b911cc5ff85335c07",
+      "git_blob_sha1": "8e933492a860d7cde456b9be3d8ff12fd763f56f",
+      "path": "models/A-NEW-20261027-SOCK-001_LOD1_R1.blend"
+    },
+    {
+      "bytes": 192883,
+      "sha256": "6f33cfeb8d9874519e287663923b9f9c5b18c76ebcb2d0585b908970d948535d",
+      "git_blob_sha1": "1156102934a5dbaeba8a4e690aeff86f84900685",
+      "path": "models/A-NEW-20261027-SOCK-001_LOD1_R1.fbx"
+    },
+    {
+      "bytes": 161620,
+      "sha256": "35b0f8c70889c249d28965ee0e3b3f0a7cd142bd0376f3cc23390450c59cfb1f",
+      "git_blob_sha1": "59d22defc5ec2c8d194f72c91044917c775a254b",
+      "path": "models/A-NEW-20261027-SOCK-001_LOD1_R1.glb"
+    },
+    {
+      "bytes": 146067,
+      "sha256": "f6365292b29554ab451137e87606030b71b613db4dd8890c5c3a3287ff7f359e",
+      "git_blob_sha1": "c47535f302e69f4fe2eaadc01165b64e52b81dc1",
+      "path": "models/A-NEW-20261027-SOCK-001_LOD2_R1.blend"
+    },
+    {
+      "bytes": 80083,
+      "sha256": "82563256cd40655479927c0e868498f65052fb7ab1ca0d04e035180dd5a005a6",
+      "git_blob_sha1": "c174c9c720f70eff86d29a4657919cd277b81487",
+      "path": "models/A-NEW-20261027-SOCK-001_LOD2_R1.fbx"
+    },
+    {
+      "bytes": 64944,
+      "sha256": "5836a5c12cb86d7e84f9a0239456ea6fda1a449e45924312f5163892c3e05461",
+      "git_blob_sha1": "9f9df47f1c063ae2cf0d9f5c521ce3937fb3cea1",
+      "path": "models/A-NEW-20261027-SOCK-001_LOD2_R1.glb"
+    },
+    {
+      "bytes": 322526,
+      "sha256": "89e4b9c42ea97d6da4f1bcbdb8e0fb767570ee815c0ac9287e27f712e3a2043d",
+      "git_blob_sha1": "3b8870f7ba47086921cd6c5ab83b8d972b13cd35",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "One original complete everyday sock, counted as one family. No left/right, length, color or fabric variants. No parts extracted from boots, trousers or outfits.",
+    "Own approximate display scale: about 44 cm cuff-to-lowest surface. Single reference informs cuff, ankle, heel and rounded toe; exact measurements and unseen underside construction are generic.",
+    "Cuff is truly open. Foot and toe are closed. One continuous hollow mesh has authored approximately 1.8 mm radial wall thickness; this is a static visualization, not measured textile thickness. No hard sole.",
+    "Subtle cloth ripples and cuff rib relief are original approximate geometry, not a reproduction of a particular weave or sewing pattern.",
+    "No body, mannequin, rig, cloth simulation, wearable fit, operation, safety or Unity certification.",
+    "Private published BOSS stimulus has unverified original photographer/maker. No source image, logo, branding or photo textures included.",
+    "UVs use valid overlapping per-face planar projections, not a unique packed bake atlas. Plain materials require no external textures.",
+    "Actual unlabeled full and 128px renders reviewed as a recognizable sock; assistant visual judgment, not a player audience test."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

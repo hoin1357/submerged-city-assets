@@ -1,0 +1,81 @@
+{
+  "id": "A-NEW-20261027-DOME_TENT-001",
+  "revision": "R2",
+  "same_id_override": false,
+  "new_type_increment": 1,
+  "triangles_LOD0_LOD1_LOD2": [
+    9112,
+    4472,
+    2160
+  ],
+  "models_and_render": [
+    {
+      "bytes": 300135,
+      "sha256": "798cef498bae85f81537ee61738b767d4f2b69d7a3ec832a52059a2462e7ca30",
+      "git_blob_sha1": "fdcc07aa3ae1321e7292b1c1642d166cf44986af",
+      "path": "models/A-NEW-20261027-DOME_TENT-001_LOD0_R2.blend"
+    },
+    {
+      "bytes": 233838,
+      "sha256": "11c96b4e9610d8d846e86760b2d16a9a6b6595f765e9594459aa498b56e89c7d",
+      "git_blob_sha1": "ddaec154a0ffbf221fe5f03d32c9271b5a5d5af5",
+      "path": "models/A-NEW-20261027-DOME_TENT-001_LOD0_R2.fbx"
+    },
+    {
+      "bytes": 238784,
+      "sha256": "ed90f5714ef86e8b99af030d2bd8a72fc5b5104798a4dd0566bcce6901ae320e",
+      "git_blob_sha1": "ab4cbe3886c0b009fd70762de4ab3ecba2d8c998",
+      "path": "models/A-NEW-20261027-DOME_TENT-001_LOD0_R2.glb"
+    },
+    {
+      "bytes": 197554,
+      "sha256": "0b5a1fa2615fa2030b5eac990dbb1e15db5891a75395280e8a4ce1e77671eb7c",
+      "git_blob_sha1": "403ee5aaea079517628512b4c5c98d7aa22c87e4",
+      "path": "models/A-NEW-20261027-DOME_TENT-001_LOD1_R2.blend"
+    },
+    {
+      "bytes": 122942,
+      "sha256": "eb1c72e56989c63b659ecf1e5abe108fbdbac53acd89739288b1cd85d64dd232",
+      "git_blob_sha1": "dd1687751bcdf8a50882a774a70c08213b05dcd1",
+      "path": "models/A-NEW-20261027-DOME_TENT-001_LOD1_R2.fbx"
+    },
+    {
+      "bytes": 124972,
+      "sha256": "512c039f305e001a4b9a8ace9132d4000e01af695ce58c55b020b513f41d2acf",
+      "git_blob_sha1": "87fdcaf3dc629201103340049c0b1359502ecb93",
+      "path": "models/A-NEW-20261027-DOME_TENT-001_LOD1_R2.glb"
+    },
+    {
+      "bytes": 142483,
+      "sha256": "0c638ff4b28e8031706c78e05ca847d725d4025ba35831617e7c7b3972ed2d97",
+      "git_blob_sha1": "5c8b01e8c6933ecd2ea6343c1b32020e83cf614c",
+      "path": "models/A-NEW-20261027-DOME_TENT-001_LOD2_R2.blend"
+    },
+    {
+      "bytes": 69118,
+      "sha256": "180ffb8cb57a5900399119cd93a104ffd577cb3472cfbb2c00e716d372491e78",
+      "git_blob_sha1": "94efacdb8c62bcacf817441bb639c44a06824f67",
+      "path": "models/A-NEW-20261027-DOME_TENT-001_LOD2_R2.fbx"
+    },
+    {
+      "bytes": 67308,
+      "sha256": "3f52d82efa0f3089ec6c83e9781c2755ba58695e9b6853a374bb4e3766744462",
+      "git_blob_sha1": "12b592aafd8d6a4fd32f206a41874b6792ea9882",
+      "path": "models/A-NEW-20261027-DOME_TENT-001_LOD2_R2.glb"
+    },
+    {
+      "bytes": 378617,
+      "sha256": "4b53b8c12159b3a233e93439af04b64e76b24af67dc6beee8c2338329c588827",
+      "git_blob_sha1": "778f066b2e06ce3bf2ab65c3375856ba4428331f",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "One original complete generic dome camping tent, one type. No color, size or door-pose variants counted; no gazebo or raft canopy meshes extracted.",
+    "One connected closed solid fabric shell enclosing an empty interior with actual arched entrance, inner walls, rear panel and ground floor. R2 front wall has a real doorway cutout with15mm authored thickness rather than the thick tapered rim of preserved R1. Rainfly region and arch support sleeves are integrated exterior surface geometry; no intersecting separate pole solids.",
+    "Static simplified support ribs, hidden pole-sleeve joints and concealed floor/back are generalized. Rainfly region shares the fabric shell and is not a separate hanging multilayer simulation. No waterproofing, wind support, fabric tension, outdoor safety, usability or measured dimensions claim.",
+    "Three decreasing LODs in BLEND/FBX/GLB, nine reimports,35actual renders and unlabeled128px recognition reviewed. Dome roof, arched doorway, side fabric and ground skirt identify camping tent; assistant judgment, not audience testing or engine validation.",
+    "Per-triangle planar UVs intentionally overlap; not unique packed lightmap/baking atlas. Original plain materials, no photo textures, words, trademarks, shoes, sticks, trees or snow delivered."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

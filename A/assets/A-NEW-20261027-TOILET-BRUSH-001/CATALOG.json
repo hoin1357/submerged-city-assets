@@ -1,0 +1,83 @@
+{
+  "id": "A-NEW-20261027-TOILET-BRUSH-001",
+  "revision": "R1",
+  "same_id_override": false,
+  "new_type_increment": 1,
+  "triangles_LOD0_LOD1_LOD2": [
+    15392,
+    10592,
+    6704
+  ],
+  "models_and_render": [
+    {
+      "bytes": 413667,
+      "sha256": "acff5dd58508c709842b4d6390080a2739e08535034353acaf8a14a80d84f6e2",
+      "git_blob_sha1": "ee7cd4243b5a3c1c924551e1cb1a9a92601ff905",
+      "path": "models/A-NEW-20261027-TOILET-BRUSH-001_LOD0_R1.blend"
+    },
+    {
+      "bytes": 1007675,
+      "sha256": "63fbd5c710b212f9a14427cf12950cc5743b8c6f31118e69195cb722e7d5708e",
+      "git_blob_sha1": "c5963f5d3a9bfaf6a685def5f0dde16daaa7399b",
+      "path": "models/A-NEW-20261027-TOILET-BRUSH-001_LOD0_R1.fbx"
+    },
+    {
+      "bytes": 850112,
+      "sha256": "43609f72c7648f56fa040b56abea08c804f694c7ef1873a5b9b023e62fba595e",
+      "git_blob_sha1": "c506f9f961b89aa3947c69c843813b88faf11fef",
+      "path": "models/A-NEW-20261027-TOILET-BRUSH-001_LOD0_R1.glb"
+    },
+    {
+      "bytes": 319787,
+      "sha256": "3670235cc2fa66d2254fdb6a2f8b269deaac1990ad93c724c86ae146296cb7f5",
+      "git_blob_sha1": "2a080c84323a5366a017012db8ca52a9fca0d751",
+      "path": "models/A-NEW-20261027-TOILET-BRUSH-001_LOD1_R1.blend"
+    },
+    {
+      "bytes": 846219,
+      "sha256": "6072d1882df7f8862b20c27ee31c01175751bcd69d0c5fa7f9fc5ea5ab291a8f",
+      "git_blob_sha1": "c85f115d85d0af7f1b654a943860564c43e20ef6",
+      "path": "models/A-NEW-20261027-TOILET-BRUSH-001_LOD1_R1.fbx"
+    },
+    {
+      "bytes": 688864,
+      "sha256": "8b1d52c769f1d61a78e5c2e4510282562672d024d4569eba462287b800ca0e5c",
+      "git_blob_sha1": "a3ec128367a2fbd854071816aa2e2d4b444c8c93",
+      "path": "models/A-NEW-20261027-TOILET-BRUSH-001_LOD1_R1.glb"
+    },
+    {
+      "bytes": 253783,
+      "sha256": "7779d3404621f0fd539a21218d26a3d1f3cbc9464859dbbb2788134e530f7d52",
+      "git_blob_sha1": "0b0b5c86271ac72c016ff5518a0ca4f46be27dea",
+      "path": "models/A-NEW-20261027-TOILET-BRUSH-001_LOD2_R1.blend"
+    },
+    {
+      "bytes": 716171,
+      "sha256": "f669d11dc3f733d84f2e4cedb235684c28669eff64f24ac18933a2cd0b29a268",
+      "git_blob_sha1": "24072eadd83300bb3c744166f44d95ce4d9ab52b",
+      "path": "models/A-NEW-20261027-TOILET-BRUSH-001_LOD2_R1.fbx"
+    },
+    {
+      "bytes": 509012,
+      "sha256": "ae34a0b6b11fd7f445aeece8a92405d0e6eaa8b3e32666f6c2a6c5ca998d0abe",
+      "git_blob_sha1": "999c59d58538a2de64a9dbedf8547bf387d1e88d",
+      "path": "models/A-NEW-20261027-TOILET-BRUSH-001_LOD2_R1.glb"
+    },
+    {
+      "bytes": 306048,
+      "sha256": "534b45b0e812551c56dcfad41378296845d1c0cffbe2fc5634e524aa0e45e1c7",
+      "git_blob_sha1": "9367bfcb1e476398361f24873966c72f957ad7b3",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "Actual individual bristle geometry with real spaces: 182 radial tufts, two filaments per tuft (364 total). All LODs retain the filaments while reducing their cross-section, core and hook tessellation. No opaque spherical brush-head envelope or photo texture.",
+    "Each tuft root is captured inside the rounded core; stem, grip and open hanging hook have fixed overlapping joints. This is a static visual assembly, not flexible bristle simulation or a measured brush mounting.",
+    "Own approximate full length: 39 cm. Hidden rear, core, mounting, bristle count and exact dimensions are generalized from one source view. No cleaning-performance, real-material or safety claims.",
+    "Actual unlabeled 128px renders reviewed: radial fine strands and hooked handle read as a cleaning brush rather than a solid ball or club. Assistant judgment only, not an audience test.",
+    "Three decreasing LODs in BLEND, GLB and FBX. Actual reimport renders checked; no Unity, runtime, animation or cleaning-function certification.",
+    "Valid overlapping per-face planar UVs are provided, not a unique packed bake atlas. Plain materials require no external images.",
+    "Private BOSS published reference has unverified photographer/manufacturer and redistribution rights. No reference photo, logo, branding or copied image texture supplied."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

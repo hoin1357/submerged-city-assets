@@ -1,0 +1,84 @@
+{
+  "id": "A-NEW-20261027-HIGH-HEEL-001",
+  "revision": "R4",
+  "same_id_override": false,
+  "new_type_increment": 1,
+  "triangles_LOD0_LOD1_LOD2": [
+    9516,
+    4796,
+    2028
+  ],
+  "models_and_render": [
+    {
+      "bytes": 319937,
+      "sha256": "449c65ef5f07d78f1722a0ef7817586a4f5eb5ab40aa8f767360b4ef0ac3dc58",
+      "git_blob_sha1": "6711e41a7a1bcac560d9baf1a1c0261fef8eb76d",
+      "path": "models/A-NEW-20261027-HIGH-HEEL-001_LOD0_R4.blend"
+    },
+    {
+      "bytes": 304590,
+      "sha256": "85e6e12eb43f4d19de364c1f46efd8e7fb99aa9f86330dae1de65e1148179309",
+      "git_blob_sha1": "8526f0879c06fe2f17e6e4e360a9469b0447f57d",
+      "path": "models/A-NEW-20261027-HIGH-HEEL-001_LOD0_R4.fbx"
+    },
+    {
+      "bytes": 535376,
+      "sha256": "3d41a1749ca12c1bdc46bb421e6b7f4bd53e439802a4b63df1f2b061a48653a7",
+      "git_blob_sha1": "afd63863e68f2c1326026327333f54d29ffe46f5",
+      "path": "models/A-NEW-20261027-HIGH-HEEL-001_LOD0_R4.glb"
+    },
+    {
+      "bytes": 198559,
+      "sha256": "f35da783e251c3df15a55baaf2265d9ac70e9b7338c78baabd63be928693a521",
+      "git_blob_sha1": "e062b258f5cb3bf99a4409443736bb290e86e2ca",
+      "path": "models/A-NEW-20261027-HIGH-HEEL-001_LOD1_R4.blend"
+    },
+    {
+      "bytes": 162494,
+      "sha256": "6aeffbc2abea9e2c5ce8d12ea2b5b629cda1ecb580502f7526bd83fae9c03711",
+      "git_blob_sha1": "34dd71c5848168c2782937efdc734d8af3b12edf",
+      "path": "models/A-NEW-20261027-HIGH-HEEL-001_LOD1_R4.fbx"
+    },
+    {
+      "bytes": 267768,
+      "sha256": "4c6d611886f4136d9ab683118974c07715eb828333b7e3296e6acfefcd6aa352",
+      "git_blob_sha1": "f0286a2e91f3f0349b787c71a098de7cf21e266d",
+      "path": "models/A-NEW-20261027-HIGH-HEEL-001_LOD1_R4.glb"
+    },
+    {
+      "bytes": 138240,
+      "sha256": "fcffaa2b51925b8e047507fb09dee8f57a5ac0084125a757e59ad0ec7d25ccd8",
+      "git_blob_sha1": "19207db42e89779e77e2d4a8d362e71655c48b72",
+      "path": "models/A-NEW-20261027-HIGH-HEEL-001_LOD2_R4.blend"
+    },
+    {
+      "bytes": 80014,
+      "sha256": "12beed33252d9b106a2f995f41b8108906421ab4b2f2ba3508bcd71031a5d9e2",
+      "git_blob_sha1": "de66fa53dfe12306ac0cd60715d0a321e2a43ec6",
+      "path": "models/A-NEW-20261027-HIGH-HEEL-001_LOD2_R4.fbx"
+    },
+    {
+      "bytes": 113228,
+      "sha256": "06747f01ad673539d4380aac73b8f3bb104f4205d079dcefede4d6df4ebc72b8",
+      "git_blob_sha1": "4cc7a7472df6f17af5edff07b3ecf0859394155b",
+      "path": "models/A-NEW-20261027-HIGH-HEEL-001_LOD2_R4.glb"
+    },
+    {
+      "bytes": 352537,
+      "sha256": "6b61393de6d2899086d239ad1757fae816be902e4650f40fdf28de7e38be654d",
+      "git_blob_sha1": "fa1aa6782ce4739dc98a5f40e428f37700d9e91f",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "One fresh original complete high-heeled pump shoe, one design. No left/right, heel-height, color, buckle or fit variants counted. No previously modeled shoe, last, boot or outfit part extracted.",
+    "Static dark closed-toe shoe, open foot cavity with muted lining, continuous sloping arch outsole and broad supporting block heel. Approximate own dimensions: 27.5 cm long and 15 cm high. Not a measured replica or wearable fit.",
+    "Nominal modeled upper-shell thickness 2.5 mm. Hidden interior, underside, heel attachment and dimensions are generalized from one source view. No actual wearable construction, comfort, mechanical load or safety claim.",
+    "Upper, sole and heel intentionally overlap at fixed static attachment regions. Foot entry and under-arch void remain open; forefoot and heel share the ground plane. No loose detachable parts.",
+    "Actual unlabeled 128px renders reviewed for recognizable shoe silhouette: closed toe, open foot entry, raised heel and under-arch gap. Assistant judgment, not an audience test.",
+    "Three decreasing LODs and actual BLEND/GLB/FBX reimports checked. No rig, cloth simulation, animation, Unity or runtime validation claim.",
+    "Valid overlapping per-face planar UVs, not a unique packed bake atlas. Plain materials use no external images.",
+    "Private BOSS reference has unverified original photographer/manufacturer. No source photograph, logo, branding or copied texture included. Decorative buckle and fringe are omitted; they are not the basis for the distinct object type."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

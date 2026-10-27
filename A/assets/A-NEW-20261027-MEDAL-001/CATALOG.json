@@ -1,0 +1,84 @@
+{
+  "id": "A-NEW-20261027-MEDAL-001",
+  "revision": "R2",
+  "same_id_override": false,
+  "new_type_increment": 1,
+  "triangles_LOD0_LOD1_LOD2": [
+    3840,
+    2048,
+    1120
+  ],
+  "models_and_render": [
+    {
+      "bytes": 174304,
+      "sha256": "07c9adf79f23911b3b6066e7f9a6968bbdf55e66504a6067522bf6b4ba5dce5e",
+      "git_blob_sha1": "c78fb15e45e444d26bbfd5fc9a48e10483d551b7",
+      "path": "models/A-NEW-20261027-MEDAL-001_LOD0_R2.blend"
+    },
+    {
+      "bytes": 121250,
+      "sha256": "e62bcb958d4d07a8e537db39b5eb4bb683939c048d8186e702ff64a84429c1f3",
+      "git_blob_sha1": "89d8342be53a4aa23068fcf6da4ae6870b6a752f",
+      "path": "models/A-NEW-20261027-MEDAL-001_LOD0_R2.fbx"
+    },
+    {
+      "bytes": 195040,
+      "sha256": "464729fed1f12a5bff25ed2c22409e141107c76866cb23bf59f329712f70c439",
+      "git_blob_sha1": "905e24e055874dbf2ddf3adeab26219075e1bc93",
+      "path": "models/A-NEW-20261027-MEDAL-001_LOD0_R2.glb"
+    },
+    {
+      "bytes": 132527,
+      "sha256": "5037f3b0dc16501af8aa4215f6eacae11e5dbe0ed283e3b1e37a46fbb4a32707",
+      "git_blob_sha1": "3180dfb7a689d90d1bffb3a6e4ca342aa8a708ca",
+      "path": "models/A-NEW-20261027-MEDAL-001_LOD1_R2.blend"
+    },
+    {
+      "bytes": 77042,
+      "sha256": "951f17bd31331033dfeb3f6ee7933281b65e4389510194e4941862580ad94ad7",
+      "git_blob_sha1": "d0f5bbf2864d86fe616693768f9d3ad09f2672e8",
+      "path": "models/A-NEW-20261027-MEDAL-001_LOD1_R2.fbx"
+    },
+    {
+      "bytes": 115092,
+      "sha256": "f67a99950418af0ad43bee6f38d83d400d8d4d7535339ef450b7fdb9557d24ab",
+      "git_blob_sha1": "065207186da8b5507178a70fdfe17a252a2165a4",
+      "path": "models/A-NEW-20261027-MEDAL-001_LOD1_R2.glb"
+    },
+    {
+      "bytes": 112647,
+      "sha256": "856fb5b0861ff28bcf16d408335bf222ace3c738bfe74141f052388b70d48a63",
+      "git_blob_sha1": "538b16730796e654129ce5b4c93d4e827b15d65a",
+      "path": "models/A-NEW-20261027-MEDAL-001_LOD2_R2.blend"
+    },
+    {
+      "bytes": 53234,
+      "sha256": "199750b50e547aeba431a5d8ab4b18c2272321d4fc54a641a3a87c587094af9b",
+      "git_blob_sha1": "f22a0de0bf13781ea30477f382dbcfe8f154c583",
+      "path": "models/A-NEW-20261027-MEDAL-001_LOD2_R2.fbx"
+    },
+    {
+      "bytes": 68240,
+      "sha256": "0b42a85b725a04165abc83c9486aaea36c3f02cedd59d6e4da2d6002d0aa0f6d",
+      "git_blob_sha1": "e8dda4f2e5179d1c4ac9411e83befa3793339841",
+      "path": "models/A-NEW-20261027-MEDAL-001_LOD2_R2.glb"
+    },
+    {
+      "bytes": 329655,
+      "sha256": "280e8d4cbb1ba01b72f553a801b63f6f19b6845a262218388bfe90ba331cf949",
+      "git_blob_sha1": "855e0e2e6812f4c8a556d863c1285a01e2af6a0c",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "One original complete award medal with broad neck ribbon, pierced suspension tab and connector ring. No gold/silver/bronze, ribbon pattern, text, size or drape variants counted.",
+    "Blank rimmed disc and broad ribbon carry recognition without lettering or emblem. Geometry authored afresh, not extracted from an existing trophy, seal, key ring or outfit.",
+    "Own approximate display proportions: disc around 7 cm across and whole assembly around 35 cm high. Rear disc, exact thickness, ribbon drape and hidden fold are generic, not measured source reconstruction.",
+    "Ribbon is a continuous broad closed strip with authored 1 mm thickness. Bottom fold pinches into the connector, with intentional static contact; tab bore, connector bore and neck loop remain open. No loose floating ribbon.",
+    "This is a fixed static prop, not a rigged or wearable fastening mechanism. No specific award, official emblem, metal assay, historical provenance, operation, safety or Unity certification.",
+    "Private published BOSS stimulus has unverified original photographer/manufacturer. No source image, branding or photo textures included.",
+    "UVs use valid overlapping per-face planar projections, not a unique packed bake atlas. Plain materials need no external textures.",
+    "Actual unlabeled full and 128px renders reviewed as a recognizable medal with neck ribbon. Assistant visual judgment only, not an audience test."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

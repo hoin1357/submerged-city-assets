@@ -1,0 +1,81 @@
+{
+  "id": "A-NEW-20261027-HOCKEY-STICK-001",
+  "revision": "R1",
+  "same_id_override": false,
+  "new_type_increment": 1,
+  "triangles_LOD0_LOD1_LOD2": [
+    2352,
+    1024,
+    400
+  ],
+  "models_and_render": [
+    {
+      "bytes": 148350,
+      "sha256": "4275c26caa609dd5136d5fc0c3365c057686a4c22336f5b4538a629cd97427a9",
+      "git_blob_sha1": "4e7ff07f5ca7ce7ef598489258ab05ab41e279f7",
+      "path": "models/A-NEW-20261027-HOCKEY-STICK-001_LOD0_R1.blend"
+    },
+    {
+      "bytes": 89723,
+      "sha256": "4a44c315a05f96128a4de947d96361c286fc1bd4d4bfd40fbc64b2c800161b3b",
+      "git_blob_sha1": "262ca03b43f74d9efa569d1eef61ff967d2ac98a",
+      "path": "models/A-NEW-20261027-HOCKEY-STICK-001_LOD0_R1.fbx"
+    },
+    {
+      "bytes": 173492,
+      "sha256": "28177d35b0e1f2bd54d6eac4eb0892a9618e664d8f7c19cd37e22ff6d43af83c",
+      "git_blob_sha1": "97cf36a403457243233f454ff9f371ceef50f2f1",
+      "path": "models/A-NEW-20261027-HOCKEY-STICK-001_LOD0_R1.glb"
+    },
+    {
+      "bytes": 108525,
+      "sha256": "af55ba12dfcbc4f7c1ee3a3934a2a6f8aeed66236d3d84b7e2cf7d44f35c77b2",
+      "git_blob_sha1": "98067c4f5ddedd3f9b855c841e984fad0cd8fbe2",
+      "path": "models/A-NEW-20261027-HOCKEY-STICK-001_LOD1_R1.blend"
+    },
+    {
+      "bytes": 46875,
+      "sha256": "d0139c991f3cdfbc0a29e6c625cdef0fdfae8bda53a630b87ac5806607e8722a",
+      "git_blob_sha1": "0ff772c034bd8f44469c7fa159a8000a3ee1e926",
+      "path": "models/A-NEW-20261027-HOCKEY-STICK-001_LOD1_R1.fbx"
+    },
+    {
+      "bytes": 73872,
+      "sha256": "004626d6bc5cac5b05b7c649f29ddf25eedcccd2dd5a77afd17d6ad99232c76a",
+      "git_blob_sha1": "cd77353166328420832fb06a99ed2e60ba50beab",
+      "path": "models/A-NEW-20261027-HOCKEY-STICK-001_LOD1_R1.glb"
+    },
+    {
+      "bytes": 95987,
+      "sha256": "1f041f5f6036c6042a74357a12a8055d66669c4148c00cc300f3a3934df54c01",
+      "git_blob_sha1": "b314ea2a16316b2abd4f775f97af3d8799e8ae53",
+      "path": "models/A-NEW-20261027-HOCKEY-STICK-001_LOD2_R1.blend"
+    },
+    {
+      "bytes": 27099,
+      "sha256": "4b2e405497be3e7449041a268e081d1217d7ff64bb21344820fd749870f9bc1e",
+      "git_blob_sha1": "796d2119e00eb86480cd86e38333266df0e1603c",
+      "path": "models/A-NEW-20261027-HOCKEY-STICK-001_LOD2_R1.fbx"
+    },
+    {
+      "bytes": 24936,
+      "sha256": "acf696aca3db5268b0ee3259456d1fc3fb9d744a1b2640f2d0b3c80ad00007ed",
+      "git_blob_sha1": "b9e855fb13b9f85d9e3e21a62acd071df227c692",
+      "path": "models/A-NEW-20261027-HOCKEY-STICK-001_LOD2_R1.glb"
+    },
+    {
+      "bytes": 274656,
+      "sha256": "15298c9c44dbc8c364ae6777ea57acc5a6418eee3e9c4da8806f5ae607165a57",
+      "git_blob_sha1": "7e18202ebdfcebdbdb0149acd3a9549b1ea1cb32",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "One new original complete static ice-hockey stick. Long angular rectangular shaft continues through a bent heel into a broad thin flat blade with rounded toe. One closed connected mesh; no cue, golf club or existing component copied or extracted. One type only, no handedness, color, size or blade variant counted.",
+    "Authored approximate overall height 1.46m; hidden dimensions, shaft section and slight blade curvature are generic. No measured sports specification, handedness fit, physical flex, materials accuracy, impact behavior or sporting compliance claim.",
+    "Three decreasing LODs in BLEND, GLB and FBX. Nine reimports and actual35renders checked, including unlabeled128px views. Visual identification is assistant judgment, not an audience test; no labels or brand graphics used.",
+    "Valid overlapping per-face planar UVs, not a unique packed bake atlas. Plain appearance material; no photo textures, external images, copied labels or logos. No Unity/runtime or gameplay simulation verification.",
+    "Private reference: expfactory/expfactory-experiments commit49b8123f18b26d94dfc010bb8a6ec7458b265e2e, object_rating/images/BOSS_neutral/hockeystick.jpg, SHA25637e4b2b296f0a2b10a5a3e0e67aa24fad47531c3adb95f8ee583a268b6b2da42. Full original pixels viewed. Original photographer/manufacturer and redistribution rights unverified; photograph not included."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

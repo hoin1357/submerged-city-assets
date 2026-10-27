@@ -1,0 +1,83 @@
+{
+  "id": "A-NEW-20261027-GARDEN-WELL-001",
+  "revision": "R3",
+  "same_id_override": false,
+  "new_type_increment": 1,
+  "triangles_LOD0_LOD1_LOD2": [
+    10368,
+    6756,
+    4872
+  ],
+  "models_and_render": [
+    {
+      "bytes": 305508,
+      "sha256": "899960203878984e7e41320f6375109df7aaf32539c99588ab51405371da21ea",
+      "git_blob_sha1": "2b39144a5b6fed51d784b91a8cc75e725fea6101",
+      "path": "models/A-NEW-20261027-GARDEN-WELL-001_LOD0_R3.blend"
+    },
+    {
+      "bytes": 655308,
+      "sha256": "25e312f565826e4bf2740c2205276d45b9605ca2a6a6356c0097b1ba4bda737b",
+      "git_blob_sha1": "c439044d70a364f4b2158391efb68bdad8c7ea74",
+      "path": "models/A-NEW-20261027-GARDEN-WELL-001_LOD0_R3.fbx"
+    },
+    {
+      "bytes": 571164,
+      "sha256": "c9257d95056798478f2a86a5349c7660923e2c4b28cc76024b5c98f21380882e",
+      "git_blob_sha1": "221ed77e7d78444d22feed0fc8af75e83bcd4728",
+      "path": "models/A-NEW-20261027-GARDEN-WELL-001_LOD0_R3.glb"
+    },
+    {
+      "bytes": 225722,
+      "sha256": "9827de9d5e7e74b5ae801ad062fbb936a01c1c3f4575ca010621c618c816a341",
+      "git_blob_sha1": "1782c0cc2fa892b6501e5d424d52b0f930f719d2",
+      "path": "models/A-NEW-20261027-GARDEN-WELL-001_LOD1_R3.blend"
+    },
+    {
+      "bytes": 546348,
+      "sha256": "51cde8b48608ec38862f28dc8eacda837ebbf8830f022bfa7a3a286435977d1a",
+      "git_blob_sha1": "fa746b5fa84d2fd1f476ab4d094bb1f31807b38a",
+      "path": "models/A-NEW-20261027-GARDEN-WELL-001_LOD1_R3.fbx"
+    },
+    {
+      "bytes": 445532,
+      "sha256": "50fc3c0c727b1d5569127ebe419ad24b47210e57164909847669a977590ffab1",
+      "git_blob_sha1": "8f7b035c65143c7e2e62e82fcc369244d21832aa",
+      "path": "models/A-NEW-20261027-GARDEN-WELL-001_LOD1_R3.glb"
+    },
+    {
+      "bytes": 184096,
+      "sha256": "9dbc8e881ba62bd4a9b977960c3800128e9f6faea6384a30557d9291cbd54c91",
+      "git_blob_sha1": "019b9bb388acd66dbaa1b9161df62b8cff1807d5",
+      "path": "models/A-NEW-20261027-GARDEN-WELL-001_LOD2_R3.blend"
+    },
+    {
+      "bytes": 489228,
+      "sha256": "3de73f8d24c94a001845aefa2a9e472faa67da26968e144c71f1187911053616",
+      "git_blob_sha1": "db298d378c4f2c910f9d4f2bd30511623c9152ad",
+      "path": "models/A-NEW-20261027-GARDEN-WELL-001_LOD2_R3.fbx"
+    },
+    {
+      "bytes": 379348,
+      "sha256": "83d69507e1cd8ff272a3a3a8749d52d781415b51abb901c9bcd8147c5aaeb11d",
+      "git_blob_sha1": "1e36ad5dbb013099a252555ff9270415049e19fb",
+      "path": "models/A-NEW-20261027-GARDEN-WELL-001_LOD2_R3.glb"
+    },
+    {
+      "bytes": 399223,
+      "sha256": "2c6095079ec2cb95e8b091b36b17de69b60b15cb36b2518ad25790c6718faf09",
+      "git_blob_sha1": "198de3e1a2919ac43ce8d412c27b88647be8b903",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "One integrated static roofed garden well, including bucket, rope, spindle and crank. These parts are not separate designs.",
+    "The reference may depict a decorative wishing well. Groundwater use, water retention, winch operation, structural capacity and safety are unverified.",
+    "Original stylized geometry with own approximate scale, about 2.54 m tall. Hidden rear surfaces, wall thickness and interior depth are generic approximations; no underground shaft or water system is supplied.",
+    "The octagonal enclosure and bucket mouths remain geometrically open. The bucket has a closed bottom; the main enclosure is open below. Static parts have intentional contact/interpenetration at joints; no rig or simulation.",
+    "An isolated published visual stimulus was privately inspected. Original photographer and capture provenance are unverified. No source photograph, logo or image texture is included.",
+    "No functional, safety, measured engineering or Unity certification. Materials are simple original shader colors; import appearance may vary.",
+    "UVs are valid overlapping per-face planar projections, not a unique packed bake atlas. No external textures required."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

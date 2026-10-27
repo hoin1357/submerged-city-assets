@@ -1,0 +1,83 @@
+{
+  "id": "A-NEW-20261027-EYEPATCH-001",
+  "revision": "R1",
+  "same_id_override": false,
+  "new_type_increment": 1,
+  "triangles_LOD0_LOD1_LOD2": [
+    3832,
+    1712,
+    684
+  ],
+  "models_and_render": [
+    {
+      "bytes": 181224,
+      "sha256": "531d2964f9e2ca3881123901dff6a84c021e004b808e38824f46f0d787a239a0",
+      "git_blob_sha1": "18343002985becc34b3a1118cebc7c7e0d0abe21",
+      "path": "models/A-NEW-20261027-EYEPATCH-001_LOD0_R1.blend"
+    },
+    {
+      "bytes": 121311,
+      "sha256": "c319276abcaad14e21b8905665ab81659b2072b530072d6abb5e4ca4c777666c",
+      "git_blob_sha1": "2ab12039b198dbc5f08c250c63a3e137b3db95ae",
+      "path": "models/A-NEW-20261027-EYEPATCH-001_LOD0_R1.fbx"
+    },
+    {
+      "bytes": 101200,
+      "sha256": "1fe911e800c0f8c6d336806f74ee23397926c5109b8c03c0810cf312d31b54cb",
+      "git_blob_sha1": "57230cdde1c76197b4d0e4eb88c14c9b92c8f458",
+      "path": "models/A-NEW-20261027-EYEPATCH-001_LOD0_R1.glb"
+    },
+    {
+      "bytes": 129142,
+      "sha256": "51a5c4c0ebcfc6c520eb9bf7138ed4b87a783ab9c19cf0aa7fd5e76b1de1654e",
+      "git_blob_sha1": "803a51d70fa783d6eb8fea337d202cabdc417374",
+      "path": "models/A-NEW-20261027-EYEPATCH-001_LOD1_R1.blend"
+    },
+    {
+      "bytes": 64799,
+      "sha256": "2e5f87b28f59b7910477ebc9326f7a44a706a24028a6585603333044784c8fc7",
+      "git_blob_sha1": "902a8a4084a412b31d2994f84ef9e550ab8da5d2",
+      "path": "models/A-NEW-20261027-EYEPATCH-001_LOD1_R1.fbx"
+    },
+    {
+      "bytes": 49756,
+      "sha256": "774bcc46d8375ad469c820cb623b3c19b64e1ac390f4e5b1a305b16dc74695ce",
+      "git_blob_sha1": "ce5768039e5a17d722b84a0e7b2686ab00dd81f7",
+      "path": "models/A-NEW-20261027-EYEPATCH-001_LOD1_R1.glb"
+    },
+    {
+      "bytes": 103649,
+      "sha256": "8cf346f813af9907c0a1db0f3f1c8f75ab7ed75aada53a8d551212edd9ee0d87",
+      "git_blob_sha1": "882620cc131983ee4e4bb4eb74842d67790162c9",
+      "path": "models/A-NEW-20261027-EYEPATCH-001_LOD2_R1.blend"
+    },
+    {
+      "bytes": 38175,
+      "sha256": "e3fd99362e9f25e9738f7e20aa91b6fefffed2aa5d2ec703d97ba64c865f0214",
+      "git_blob_sha1": "c012984639c4bc57daf90ec0d4e9fd0422f58319",
+      "path": "models/A-NEW-20261027-EYEPATCH-001_LOD2_R1.fbx"
+    },
+    {
+      "bytes": 24156,
+      "sha256": "89694bd593985ec9134702669c6787456643368651709a38096ce37a33b87ad2",
+      "git_blob_sha1": "05e63eb440bc6a79bf09bc4478149a4cef71ddb6",
+      "path": "models/A-NEW-20261027-EYEPATCH-001_LOD2_R1.glb"
+    },
+    {
+      "bytes": 311104,
+      "sha256": "77bd24f721a4ea7c0189b173f60fb33b92da8915fac61742c86566f8c2a66712",
+      "git_blob_sha1": "4dccf1c58b8fb52fa7405f18e04019f9e474ad00",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "One original complete single-eye patch, including opaque domed cover and connected narrow head strap. No side, color, size or decoration variants counted. No parts extracted from any existing mask, outfit or kit.",
+    "Own approximate proportions: cover approximately 7.6 by 6.6 cm. Inside surface, strap routing behind cover and dimensions are generic static interpretation, not measured product reconstruction.",
+    "Cover has authored 1.8 mm front-to-back wall, with closed opaque center and perimeter. Both strap ends are embedded in cover edges as intentional fixed contacts. The head loop remains open.",
+    "No medical effect, vision treatment, protective function, wearable fit, comfort, operating mechanism, safety or Unity certification. Static prop only.",
+    "Private published BOSS stimulus has unverified original photographer/maker. No source image, branding, logo or photo textures included.",
+    "UVs use valid overlapping per-face planar projections, not a unique packed bake atlas. Plain materials require no external textures.",
+    "Actual unlabeled full and 128px renders reviewed as a recognizable eye patch. Assistant visual judgment only, not a player audience test."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

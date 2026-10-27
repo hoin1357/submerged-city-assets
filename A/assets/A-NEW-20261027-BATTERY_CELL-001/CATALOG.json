@@ -1,0 +1,82 @@
+{
+  "id": "A-NEW-20261027-BATTERY_CELL-001",
+  "revision": "R1",
+  "same_id_override": false,
+  "new_type_increment": 1,
+  "triangles_LOD0_LOD1_LOD2": [
+    4320,
+    2304,
+    960
+  ],
+  "models_and_render": [
+    {
+      "bytes": 181657,
+      "sha256": "f1d8cd92064c642f1a66121ad3b45ea55cd2f173a6a0ea96b35cce30d417ab52",
+      "git_blob_sha1": "c7168297a741df5312727fc584e78d67d6efe11d",
+      "path": "models/A-NEW-20261027-BATTERY_CELL-001_LOD0_R1.blend"
+    },
+    {
+      "bytes": 105243,
+      "sha256": "8e46ce051cbb455e4879762057ee382329b6843dfdfaddf66dc2911912f3e4bf",
+      "git_blob_sha1": "3ba179ff50ac1dfdf6e922be02a74acc14756d12",
+      "path": "models/A-NEW-20261027-BATTERY_CELL-001_LOD0_R1.fbx"
+    },
+    {
+      "bytes": 114624,
+      "sha256": "1fdee2b620c69d24425b9231f0822e5bc2466ad737656aa6575de4a221a4342d",
+      "git_blob_sha1": "3215ee1c9e7326ce47f8729c077d90bb31bdcddc",
+      "path": "models/A-NEW-20261027-BATTERY_CELL-001_LOD0_R1.glb"
+    },
+    {
+      "bytes": 137201,
+      "sha256": "fece86a55d0c8b3593e49c6404606ff9d0c26ec3221a6561ec11daa2924de61f",
+      "git_blob_sha1": "63bc49c8709d17687568f4ea5bf2dd63ec0fa787",
+      "path": "models/A-NEW-20261027-BATTERY_CELL-001_LOD1_R1.blend"
+    },
+    {
+      "bytes": 64619,
+      "sha256": "b9c73e5a529e4b035b19a362c85223f13cd46722a40dc122fbc343833cefaefa",
+      "git_blob_sha1": "de77dc7955da76568cf9be6f4d7988dd73078426",
+      "path": "models/A-NEW-20261027-BATTERY_CELL-001_LOD1_R1.fbx"
+    },
+    {
+      "bytes": 63984,
+      "sha256": "6956f3169f4d2217fc1eebb55143e2366b559110b8b2c1ba9671959275da324d",
+      "git_blob_sha1": "61985966261181ca8e11b3c547f3df41cdab2dd3",
+      "path": "models/A-NEW-20261027-BATTERY_CELL-001_LOD1_R1.glb"
+    },
+    {
+      "bytes": 109927,
+      "sha256": "0694fd39dd89257c95fdb8178f497a71502d0a920d85a140cc98af93aa1cf5f0",
+      "git_blob_sha1": "967cebd5afbc0aeeb9fd9abd2d4c83614bff5e75",
+      "path": "models/A-NEW-20261027-BATTERY_CELL-001_LOD2_R1.blend"
+    },
+    {
+      "bytes": 37227,
+      "sha256": "8f0e1e5a06333700ca5b028f5147960696ac915dc28f26fd6cdc827601f3f2f6",
+      "git_blob_sha1": "86e8b484e23e943889b7aae3d971f16e5460a076",
+      "path": "models/A-NEW-20261027-BATTERY_CELL-001_LOD2_R1.fbx"
+    },
+    {
+      "bytes": 30376,
+      "sha256": "ff9f98fa9813d419e7858b54ac533a8cae8f7de6636b41ce15d7417d0c96c531",
+      "git_blob_sha1": "2681a4b085feae0c2ca7fe5a6e972598d0540a35",
+      "path": "models/A-NEW-20261027-BATTERY_CELL-001_LOD2_R1.glb"
+    },
+    {
+      "bytes": 343799,
+      "sha256": "e759fafa5aa972fd6ae5b107f215b09bfafcaf93c56e966858bbe3646eb18284",
+      "git_blob_sha1": "dd08f29a744e3cfae0c93c6d797e8b471704eda7",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "One complete original generic cylindrical battery cell, one type only. AA/C/D size, brand, color, rechargeable naming and chemistry are not additional types. No previous rectangular pack, rod or component mesh copied or extracted.",
+    "One closed connected revolved profile with cylindrical sleeve, recessed insulating annulus, satin metal end shoulder and raised central positive terminal. Explicit shared profile rings connect all regions without overlapping attachments. The unseen opposite flat metal terminal is generalized.",
+    "Approximate authored dimensions 0.020m diameter and 0.053m overall length are generic, not a measured battery standard. No electrical, chemical, charge, compatibility, safety or operating function implemented or claimed. Static game prop only.",
+    "Three decreasing LODs in BLEND/FBX/GLB; nine reimports and35 actual renders checked. Unlabeled128px review uses raised button and insulating annulus, not text or brand. Assistant recognition judgment, not audience testing or game-engine validation.",
+    "Per-face planar UVs intentionally overlap; not a unique packed baking atlas. Plain authored materials and original geometry; no photo textures, labels, trademarks or reference images in delivery.",
+    "Private reference: expfactory/expfactory-experiments commit49b8123f18b26d94dfc010bb8a6ec7458b265e2e, object_rating/images/BOSS_neutral/battery02b.jpg SHA256bb0e3efd05f7ea0fd1e0616cb7e30db44998f20c7b6b50c7e24a9ac4805e2396. Actual full pixels directly inspected. Independent BOSS stimulus; photographer, manufacturer and image redistribution rights unverified. No image license or official manufacturer provenance asserted."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

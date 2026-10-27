@@ -1,0 +1,81 @@
+{
+  "id": "A-NEW-20261027-APPLE-001",
+  "revision": "R1",
+  "same_id_override": false,
+  "new_type_increment": 1,
+  "triangles_LOD0_LOD1_LOD2": [
+    16320,
+    7296,
+    3040
+  ],
+  "models_and_render": [
+    {
+      "bytes": 539116,
+      "sha256": "1fffa3e057f3065f2216b5d65659f4e57510c7c5144f1e2b055610ca127fdcf1",
+      "git_blob_sha1": "e7070f84dfda98035a8ade14b1836037cb828e98",
+      "path": "models/A-NEW-20261027-APPLE-001_LOD0_R1.blend"
+    },
+    {
+      "bytes": 478642,
+      "sha256": "b89da7444dc6978ae06ac5094518b3c07f1cc157f51d3115bf25c53e26fb9e10",
+      "git_blob_sha1": "1268b766b6f5304a5e9d245e3b7fc415b745ad70",
+      "path": "models/A-NEW-20261027-APPLE-001_LOD0_R1.fbx"
+    },
+    {
+      "bytes": 385580,
+      "sha256": "b4e420b6eb657cf47cec25b8770d0bc93f696a71ab84d55ccc24b92364751398",
+      "git_blob_sha1": "6cdf62b4cf8b067504b805c0a0f3b0674c6c03fc",
+      "path": "models/A-NEW-20261027-APPLE-001_LOD0_R1.glb"
+    },
+    {
+      "bytes": 287571,
+      "sha256": "ccd09116a45ba8a7e1d1c9aa3dd82c546724c5ede6d88ccabd3ee1b4a85d87a4",
+      "git_blob_sha1": "02a36abc3a7af59e4f97697e8f51f25a8d915d6a",
+      "path": "models/A-NEW-20261027-APPLE-001_LOD1_R1.blend"
+    },
+    {
+      "bytes": 224034,
+      "sha256": "74e64322457a2a664d5217f212b7f092f55e49fa9eab9eaf5b862bd4d93cdeb0",
+      "git_blob_sha1": "f6151d2980c7861c36cc2da76ab3dd0c417fffa7",
+      "path": "models/A-NEW-20261027-APPLE-001_LOD1_R1.fbx"
+    },
+    {
+      "bytes": 179168,
+      "sha256": "5bcec4d6abfcf34cf0f1a220d45bb1f153aeaf14b4cdb0b139688783ff2ca5b0",
+      "git_blob_sha1": "c68e3428c67bac5b9388fee0d98af496089744fd",
+      "path": "models/A-NEW-20261027-APPLE-001_LOD1_R1.glb"
+    },
+    {
+      "bytes": 166299,
+      "sha256": "2c22e90f3fca9797ee0cd4596001451aef852431885b93e8f757a2c44032a2ac",
+      "git_blob_sha1": "bbea9450cfe2bdacc82007535ada637c5c5f48c7",
+      "path": "models/A-NEW-20261027-APPLE-001_LOD2_R1.blend"
+    },
+    {
+      "bytes": 98786,
+      "sha256": "6d103f3f12e4013fb47610362b80c09c8eaba3c82e9035e19e087316582bbe43",
+      "git_blob_sha1": "c28e35987064cc72e405ad3874da5694bb707fa9",
+      "path": "models/A-NEW-20261027-APPLE-001_LOD2_R1.fbx"
+    },
+    {
+      "bytes": 80276,
+      "sha256": "531e2e17f486da8e17e7374cc0c46d90074f2059840236d352420b7fde7b96cf",
+      "git_blob_sha1": "4f8ff1dc4f0081e58fc6143efb5aaeee08ff9cf5",
+      "path": "models/A-NEW-20261027-APPLE-001_LOD2_R1.glb"
+    },
+    {
+      "bytes": 399645,
+      "sha256": "fc186947caf4829a7d77515cb5157d8fe3a432d701bcac3d22ac1f84ff0d483c",
+      "git_blob_sha1": "7eeefc515f1dde7c7896a026efecf1fbcada37e8",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "One complete original generic whole apple. One type only; no cultivar, color, size, cut section, peeled or separate stem variants counted. No old food, tool, apple peeler or plant components copied or extracted.",
+    "Single explicitly closed connected exterior: rounded shoulders with subtle lobing, depressed upper stem seat, gently curved short woody stem and generalized closed bottom. The stem shares its root ring with the body, without a separately penetrating stem, overlapping contact faces or an internal duplicate sphere.",
+    "Three decreasing LODs in BLEND/GLB/FBX, nine actual reimports and35renders. Unlabeled128px oblique views judged apple-like from short stem, recessed stem seat and rounded shoulders rather than a plain colored sphere. Assistant judgment, not audience test or game-engine verification.",
+    "Valid per-face planar UVs overlap intentionally; not a unique packed bake atlas. Plain original materials without source textures, photograph pixels, labels or copied graphics.",
+    "Shape reference attribution: Mihai Oltean, Fruits-360 original-size dataset, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Repository commit d08d3d5b1abfdace697870b0f6aeee0a4edb74b4. Reference photographs are excluded; geometry and materials are independently authored and generalized."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

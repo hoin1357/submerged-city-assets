@@ -1,0 +1,83 @@
+{
+  "id": "A-NEW-20261027-GARLIC-001",
+  "revision": "R1",
+  "same_id_override": false,
+  "new_type_increment": 1,
+  "triangles_LOD0_LOD1_LOD2": [
+    19040,
+    8208,
+    3552
+  ],
+  "models_and_render": [
+    {
+      "bytes": 591005,
+      "sha256": "118ca184e1757d5abc56a0cef9ac6897ea5d24d3e21f073a2d33042bc7e97fe0",
+      "git_blob_sha1": "b3d6f4cc52e1434dcb6ea611d3c6eddcfd08d748",
+      "path": "models/A-NEW-20261027-GARLIC-001_LOD0_R1.blend"
+    },
+    {
+      "bytes": 530497,
+      "sha256": "c7bf50a85f93585a003ccafda920ff443d4c8f3e326f43ddf38b4320aa3221ac",
+      "git_blob_sha1": "eed1a4527abe64f0bd96a725a8489c019c6b667e",
+      "path": "models/A-NEW-20261027-GARLIC-001_LOD0_R1.fbx"
+    },
+    {
+      "bytes": 471936,
+      "sha256": "8fd7668aa8eeec4adcf2b76a355319cab2af2ce5226639e0c275355f4b02a835",
+      "git_blob_sha1": "90f16186955bbceaeac67e164b0d33608367e18e",
+      "path": "models/A-NEW-20261027-GARLIC-001_LOD0_R1.glb"
+    },
+    {
+      "bytes": 296392,
+      "sha256": "621badda7ebc21691ee9894adf571f8f517bb7c9484352d5cd1ca468cd059a66",
+      "git_blob_sha1": "afa6eabd44cfd9595797415a3dda7e51339ccca9",
+      "path": "models/A-NEW-20261027-GARLIC-001_LOD1_R1.blend"
+    },
+    {
+      "bytes": 239681,
+      "sha256": "c4a3d011011baec78e44ba43783c0135277c8c3c5ffabdccba2479b741c931e6",
+      "git_blob_sha1": "e8cd905670ec993a2b90c821d3a4297574f1baab",
+      "path": "models/A-NEW-20261027-GARLIC-001_LOD1_R1.fbx"
+    },
+    {
+      "bytes": 215100,
+      "sha256": "a81b59d28b65a1d03c0a5a644bae903da7cb31f1ccb539114282b96b9e6b56e7",
+      "git_blob_sha1": "f2cb58f1c96d24be738ddc927fed0f560f0f0118",
+      "path": "models/A-NEW-20261027-GARLIC-001_LOD1_R1.glb"
+    },
+    {
+      "bytes": 175563,
+      "sha256": "e109b8d609ee1d857d275b87a2ec816b099c5b054bc208de297c468c5c2fdfc0",
+      "git_blob_sha1": "f56f8275338db779ef9aaf365c84886bb4ff8812",
+      "path": "models/A-NEW-20261027-GARLIC-001_LOD2_R1.blend"
+    },
+    {
+      "bytes": 113441,
+      "sha256": "648ed688b2ac5fd4b147ccc06f10917cad0d52864ca136f2d80a1cee57cc2006",
+      "git_blob_sha1": "daff00dc9c9a487f20a462fa77b8cb7f96b72f76",
+      "path": "models/A-NEW-20261027-GARLIC-001_LOD2_R1.fbx"
+    },
+    {
+      "bytes": 99732,
+      "sha256": "83137c390300080642e62a84a896b95562543344544ee64eea799a5334e6ebc3",
+      "git_blob_sha1": "3d96fef320c0c47f133ce85848e39c7bf9c5b707",
+      "path": "models/A-NEW-20261027-GARLIC-001_LOD2_R1.glb"
+    },
+    {
+      "bytes": 321841,
+      "sha256": "2a7300a4dd568471ed7b929d4a806ded3d8fd3dd9fea789d35690754ccbe2f7f",
+      "git_blob_sha1": "25495f2b3e6fc95d63b11384b640f98f5c17bc6b",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "One original whole generic garlic bulb including gathered dry neck and attached clove lobes. One type only; no separate cloves, cultivars, colors or size variants counted. No existing onion, food or plant geometry copied or extracted.",
+    "One closed connected exterior with seven broad convex clove regions merging into a low bulb and long tapered dry neck. All rings share explicit topology; no overlapping clove spheres, hidden duplicated solids or intersecting skin shells.",
+    "Approximate authored height 0.08m. Hidden underside/root scar, back details, fine dry tip and dimensions are generalized. No exact botanical species, anatomy, edible use, food safety or material composition claims. Static game prop only.",
+    "Three genuinely decreasing LODs in BLEND/GLB/FBX, nine reimports and35actual renders reviewed. Unlabeled128px views judged recognizable as whole garlic from broad clove bulges and converging dry neck, without text. Assistant judgment, not audience testing or game-engine validation.",
+    "Valid per-face planar UVs overlap intentionally; not a unique packed bake atlas. Plain materials without image textures, copied source pixels, text or labels.",
+    "Reference attribution: Mihai Oltean, Fruits-360 dataset,2017-. CC BY-SA4.0, https://creativecommons.org/licenses/by-sa/4.0/ . Repository https://github.com/fruits-360/fruits-360-original-size commit d08d3d5b1abfdace697870b0f6aeee0a4edb74b4, Test/garlic bulb 1/r0_103.jpg SHA256aef6cbd6a9250890ea300f2903822885adf8d9f9cb49ab68886250329a90497a and r0_31.jpg SHA256b989aa1dfb0ff4e206b099964c3c1b1cad2ebf6feb3458b61f72944cd5fbfcac. Actual two photos directly inspected; photographs not delivered. Changes: original generalized procedural3Dsurface with approximate hidden shape. No endorsement implied. Generated asset also provided under CC BY-SA4.0.",
+    "Shape reference attribution: Mihai Oltean, Fruits-360 original-size dataset, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Repository commit d08d3d5b1abfdace697870b0f6aeee0a4edb74b4. Reference photographs are excluded; geometry and materials are independently authored and generalized."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

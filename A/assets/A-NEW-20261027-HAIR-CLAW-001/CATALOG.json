@@ -1,0 +1,82 @@
+{
+  "id": "A-NEW-20261027-HAIR-CLAW-001",
+  "revision": "R2",
+  "same_id_override": false,
+  "new_type_increment": 1,
+  "triangles_LOD0_LOD1_LOD2": [
+    19408,
+    9728,
+    4688
+  ],
+  "models_and_render": [
+    {
+      "bytes": 611319,
+      "sha256": "6bbcf169ba4f21b8e66d6e4320b6d2bf92f56a474cef73da849144d0e548fe20",
+      "git_blob_sha1": "d47b8790e07f728033f82b9e8f45b7667b1d2c70",
+      "path": "models/A-NEW-20261027-HAIR-CLAW-001_LOD0_R2.blend"
+    },
+    {
+      "bytes": 486734,
+      "sha256": "cfa789940b2c7c90dbd327158da82079ea1a857860b384062ac06cc7e870d919",
+      "git_blob_sha1": "2850f7c672fbea8ccb7cb9dd1b0b7d78c0146159",
+      "path": "models/A-NEW-20261027-HAIR-CLAW-001_LOD0_R2.fbx"
+    },
+    {
+      "bytes": 513796,
+      "sha256": "4a3fdf356589894261adbc1a7d47975061f3a9818296d9ebdf6da343e9b65414",
+      "git_blob_sha1": "d137f4adf73f7cf43311f139f6068ae4d557b5c0",
+      "path": "models/A-NEW-20261027-HAIR-CLAW-001_LOD0_R2.glb"
+    },
+    {
+      "bytes": 343206,
+      "sha256": "2d1f6d907f54c22937bb9b148de32228ef633039c5979158f70d770dad7195ad",
+      "git_blob_sha1": "d10f97ebc1ca797cf9ea33c5b4c4fef248fe71a8",
+      "path": "models/A-NEW-20261027-HAIR-CLAW-001_LOD1_R2.blend"
+    },
+    {
+      "bytes": 248382,
+      "sha256": "53f8aafd513c2d413b5effce78eee115de6218111f57d289152fcfca8a06aa86",
+      "git_blob_sha1": "ac72a78ed3ea08d0ea35c2b9f3c7ceb449222ae8",
+      "path": "models/A-NEW-20261027-HAIR-CLAW-001_LOD1_R2.fbx"
+    },
+    {
+      "bytes": 274972,
+      "sha256": "ada7fd6e3aa2ca545629067bc9b4dec2852ab34054f106859d359a4777127561",
+      "git_blob_sha1": "205dc7e491d73938ecb4007d335cb7c232a61de5",
+      "path": "models/A-NEW-20261027-HAIR-CLAW-001_LOD1_R2.glb"
+    },
+    {
+      "bytes": 204477,
+      "sha256": "77c39d09a44e6b7e4cd0974742b48d32191afd731e1138bb49338c725128a4b8",
+      "git_blob_sha1": "df8de9a5037788809b34822e7b70aff237294bee",
+      "path": "models/A-NEW-20261027-HAIR-CLAW-001_LOD2_R2.blend"
+    },
+    {
+      "bytes": 124350,
+      "sha256": "2c921faeb87e40b7db5e97f350ed9b18b42cec44e9c20d5fee42c95bc0d85985",
+      "git_blob_sha1": "840f409498339cf0b37dece4a0ab16c2d7759f5a",
+      "path": "models/A-NEW-20261027-HAIR-CLAW-001_LOD2_R2.fbx"
+    },
+    {
+      "bytes": 144248,
+      "sha256": "a817278f799572bf02773a304bba6809f00e2ba02a48d0d28f3f3ddcdc3d0bbd",
+      "git_blob_sha1": "23810315e90d904dad462edd1730f9d132831418",
+      "path": "models/A-NEW-20261027-HAIR-CLAW-001_LOD2_R2.glb"
+    },
+    {
+      "bytes": 325029,
+      "sha256": "d3ede12c0847e334d2d094ecf1319bfdc52642aed12bac9c747b5dfe0222587f",
+      "git_blob_sha1": "5029763789b297529de5beb532b707f7ca169c30",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "One complete original generic hair claw, one type only. No tooth-count, color, size or opening-pose variants counted. No existing clothespin, comb or flat iron geometry copied or extracted.",
+    "Two opposing ranks of thick curved tapered teeth surround an open hair cavity, with a dorsal spine and two raised pressing wings. Original closed shell topology connects all roots and wings without overlapping inserted teeth. R1 preserved; R2 tapers the teeth more clearly toward the ends.",
+    "Approximate authored width72mm. Hidden spring/hinge details are generalized as a continuous static bridge; this is not an articulated, mechanically accurate two-jaw mechanism. No opening, clamping-force, material strength, wearing safety or certification claim. Source silhouette and visible overall structure guide the generic prop; hidden details and exact dimensions are unobserved.",
+    "Three decreasing LODs in BLEND/GLB/FBX, nine reimports and35actual renders reviewed. Central cavity and six inter-tooth gap rays are clear in all nine models. Unlabeled128px views judged recognizable as a hair claw from curved opposing tooth ranks and dorsal pressing wings. Assistant judgment, not audience testing or game-engine validation.",
+    "Valid per-face planar UVs overlap intentionally; not a unique packed bake atlas. Plain material without source pixels, image textures, labels or copied graphics.",
+    "Private reference: expfactory/expfactory-experiments commit49b8123f18b26d94dfc010bb8a6ec7458b265e2e, object_rating/images/BOSS_neutral/hairclip03.jpg. SHA2566198e67f689037a7019c93c23418eeadf897cd859852e2cab18911927743cf20. Actual whole photo directly inspected. Original photographer/maker/redistribution rights unverified; photograph excluded from delivery."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

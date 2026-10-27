@@ -1,0 +1,82 @@
+{
+  "id": "A-NEW-20261027-COTTON-SWAB-001",
+  "revision": "R1",
+  "same_id_override": false,
+  "new_type_increment": 1,
+  "triangles_LOD0_LOD1_LOD2": [
+    7200,
+    3328,
+    1360
+  ],
+  "models_and_render": [
+    {
+      "bytes": 271707,
+      "sha256": "23dff21a4464280aa346ec9e218c4df3fc0aab950394d44937d329a9fb7cfbe2",
+      "git_blob_sha1": "0ec00772045214ab38fb65535739f6d30c3ef135",
+      "path": "models/A-NEW-20261027-COTTON-SWAB-001_LOD0_R1.blend"
+    },
+    {
+      "bytes": 200236,
+      "sha256": "249d72179a47100a5633d20c77d4835f2a9184f7f11c5d9e171e46f999d061d4",
+      "git_blob_sha1": "4d1bc259410a7f1b77e7c8e0c8dc74abe5ddca37",
+      "path": "models/A-NEW-20261027-COTTON-SWAB-001_LOD0_R1.fbx"
+    },
+    {
+      "bytes": 180080,
+      "sha256": "9a97dc232d6dc09e4c037fb3d20ab93628b17d73a52829f4285756a975ebe1f5",
+      "git_blob_sha1": "0ce0f79a73b395699acb8f7d77fe32d87019a296",
+      "path": "models/A-NEW-20261027-COTTON-SWAB-001_LOD0_R1.glb"
+    },
+    {
+      "bytes": 170897,
+      "sha256": "e3c7619a669a11f9c703d79e5554173ab7abcb080a6e04e47e77b82013474561",
+      "git_blob_sha1": "28088b7a0597438da5fe92e6d7bd13e60aee8c8a",
+      "path": "models/A-NEW-20261027-COTTON-SWAB-001_LOD1_R1.blend"
+    },
+    {
+      "bytes": 101516,
+      "sha256": "bdc90bb5c5f41fa905a00dd463c9dd2ad4734bd7b5e7a01f57e2e14d63e7383d",
+      "git_blob_sha1": "125f033c8d3d49309a1bea4d3a4c77362ff76126",
+      "path": "models/A-NEW-20261027-COTTON-SWAB-001_LOD1_R1.fbx"
+    },
+    {
+      "bytes": 87048,
+      "sha256": "28a1a569489dd5864cb4920ca0dceaf612dfc677452fea4ea8cba3b5bfc40b9d",
+      "git_blob_sha1": "2198ce58ef8ae52beb0c7eaef262288f58fdc779",
+      "path": "models/A-NEW-20261027-COTTON-SWAB-001_LOD1_R1.glb"
+    },
+    {
+      "bytes": 122397,
+      "sha256": "9dd9fb83f39e766ad369ead7869f144e3666fa9e91649bea6ac6c09cda497578",
+      "git_blob_sha1": "7462da22850a000caa27aeb350a6149023260c32",
+      "path": "models/A-NEW-20261027-COTTON-SWAB-001_LOD2_R1.blend"
+    },
+    {
+      "bytes": 51404,
+      "sha256": "f391bc683eee54c9c2b11987f7a5440c0986fa20f587a2cf9d4d4eb1648dbe79",
+      "git_blob_sha1": "c4147d6f40f9eb7776b62894232878218611e9a9",
+      "path": "models/A-NEW-20261027-COTTON-SWAB-001_LOD2_R1.fbx"
+    },
+    {
+      "bytes": 41536,
+      "sha256": "e24cd068d3ff2e96de2e328b55209fca0afd97727571f255dd97d1c5385c4459",
+      "git_blob_sha1": "d72e88a6096cfb985df63bfc3cb5b93c60d851fe",
+      "path": "models/A-NEW-20261027-COTTON-SWAB-001_LOD2_R1.glb"
+    },
+    {
+      "bytes": 269732,
+      "sha256": "581aacc4095ee54c229b1e5a4b7a4886f1bef02665a154e21d7e0199a52add5d",
+      "git_blob_sha1": "8f6b4609938c9c5515ddb7123dd46e8eb681e7c7",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "One complete original generic double-ended cotton swab. One type only; no single/double-tip, color, length or size variants counted. No existing medical rods, grooming tools or other components copied or extracted.",
+    "One closed connected surface with a slender stem and two softly tapered elongated tip exteriors. Shared section rings make the stem-tip transitions explicit, without penetrating cap solids, buried shaft duplication or coplanar contact faces. Subtle irregular surface relief and matte materials suggest soft cotton; individual fibers are not reconstructed.",
+    "Approximate authored length76mm. Reverse surfaces, exact dimensions and microscopic material details generalized from one photograph. Static game prop only; no medical-use, sterility, safety, actual material composition, physical-function or specification claim.",
+    "Three decreasing LODs in BLEND/GLB/FBX, nine reimports and35actual renders checked. Unlabeled128px views judged recognizable as a cotton swab from the long slender stem and softly tapered pale tips, without labels. Assistant judgment, not audience testing or game-engine validation.",
+    "Per-face planar UVs overlap intentionally; not a unique packed bake atlas. Plain materials and authored geometric surface relief, no image textures, source pixels, words or copied graphics.",
+    "Private reference: expfactory/expfactory-experiments commit49b8123f18b26d94dfc010bb8a6ec7458b265e2e, object_rating/images/BOSS_neutral/qtip.jpg. SHA256888744b5791826e37c94674d4ac17105f0341943e2e685a6304e8d8df5c3f67f. Actual whole photo directly inspected. Original photographer, maker and redistribution rights unverified. Reference photograph excluded from delivery."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

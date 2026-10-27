@@ -1,0 +1,84 @@
+{
+  "id": "A-NEW-20261027-SYRINGE-001",
+  "revision": "R2",
+  "same_id_override": false,
+  "new_type_increment": 1,
+  "triangles_LOD0_LOD1_LOD2": [
+    5784,
+    3304,
+    1784
+  ],
+  "models_and_render": [
+    {
+      "bytes": 186284,
+      "sha256": "f8365cc36aeae768dd1d71958e793f762418dafa52b68a03fba66aad02b96187",
+      "git_blob_sha1": "64bbab564aaa128ebb3802bf96f10958d21238be",
+      "path": "models/A-NEW-20261027-SYRINGE-001_LOD0_R2.blend"
+    },
+    {
+      "bytes": 175648,
+      "sha256": "e7e85868837654954924d987a85225d8e8ae117c2ab4f3a7c151219948825a78",
+      "git_blob_sha1": "58b5984057d07b240a6e58464023fa3356a42cba",
+      "path": "models/A-NEW-20261027-SYRINGE-001_LOD0_R2.fbx"
+    },
+    {
+      "bytes": 354040,
+      "sha256": "ab265722332bc316ded7f8cfab54daf67ad6ad6ca83f1382cd23ac8525459a8b",
+      "git_blob_sha1": "33ea934ad2381805418c0972375f5d9663f46321",
+      "path": "models/A-NEW-20261027-SYRINGE-001_LOD0_R2.glb"
+    },
+    {
+      "bytes": 142943,
+      "sha256": "b20752d385c3e38806ee533af22c19ddcdfcafe6ad14f12842a6b554050f71f9",
+      "git_blob_sha1": "e58100fd37daee5453d8a18a1b4a8bffba20496a",
+      "path": "models/A-NEW-20261027-SYRINGE-001_LOD1_R2.blend"
+    },
+    {
+      "bytes": 117712,
+      "sha256": "ed372326b989bdf4605a63dc9328831c56d27d1a2fdf8176f6a83a17609189ec",
+      "git_blob_sha1": "17d83452fcf78bdc804dad256237fbc2da64d096",
+      "path": "models/A-NEW-20261027-SYRINGE-001_LOD1_R2.fbx"
+    },
+    {
+      "bytes": 200872,
+      "sha256": "5a97d2bae759c7977d5633ef1b733898418adea1ecccee9badf7d50b82418d67",
+      "git_blob_sha1": "6a6e659bae593312cd1719f070b1013ca3ab0efa",
+      "path": "models/A-NEW-20261027-SYRINGE-001_LOD1_R2.glb"
+    },
+    {
+      "bytes": 121303,
+      "sha256": "c2ed7523d4b0e17036048642c568a9fa86af45da5d823d755619fd7fc2b7619c",
+      "git_blob_sha1": "975ebcf1c73c3bad077a6f4edd603a7dc6f74cbe",
+      "path": "models/A-NEW-20261027-SYRINGE-001_LOD2_R2.blend"
+    },
+    {
+      "bytes": 81808,
+      "sha256": "8b495a320a9870b3066eefb9c31f8ddd545aa74fe7dc8bc0e3cc8d2c0dba862c",
+      "git_blob_sha1": "b5102bbe71917345a4aec0c83ce6d91384211505",
+      "path": "models/A-NEW-20261027-SYRINGE-001_LOD2_R2.fbx"
+    },
+    {
+      "bytes": 111432,
+      "sha256": "83523eebadb0d6200ae3141d630103c035d542d16420c1c32a293756172fbcb6",
+      "git_blob_sha1": "007e4b3de0f5e6a446cd79ccb47cd51f3b56c702",
+      "path": "models/A-NEW-20261027-SYRINGE-001_LOD2_R2.glb"
+    },
+    {
+      "bytes": 311317,
+      "sha256": "f564c40a51cabc29cdbff9af76df2fed85db04e66ea71e83afec09479af6007e",
+      "git_blob_sha1": "d937f3999cbf8ffe11f911edd04db8125a9d45fc",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "One fresh original complete syringe as a static visual prop. Barrel, plunger, thumb pad, bilateral finger flanges, seal, hub and attached needle count as one assembly. No capacity, needle length, color, plunger-position or size variants counted.",
+    "No numbers, graduation marks, letters, labels or logos. Actual unlabeled 128px renders inspected for projecting plunger, finger flanges, cylindrical barrel and thin needle. Assistant visual judgment, not an audience test.",
+    "Own approximate overall length: 16.3 cm; barrel outside diameter about 12 mm, visible needle diameter about 0.8 mm. These are generic artistic dimensions, not clinical specifications or capacity measurements.",
+    "Barrel has a real modeled hollow wall with low-alpha material and a visible dark seal. Static seal/barrel, flange/collar, rod/pad and hub/needle contacts intentionally overlap. No moving plunger rig or working fluid pathway.",
+    "Needle is a closed static exterior with an oblique end. No lumen, medical sharpening specification, drug, dosing, administration instructions, sterility, safety or operational function implemented or claimed.",
+    "Original BOSS source is privately retained research, with unverified photographer/manufacturer. One-view hidden rear and internal geometry are generalized. No reference photograph or photo texture is supplied.",
+    "Three decreasing LODs in BLEND, GLB and FBX. Actual reimport renders checked. Transparency may require engine-specific settings; no Unity or runtime certification.",
+    "UVs are valid overlapping per-face planar projections, not a unique packed bake atlas. Plain materials require no external images."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

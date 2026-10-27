@@ -1,0 +1,82 @@
+{
+  "id": "A-NEW-20261027-BASEBALL-BAT-001",
+  "revision": "R2",
+  "same_id_override": false,
+  "new_type_increment": 1,
+  "triangles_LOD0_LOD1_LOD2": [
+    11040,
+    4928,
+    1880
+  ],
+  "models_and_render": [
+    {
+      "bytes": 351046,
+      "sha256": "8182bf310f63dc13de57582cd5b67c418cc42a3fa06f7661aee9b2e5e1739c97",
+      "git_blob_sha1": "77acefc060a5621ca91f7d5f8a0497e7123bb888",
+      "path": "models/A-NEW-20261027-BASEBALL-BAT-001_LOD0_R2.blend"
+    },
+    {
+      "bytes": 309451,
+      "sha256": "ec3b0490ee369b9ea81a26cb5028893344754ea072535435c6640c75a67cde7b",
+      "git_blob_sha1": "198518f45ee34bac3a8079e63771429e0cc3aa1b",
+      "path": "models/A-NEW-20261027-BASEBALL-BAT-001_LOD0_R2.fbx"
+    },
+    {
+      "bytes": 263200,
+      "sha256": "97d48641fc3a2e4baaf8f02f2f22ae56eaaa8b8b094e8f8b23a11e2d26c4a7b9",
+      "git_blob_sha1": "428aa26e95bb3c8c08e353000bb383264b144153",
+      "path": "models/A-NEW-20261027-BASEBALL-BAT-001_LOD0_R2.glb"
+    },
+    {
+      "bytes": 204219,
+      "sha256": "9c61d1498ffd9e90b14d5c8cdfe81e32bfef07e7517381a8e365c59f89c7d4c0",
+      "git_blob_sha1": "fc723983c4c91f0bed64c1dccaaaf6d49d068063",
+      "path": "models/A-NEW-20261027-BASEBALL-BAT-001_LOD1_R2.blend"
+    },
+    {
+      "bytes": 143819,
+      "sha256": "1d9bb2a02c24e1c1380cd8868516afc7eebeab4b9f13b189c83a528e7cbacd82",
+      "git_blob_sha1": "43b5d239b9c8a2c79900f9d5eca91104325c5742",
+      "path": "models/A-NEW-20261027-BASEBALL-BAT-001_LOD1_R2.fbx"
+    },
+    {
+      "bytes": 122776,
+      "sha256": "551390e1086d9c25663594ada097d5e71fd240973d2be848303002701cec2ac5",
+      "git_blob_sha1": "419226a655f5f8235fc0adf4640a5b2b2f5deef0",
+      "path": "models/A-NEW-20261027-BASEBALL-BAT-001_LOD1_R2.glb"
+    },
+    {
+      "bytes": 130390,
+      "sha256": "e4684f8cf4469ec30ce8bdc6de0bf9f9046642f707ba18949ef375d9943445c1",
+      "git_blob_sha1": "0396cd0bd1620b2d6b545d40369d3760092d4e88",
+      "path": "models/A-NEW-20261027-BASEBALL-BAT-001_LOD2_R2.blend"
+    },
+    {
+      "bytes": 65259,
+      "sha256": "2e97c8099d2d25122704124e156900051ab46a29ab7049ee969d3c0b26343646",
+      "git_blob_sha1": "7b5f2717b79768575c9d0e990a22c910e5be6156",
+      "path": "models/A-NEW-20261027-BASEBALL-BAT-001_LOD2_R2.fbx"
+    },
+    {
+      "bytes": 56088,
+      "sha256": "7dbb7015859d52480a2390b158f409bbe889e12110d01044b6855ed5a2fb303d",
+      "git_blob_sha1": "b14b83a4f5d905573c515a05b9f1e396812c8997",
+      "path": "models/A-NEW-20261027-BASEBALL-BAT-001_LOD2_R2.glb"
+    },
+    {
+      "bytes": 277423,
+      "sha256": "e75381e0bc6dc426dea055280eea8d67c3a086ed694870dc16a00dc272c39917",
+      "git_blob_sha1": "74fae214c2079cbbc29dfea71e7119ff5fa4e84b",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "One original complete generic static baseball bat. Rounded end knob, narrow wrapped-grip appearance, continuous widening taper and broad cylindrical closed barrel. One type only; no color, length, material or handedness variants counted. No cue, golf club, glove or other existing component copied or extracted.",
+    "Single closed connected radial surface with grip relief and material regions sharing the same topology. No separate grip over a hidden body, overlapping sleeve or internal duplicate contact surface. Helical grooves are shallow generic relief, not copied source artwork.",
+    "Authored approximate length0.818m; dimensions, hidden construction and barrel/end curvature generalized. No sports standard, material accuracy, flex, durability, impact performance or safe-use claim.",
+    "Three decreasing LODs in BLEND, GLB and FBX, nine actual reimports and35renders checked. Unlabeled128px views read as baseball bat from knob, thin grip, taper and thick barrel; assistant judgment, not an audience test. No runtime, physical simulation or gameplay verification.",
+    "Valid overlapping per-face planar UVs, not a uniquely packed bake atlas. Plain materials, no external images, brand text or copied source graphics.",
+    "Private reference: expfactory/expfactory-experiments commit49b8123f18b26d94dfc010bb8a6ec7458b265e2e, object_rating/images/BOSS_neutral/baseballbat.jpg, SHA256931874f1d8a8f77db9bba196cea9afa65ecf2d1e6b1587953078d042626a553a. Original full pixels directly viewed. Photographer/manufacturer and redistribution rights unverified; source photograph not delivered."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

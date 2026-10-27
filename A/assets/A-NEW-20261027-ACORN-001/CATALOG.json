@@ -1,0 +1,84 @@
+{
+  "id": "A-NEW-20261027-ACORN-001",
+  "revision": "R1",
+  "same_id_override": false,
+  "new_type_increment": 1,
+  "triangles_LOD0_LOD1_LOD2": [
+    15680,
+    7872,
+    3792
+  ],
+  "models_and_render": [
+    {
+      "bytes": 340259,
+      "sha256": "47d0b725a7c4fb88400445a710babad2e439071f6c8fb5e8418a3c1ecdee674d",
+      "git_blob_sha1": "2743ab3a9e4cd839dbf672df09f1cfccb0595b5c",
+      "path": "models/A-NEW-20261027-ACORN-001_LOD0_R1.blend"
+    },
+    {
+      "bytes": 642434,
+      "sha256": "f939eae794f4082d559f667a2884d7820032ca015d919bc66147db4c20212e49",
+      "git_blob_sha1": "5ac33502729a4999f3a3a96aa8ae4293ee6e6b5b",
+      "path": "models/A-NEW-20261027-ACORN-001_LOD0_R1.fbx"
+    },
+    {
+      "bytes": 551712,
+      "sha256": "e8ce2ded65ba9f3475c4cb5b9470ba5f568f9d0fc2be90fd74dfda51be4de89d",
+      "git_blob_sha1": "65886e39e3c7e190915051e23a6af2eaa144bef0",
+      "path": "models/A-NEW-20261027-ACORN-001_LOD0_R1.glb"
+    },
+    {
+      "bytes": 230362,
+      "sha256": "1df42e506a62606dad763d5f962c214eaf63ebe8b88e638f3d9bdca6d699ac30",
+      "git_blob_sha1": "53151f3e55f1d0dfecd903802340bbeefbc306fe",
+      "path": "models/A-NEW-20261027-ACORN-001_LOD1_R1.blend"
+    },
+    {
+      "bytes": 423426,
+      "sha256": "931c63b97b3a89cf7c8201fd6a7f08aec049d69aae8040844d6f9b5db3f85104",
+      "git_blob_sha1": "c009f6fb3f32af70dec426b674b13544ecd8fe0c",
+      "path": "models/A-NEW-20261027-ACORN-001_LOD1_R1.fbx"
+    },
+    {
+      "bytes": 339548,
+      "sha256": "d7b25829591027631acc7b19e2d929aaa13ca1241f8a487a458d7f7ae30994b9",
+      "git_blob_sha1": "47fc2f11a3816658c8a7cff4a99ac7bf5d03a0e9",
+      "path": "models/A-NEW-20261027-ACORN-001_LOD1_R1.glb"
+    },
+    {
+      "bytes": 170000,
+      "sha256": "8aaed8b56426b1f7b0462c572412fdc47babe503faae32ac727da27f369cb318",
+      "git_blob_sha1": "2c70d3f39d115d62ae5d36a166621ab3ae57dd8e",
+      "path": "models/A-NEW-20261027-ACORN-001_LOD2_R1.blend"
+    },
+    {
+      "bytes": 312226,
+      "sha256": "922d499f895b3e3f670024509a4658a5a160c9dacba51115bf9c89e8c31b51c5",
+      "git_blob_sha1": "904c48644f66c3f03c9ba2534101b18342c3ff31",
+      "path": "models/A-NEW-20261027-ACORN-001_LOD2_R1.fbx"
+    },
+    {
+      "bytes": 221184,
+      "sha256": "4fbc6508f59b8a89403a07194ca06a35a5b6d9e223b37af6bff355d8434a73ba",
+      "git_blob_sha1": "2015eabb49ac854d27cba41420cbc69bac92223a",
+      "path": "models/A-NEW-20261027-ACORN-001_LOD2_R1.glb"
+    },
+    {
+      "bytes": 363847,
+      "sha256": "ef8e2f0387ad92c2e48b2d0a3d51f0f7af2d326ccf3c45a74dd11a8334e69ff1",
+      "git_blob_sha1": "9f0fe58c267ea8dc2a747bb8c8d002fdfea30a58",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "One original whole acorn with attached woody cup and short stalk. One type only; no species, size, cup-ratio, color or scale-count variants counted. No existing tree, wreath or pinecone component copied or extracted.",
+    "Smooth closed nut with a small pointed lower end, thick annular cup and attached curved stalk. 73 representative embedded cup scales provide generalized relief; no copied photo texture or biological identification.",
+    "Three decreasing LODs retain the complete assembly while reducing radial, cup-scale and stalk tessellation. Approximate authored height 5.6 cm, not measured botanical dimensions.",
+    "Hidden back, cup interior, seed anatomy, exact dimensions and scale pattern are explicitly generic. No edible-use, exact species, biological reconstruction or functional claim.",
+    "Actual unlabeled 128px renders personally reviewed: the cup/nut boundary, small tip and short stalk read as an acorn rather than an anonymous nut or knob. Assistant judgment only, not an audience test.",
+    "Nine BLEND/GLB/FBX models reimported and actually rendered. No Unity/runtime or physical simulation verification claimed.",
+    "Valid overlapping planar per-face UVs are supplied, not a unique packed bake atlas. Plain materials have no external image dependencies.",
+    "Private BOSS stimulus photographer, original context, botanical species and redistribution rights remain unverified. No reference photograph, copied texture, branding or labels delivered."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

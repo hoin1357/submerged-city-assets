@@ -1,0 +1,83 @@
+{
+  "id": "A-NEW-20261027-HELICOPTER-001",
+  "revision": "R1",
+  "same_id_override": false,
+  "new_type_increment": 1,
+  "triangles_LOD0_LOD1_LOD2": [
+    6434,
+    3744,
+    1806
+  ],
+  "models_and_render": [
+    {
+      "bytes": 230013,
+      "sha256": "969d272480486e2edc8809f41b805253f2c7e33f19550891bd28382235d2fc97",
+      "git_blob_sha1": "08e897a44c4eaecee951a4407147f27d6f4360ee",
+      "path": "models/A-NEW-20261027-HELICOPTER-001_LOD0_R1.blend"
+    },
+    {
+      "bytes": 183021,
+      "sha256": "ae468da0318126f0203563b3e90c9c560344922abeb61b31dfb86cee0c57140c",
+      "git_blob_sha1": "cb068bf648ebad18e13ceea24a67e213fff5bbfd",
+      "path": "models/A-NEW-20261027-HELICOPTER-001_LOD0_R1.fbx"
+    },
+    {
+      "bytes": 200880,
+      "sha256": "a7416e023c955b4f3ff31623d71427ad858ed53749da2b4e461341be3e533a62",
+      "git_blob_sha1": "144c763f62dc0817e9e9ebf87741e1998bacf8e1",
+      "path": "models/A-NEW-20261027-HELICOPTER-001_LOD0_R1.glb"
+    },
+    {
+      "bytes": 172144,
+      "sha256": "292230fa3fcc8baabfc384bb5884880dc1e26d3726eea38c2cf6be4ce925c5c5",
+      "git_blob_sha1": "a45041000ae2c67a8f2dbac653e74dedc89fc244",
+      "path": "models/A-NEW-20261027-HELICOPTER-001_LOD1_R1.blend"
+    },
+    {
+      "bytes": 119613,
+      "sha256": "25d2d38434f358e94e0e7c0466ccd71d022b4d180604b7a72a10a52a2890066d",
+      "git_blob_sha1": "83bc01ce2396370cfae33eef5875229bc22257f7",
+      "path": "models/A-NEW-20261027-HELICOPTER-001_LOD1_R1.fbx"
+    },
+    {
+      "bytes": 128588,
+      "sha256": "5fd4409bea0f4e568a32b46982dc7ccc0f55f408b9378376b67f82c26a5ed18e",
+      "git_blob_sha1": "e18863fc955e0e2b66c3a547a6022b0621638e32",
+      "path": "models/A-NEW-20261027-HELICOPTER-001_LOD1_R1.glb"
+    },
+    {
+      "bytes": 129147,
+      "sha256": "f454f31d9edfd4997becc7af173c39b3019a9f50dcef33f607e2164f920a5e39",
+      "git_blob_sha1": "1e7edd6431e42e54f1171595b5930665621a0cd2",
+      "path": "models/A-NEW-20261027-HELICOPTER-001_LOD2_R1.blend"
+    },
+    {
+      "bytes": 74525,
+      "sha256": "35b1063fa639e00dc13da99cc2e8a419ad54eefc1348addeaa5a6c9936e346e7",
+      "git_blob_sha1": "29aae9959e4750847a13051b2e215a7cd60bca18",
+      "path": "models/A-NEW-20261027-HELICOPTER-001_LOD2_R1.fbx"
+    },
+    {
+      "bytes": 73984,
+      "sha256": "cff7281e024cba1e7eefbac6b177e53e9b7c845cac16b798009073be7ca58983",
+      "git_blob_sha1": "b0bad02af8ea918fb38b47a5b96082067dbac5f7",
+      "path": "models/A-NEW-20261027-HELICOPTER-001_LOD2_R1.glb"
+    },
+    {
+      "bytes": 298172,
+      "sha256": "60dc176409ec9244607e2e3b2e2928663a93ee0693b5b8b6484ba991f27bb1b3",
+      "git_blob_sha1": "44e21c42a8a9a1270dc61d481baa14567d00e677",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "One whole original generic helicopter, six closed surface parts: integrated cabin/tail boom/fin/mast/fixed gear, static main rotor, generic hidden tail rotor and three wheels. No prior airplane, vehicle or propeller mesh extracted. One type only; no size, colour, military type or toy/full-scale variants.",
+    "Explicit shared boundary topology joins body, tail boom, fin, mast and fixed landing supports. Closed rotors meet tapered mounts at simplified point contact and tires meet gear ends tangentially. This is connected static display geometry, not a physically load-bearing axle/bearing or rotor joint; no articulation implemented.",
+    "Cabin glazing consists of opaque dark material regions on the closed solid exterior. No floating zero-thickness window or measured glass layer; cabin interior is unmodeled. Hidden tail rotor, rear surfaces, blurred main blades, approximate dimensions and engineering joints are generic. No flight, rotation, aviation-structure accuracy or safety claim.",
+    "Three decreasing LODs and nine BLEND/FBX/GLB models reimported;35actual renders inspected including native unlabeled128px views. Cabin, long tail boom, upper rotor and fixed wheels read as helicopter. Assistant recognition judgment, not audience testing or Unity runtime verification.",
+    "Per-triangle planar UVs intentionally overlap, not a unique packed lightmap atlas. Plain original geometry/materials; no source photo, national insignia, military weapon, branding or specific aircraft identity delivered.",
+    "Private source: expfactory/expfactory-experiments commit49b8123f18b26d94dfc010bb8a6ec7458b265e2e, object_rating/images/BOSS_neutral/helicopter.jpg SHA256b589c5d67d721e0b96a5ac838a2ad77fcd22b951cd1824d4b76d95ea28fc049f. Full original pixels directly viewed. BOSS stimulus source, original photographer/manufacturer/redistribution rights unverified; no image redistribution assumed.",
+    "Native and imported surface intersections, positive-area coplanarity, UV, slivers and closed topology checked. GLB UV/normal split indices include exact duplicate coordinate aliases; diagnostic topology explicitly welds exact duplicates before unchanged1e-7m weld, and self-crossing checks recognize exact aliases without loosening tolerances. An initial component diagnostic reported those split rotor vertices as disconnected; preserved diagnostic corrected without editing models. Cross-part boundary contact uses existing2e-7m numerical tolerance, with positive-area coplanarity separately tested. Point/tangent mounts are deliberately simplified, not hidden interpenetrations."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

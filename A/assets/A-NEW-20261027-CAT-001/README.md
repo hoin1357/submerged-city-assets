@@ -1,0 +1,12 @@
+# A-NEW-20261027-CAT-001
+
+Three reduced LODs in BLEND, FBX and GLB. Representative render included. One complete static asset.
+
+- One complete original generic reclining cat. Short muzzle, triangular ears, long low torso, relaxed forelegs, bent hind legs and long slender curved tail are a newly authored whole form. No dog, toy bird or other animal mesh reused or recoloured. One type only; no breed, pose, size, fur colour or toy/living-material variants counted.
+- Original feline sculpt volumes are fused into a single closed continuous outer skin before LOD reduction and export. Internal seed overlap is not delivered. All nine final models contain one connected closed positive-volume surface; limbs, ears, muzzle and tail are connected through shared boundary geometry. Eyes, nose, ear interior and mouth are surface material regions without buried eyeball meshes.
+- Only the left animal in the reference is used for overall feline form. Reclining pose generalized to expose a legible short face and body; unseen face front, toes, underside, rear surfaces, fine fur and dimensions are generic. Right cat, sofa, remotes and photographed fur patterns are excluded. Static prop, no rigging, gait, anatomy precision or breed identification claim.
+- Three actually reduced LODs, nine BLEND/FBX/GLB reimports and39actual renders checked. Four extra left-front views expose the long tail that is occluded from the opposite angle; original35views remain preserved. Native unlabeled128px LOD0/2 views read as a reclining cat through ears, short muzzle, elongated body, paws and tail. Assistant judgment, not audience testing or Unity runtime verification.
+- Per-triangle planar UVs intentionally overlap, not a unique packed lightmap atlas. Original plain gray materials and geometry only, no image textures, copied fur patterns or photographed background. Fine fur and whisker strands are simplified rather than individually reconstructed.
+- Private source: huggingface/transformers commit455c9a0491e3f4b8438186ea15ed0206c9a6da46, tests/fixtures/tests_samples/COCO/000000039769.png SHA256cf6f3c4befa148732c7453e0de5afab00f682427435fead2d88b07a9615cdac2. Full original pixels directly viewed; left cat only. Photographer, breed and image rights unverified; no public photo redistribution or rights claim.
+
+Checksums cover the supplied public files. Reference photographs, earlier candidates and internal QA records are not included.

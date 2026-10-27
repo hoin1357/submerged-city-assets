@@ -1,0 +1,84 @@
+{
+  "id": "A-NEW-20261027-DOG-001",
+  "revision": "R2",
+  "same_id_override": false,
+  "new_type_increment": 1,
+  "triangles_LOD0_LOD1_LOD2": [
+    32000,
+    17000,
+    8000
+  ],
+  "models_and_render": [
+    {
+      "bytes": 1160783,
+      "sha256": "5900ad8940d4f3310000df97d7f014b0d8855ea848ed2ca9d44e4507b4711daa",
+      "git_blob_sha1": "7dce27aef5bb0abcb124399818e01ad9103fe0b8",
+      "path": "models/A-NEW-20261027-DOG-001_LOD0_R2.blend"
+    },
+    {
+      "bytes": 998996,
+      "sha256": "c52576d3045c3c4ee4c844eeb9ab7addcc2e23cf9031dfa21201d6b121657d38",
+      "git_blob_sha1": "8fc4910da896ddaec6d3f410a5c67736754aaeec",
+      "path": "models/A-NEW-20261027-DOG-001_LOD0_R2.fbx"
+    },
+    {
+      "bytes": 832676,
+      "sha256": "402bb7326e86cadf62ade8b3ae68311e8bd0674227f2327c693d0af464ddc692",
+      "git_blob_sha1": "d35ec0b3790a4a971d8bb17b5e4a16bd883bb76f",
+      "path": "models/A-NEW-20261027-DOG-001_LOD0_R2.glb"
+    },
+    {
+      "bytes": 648255,
+      "sha256": "56f98f9e735f4fe8e62e523c70a2149e40aac6f9ccbf372f76d314bf2f9f86b1",
+      "git_blob_sha1": "d58da3cc2660de2f33e8b131fca89c603e3e3515",
+      "path": "models/A-NEW-20261027-DOG-001_LOD1_R2.blend"
+    },
+    {
+      "bytes": 548068,
+      "sha256": "38e91a1fb8f593906f434b909f51e41f596d047ec299c0bfcd7052937857907b",
+      "git_blob_sha1": "2b62430e4014f39f70e036b8b6b319952815cae2",
+      "path": "models/A-NEW-20261027-DOG-001_LOD1_R2.fbx"
+    },
+    {
+      "bytes": 464344,
+      "sha256": "a3481d96b252a2e2360690b196a27d7216e6eaf2464345cdd314c3f9c98b2269",
+      "git_blob_sha1": "4bf66e48785feb7fa725e72622a6de65d6ba83dd",
+      "path": "models/A-NEW-20261027-DOG-001_LOD1_R2.glb"
+    },
+    {
+      "bytes": 353295,
+      "sha256": "05affd000c7abef203a2ffa4626b9cf28175d11e219003a2460b76ce1f379152",
+      "git_blob_sha1": "fd324cb7488389ef4fb2c2839a9e5601cab9eb53",
+      "path": "models/A-NEW-20261027-DOG-001_LOD2_R2.blend"
+    },
+    {
+      "bytes": 271684,
+      "sha256": "b964e59e6acd3ba58b664c95bb420e18c3be91e04f195d3782887b8c7fb6513c",
+      "git_blob_sha1": "7cf0ebfbb32bc7454a44d295d2182c359a414b99",
+      "path": "models/A-NEW-20261027-DOG-001_LOD2_R2.fbx"
+    },
+    {
+      "bytes": 233368,
+      "sha256": "94280bb9723e00ab6a08a692b9a914946a60857bae0280b4e22e26f4d10af826",
+      "git_blob_sha1": "1ccef485fae0b4ac7287190e3e8174d7a79e2881",
+      "path": "models/A-NEW-20261027-DOG-001_LOD2_R2.glb"
+    },
+    {
+      "bytes": 367600,
+      "sha256": "b17bb251fdb6cea9d897f1796707a0def0913a0e0d75b76f73ad8ecde9bcd1e9",
+      "git_blob_sha1": "4a5653cf8131e7f5cec4ec251889bcf6a2e1cc0f",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "One original complete seated generic dog. Upright ears, projecting canine muzzle, chest, straight forelegs with paws, folded hindquarters and resting curved tail are modeled together. No previous toy bird or animal mesh extracted. One type only: no breed, fur colour, pose, size or living/toy-material variants counted.",
+    "Original sculpt seed volumes are fused and smoothed into one closed continuous boundary before reduction and export; overlapping internal seed surfaces are not exported. Ear, limb, tail and muzzle joins therefore use shared continuous skin. All nine final models have one connected closed positive-volume surface. Eyes, nose, inner ears and mouth crease are surface material regions, not buried separate meshes.",
+    "R1 preserved; R2 removes protruding round eye seeds, lengthens the tapered muzzle, adds shallow geometry coat relief and toe separation. The dog is a simplified static game asset, not photoreal fur simulation. No rigging, gait, muscle anatomy, exact breed or biological accuracy claim.",
+    "Hidden toes partly obscured by grass in the reference, back surfaces, fur strands and dimensions are generalized. No grass, background, source texture, logo or image pixels delivered.",
+    "Three actually reduced LODs and nine BLEND/FBX/GLB reimports checked, with35actual renders including native unlabeled128px views. Ears, muzzle, chest, seated haunches, forepaws and tail read as a seated dog, not an unidentified stack of spheres. Assistant judgment, not audience testing or Unity runtime verification.",
+    "Per-triangle planar UVs intentionally overlap, not a unique packed lightmap atlas. Native procedural micro-bump is a supplementary material detail and is not exported as a photo or texture; shallow authored geometric coat relief and silhouette remain in all three formats. Exchange renders were inspected directly, not assumed identical to native shading.",
+    "Private source: pytorch/hub commitc3beaae7d32fca2a23fec30aa7938ef5c9b6e5d5 images/dog.jpg SHA256f3f87bb8ab3c26c7ecfd3ac60421d7f32b0503d1d6c5baf8bac42ed93d86351a. Original full pixels directly viewed. Photographer, exact breed and image rights unverified; source remains private and no image redistribution rights asserted.",
+    "Native and imported self-intersection, positive-area coplanarity, slivers, UV, closed topology and reimport distances checked. Import split-vertex diagnostics explicitly normalize exactly identical coordinates before the unchanged1e-7m positional weld; the original slow export intersection run was stopped and preserved, then rerun with this exact-coordinate preprocessing first; narrow-phase shared-simplex tolerance remains2e-7m and coplanar area1e-12m2. Adjacent triangles are tested, not blanket-exempted. Pose volume/gap probes verify key authored regions, not anatomy correctness."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

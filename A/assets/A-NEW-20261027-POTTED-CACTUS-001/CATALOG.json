@@ -1,0 +1,84 @@
+{
+  "id": "A-NEW-20261027-POTTED-CACTUS-001",
+  "revision": "R1",
+  "same_id_override": false,
+  "new_type_increment": 1,
+  "triangles_LOD0_LOD1_LOD2": [
+    21272,
+    10856,
+    5028
+  ],
+  "models_and_render": [
+    {
+      "bytes": 348410,
+      "sha256": "c75e79d954834b5a89e83df831a675a5c92a26f1f16db158f521138574cb8555",
+      "git_blob_sha1": "d5c3193db9a9b6edd14b09da2493ad53819d65d9",
+      "path": "models/A-NEW-20261027-POTTED-CACTUS-001_LOD0_R1.blend"
+    },
+    {
+      "bytes": 846938,
+      "sha256": "6a1803bd46406ac240efbce2e0681ce125c9c7ee59192add85d268fe42b8c915",
+      "git_blob_sha1": "3cdcfc0e085cd0a64ab7672669ef690afe73d80a",
+      "path": "models/A-NEW-20261027-POTTED-CACTUS-001_LOD0_R1.fbx"
+    },
+    {
+      "bytes": 747496,
+      "sha256": "aa86058ecd4547341508e7c2761efda148331e8fc44509afbad71c67936ebe59",
+      "git_blob_sha1": "b3eb5b17ed68a6e24dc5594a932b8cba67ef7213",
+      "path": "models/A-NEW-20261027-POTTED-CACTUS-001_LOD0_R1.glb"
+    },
+    {
+      "bytes": 244075,
+      "sha256": "f102aaba958931ef90fcd6ea9918296dfee02d2eaafe86e8ca771922ca3a7114",
+      "git_blob_sha1": "189bdea625324cf4195359ef9d2120aed5bd9b28",
+      "path": "models/A-NEW-20261027-POTTED-CACTUS-001_LOD1_R1.blend"
+    },
+    {
+      "bytes": 594346,
+      "sha256": "c99cf03550635eb5dc7bac869c3a230a2b29fd0aa94ecf200134682ced98f6d4",
+      "git_blob_sha1": "3e6c12d2d94f6dc7d660fed847a090a26d0467b0",
+      "path": "models/A-NEW-20261027-POTTED-CACTUS-001_LOD1_R1.fbx"
+    },
+    {
+      "bytes": 476420,
+      "sha256": "2dc7015bf5c5dc2503c4d2df1a4d7628d38f0b9467943c44b1be03a9131d1483",
+      "git_blob_sha1": "173639b5d1044de8ebf62a02615d0973b3a5de29",
+      "path": "models/A-NEW-20261027-POTTED-CACTUS-001_LOD1_R1.glb"
+    },
+    {
+      "bytes": 185123,
+      "sha256": "b0bcb8789ea3dc35777df141794f8e9f6cabb2d67b5b2bf5d56d0ccc67820bdd",
+      "git_blob_sha1": "4ee5923c6660a39a8b9e27bdc7dbe97bef6b4ae3",
+      "path": "models/A-NEW-20261027-POTTED-CACTUS-001_LOD2_R1.blend"
+    },
+    {
+      "bytes": 466266,
+      "sha256": "8dda3d319dab91a1ce94a9a61485b780061204de931d5bd773f4f1dd8145b395",
+      "git_blob_sha1": "6de2d65a5ad6be6202f357b664e93225abd393e3",
+      "path": "models/A-NEW-20261027-POTTED-CACTUS-001_LOD2_R1.fbx"
+    },
+    {
+      "bytes": 323060,
+      "sha256": "2ae077f6b6c221da3d0a10c53c8dbedefae981d957a4082c47b7af2e4f52d5a1",
+      "git_blob_sha1": "a4adf74b85d9e521d57ee0cdddce2870de769abf",
+      "path": "models/A-NEW-20261027-POTTED-CACTUS-001_LOD2_R1.glb"
+    },
+    {
+      "bytes": 388432,
+      "sha256": "6798e664c5322bff06fbe003aa3cde87aeb22cfdf4d458fd9bb4fec08570ccea",
+      "git_blob_sha1": "2301252512cd460e044246f2d8d8a1832eedaab5",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "One original complete potted cactus assembly: three fleshy pads, representative spines, soil, plain footed pot and saucer. One generic type only; no separate species, pad, spine, pot or saucer counts. No prior asset components copied or extracted.",
+    "Three actual decreasing LODs retain the full assembly and 61 representative spines while reducing pad, container and spine tessellation. No photographed texture or copied decorative pot relief.",
+    "Approximate overall height 50.6 cm and width 23.6 cm. Dimensions, concealed backs, root support and pot interior are generalized. This is a static visual prop, not measured botanical reconstruction, an identified species or a growth simulation.",
+    "Actual unlabeled 128px renders reviewed with spines visible and with all spines and areoles hidden: connected thick oval pads still read as cactus rather than a ball or flat leaf sign. Assistant judgment only, not an audience test.",
+    "Pot mouth is genuinely open around soil; pads overlap each other and soil, feet connect pot to saucer. Fixed overlaps are static joints rather than biological or manufacturing assertions.",
+    "BLEND, GLB and FBX exports were reimported and actually rendered. No Unity/runtime, wearable, physical-material or biological-function verification claimed.",
+    "Per-face planar UVs are valid but overlap; not a unique packed bake atlas. Materials have no external image dependencies.",
+    "Private BOSS source photograph has unverified photographer, maker, species and redistribution rights. No reference photograph, copied labels, logo or texture delivered."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

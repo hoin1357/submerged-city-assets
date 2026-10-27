@@ -1,0 +1,83 @@
+{
+  "id": "A-NEW-20261027-CUCUMBER-001",
+  "revision": "R1",
+  "same_id_override": false,
+  "new_type_increment": 1,
+  "triangles_LOD0_LOD1_LOD2": [
+    11680,
+    5488,
+    1984
+  ],
+  "models_and_render": [
+    {
+      "bytes": 381807,
+      "sha256": "78c602b10f6e34d2b6ee07846ba1d701d7ab6e6dfc99fd701dc528897dd7ac4b",
+      "git_blob_sha1": "88715ec8cc7c6cc37893ed7d2c8fa8bab12ab221",
+      "path": "models/A-NEW-20261027-CUCUMBER-001_LOD0_R1.blend"
+    },
+    {
+      "bytes": 322159,
+      "sha256": "3e6b229ca4aa3c4c90756d452e23422025747204688e774dfa50ca34c07d42d0",
+      "git_blob_sha1": "8c45d2e95292ed82e04455b72670818458c7c288",
+      "path": "models/A-NEW-20261027-CUCUMBER-001_LOD0_R1.fbx"
+    },
+    {
+      "bytes": 279656,
+      "sha256": "75c0c1990335a36aef8c16a4b01cd150dc807fefb5dc18b159c1208aad412083",
+      "git_blob_sha1": "8257354428b16a15e50dd39225ba468cab4ba1a4",
+      "path": "models/A-NEW-20261027-CUCUMBER-001_LOD0_R1.glb"
+    },
+    {
+      "bytes": 227018,
+      "sha256": "1327a967b965d5c469c4b288938ee35eecaa7c2176254798bd6fee87671befa4",
+      "git_blob_sha1": "0d8255659b003bab27a7aa8f914b64ab3f54e3d0",
+      "path": "models/A-NEW-20261027-CUCUMBER-001_LOD1_R1.blend"
+    },
+    {
+      "bytes": 160575,
+      "sha256": "bddbd298f0f28bcefc0949cbff13591a766e15c50b5a1a51bbc6ec7e3173ab21",
+      "git_blob_sha1": "fe7452f38dce2bba14eef619a5e51572d3343476",
+      "path": "models/A-NEW-20261027-CUCUMBER-001_LOD1_R1.fbx"
+    },
+    {
+      "bytes": 136840,
+      "sha256": "3dd4fdcdad4b574a8384d421848019531f32bba62025d5a9c790ac16b4cb25e5",
+      "git_blob_sha1": "30abb42780759e93fc731f1f693721fb84802159",
+      "path": "models/A-NEW-20261027-CUCUMBER-001_LOD1_R1.glb"
+    },
+    {
+      "bytes": 137601,
+      "sha256": "c906139e7d6cdc77165bebe2b89de6fd8d873ba69622956ae189455cf3092943",
+      "git_blob_sha1": "be0ccab65fab601f6d63e5a52206d9e3003e37c9",
+      "path": "models/A-NEW-20261027-CUCUMBER-001_LOD2_R1.blend"
+    },
+    {
+      "bytes": 68351,
+      "sha256": "50e8104fbf6102d200ab40579f6162aaed94aaa177a07b8c27e8656e714c1b11",
+      "git_blob_sha1": "2ab10e622afbf90896b67b6a61cbf8a81b21f680",
+      "path": "models/A-NEW-20261027-CUCUMBER-001_LOD2_R1.fbx"
+    },
+    {
+      "bytes": 53656,
+      "sha256": "2789e26fda97cd2c9722a8e45cf6eb26e7a08717421ad5d4bb1a7678584fb2b4",
+      "git_blob_sha1": "099cc370e17f005d2be35458b225e449a19bc585",
+      "path": "models/A-NEW-20261027-CUCUMBER-001_LOD2_R1.glb"
+    },
+    {
+      "bytes": 338526,
+      "sha256": "2db05a048c517a49e98f68fbd68be9188773cbf3910d28a91ee80efbb9570229",
+      "git_blob_sha1": "9a4bdb5634b552d53f244dcdfc4fc6ceed270b62",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "One complete original generic whole cucumber, one type only. Cucumber/pickle/gherkin naming, color, cultivar and size are not additional types. No sea cucumber, other vegetable, rod or earlier mesh copied or extracted.",
+    "One closed connected gently curved elongated skin surface with unequal rounded ends, subtle lengthwise ridges and low integrated bumps arranged in longitudinal rows. No separately penetrating bump spheres, tube feet, oral rims or animal appendages.",
+    "Approximate authored length0.144m. Hidden ends/underside, fine surface anatomy, exact dimensions and cultivar generalized. Photo support excluded. No actual material composition, edible-use, food safety, pickling process or botanical identification claim. Static visual game prop only.",
+    "Three decreasing LODs in BLEND/GLB/FBX, nine reimports and35actual renders checked. Unlabeled128px views judged recognizable as a cucumber/pickle-family vegetable from mild bend, rounded unequal ends and low skin bumps rather than an unfeatured green rod. Assistant judgment, not audience testing or game-engine validation.",
+    "Per-face planar UVs overlap intentionally; not a unique packed bake atlas. Plain materials and authored geometry, no copied image textures, source pixels, text or labels.",
+    "Reference attribution: Mihai Oltean, Fruits-360 dataset,2017-. CC BY-SA4.0, https://creativecommons.org/licenses/by-sa/4.0/ . Repository https://github.com/fruits-360/fruits-360-original-size commit d08d3d5b1abfdace697870b0f6aeee0a4edb74b4, Test/Cucumber 1/r0_103.jpg SHA256d6af433f643c0874aec801ecc248fed21d389a5bb16f410a9b1b2ecd500a8c26 and r0_31.jpg SHA256c428547d516bf4944bea5de7fe541c042384069708e3a5688c250f639c041d21. Both actual photos directly inspected. Changes: original generalized procedural3Dshape and plain materials, unobserved hidden details approximate. Photos excluded from delivery. No endorsement implied. Generated asset also provided under CC BY-SA4.0.",
+    "Shape reference attribution: Mihai Oltean, Fruits-360 original-size dataset, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Repository commit d08d3d5b1abfdace697870b0f6aeee0a4edb74b4. Reference photographs are excluded; geometry and materials are independently authored and generalized."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

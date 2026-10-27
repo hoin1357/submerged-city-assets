@@ -1,0 +1,83 @@
+{
+  "id": "A-NEW-20261027-PUZZLE-CUBE-001",
+  "revision": "R1",
+  "same_id_override": false,
+  "new_type_increment": 1,
+  "triangles_LOD0_LOD1_LOD2": [
+    23540,
+    10340,
+    2420
+  ],
+  "models_and_render": [
+    {
+      "bytes": 120382,
+      "sha256": "84a472ff5f7b5afe41e2f56e3c9358427b6fcd65b6bd36f10c446a3793e19208",
+      "git_blob_sha1": "96242691b5c53b959a1b9bab31a7e2a3f031ea0d",
+      "path": "models/A-NEW-20261027-PUZZLE-CUBE-001_LOD0_R1.blend"
+    },
+    {
+      "bytes": 768108,
+      "sha256": "58e359e230a85b1a95bf5de857f36d673f149128257a555740d2dabf0a288414",
+      "git_blob_sha1": "8b110207ca1065c0ab6944c12b28e97f05723a6b",
+      "path": "models/A-NEW-20261027-PUZZLE-CUBE-001_LOD0_R1.fbx"
+    },
+    {
+      "bytes": 2077200,
+      "sha256": "615010375a6b168fd23007c2ce37df9be1ccb6de7738c504e5010d0258867e73",
+      "git_blob_sha1": "b628b5dd731d5a7719657d85ee8a68142dd417d2",
+      "path": "models/A-NEW-20261027-PUZZLE-CUBE-001_LOD0_R1.glb"
+    },
+    {
+      "bytes": 112818,
+      "sha256": "cf3d9d151724db8c7a83d5196eb89a2165b73306aef326c6c8475b4bc2479187",
+      "git_blob_sha1": "f1b2cf4c137b8d613ddadc9c27ca8ccccd7ed7a5",
+      "path": "models/A-NEW-20261027-PUZZLE-CUBE-001_LOD1_R1.blend"
+    },
+    {
+      "bytes": 410780,
+      "sha256": "868c327b7c8b5f64ce4a97a4ed77ad803d479408367a5ba883acc199637b1703",
+      "git_blob_sha1": "c3b774318ad63989d3084ed179e2067e893b3737",
+      "path": "models/A-NEW-20261027-PUZZLE-CUBE-001_LOD1_R1.fbx"
+    },
+    {
+      "bytes": 809340,
+      "sha256": "c6a8f2744afb419bafe16bba3c558ac5f6fb60d88331b012482237c8a39be9bb",
+      "git_blob_sha1": "6b5c0d27a38b50041ad0f18cbf270aacbce13442",
+      "path": "models/A-NEW-20261027-PUZZLE-CUBE-001_LOD1_R1.glb"
+    },
+    {
+      "bytes": 100155,
+      "sha256": "5f5373678cc85b55946a469730727a5544331ecbb0e30c19b49cffbaacd941ed",
+      "git_blob_sha1": "02bacba30eb6987780205e93246cfc3353461f9a",
+      "path": "models/A-NEW-20261027-PUZZLE-CUBE-001_LOD2_R1.blend"
+    },
+    {
+      "bytes": 205932,
+      "sha256": "fee44cb203dd5042d7e51ceaf0cb7f01dc7e351ac4c3aaacc15a618f347a2afa",
+      "git_blob_sha1": "44548a0a86c963caebe4769acc0ecee216d456d4",
+      "path": "models/A-NEW-20261027-PUZZLE-CUBE-001_LOD2_R1.fbx"
+    },
+    {
+      "bytes": 212968,
+      "sha256": "c3858c4583c1a460ec2ae7ad4b454a49a9ba665f4a23aad2c4485c6a0e6f36a8",
+      "git_blob_sha1": "8417406b23328280f5769bc6c25684c1177186fc",
+      "path": "models/A-NEW-20261027-PUZZLE-CUBE-001_LOD2_R1.glb"
+    },
+    {
+      "bytes": 526245,
+      "sha256": "41c44db2d93950c5196899287bc36ff31ab72069ae80d4475385feb730203a0b",
+      "git_blob_sha1": "5e9e67a248c4f2cf14ff1439287b1f72d26776fb",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "One fresh original complete static 3x3 puzzle cube. Six faces and 54 surface panels belong to one object, not separate counted designs. No color, grid-count, brand, size or scrambled-state variants counted.",
+    "Continuous black core with shallow beveled surface panels and visible dark grid channels. Panels intentionally embed in the core for static contact. There are no independently turning cubelets or internal rotation mechanism.",
+    "Own approximate overall size: 6.18 cm per side. Hidden source faces, reverse arrangement and panel thickness are generic. Color layout is illustrative, not a verified physically attainable or solvable puzzle state.",
+    "Actual unlabeled 128px renders of every LOD retain the 3x3 grid and familiar puzzle-cube silhouette. This is assistant visual judgment, not an audience test.",
+    "Actual BLEND, GLB and FBX reimport renders checked. No Unity or runtime interaction certification. Static visual prop only.",
+    "Source is a privately retained published BOSS stimulus; original photographer and manufacturer unverified. No source photograph, logo, branding or photo texture included.",
+    "Valid overlapping per-face planar UVs are provided, not a unique packed bake atlas. Plain materials need no external textures."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

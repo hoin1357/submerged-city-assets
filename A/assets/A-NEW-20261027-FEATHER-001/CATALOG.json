@@ -1,0 +1,84 @@
+{
+  "id": "A-NEW-20261027-FEATHER-001",
+  "revision": "R1",
+  "same_id_override": false,
+  "new_type_increment": 1,
+  "triangles_LOD0_LOD1_LOD2": [
+    6968,
+    4512,
+    2884
+  ],
+  "models_and_render": [
+    {
+      "bytes": 181296,
+      "sha256": "28df1e45d3707ad32f66922764fcf3275dad4fa1bbac0584d586984c882a3ee4",
+      "git_blob_sha1": "d2bb49550ae302de886f22c68b163a0e5bd2ed9a",
+      "path": "models/A-NEW-20261027-FEATHER-001_LOD0_R1.blend"
+    },
+    {
+      "bytes": 465072,
+      "sha256": "37193a044f38e9d29d2fc93a8c376b1a203d23347b865884d56a7a867aea9ae1",
+      "git_blob_sha1": "4b78734e486c48ff9cad56ea8bef9835a3e641f8",
+      "path": "models/A-NEW-20261027-FEATHER-001_LOD0_R1.fbx"
+    },
+    {
+      "bytes": 541212,
+      "sha256": "6115fce7f6b3842ba05337e4633ff3ba5d86c70134403b604b3044ad0db82352",
+      "git_blob_sha1": "9483b2f1608c1d10e8b627bd7becddb7c3732e79",
+      "path": "models/A-NEW-20261027-FEATHER-001_LOD0_R1.glb"
+    },
+    {
+      "bytes": 156452,
+      "sha256": "edb988727ea2a87dc46327fdaef94b72bd8e3a986ec3d1664aa45ca1d8917426",
+      "git_blob_sha1": "17e126b2fc3d2884cd45a7814cda3732e1fb691c",
+      "path": "models/A-NEW-20261027-FEATHER-001_LOD1_R1.blend"
+    },
+    {
+      "bytes": 390768,
+      "sha256": "9308fda35705162fb4a9d0adb69cb243d03f17daf05e2ef344709a65d8688eec",
+      "git_blob_sha1": "73eff4fdd2fd61d0524bbc5f012e06a39f262382",
+      "path": "models/A-NEW-20261027-FEATHER-001_LOD1_R1.fbx"
+    },
+    {
+      "bytes": 377636,
+      "sha256": "a3aaa947656d74d59ca7cd99f83800b5d8a02a4876c46b0630fedb177cf90ce6",
+      "git_blob_sha1": "3853538ef27a1ab9032d4db50a883b0741821564",
+      "path": "models/A-NEW-20261027-FEATHER-001_LOD1_R1.glb"
+    },
+    {
+      "bytes": 144091,
+      "sha256": "29dc9012451258761c17bad296f250bfaabd905b9cf63991e4f2310d1719992f",
+      "git_blob_sha1": "2c92b6fa50abb44abdd34c58e7e35a56e24d161e",
+      "path": "models/A-NEW-20261027-FEATHER-001_LOD2_R1.blend"
+    },
+    {
+      "bytes": 341088,
+      "sha256": "c0623ffdc7d59024d88988b65443eb38050c4d3434d0401470236a21d584049d",
+      "git_blob_sha1": "e1b7559ef05f3d959831418d57bbc6d861d23b1a",
+      "path": "models/A-NEW-20261027-FEATHER-001_LOD2_R1.fbx"
+    },
+    {
+      "bytes": 270008,
+      "sha256": "5df96a1f90d4cf7014f303453ba64adb3d3d99bcc887d8e6ac83f30e26692a01",
+      "git_blob_sha1": "a1bd5430511aecdc0b43f1775b7ff82bccab55a6",
+      "path": "models/A-NEW-20261027-FEATHER-001_LOD2_R1.glb"
+    },
+    {
+      "bytes": 330486,
+      "sha256": "c453eb6e36a82e869f7be7a3435abee8527fec6b2ce79625c20a9fc368358c54",
+      "git_blob_sha1": "cb6c5dc2afc44b60b80fd4c4cc76eae6c494259e",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "One original whole detached feather: a tapered central shaft, bare base and asymmetric two-sided vane. One type only; no species, color-pattern, length or damage variants. No bird, wreath or costume component copied or extracted.",
+    "100 closed thin ribbon groups approximate visible barbs, with real gaps between groups. These are simplified groups, not microscopic barbules or anatomical reconstruction. Thin geometry is 0.28 mm thick for a stable static game prop.",
+    "Three genuinely reduced LODs retain all barb groups while reducing longitudinal and shaft tessellation. Actual gap rays checked after all nine BLEND/GLB/FBX imports; no opaque vane slab or alpha image cutout.",
+    "Approximate authored length 25.2 cm. Backside, shaft interior, exact dimensions, barb arrangement and natural deformation are generic. No exact bird species, biological-function or aerodynamic claim.",
+    "Actual unlabeled 128px renders reviewed in original materials and uniform gray: tapered bare shaft, separate sweeping barb edges and asymmetric vane read as a feather rather than a leaf or cloth strip. Assistant judgment only, not an audience test.",
+    "Nine BLEND/GLB/FBX models reimported and actually rendered. No Unity/runtime, cloth physics, rigging or physical simulation verification claimed.",
+    "Valid overlapping planar per-face UVs are supplied, not a unique packed bake atlas. Plain materials require no external image files.",
+    "Private BOSS stimulus photographer, shooting context, bird species and redistribution rights remain unverified. No source photo, copied texture, branding or labels delivered."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

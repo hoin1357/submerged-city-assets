@@ -1,0 +1,81 @@
+{
+  "id": "A-NEW-20261027-SHUTTLECOCK-001",
+  "revision": "R8",
+  "same_id_override": false,
+  "new_type_increment": 1,
+  "triangles_LOD0_LOD1_LOD2": [
+    6944,
+    3968,
+    2336
+  ],
+  "models_and_render": [
+    {
+      "bytes": 264081,
+      "sha256": "301ac5b567fa5d7ca5c6e66668857cd52f7c78e9d3aa8cc2dea90fe6525d5fc7",
+      "git_blob_sha1": "85a87648df7dd434b3f1f9ee4907309d918f0f27",
+      "path": "models/A-NEW-20261027-SHUTTLECOCK-001_LOD0_R8.blend"
+    },
+    {
+      "bytes": 203116,
+      "sha256": "99e8041026b6e3c0bbe13ddbe645ecc516fcded6245f0d474933ea97ccb5bc68",
+      "git_blob_sha1": "105cb65a7132b72cd66b98bd97b4b44091eaa3b7",
+      "path": "models/A-NEW-20261027-SHUTTLECOCK-001_LOD0_R8.fbx"
+    },
+    {
+      "bytes": 301320,
+      "sha256": "d20d4ce52dc114e8de80ee5ccc6b183880b1e349a8b69398dce001579c90bbb4",
+      "git_blob_sha1": "a526faf8ccb4c8d38f99b6118824ab85fb3fdc9a",
+      "path": "models/A-NEW-20261027-SHUTTLECOCK-001_LOD0_R8.glb"
+    },
+    {
+      "bytes": 181183,
+      "sha256": "cabc95570f2989cc0ce2b17e656b53e46584fb2e9e2ad9667035a73cc85f725c",
+      "git_blob_sha1": "e3d6c2e7cbbae53b26c0d39695a69cacbef827ad",
+      "path": "models/A-NEW-20261027-SHUTTLECOCK-001_LOD1_R8.blend"
+    },
+    {
+      "bytes": 119628,
+      "sha256": "37a9a94a4ba4bd52ce7ee695bb9fd5d28e08c77b8974c2f53d3f4155768771b3",
+      "git_blob_sha1": "6dc91de2a9511523033b39b3e1933325f749e3ae",
+      "path": "models/A-NEW-20261027-SHUTTLECOCK-001_LOD1_R8.fbx"
+    },
+    {
+      "bytes": 193668,
+      "sha256": "cede1a6e1e3b1fec39e8e3b3ce6ef28291d8c5326d9c2466dae8ae4438c2a7db",
+      "git_blob_sha1": "18b439190049aff31410e9c3e46fb7d3e2a6d4a8",
+      "path": "models/A-NEW-20261027-SHUTTLECOCK-001_LOD1_R8.glb"
+    },
+    {
+      "bytes": 145771,
+      "sha256": "202911ec7847c2c9069989fa1f3c8b08d2dc1109e601aad70a9cdac374229dbd",
+      "git_blob_sha1": "495e984988efcb0bb1f320ff569d647d350a22f5",
+      "path": "models/A-NEW-20261027-SHUTTLECOCK-001_LOD2_R8.blend"
+    },
+    {
+      "bytes": 78140,
+      "sha256": "6ead139eeb3b124b5b9da7572589fa259b646d844a99e3b51904d0399aead155",
+      "git_blob_sha1": "9bcc06f91e6845d433ed8fdf440abb212fa455a6",
+      "path": "models/A-NEW-20261027-SHUTTLECOCK-001_LOD2_R8.fbx"
+    },
+    {
+      "bytes": 129284,
+      "sha256": "b4a1f1a6cd24b8beb5e7c14ccba1ec31c59a9885390714aa4618f8fcd4e70be5",
+      "git_blob_sha1": "80c1359b4e5953b27068472a4dbe479c6973b46e",
+      "path": "models/A-NEW-20261027-SHUTTLECOCK-001_LOD2_R8.glb"
+    },
+    {
+      "bytes": 385203,
+      "sha256": "6ffdd4d73a6256fd8610fcf585f057642dc61a35fe07e8ef05c6c949f632aa88",
+      "git_blob_sha1": "6e985b1fdaabd51806916118878365e6ff140fa6",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "One original complete static shuttlecock. Rounded head, sixteen distinct flared feather profiles, exposed stems and two binding levels are one connected closed surface. No earlier feather model or kit component extracted. No color, feather-count or size variant counted.",
+    "Generic stylized exterior, approximately 88 mm tall. Individual vane gaps intentionally retained. Fine barbs, thread twist, hidden material layers and exact source dimensions are not reconstructed. No botanical identification, actual cork/feather material, flight, durability, sporting compliance or physical operation claim.",
+    "Three decreasing LODs in BLEND, GLB and FBX; actual reimport and 35 renders reviewed. Unlabeled 128px views read as a shuttlecock in assistant visual judgment, not an audience test. No Unity/runtime test claimed.",
+    "Valid overlapping per-face planar UVs, not a uniquely packed baking atlas. Plain materials without image textures or external dependencies.",
+    "Private reference: expfactory/expfactory-experiments commit49b8123f18b26d94dfc010bb8a6ec7458b265e2e, object_rating/images/BOSS_neutral/birdie.jpg, SHA2566df8b1972becdcc2831724f6d6ef325d1f2f28a24fa6296a6b5c578a7d642e7a. Original photographer, maker and redistribution rights unverified. Photograph is not included in this candidate package."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

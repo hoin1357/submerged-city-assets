@@ -1,0 +1,84 @@
+{
+  "id": "A-NEW-20261027-WAIST-BELT-001",
+  "revision": "R4",
+  "same_id_override": false,
+  "new_type_increment": 1,
+  "triangles_LOD0_LOD1_LOD2": [
+    2856,
+    1424,
+    824
+  ],
+  "models_and_render": [
+    {
+      "bytes": 145943,
+      "sha256": "c2abce1a72ccde61c0f40dd595abb5c47f943592dc1167dff8a7e7c138f06e0c",
+      "git_blob_sha1": "f4b6d1961a8ced35949a0ca89cb7dc47da579f58",
+      "path": "models/A-NEW-20261027-WAIST-BELT-001_LOD0_R4.blend"
+    },
+    {
+      "bytes": 93741,
+      "sha256": "21aa24ccd286b11d63ea728c7a823dbe3b98db6744bb4b5b5d41168fa54f7ff5",
+      "git_blob_sha1": "efb3d0510e4e5f8877718f708c8faa8036de395c",
+      "path": "models/A-NEW-20261027-WAIST-BELT-001_LOD0_R4.fbx"
+    },
+    {
+      "bytes": 108768,
+      "sha256": "e9fccec65ad0f7a630a645a0c8964fd0272a26f5c2f2a48e45005744321359cb",
+      "git_blob_sha1": "fec129ebbb1ee8b24a48e9f8dc376aee9cb415e0",
+      "path": "models/A-NEW-20261027-WAIST-BELT-001_LOD0_R4.glb"
+    },
+    {
+      "bytes": 118972,
+      "sha256": "308123224f27a5b3710c7c7171c5cd40b857cba46e24954b06e6e231173c32c1",
+      "git_blob_sha1": "5e930724f3227ab7b52e76ce21626d8b76a6a281",
+      "path": "models/A-NEW-20261027-WAIST-BELT-001_LOD1_R4.blend"
+    },
+    {
+      "bytes": 60877,
+      "sha256": "1ad729c20c683f4dc7ec26002d60944c0fa4040cce37c80c3476634e4d8c3654",
+      "git_blob_sha1": "54390cdb0f861afa364d45baa63d407b8d21b615",
+      "path": "models/A-NEW-20261027-WAIST-BELT-001_LOD1_R4.fbx"
+    },
+    {
+      "bytes": 62380,
+      "sha256": "2776c0521c32bed528e5322b7f4971222e89863860c3cc0bc7849b1a3232db01",
+      "git_blob_sha1": "aef3cee675bd7ab33624fb6f5de4d557f4ae4e6d",
+      "path": "models/A-NEW-20261027-WAIST-BELT-001_LOD1_R4.glb"
+    },
+    {
+      "bytes": 103476,
+      "sha256": "321eeb1df6a1958c104be1c1463d669e8ffabef2b611527f750e2887abf9f567",
+      "git_blob_sha1": "434000dc0d45428cad86d64b7b95c05e60380ddc",
+      "path": "models/A-NEW-20261027-WAIST-BELT-001_LOD2_R4.blend"
+    },
+    {
+      "bytes": 46669,
+      "sha256": "7ff6fb7eb4fd935266a8fb60feb880a6f3e89fdd2cd175505355d74b34c428f8",
+      "git_blob_sha1": "7deb137f5a58ad2eee7780183a9929c62a16867e",
+      "path": "models/A-NEW-20261027-WAIST-BELT-001_LOD2_R4.fbx"
+    },
+    {
+      "bytes": 41080,
+      "sha256": "68beab6c2dcee0e3c77b75b3f250b3abc95b66ade8986890780f3b287e8d90ca",
+      "git_blob_sha1": "1ef2d8feb83843ae186f168aeba3ef4dd0c4f369",
+      "path": "models/A-NEW-20261027-WAIST-BELT-001_LOD2_R4.glb"
+    },
+    {
+      "bytes": 327982,
+      "sha256": "1848f6951a9682bc90fbe21b13a6c39495d487a5089b3eaf5c0b78ff6f726f2a",
+      "git_blob_sha1": "06f56014fbce91ba4bf7d9b4399dbabafc15d3c6",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "One complete original waist belt with open buckle frame, prong, keeper, adjustment holes and overlapping free tongue. No color/length variants counted.",
+    "Fresh original geometry, with no part extracted or copied from C049-06 hatbox, trousers or another counted outfit. Generic modeling utilities were reused, not asset parts.",
+    "Own approximate proportions, around 30 cm wide in the displayed loop. Single reference view does not establish exact length, hidden backing, stitching or manufacturer dimensions.",
+    "Four adjustment holes are actual through holes; three are unobstructed and the fourth is occupied by the static prong. Buckle frame and keeper are open geometry. Strap overlaps/captures at joins are intentional static contacts.",
+    "Separate mesh sections describe one continuous-looking strap assembly. This is a fixed display pose, not an adjustable, wearable or simulated leather mechanism.",
+    "No operating, tensile strength, load, safety or Unity certification. Original photographer/maker of the privately inspected BOSS stimulus is unverified; no source photograph, branding or photo textures included.",
+    "UVs are valid overlapping per-face planar projections, not a unique packed bake atlas. Plain original material colors need no external textures.",
+    "Unlabelled actual full and 128px renders reviewed as a recognizable waist belt. Assistant visual assessment only, not an audience test."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

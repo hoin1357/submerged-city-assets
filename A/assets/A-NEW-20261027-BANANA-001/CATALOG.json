@@ -1,0 +1,82 @@
+{
+  "id": "A-NEW-20261027-BANANA-001",
+  "revision": "R1",
+  "same_id_override": false,
+  "new_type_increment": 1,
+  "triangles_LOD0_LOD1_LOD2": [
+    8640,
+    4256,
+    2000
+  ],
+  "models_and_render": [
+    {
+      "bytes": 328317,
+      "sha256": "f83a0b0d3fa315ebd4996699f1c41dc80ea38b6aff9b202ca07a166ad1ffb021",
+      "git_blob_sha1": "c57ba638cd49536f8c535cd6eb6278ff03d65470",
+      "path": "models/A-NEW-20261027-BANANA-001_LOD0_R1.blend"
+    },
+    {
+      "bytes": 262465,
+      "sha256": "997587706cbc941b4b2edd3c6e00cabe079b38d9417b3800f196db015fb519b2",
+      "git_blob_sha1": "53692f483e360fc130adfdbdfa2a89a9e522e1a1",
+      "path": "models/A-NEW-20261027-BANANA-001_LOD0_R1.fbx"
+    },
+    {
+      "bytes": 229712,
+      "sha256": "dc95750c297aaf0a26ae56ac708ce7ccaf92d3cd3342930c41f3463e418c4aef",
+      "git_blob_sha1": "43bff39ab61d86fd4b10277733a57241317162c0",
+      "path": "models/A-NEW-20261027-BANANA-001_LOD0_R1.glb"
+    },
+    {
+      "bytes": 211490,
+      "sha256": "b93360c2846cb16e0d443dbd31cf826abb35bd33875021ac5f6e7fc548ecc3af",
+      "git_blob_sha1": "42e9b5c0687f5f991b13bb75ec5259f84870131b",
+      "path": "models/A-NEW-20261027-BANANA-001_LOD1_R1.blend"
+    },
+    {
+      "bytes": 142145,
+      "sha256": "733b5c41aefaba778cb6ab9548d815f4163e259e8b2416399478632f36131441",
+      "git_blob_sha1": "97413ac25191cfd250075be4ffe37c76ae9a26fe",
+      "path": "models/A-NEW-20261027-BANANA-001_LOD1_R1.fbx"
+    },
+    {
+      "bytes": 120592,
+      "sha256": "67857dedb48f0abba7a873b4a538ad138ec2f8b54c91333c1099b7f6bad28365",
+      "git_blob_sha1": "3a729f71046d08beb7a23e8e402469902a4c08ba",
+      "path": "models/A-NEW-20261027-BANANA-001_LOD1_R1.glb"
+    },
+    {
+      "bytes": 142930,
+      "sha256": "39320e0f458d73c8c5467d0d6f3555f503fbc1a7ab1bc30d52411eebabbdaadc",
+      "git_blob_sha1": "0ffd46a4f88bcb43b9bf3fff96e4fea8922fe86e",
+      "path": "models/A-NEW-20261027-BANANA-001_LOD2_R1.blend"
+    },
+    {
+      "bytes": 73137,
+      "sha256": "da241d175fc015655da3c21a02f50944ee2e537823b3e6ef102ba6d9ce69e5cd",
+      "git_blob_sha1": "bd215b689d82d203320a3bf3100adf4618e2a28f",
+      "path": "models/A-NEW-20261027-BANANA-001_LOD2_R1.fbx"
+    },
+    {
+      "bytes": 62784,
+      "sha256": "d754c49a077658087e9d2ab85940bedee3f46387cc88dd69f2488108c6875ef1",
+      "git_blob_sha1": "c6071aed752ae1e4ca74400a1b7bf96c65107bb9",
+      "path": "models/A-NEW-20261027-BANANA-001_LOD2_R1.glb"
+    },
+    {
+      "bytes": 310514,
+      "sha256": "1adc0a6a37cd64f184025d58da7191cffab4362b23b605faaf3ed49777c213b1",
+      "git_blob_sha1": "e5d40e3be4c207a3d762da3f53e70bb85d4849c9",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "One complete original generic unpeeled banana. One type only, no cultivar, color, size, peeled/unpeeled or fruit-part variants counted. No existing food, plant or tool components copied or extracted.",
+    "Single closed connected curved surface: longitudinal gentle peel ridges, a concave inner outline, convex outer body, short narrow neck/stem and tapered opposite end. All end/body rings share explicit topology. No separate overlapping caps, duplicated hidden body or intersecting peel layers.",
+    "Three decreasing LODs in BLEND/GLB/FBX, nine reimports and35actual renders reviewed. Unlabeled128px oblique views judged banana-like from curved taper, inner concavity and short ends, not lettering. Assistant judgment, not audience testing or game-engine verification.",
+    "Valid per-face planar UVs overlap intentionally; not a unique packed bake atlas. Plain materials without image textures, source pixels, text or copied graphics.",
+    "Reference attribution: Mihai Oltean, Fruits-360 dataset,2017-. CC BY-SA4.0, https://creativecommons.org/licenses/by-sa/4.0/ . Repository https://github.com/fruits-360/fruits-360-original-size commit d08d3d5b1abfdace697870b0f6aeee0a4edb74b4, Test/Banana 3/r0_103.jpg, SHA256678e694f65e1583fb061eecb74bff7290fe55a14999e9784e6a974f1b71366be. Existing cached actual photograph inspected; no new network requests. Changes: original generalized procedural3Dsurface with approximate hidden shape; source image not delivered. No endorsement implied. Generated asset also provided under CC BY-SA4.0.",
+    "Shape reference attribution: Mihai Oltean, Fruits-360 original-size dataset, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Repository commit d08d3d5b1abfdace697870b0f6aeee0a4edb74b4. Reference photographs are excluded; geometry and materials are independently authored and generalized."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

@@ -1,0 +1,83 @@
+{
+  "id": "A-NEW-20261027-SPACE_ROCKET-001",
+  "revision": "R1",
+  "same_id_override": false,
+  "new_type_increment": 1,
+  "triangles_LOD0_LOD1_LOD2": [
+    21312,
+    9600,
+    2496
+  ],
+  "models_and_render": [
+    {
+      "bytes": 400612,
+      "sha256": "afd46093a88c8502213d7e977731c49f9980d9c225b217db86baed398ed0163f",
+      "git_blob_sha1": "340b20864dc21f3851746c7cd08e7c11e3b7514d",
+      "path": "models/A-NEW-20261027-SPACE_ROCKET-001_LOD0_R1.blend"
+    },
+    {
+      "bytes": 478635,
+      "sha256": "ac8315bd6d4d24dd6c0005b12e8994a7d78f17da6842d3896b1a6845d44d4a0d",
+      "git_blob_sha1": "c1f7b96487854b80e2f39838496a0cf2eb085d6f",
+      "path": "models/A-NEW-20261027-SPACE_ROCKET-001_LOD0_R1.fbx"
+    },
+    {
+      "bytes": 572444,
+      "sha256": "6f74f78d472837cfa590bc8054b4c2fc0251cd5ee4179345f6a352d259f01413",
+      "git_blob_sha1": "0aa2a57930f2a6b74758480d323e4e552cc40d16",
+      "path": "models/A-NEW-20261027-SPACE_ROCKET-001_LOD0_R1.glb"
+    },
+    {
+      "bytes": 228929,
+      "sha256": "29217206982e3b815cc132767e0b7ed47e7ed1bfd1f28273578d9b1676167ab4",
+      "git_blob_sha1": "4c5e1fa579f617313efb0ba236468bb1cd436f4e",
+      "path": "models/A-NEW-20261027-SPACE_ROCKET-001_LOD1_R1.blend"
+    },
+    {
+      "bytes": 239307,
+      "sha256": "b746607ca4d77f755a0fd253172b4c1f48f7aeebecf7f146991e8a0bf6a435e9",
+      "git_blob_sha1": "6e7c166f74bb61e214dbe202ffd9171279ff9e88",
+      "path": "models/A-NEW-20261027-SPACE_ROCKET-001_LOD1_R1.fbx"
+    },
+    {
+      "bytes": 280056,
+      "sha256": "bad3b41100d2091a6d8e717e97bd5fcded3fb5d79685ed8d484c1d354c19a460",
+      "git_blob_sha1": "393ad6577d60370afcf118cd433e964e106eeb93",
+      "path": "models/A-NEW-20261027-SPACE_ROCKET-001_LOD1_R1.glb"
+    },
+    {
+      "bytes": 126347,
+      "sha256": "52df9d1fdf87cfa57d88cb7c1efb024e8692fe6fcba9dad53e180c45792ad15a",
+      "git_blob_sha1": "80cf83357c25ef83fef6feedf911366a99c37721",
+      "path": "models/A-NEW-20261027-SPACE_ROCKET-001_LOD2_R1.blend"
+    },
+    {
+      "bytes": 90891,
+      "sha256": "00a620069d5049d321faf9df84ec70610a9e9e643f331d238b234c4f4b1d87d0",
+      "git_blob_sha1": "4657d38b2c311981eb2b15d0bb5a229d413fabf5",
+      "path": "models/A-NEW-20261027-SPACE_ROCKET-001_LOD2_R1.fbx"
+    },
+    {
+      "bytes": 102048,
+      "sha256": "9b7b509255174b3fc257696dae675c4964443362261192b4b110770707b7e841",
+      "git_blob_sha1": "03051ed2e5674a74f58157c05f86adc682106bc8",
+      "path": "models/A-NEW-20261027-SPACE_ROCKET-001_LOD2_R1.glb"
+    },
+    {
+      "bytes": 293570,
+      "sha256": "9f64330bb2850ab3c144e55398d2aa9af5d21988c33fc981177685513b75b060",
+      "git_blob_sha1": "ca3bd9b450d6934a86a2e38f11a005969f87050c",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "One original complete generic static space-launch rocket exterior. Pointed widened fairing, long central shell, six clustered lower external booster forms and shallow bell-like outlets form one assembly. No previous airplane, underwater thruster, cylinder or rocket mesh extracted. One type only; no size, vehicle-name, colour, model/full-scale or detached-part variants.",
+    "Seven closed positive-volume surfaces: one continuous central fairing/body/external recess skin and six continuous booster/nose/external recess skins. Boosters meet the central body along polygonal tangent boundaries. Radial separating planes and nearest-surface checks verify contact without interpenetration. Mounting is deliberately simplified static tangency, not a mechanically engineered fastening or separation system.",
+    "External outlets have shallow blind visual recesses with closed backs. No engine, propellant, guidance, launch, weapon function, operational mechanism or buildable internal design is included. Exact vehicle identity, real-versus-model identity, scale, dimensions, rear details and internals are unverified/generalized.",
+    "Three decreasing LODs, nine BLEND/FBX/GLB reimports and35actual views inspected including native unlabeled128px LOD0/2. Fairing, tall central body, lower booster cluster and outlet silhouettes read as a rocket without logos or words. Assistant judgment, not audience testing or Unity runtime verification.",
+    "Original plain materials and authored geometry only. No photo texture, agency logo, national insignia, branding or exact rocket model markings. Per-triangle planar UVs intentionally overlap; not a unique packed lightmap atlas.",
+    "Private source: expfactory/expfactory-experiments commit49b8123f18b26d94dfc010bb8a6ec7458b265e2e, object_rating/images/BOSS_neutral/spacerocket.jpg SHA256d46063db8b77b114c21240125669b80ab8e6cbcebfd8835c86fc86da845068c3. Full original pixels directly viewed. Independent BOSS stimulus, original photographer/manufacturer/image rights unverified; no source photo redistribution or official vehicle attribution.",
+    "Native/imported self-intersection, positive-area coplanarity, UV, slivers, closed topology and reimport errors checked. Exact duplicate coordinate aliases are normalized before unchanged1e-7m diagnostic weld. Cross-part tests retain2e-7m boundary contact tolerance and separately test positive-area coplanarity; oblique radial separating-plane checks distinguish true boundary-only booster contact from penetration. Adjacent triangles are not blanket-exempted."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

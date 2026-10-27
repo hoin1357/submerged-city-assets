@@ -1,0 +1,81 @@
+{
+  "id": "A-NEW-20261027-MATCH-001",
+  "revision": "R3",
+  "same_id_override": false,
+  "new_type_increment": 1,
+  "triangles_LOD0_LOD1_LOD2": [
+    1296,
+    608,
+    264
+  ],
+  "models_and_render": [
+    {
+      "bytes": 117278,
+      "sha256": "1bf02a4ec03b06b5a874215e7414dcdfae9c7c1b055db53892d4341347178e12",
+      "git_blob_sha1": "3bd42ceb41b38538b0b370d5404ef5e19b9f6cdb",
+      "path": "models/A-NEW-20261027-MATCH-001_LOD0_R3.blend"
+    },
+    {
+      "bytes": 53330,
+      "sha256": "ec876d2a870eec886db4a6dfcd6777de5b1baa79cc1568261e4b33ccac7c80aa",
+      "git_blob_sha1": "166afa801fd2c8b675bbc3c5b2959d3eb966eb66",
+      "path": "models/A-NEW-20261027-MATCH-001_LOD0_R3.fbx"
+    },
+    {
+      "bytes": 48720,
+      "sha256": "ffcaa6a738b888f3b9b8613d3d8b9e9379ae9b11cafbfe9f4815a5d5cae44309",
+      "git_blob_sha1": "b5fadadfc55b41331a5fffbd98c9a8d93d548f31",
+      "path": "models/A-NEW-20261027-MATCH-001_LOD0_R3.glb"
+    },
+    {
+      "bytes": 103573,
+      "sha256": "624c51db247be38e573036c8563b9ff29ae1ba19c447baec1f6848acdeeb8475",
+      "git_blob_sha1": "5af23166feca258ecf48ee7346e36f52f5a9c38f",
+      "path": "models/A-NEW-20261027-MATCH-001_LOD1_R3.blend"
+    },
+    {
+      "bytes": 34482,
+      "sha256": "c510a8cde9784bb625c69bd23117303f0968e742e96fb192205972f0eb29e05b",
+      "git_blob_sha1": "acf1417cf9422549186631394d067afe21781a39",
+      "path": "models/A-NEW-20261027-MATCH-001_LOD1_R3.fbx"
+    },
+    {
+      "bytes": 25036,
+      "sha256": "e93fbc95fcff745180926f38fb318d3a82e490376814f2f0437780c54a12fefc",
+      "git_blob_sha1": "46f5287a0e3be587d2cf3f95b944ac15031e400f",
+      "path": "models/A-NEW-20261027-MATCH-001_LOD1_R3.glb"
+    },
+    {
+      "bytes": 91417,
+      "sha256": "5844ba9a9e5cbc10427c8ea4719af0e202c2e2a5277c1d75b9f6c906305d9dea",
+      "git_blob_sha1": "1ab50c17871114871987a479fd4bf5663b65a45a",
+      "path": "models/A-NEW-20261027-MATCH-001_LOD2_R3.blend"
+    },
+    {
+      "bytes": 25090,
+      "sha256": "1314cb9b5c1210fb1c0f845df53471bc8acbb37b985d5318621ca2b2f231fede",
+      "git_blob_sha1": "fbc9cd611cbc6beb50bba0c2de49e325c56a2e1f",
+      "path": "models/A-NEW-20261027-MATCH-001_LOD2_R3.fbx"
+    },
+    {
+      "bytes": 14260,
+      "sha256": "efaef6da2ef34782450d15d267f965e72c7e9b0a797e4f2b30dc51118c40ea6b",
+      "git_blob_sha1": "4afe0fb96dcc4be931a85c7be93e6a2b42606465",
+      "path": "models/A-NEW-20261027-MATCH-001_LOD2_R3.glb"
+    },
+    {
+      "bytes": 275410,
+      "sha256": "aa62fb470044cbbb57b521e0b94a605250c8a9dd1001c3bd681bb2becb0d77b6",
+      "git_blob_sha1": "f3317d1cf25471851969eab38d296c15045e7c7b",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "One complete original generic unlit match, one type only. No color, length, burned/unburned or packaging variants counted. No existing swab or rod geometry copied, extracted or resized.",
+    "Approximate authored length44mm. Hidden sides, small surface irregularities and dimensions generalized from one private photo. Static game prop only; no ignition, combustion, chemical composition, manufacturing specification or fire-safety function implemented or claimed.",
+    "Three decreasing LODs in BLEND/GLB/FBX, nine reimports and35actual renders reviewed. Unlabeled128px views judged recognizable as a match from squared shaft, flat rear and short coated head without text. Assistant judgment, not audience testing or game-engine validation.",
+    "Per-face planar UVs overlap intentionally; not a unique packed bake atlas. Plain materials, no copied photo textures, labels or graphics.",
+    "Private reference: expfactory/expfactory-experiments commit49b8123f18b26d94dfc010bb8a6ec7458b265e2e, object_rating/images/BOSS_neutral/match.jpg. SHA256646348caad0b9268eb8472d283ef50ff05c2e61c0cbfc10e19c3319ae0989d0c. Actual whole photo directly inspected. Original photographer/maker/redistribution rights unverified. Source photograph excluded from delivery."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

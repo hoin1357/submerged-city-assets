@@ -1,0 +1,82 @@
+{
+  "id": "C026-06",
+  "revision": "R67 reduced LOD candidate",
+  "same_id_override": true,
+  "new_type_increment": 0,
+  "triangles_LOD0_LOD1_LOD2": [
+    17156,
+    11728,
+    6896
+  ],
+  "models_and_render": [
+    {
+      "bytes": 5489443,
+      "sha256": "1aba9b66f0c720a426660e08e0f4389bbc324fe5a2821d5102a139fb9e33c37e",
+      "git_blob_sha1": "cf303d76b9b129d8dc9d30fb69dbb4ca2bd40859",
+      "path": "models/C026-06_R67_LOD0.blend"
+    },
+    {
+      "bytes": 6634349,
+      "sha256": "1d17aacd3395bf3eea8807e7cda7160812e70e114eb81d4e4903c88f03142b85",
+      "git_blob_sha1": "e0971b36dc8976d7c0e98d7caf6e3142f31f08b0",
+      "path": "models/C026-06_R67_LOD0.fbx"
+    },
+    {
+      "bytes": 8673848,
+      "sha256": "6b4421ff7d2c69237008bf61eb1eb180b508e788c710f01a4b63f2adc4ba02ce",
+      "git_blob_sha1": "d7c6b3d3b0ddd919a22e3e78a9db1c99454fc291",
+      "path": "models/C026-06_R67_LOD0.glb"
+    },
+    {
+      "bytes": 5461854,
+      "sha256": "ee21319d4db866c50927e824de2a68e6e0045e1ae09346b91c7889c1a7b1055f",
+      "git_blob_sha1": "d5a386387ea0f359875fa7e8cb487e090407ff5a",
+      "path": "models/C026-06_R67_LOD1.blend"
+    },
+    {
+      "bytes": 6545741,
+      "sha256": "719f57079321971f56f96bf75fcbedac976ce77c85e78e69df4dcb921d4f9c36",
+      "git_blob_sha1": "27f0f3e14569ec5afa3271f21050e92b50db0acb",
+      "path": "models/C026-06_R67_LOD1.fbx"
+    },
+    {
+      "bytes": 8416088,
+      "sha256": "90afcdee312539559266b03a25d46a3725edefab70f9a11464d70f29ff6f9956",
+      "git_blob_sha1": "4917e165fadd52053747126e4c960cb84fdb25d1",
+      "path": "models/C026-06_R67_LOD1.glb"
+    },
+    {
+      "bytes": 5409204,
+      "sha256": "14dc189e0bdb26110bca6c3d07cd77001354ff4f7dc6756ee0159541964212c0",
+      "git_blob_sha1": "3ac5f688fcb2595d886df74d626110847a33819b",
+      "path": "models/C026-06_R67_LOD2.blend"
+    },
+    {
+      "bytes": 6442429,
+      "sha256": "ba1d5ab2b203794b465882e7e58da6e7ef9a8fbcd8fae8395088530662b4b6a0",
+      "git_blob_sha1": "7f22066859702c2f4dca83c5afd81438de0ddf81",
+      "path": "models/C026-06_R67_LOD2.fbx"
+    },
+    {
+      "bytes": 8161076,
+      "sha256": "0cd6dac6fb414b821ffd070919063ca6c04017a219d2aa37d417c44681a8fca4",
+      "git_blob_sha1": "cd290fd3c13e26a27a1e5c61b750faf38110fa8b",
+      "path": "models/C026-06_R67_LOD2.glb"
+    },
+    {
+      "bytes": 187335,
+      "sha256": "c2cee43be227f83ba288b9cc2e023a37cca208535adea8bbc383180716646e44",
+      "git_blob_sha1": "2800915d8700451e2070127e69e8c38beecc79d3",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "61 sampled half-frame poses per model; not continuous collision proof.",
+    "Collision scope: moving shutter versus fixed components and adjacent slats; not a claim that every fixed joint is overlap-free.",
+    "UV noncollapse validated; no unique packed lightmap guarantee.",
+    "Eight sampled poses used for bidirectional reimport geometry comparisons; FBX reimport documented +1 frame offset.",
+    "Generic rear-running mechanism, no manufacturer dimensions or force/friction/load/locking/safety/Unity runtime validation.",
+    "Actual preserved renders use12samples without denoising; recognition is assistant judgment only."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

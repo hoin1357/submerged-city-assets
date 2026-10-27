@@ -1,0 +1,83 @@
+{
+  "id": "A-NEW-20261027-SCOOP-NET-001",
+  "revision": "R1",
+  "same_id_override": false,
+  "new_type_increment": 1,
+  "triangles_LOD0_LOD1_LOD2": [
+    22016,
+    10224,
+    4736
+  ],
+  "models_and_render": [
+    {
+      "bytes": 349681,
+      "sha256": "facd6ec9f53ab93b784bf16da2fe8a167f5c80574353a7fcdeb7baf7cb7e4127",
+      "git_blob_sha1": "1261502c8327c46424b716ba0606390bb56e1124",
+      "path": "models/A-NEW-20261027-SCOOP-NET-001_LOD0_R1.blend"
+    },
+    {
+      "bytes": 644350,
+      "sha256": "57178226e8ade264f54a7bbc4199ca21e6d10f7820ba253453525456401a47d5",
+      "git_blob_sha1": "8e486b49c7422c1764a78b8bf8602065bb46815b",
+      "path": "models/A-NEW-20261027-SCOOP-NET-001_LOD0_R1.fbx"
+    },
+    {
+      "bytes": 615256,
+      "sha256": "f815110ca139c16e3e0668e59036d44610a4fefd939dd70a11ed0d3928990350",
+      "git_blob_sha1": "93a78ef9e26a485fee6d3656d8afbcbdbc47e5b0",
+      "path": "models/A-NEW-20261027-SCOOP-NET-001_LOD0_R1.glb"
+    },
+    {
+      "bytes": 219651,
+      "sha256": "7f8819d45a6775adb1c8c49edb63a05e998c11ea6b12ecda24524e9ad79582d1",
+      "git_blob_sha1": "a6bb29e22731751748adfc87e2d1e503fd19a210",
+      "path": "models/A-NEW-20261027-SCOOP-NET-001_LOD1_R1.blend"
+    },
+    {
+      "bytes": 351166,
+      "sha256": "45d5e11ac7550900051f1f35dbc91285490e74a32c9bf10f2d4ecc06ecc21d33",
+      "git_blob_sha1": "254a28236c8d52eb0d31f8a95c89cc4327a142a8",
+      "path": "models/A-NEW-20261027-SCOOP-NET-001_LOD1_R1.fbx"
+    },
+    {
+      "bytes": 348704,
+      "sha256": "71097124ec9852971ef2cda60de572b2b2aeba9380da27ea19065307de1dd27d",
+      "git_blob_sha1": "989f3e4da4b2330019175d102619b3846f602510",
+      "path": "models/A-NEW-20261027-SCOOP-NET-001_LOD1_R1.glb"
+    },
+    {
+      "bytes": 148725,
+      "sha256": "accf9b77e6a5fe93a851e7a135498270faf71c95857ca18f467c02106790da9d",
+      "git_blob_sha1": "87125cb2e554dd2b66ca9b06a1ff14e716aa4274",
+      "path": "models/A-NEW-20261027-SCOOP-NET-001_LOD2_R1.blend"
+    },
+    {
+      "bytes": 204350,
+      "sha256": "aa3495cab2419b3c26f50d8dbffdebee405a19a6d8b1822c98ddeadf6eb5cfd8",
+      "git_blob_sha1": "0149202670d1b76ce702322a36aa7128b8e6b6c8",
+      "path": "models/A-NEW-20261027-SCOOP-NET-001_LOD2_R1.fbx"
+    },
+    {
+      "bytes": 150172,
+      "sha256": "58402894f8f79f74e1406844bb1b3f67cf09d329cd1518d313ab9cb2b7a0ded3",
+      "git_blob_sha1": "29e8b7dc28247ad8ae57f84fd4557ac5b532e5f5",
+      "path": "models/A-NEW-20261027-SCOOP-NET-001_LOD2_R1.glb"
+    },
+    {
+      "bytes": 325720,
+      "sha256": "d3796afe1376b8bee2a9ddfb34119aace15d401e2fd4eadb8d9046cabf6f305b",
+      "git_blob_sha1": "ecdb7cf4b735f124d0c760fe490e201a4506e143",
+      "path": "renders/representative.png"
+    }
+  ],
+  "limitations": [
+    "One complete static scoop net: long handle, oval hoop and deep open mesh bag. Pool, fishing or aquarium labels do not imply separate types.",
+    "Own approximate scale and proportions. Coarse original lattice approximates the deformable reference mesh; the precise weave, knots, rear shape and material behavior are not reconstructed.",
+    "Mesh has real geometric holes, not a closed bag or an alpha-textured sheet. The crossing strands intentionally overlap as static ties; no cloth simulation or flexible rig.",
+    "No claim of working capture performance, strength, load capacity, safety or Unity certification.",
+    "Private reference is a published isolated BOSS stimulus. Original photographer and manufacturer are unverified. No source image, logo or photo texture is supplied.",
+    "Valid overlapping per-face planar UVs are supplied, not a unique packed baking atlas. Simple original color materials have no external textures.",
+    "Unlabelled actual renders were visually assessed as a familiar scoop/catching net, including a 128px check. This is an assistant review, not a general-player audience test."
+  ],
+  "metadata_note": "Public copies remove workstation path metadata only. Geometry, UVs, materials and animation are retained; source photographs are excluded."
+}

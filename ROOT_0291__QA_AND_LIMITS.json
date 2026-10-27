@@ -1,0 +1,92 @@
+{
+  "asset_id": "R-NEW-20261026-080",
+  "name": "Deployed closed-canopy inflatable liferaft, original static assembly",
+  "selected_revision": "R2_SEATED_VALVE_TETHER",
+  "new_design_count": 1,
+  "model_files": 9,
+  "formats": [
+    "BLEND",
+    "FBX",
+    "GLB"
+  ],
+  "lods": 3,
+  "triangles": [
+    9940,
+    4572,
+    2628
+  ],
+  "lod_triangle_reduction_percent": [
+    0.0,
+    54.00402414486922,
+    73.56136820925553
+  ],
+  "approximate_dimensions_m": [
+    2.740000009536743,
+    2.115981340408325,
+    1.4600000381469727
+  ],
+  "geometry_uv_material_reimport_checks_passed": 6,
+  "raw_glb_indexed_uv_checks_passed": 3,
+  "raw_fbx_uv_native_actual_triangle_checks_passed": 3,
+  "external_resource_dependencies_required": false,
+  "delivery_format": "Uncompressed individual files",
+  "actual_final_renders_in_loose_delivery": 3,
+  "total_local_final_QA_render_count": 14,
+  "additional_QA_views_included": false,
+  "included_render_files": [
+    "LOD0_hero.png",
+    "IMPORT_GLB_hero.png",
+    "IMPORT_FBX_hero.png"
+  ],
+  "measured_import_normal_drift": [
+    {
+      "tier": 0,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.000631743756086178,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 0,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 3.593211710531564e-06,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0003628768516158152,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 3.593211710531564e-06,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0004225043617787919,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 3.593211710531564e-06,
+      "raw_normal_payload_pass": true
+    }
+  ],
+  "limits": "Original unbranded static deployed canopied inflatable liferaft with two stacked buoyancy-tube forms, long ridge canopy, closed front flap, shallow original fabric strips, pale reflective accents, two valve-cap assemblies, four restrained webbing loops and short pale tether. Own approximate dimensions/proportions, not manufacturer measurements. Reference is actual photo published on marine rental website repository; filename identifies Crewsaver but exact model/photographer/license not independently verified. Water hides underside/interior: generic closed underside and rear seam inferred; no open interior, access ramp, underside ballast mechanism, capacity/logo, or copied photo texture. No real buoyancy/inflation/seaworthiness/rescue/load/rig/safety/collider/Unity certification or universal shading equivalence.",
+  "source_reference_pages": [
+    "https://github.com/O-V-A-WEBVICTECH/PACIFIC-SOLUTIONS-WEB/blob/main/public/images/Crewsaver_Liferaft.jpg",
+    "https://github.com/O-V-A-WEBVICTECH/PACIFIC-SOLUTIONS-WEB/blob/main/app/inflatable-liferaft-rental/page.tsx"
+  ],
+  "rights": "Original geometry/plain materials; source photo,manufacturer marks,failed versions andinternalnotes excluded.",
+  "render_limit": "Actual40-sample undenoised previews show some sampling noise and bright speckles on broad canopy panels; these are not authored cloth texture. Native/import shading is not guaranteed identical."
+}

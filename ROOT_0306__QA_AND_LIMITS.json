@@ -1,0 +1,92 @@
+{
+  "asset_id": "R-NEW-20261026-081",
+  "name": "Open-lid breadmaker, original static assembly",
+  "selected_revision": "R4_CONTAINED_REAR_HINGE",
+  "new_design_count": 1,
+  "model_files": 9,
+  "formats": [
+    "BLEND",
+    "FBX",
+    "GLB"
+  ],
+  "lods": 3,
+  "triangles": [
+    14460,
+    8928,
+    5108
+  ],
+  "lod_triangle_reduction_percent": [
+    0.0,
+    38.25726141078838,
+    64.67496542185339
+  ],
+  "approximate_dimensions_m": [
+    0.3799999952316284,
+    0.3059999942779541,
+    0.5680000185966492
+  ],
+  "geometry_uv_material_reimport_checks_passed": 6,
+  "raw_glb_indexed_uv_checks_passed": 3,
+  "raw_fbx_uv_native_actual_triangle_checks_passed": 3,
+  "external_resource_dependencies_required": false,
+  "actual_final_renders_in_loose_delivery": 3,
+  "total_local_final_QA_render_count": 14,
+  "additional_QA_views_included": false,
+  "included_render_files": [
+    "LOD0_hero.png",
+    "IMPORT_GLB_hero.png",
+    "IMPORT_FBX_hero.png"
+  ],
+  "measured_import_normal_drift": [
+    {
+      "tier": 0,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.00034106074095734796,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 0,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 6.817514210390897e-06,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0005927634829362397,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.00046622896782511276,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.00043546814901537935,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.4575805783628876e-06,
+      "raw_normal_payload_pass": true
+    }
+  ],
+  "limits": "Original unbranded static open-lid breadmaker, intact rounded case, raised right control pod with blank LCD/six oval buttons, real empty loaf-pan cavity, two fixed kneaders, lowered wire bail, supported upright lid/handle/vent and opaque smoke-colored oval viewing pane. Original approximate0.380x0.306x0.568m envelope; reference has no verified dimensions. Technical drawing, not photo; third-party-hosted2006B2300manual identity consistent but authenticity not independently certified. Generic hidden joins/blind rear inlet; no cord/heater/electronics or measuring accessories. No kneading/heat/cooking/foodcontact, rig/load/safety/collider/Unity certification or universal shading equivalence.",
+  "reference_type": "Published technical drawing, not photograph. Third-party-hosted original-formatB2300manual; exact authenticity not independently certified.",
+  "source_reference_pages": [
+    "https://github.com/kruchten/spoon/blob/gh-pages/breadmaker.pdf"
+  ],
+  "rights": "Original geometry/plainmaterials; sourcePDF,referenceimages,manufacturerlogos,failedversions andinternalnotes not included.",
+  "visible_format_shading_limit": "FBX hero has sharper/faceted housing illumination than native/GLB despite validated raw normals, geometry, UVs and PBR fields; exact shading/pixel parity is not certified.",
+  "delivery_format": "Uncompressed individual files; 9 models, 3 actual representative renders, 2 user-facing documents and SHA256SUMS."
+}

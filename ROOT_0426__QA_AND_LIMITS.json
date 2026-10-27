@@ -1,0 +1,90 @@
+{
+  "asset_id": "R-NEW-20261026-091",
+  "name": "Four-column thickness planer, original static complete assembly",
+  "selected_revision": "R3_OFFSET_BRACKET_BASE",
+  "new_design_count": 1,
+  "model_files": 9,
+  "formats": [
+    "BLEND",
+    "FBX",
+    "GLB"
+  ],
+  "lods": 3,
+  "triangles": [
+    32296,
+    17096,
+    8464
+  ],
+  "lod_triangle_reduction_percent": [
+    0.0,
+    47.06465196928412,
+    73.792420113946
+  ],
+  "approximate_dimensions_m": [
+    1.0860000252723694,
+    1.1799999475479126,
+    1.181999921798706
+  ],
+  "geometry_uv_material_reimport_checks_passed": 6,
+  "raw_glb_indexed_uv_checks_passed": 3,
+  "raw_fbx_uv_native_actual_triangle_checks_passed": 3,
+  "external_resource_dependencies_required": false,
+  "delivery_format": "Uncompressed individual files",
+  "actual_final_renders_in_loose_delivery": 3,
+  "total_local_final_QA_render_count": 14,
+  "additional_QA_views_included": false,
+  "included_render_files": [
+    "LOD0_hero.png",
+    "IMPORT_GLB_hero.png",
+    "IMPORT_FBX_hero.png"
+  ],
+  "measured_import_normal_drift": [
+    {
+      "tier": 0,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.00028387562953031194,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 0,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 4.3660224098341966e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.00016245778167720768,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 4.3660224098341966e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.00013622379788149575,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 4.3660224680358865e-07,
+      "raw_normal_payload_pass": true
+    }
+  ],
+  "limits": "Original unbranded static complete floor-standing four-column thickness planer: integral floor plinth and lower cabinet, four continuous columns with original pleated bellows and bed carriages, broad continuous feed-through bed with front/rear apron supports, closed overhead cutter housing, narrow clear side transmission cover, three-spoke height handwheel/crank, two supported upper rollers and plain controls. Original approximate dimensions and static bed height; no manufacturer dimension claim. Complete product depiction from DMS pinned repository personally inspected; original photo versus studio rendering process not independently established. Hidden cutters, bearings, gears, motor and wiring not reconstructed. No actual cutting, feeding, movement, load, electrical or safety certification, rig, collider or Unity validation; no universal shading parity. Private source image excluded.",
+  "source_reference_pages": [
+    "https://github.com/bharvey88/dms-source/blob/3e5d0f595b8debe2a3f26ef15abfb501d9e1c378/public/files/mw/a_a7_Powermatic209HH.png"
+  ],
+  "rights": "Original geometry/plain materials. Private reference image, markings, photo textures, failed versions and internal notes excluded. Public repository does not imply reference-photo redistribution rights."
+}

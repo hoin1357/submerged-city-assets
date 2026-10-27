@@ -1,0 +1,90 @@
+{
+  "asset_id": "R-NEW-20261026-094",
+  "name": "Long-bed jointer, original static complete assembly",
+  "selected_revision": "R2_CLEAR_GUARD_SEATED_SUPPORTS",
+  "new_design_count": 1,
+  "model_files": 9,
+  "formats": [
+    "BLEND",
+    "FBX",
+    "GLB"
+  ],
+  "lods": 3,
+  "triangles": [
+    10332,
+    4716,
+    2380
+  ],
+  "lod_triangle_reduction_percent": [
+    0.0,
+    54.35540069686411,
+    76.96476964769647
+  ],
+  "approximate_dimensions_m": [
+    1.8919999599456787,
+    0.7600000202655792,
+    1.102500081062317
+  ],
+  "geometry_uv_material_reimport_checks_passed": 6,
+  "raw_glb_indexed_uv_checks_passed": 3,
+  "raw_fbx_uv_native_actual_triangle_checks_passed": 3,
+  "external_resource_dependencies_required": false,
+  "delivery_format": "Uncompressed individual files",
+  "actual_final_renders_in_loose_delivery": 3,
+  "total_local_final_QA_render_count": 14,
+  "additional_QA_views_included": false,
+  "included_render_files": [
+    "LOD0_hero.png",
+    "IMPORT_GLB_hero.png",
+    "IMPORT_FBX_hero.png"
+  ],
+  "measured_import_normal_drift": [
+    {
+      "tier": 0,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0002877311915238636,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 0,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 9.501613074135206e-06,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.00010098275291784869,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 7.441804464989042e-06,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.00013611141690976318,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 5.39752720596605e-06,
+      "raw_normal_payload_pass": true
+    }
+  ],
+  "limits": "Original unbranded static complete long-bed woodworking jointer: low closed cabinet and floor plinth, long twin open worktables with central covered cutter zone, long rear upright fence with separate supported carriage and stiffening rails, front pivoted guard, table adjustment lever/dial, raised switch pod and side tapered extraction hood with short hollow outlet mouth. One full assembly only. Published manufacturer product illustration and fence assembly technical drawing personally inspected; photography/render origin unverified. Own approximate proportions, not manufacturer measurements. Actual concealed blade shape not observed or reconstructed; generic closed cutter housing and hidden drive. No cutting, motion, electrical, extraction, load, safety, rig, collider or Unity certification; no universal shading parity. Original geometry/plain materials; manufacturer images/PDF/labels/photo textures/private notes excluded.",
+  "source_reference_pages": [
+    "https://s3.amazonaws.com/jpw-assets/c/2/4/a/c24ac686965467579b0f5e3c62efee68798eb3d8_1791241_man_en.pdf"
+  ],
+  "rights": "Original geometry/plain materials. Private reference image, markings, photo textures, failed versions and internal notes excluded. Public repository does not imply reference-photo redistribution rights."
+}

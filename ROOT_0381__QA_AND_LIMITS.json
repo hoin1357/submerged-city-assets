@@ -1,0 +1,92 @@
+{
+  "asset_id": "R-NEW-20261026-086",
+  "name": "Adjustable workout bench, original static complete assembly",
+  "selected_revision": "R2_SEATED_SUPPORTS",
+  "new_design_count": 1,
+  "model_files": 9,
+  "formats": [
+    "BLEND",
+    "FBX",
+    "GLB"
+  ],
+  "lods": 3,
+  "triangles": [
+    10620,
+    3956,
+    1332
+  ],
+  "lod_triangle_reduction_percent": [
+    0.0,
+    62.749529190207156,
+    87.45762711864407
+  ],
+  "approximate_dimensions_m": [
+    1.402999997138977,
+    0.5799999833106995,
+    0.5075000026226828
+  ],
+  "geometry_uv_material_reimport_checks_passed": 6,
+  "raw_glb_indexed_uv_checks_passed": 3,
+  "raw_fbx_uv_native_actual_triangle_checks_passed": 3,
+  "external_resource_dependencies_required": false,
+  "delivery_format": "Uncompressed individual files",
+  "actual_final_renders_in_loose_delivery": 3,
+  "total_local_final_QA_render_count": 14,
+  "additional_QA_views_included": false,
+  "included_render_files": [
+    "LOD0_hero.png",
+    "IMPORT_GLB_hero.png",
+    "IMPORT_FBX_hero.png"
+  ],
+  "measured_import_normal_drift": [
+    {
+      "tier": 0,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.00039463994491843767,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 0,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 5.573210852127988e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0001250806843516992,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 5.3973783093053334e-05,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.00013456824104966702,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 5.928123172650584e-05,
+      "raw_normal_payload_pass": true
+    }
+  ],
+  "limits": "Original unbranded static complete adjustable workout bench in near-level pose, counted once: separate closed rounded back and seat upholstery, supporting underside plates, longitudinal frame, inclined supports, two transverse stabilizers with seated rubber ends, visible hinge axle, transverse front pin and generic rear adjustment prop. Own approximate scale, not source-measured dimensions. Published BOSS_neutral stimulus reference, per-image photographer/photo-versus-render attribution and rights unverified. Rear adjustment locking and hidden underside joinery are original generic static inference, not verified mechanisms. No actual adjustment, load bearing, exercise safety, rig, collider or Unity certification or universal shading equivalence.",
+  "source_reference_pages": [
+    "https://github.com/expfactory/expfactory-experiments/blob/49b8123f18b26d94dfc010bb8a6ec7458b265e2e/object_rating/images/BOSS_neutral/exercisebench.jpg"
+  ],
+  "rights": "Original geometry/plain materials. Private reference image, markings, photo textures, failed versions and internal notes excluded. Repository software license not asserted to settle stimulus-image rights.",
+  "render_limits": "Actual Cycles 40-sample undenoised renders retain sampling noise. Detail views intentionally crop other parts; underside inspection alone hides the render-only floor. No universal native/import shading equivalence.",
+  "lowest_LOD_visual_limit": "LOD2 intentionally has visibly angular cushion bevel corners and low-segment pin/foot circular silhouettes; retained assembly relationships and usable distant silhouette, not close-up equivalence."
+}

@@ -1,0 +1,92 @@
+{
+  "asset_id": "R-NEW-20261026-085",
+  "name": "Windsurf board and rig, original static complete assembly",
+  "selected_revision": "R2_CONTAINED_WINDOW_PARTITION",
+  "new_design_count": 1,
+  "model_files": 9,
+  "formats": [
+    "BLEND",
+    "FBX",
+    "GLB"
+  ],
+  "lods": 3,
+  "triangles": [
+    5564,
+    2812,
+    1428
+  ],
+  "lod_triangle_reduction_percent": [
+    0.0,
+    49.4608195542775,
+    74.33501078360891
+  ],
+  "approximate_dimensions_m": [
+    2.809999942779541,
+    0.6200000047683716,
+    3.4178221225738525
+  ],
+  "geometry_uv_material_reimport_checks_passed": 6,
+  "raw_glb_indexed_uv_checks_passed": 3,
+  "raw_fbx_uv_native_actual_triangle_checks_passed": 3,
+  "external_resource_dependencies_required": false,
+  "delivery_format": "Uncompressed individual files",
+  "actual_final_renders_in_loose_delivery": 3,
+  "total_local_final_QA_render_count": 14,
+  "additional_QA_views_included": false,
+  "included_render_files": [
+    "LOD0_hero.png",
+    "IMPORT_GLB_hero.png",
+    "IMPORT_FBX_hero.png"
+  ],
+  "measured_import_normal_drift": [
+    {
+      "tier": 0,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0021488694442050324,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 0,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 3.554481399618555e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0004908051378212201,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 3.6378370570342845e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0005230346500219308,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 3.6863436927953305e-07,
+      "raw_normal_payload_pass": true
+    }
+  ],
+  "limits": "Original unbranded static complete windsurf board plus connected rig, counted once: closed original rocker board, short supported mast foot/joint exterior, diagonal mast, actual-thickness partitioned aft triangular sail with reinforced perimeter and intentionally opaque tinted window interpretation, connected two-arm boom with grips and clew/mast joints. Far boom arm is original symmetrical inference. Own approximate scale, not reference-measured dimensions. Published BOSS_neutral object-stimulus reference; per-image photographer/photo-versus-render attribution and rights unverified. Unseen underside fin, footstraps and exact joint internals are not reconstructed. No actual sailing, wind load, flotation, rig, impact safety, collider or Unity certification or universal shading equivalence.",
+  "source_reference_pages": [
+    "https://github.com/expfactory/expfactory-experiments/blob/49b8123f18b26d94dfc010bb8a6ec7458b265e2e/object_rating/images/BOSS_neutral/windsurfboard.jpg"
+  ],
+  "rights": "Original geometry/plain materials. Private reference image, markings, photo textures, failed versions and internal notes excluded. Repository software license not asserted to settle stimulus-image rights.",
+  "render_limits": "Actual Cycles 40-sample undenoised renders retain sampling noise; detail views intentionally crop the rest of the assembly. Opaque tinted window is a material region, not transparent glazing. Universal native/import shading equivalence is not claimed.",
+  "revision_repair": "Moved lower window vertex inside cloth boundary, eliminating overlapping sail partition triangles. Three corner spheres retain exact canonical geometry but regenerated edge/face indexing and UV/normal arrays differ from R1; current revision independently validates UV and normals."
+}

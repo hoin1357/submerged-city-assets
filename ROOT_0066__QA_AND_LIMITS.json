@@ -1,0 +1,43 @@
+{
+  "asset_id": "R-NEW-20261026-064",
+  "name": "Handheld smartphone gimbal with blank landscape phone",
+  "selected_revision": "R9_EXPLICIT_NORMALS",
+  "new_design_count": 1,
+  "formats": [
+    "BLEND",
+    "FBX",
+    "GLB"
+  ],
+  "lods": 3,
+  "model_files": 9,
+  "actual_final_renders": 3,
+  "triangles": [
+    19808,
+    13188,
+    8692
+  ],
+  "lod_triangle_reduction_percent": [
+    0.0,
+    33.420840064620364,
+    56.11873990306946
+  ],
+  "geometry_uv_material_reimport_checks_passed": 6,
+  "raw_glb_indexed_uv_checks_passed": 3,
+  "raw_fbx_uv_native_triangle_checks_passed": 3,
+  "external_resource_dependencies_required": false,
+  "source_reference_pages": [
+    "https://www.dji.com/uk/osmo-mobile-6",
+    "https://www.dji.com/uk/osmo-mobile-6/specs"
+  ],
+  "limits": "Original approximate extended static gimbal with original blank phone as ONE design. Generic hidden motor/clamp joins; no powered stabilization, articulated rig, collider, phone compatibility, balancing/electrical/load/physical or Unity runtime certification. GLB reconstructed normal drift <=0.000554, FBX arm <=0.003217 (~0.184 degree); raw payload pass.",
+  "reimported_shading": "May differ from native; measured geometry/UV/PBR/raw-normal checks are not pixel equality.",
+  "provenance": "Original geometry and plain materials. No manufacturer photographs/PDFs/meshes/logos/photo textures included. Final renders show the actual authored models.",
+  "total_final_QA_renders_preserved_locally": 14,
+  "additional_QA_views_included": false,
+  "included_render_files": [
+    "LOD0_hero.png",
+    "IMPORT_GLB_hero.png",
+    "IMPORT_FBX_hero.png"
+  ],
+  "render_selection_note": "One actual native LOD0 hero plus actual GLB and FBX imported heroes. Additional detail and reduced-LOD QA views retained locally, omitted from compact delivery."
+}

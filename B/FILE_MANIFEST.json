@@ -7,13 +7,13 @@
     },
     {
       "path": "B/assets/B-NEW-20261027-114/README.md",
-      "bytes": 1202,
-      "sha256": "15230390aa65caf8fdd990d19ea5b7e3e1021b008a1deeb7ee2d7e41ab6d4b90"
+      "bytes": 1525,
+      "sha256": "ced6eb0b79aa6e74c0f64f59fc165a845083532714b5b6fc6467b7d588d5a49b"
     },
     {
       "path": "B/assets/B-NEW-20261027-114/SHA256SUMS.txt",
       "bytes": 1276,
-      "sha256": "84395c1b60f8739d0038e04c6abb611de4afba5dcaac7be9107f71eeb1626387"
+      "sha256": "e6f4ea122aab7df6e9b58eb5ddc9146f7e928a2153b57aed4a787627c5898b33"
     },
     {
       "path": "B/assets/B-NEW-20261027-114/models/B-NEW-20261027-114_LOD0.blend",
@@ -23,7 +23,7 @@
     {
       "path": "B/assets/B-NEW-20261027-114/models/B-NEW-20261027-114_LOD0.fbx",
       "bytes": 4285564,
-      "sha256": "6c2b1b6ba2a05adc63eb3c69fafca4213f60e34e81c3a562284a4c8839b32c14"
+      "sha256": "aed8490b13bbf03d2e65b2d3d0c4989d847473db62d3dfda92297a879a59081e"
     },
     {
       "path": "B/assets/B-NEW-20261027-114/models/B-NEW-20261027-114_LOD0.glb",
@@ -38,7 +38,7 @@
     {
       "path": "B/assets/B-NEW-20261027-114/models/B-NEW-20261027-114_LOD1.fbx",
       "bytes": 2192092,
-      "sha256": "82e8ec4aee0776c9aaf88d2f8fa84e3abef9e8fb93b73841a5eddd6fd1d219c7"
+      "sha256": "bb20bde5b1eece79ed79115d49ff0c5b75fb54f2c36c3669c754843f2d7d2e21"
     },
     {
       "path": "B/assets/B-NEW-20261027-114/models/B-NEW-20261027-114_LOD1.glb",
@@ -53,7 +53,7 @@
     {
       "path": "B/assets/B-NEW-20261027-114/models/B-NEW-20261027-114_LOD2.fbx",
       "bytes": 1311340,
-      "sha256": "1297e97d8d0634ed2e391f74ccf63c8436e4cc594dbf24e7f9aa667f9babd1d8"
+      "sha256": "aa362d4207f1ebbc137f931b8ca4988a64591dae3cc072dacbe2812f6432c4e9"
     },
     {
       "path": "B/assets/B-NEW-20261027-114/models/B-NEW-20261027-114_LOD2.glb",

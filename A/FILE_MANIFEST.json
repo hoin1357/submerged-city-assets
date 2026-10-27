@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "path_base": "repository root",
+  "manifest_path": "A/FILE_MANIFEST.json",
+  "manifest_self_included": false,
+  "payload_file_count": 13,
+  "payload_bytes": 4273429,
+  "files": [
+    {
+      "path": "A/assets/A-NEW-20261027-ELEPHANT-001/models/A-NEW-20261027-ELEPHANT-001_LOD0_R4.blend",
+      "bytes": 814651,
+      "sha256": "0c7d2a2d71b289bc3e0cb0f718856d2c9031cef7776cc143424d0179acf7568b"
+    },
+    {
+      "path": "A/assets/A-NEW-20261027-ELEPHANT-001/models/A-NEW-20261027-ELEPHANT-001_LOD0_R4.fbx",
+      "bytes": 706351,
+      "sha256": "74662003784b2a961ccfa3ed479198e93616b6d7ed03bd19b07eda8c388d9d38"
+    },
+    {
+      "path": "A/assets/A-NEW-20261027-ELEPHANT-001/models/A-NEW-20261027-ELEPHANT-001_LOD0_R4.glb",
+      "bytes": 591552,
+      "sha256": "05e386ff94962e59851dbf715aa7851b0e043a6c87c1cb14520a6015f86b0314"
+    },
+    {
+      "path": "A/assets/A-NEW-20261027-ELEPHANT-001/models/A-NEW-20261027-ELEPHANT-001_LOD1_R4.blend",
+      "bytes": 471599,
+      "sha256": "e8bf723cab0c75543f39d9fe2f5ec9b50e90311bb80fd75efe5f448bc43fcb1b"
+    },
+    {
+      "path": "A/assets/A-NEW-20261027-ELEPHANT-001/models/A-NEW-20261027-ELEPHANT-001_LOD1_R4.fbx",
+      "bytes": 396671,
+      "sha256": "ebd5573d54fdeb3fc65ab3a4908598662d6ab1f8b42315ce0c17317627a7b739"
+    },
+    {
+      "path": "A/assets/A-NEW-20261027-ELEPHANT-001/models/A-NEW-20261027-ELEPHANT-001_LOD1_R4.glb",
+      "bytes": 335388,
+      "sha256": "e10c4e3c357aa342ac6fcbbb50e522051fbc2bc68c8bd011d538c61edb4e9c1b"
+    },
+    {
+      "path": "A/assets/A-NEW-20261027-ELEPHANT-001/models/A-NEW-20261027-ELEPHANT-001_LOD2_R4.blend",
+      "bytes": 266865,
+      "sha256": "d5a90919f4df7d33911d72b8d987124836027f2d8a209deaab948e8a5ab9a3b2"
+    },
+    {
+      "path": "A/assets/A-NEW-20261027-ELEPHANT-001/models/A-NEW-20261027-ELEPHANT-001_LOD2_R4.fbx",
+      "bytes": 196911,
+      "sha256": "41c51298edee519a569f9c98eb2b1aaa558cc643188e9a428aab90e6af62877d"
+    },
+    {
+      "path": "A/assets/A-NEW-20261027-ELEPHANT-001/models/A-NEW-20261027-ELEPHANT-001_LOD2_R4.glb",
+      "bytes": 166740,
+      "sha256": "a17141229016353719e2d68a603dc457dd1173f8837f761ede0903032a49764f"
+    },
+    {
+      "path": "A/assets/A-NEW-20261027-ELEPHANT-001/renders/representative.png",
+      "bytes": 320133,
+      "sha256": "93016bb01b092c98d446aa57a7dccde1d9a50ac446df7b8dde6d366a493d974c"
+    },
+    {
+      "path": "A/assets/A-NEW-20261027-ELEPHANT-001/CATALOG.json",
+      "bytes": 3625,
+      "sha256": "4021d4693a4c8ff8686e4a1dac91ca22ab7c795f1479a0d493508f708c7dff03"
+    },
+    {
+      "path": "A/assets/A-NEW-20261027-ELEPHANT-001/README.md",
+      "bytes": 1672,
+      "sha256": "930336601420a400c775a31586b05fad292283750a9c15d16f7def5db3680e26"
+    },
+    {
+      "path": "A/assets/A-NEW-20261027-ELEPHANT-001/SHA256SUMS.txt",
+      "bytes": 1271,
+      "sha256": "f9c88cced658c877a1168c19abe67df29c1a68cf9139115fa8184854cb5ac647"
+    }
+  ]
+}

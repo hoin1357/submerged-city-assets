@@ -1,0 +1,90 @@
+{
+  "asset_id": "R-NEW-20261026-095",
+  "name": "Wheeled bag-filter dust collector, original static complete assembly",
+  "selected_revision": "R2_SEATED_FORK_SUPPORT_BRANCHES",
+  "new_design_count": 1,
+  "model_files": 9,
+  "formats": [
+    "BLEND",
+    "FBX",
+    "GLB"
+  ],
+  "lods": 3,
+  "triangles": [
+    25996,
+    12348,
+    6324
+  ],
+  "lod_triangle_reduction_percent": [
+    0.0,
+    52.500384674565325,
+    75.67318048930605
+  ],
+  "approximate_dimensions_m": [
+    0.8199999928474426,
+    0.5629999935626984,
+    1.5537960529327393
+  ],
+  "geometry_uv_material_reimport_checks_passed": 6,
+  "raw_glb_indexed_uv_checks_passed": 3,
+  "raw_fbx_uv_native_actual_triangle_checks_passed": 3,
+  "external_resource_dependencies_required": false,
+  "delivery_format": "Uncompressed individual files",
+  "actual_final_renders_in_loose_delivery": 3,
+  "total_local_final_QA_render_count": 14,
+  "additional_QA_views_included": false,
+  "included_render_files": [
+    "LOD0_hero.png",
+    "IMPORT_GLB_hero.png",
+    "IMPORT_FBX_hero.png"
+  ],
+  "measured_import_normal_drift": [
+    {
+      "tier": 0,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0005953016873443681,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 0,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 3.5476143079084005e-06,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0006249110514051253,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 4.063582295148767e-06,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0005588023502927627,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 3.68478493552558e-06,
+      "raw_normal_payload_pass": true
+    }
+  ],
+  "limits": "Original unbranded static complete wheeled bag-filter dust collector: opaque upper filter bag and lower collection bag with original geometric gathers, middle connector housing with clamp bands and three bent supports, separate scroll-shaped blower and rear motor with support feet, single continuous curved corrugated hose with seated cuff joins, twin capped inlet branches, four real wheel/fork/axle assemblies under rectangular base and slender top bag hanger. One complete bag-filter configuration only, no cartridge option or separate component counts. Manufacturer publication product/assembly illustrations and technical drawing personally inspected; production process not independently certified. Own approximate proportions/static cloth and hose. Concealed impeller, motor, separation cone and seals generalized; no filtering, airflow, extraction, electrical, dust-safety, load, rig, collider or Unity certification. No universal shading parity. Original mesh/plain materials; manufacturer imagery/PDF/labels/photo textures/private notes excluded.",
+  "source_reference_pages": [
+    "https://s3.amazonaws.com/jpw-assets/6/3/a/c/63ac5dad293cab04c2f5ca5e8933a2cba995afc0_708659k_man.pdf"
+  ],
+  "rights": "Original geometry/plain materials. Private reference image, markings, photo textures, failed versions and internal notes excluded. Public repository does not imply reference-photo redistribution rights."
+}

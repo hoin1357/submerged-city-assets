@@ -1,0 +1,94 @@
+{
+  "asset_id": "R-NEW-20261026-082",
+  "name": "Walk-behind snowblower, original static complete machine",
+  "selected_revision": "R4_CONTAINED_SKID_MOUNTS",
+  "new_design_count": 1,
+  "model_files": 9,
+  "formats": [
+    "BLEND",
+    "FBX",
+    "GLB"
+  ],
+  "lods": 3,
+  "triangles": [
+    19188,
+    9732,
+    4372
+  ],
+  "lod_triangle_reduction_percent": [
+    0.0,
+    49.280800500312694,
+    77.2149259954138
+  ],
+  "approximate_dimensions_m": [
+    0.7419999837875366,
+    1.371000051498413,
+    1.1290000690659294
+  ],
+  "geometry_uv_material_reimport_checks_passed": 6,
+  "raw_glb_indexed_uv_checks_passed": 3,
+  "raw_fbx_uv_native_actual_triangle_checks_passed": 3,
+  "external_resource_dependencies_required": false,
+  "delivery_format": "Uncompressed individual files",
+  "actual_final_renders_in_loose_delivery": 3,
+  "total_local_final_QA_render_count": 14,
+  "additional_QA_views_included": false,
+  "included_render_files": [
+    "LOD0_hero.png",
+    "IMPORT_GLB_hero.png",
+    "IMPORT_FBX_hero.png"
+  ],
+  "measured_import_normal_drift": [
+    {
+      "tier": 0,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0005876633736002511,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 0,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 4.172325134277344e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0014389795177448042,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 5.900558791525164e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0004886753605403245,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 4.013392851662497e-07,
+      "raw_normal_payload_pass": true
+    }
+  ],
+  "limits": "Original unbranded static walk-behind snowblower: actual open front bucket, two opposite-handed spiral auger ribbons with radial supports and central shaft/gearcase, two treaded wheels and grounded skids, closed generic engine panels, bent open rectangular discharge chute, supporting closed chute housing, tubular handle rails/grip/bail and external control cable. Original scale/proportions, not manufacturer measured. Published BOSS_neutral experimental object-stimulus image reference; exact machine model, original photographer/studio-render attribution and per-image rights not independently established. Hidden impeller/transmission/engine internals not reconstructed; generic visible support enclosure is not certified internal flowpath. No actual snowblowing/fuel/electrical/rig/load/safety/collider/Unity certification or universal shading equivalence.",
+  "source_reference_pages": [
+    "https://github.com/expfactory/expfactory-experiments/blob/49b8123f18b26d94dfc010bb8a6ec7458b265e2e/object_rating/images/BOSS_neutral/snowblower.jpg"
+  ],
+  "rights": "Original geometry/plain materials; source image,manufacturer marks,failed versions andinternalnotes excluded. Repository software license not asserted to settle stimulus-image rights.",
+  "visual_preview_limits": [
+    "40-sample undenoised Cycles previews show sampling noise, especially metallic bucket/shadows; this is not an authored texture.",
+    "Wheels close-up includes a render-only studio floor edge at image bottom; not model geometry."
+  ]
+}

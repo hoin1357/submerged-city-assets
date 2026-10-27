@@ -1,0 +1,90 @@
+{
+  "asset_id": "R-NEW-20261026-092",
+  "name": "Foot-operated shrinker/stretcher, original static complete assembly",
+  "selected_revision": "R2_SEATED_JAWS_CLEAR_SPRING",
+  "new_design_count": 1,
+  "model_files": 9,
+  "formats": [
+    "BLEND",
+    "FBX",
+    "GLB"
+  ],
+  "lods": 3,
+  "triangles": [
+    12180,
+    6160,
+    3212
+  ],
+  "lod_triangle_reduction_percent": [
+    0.0,
+    49.42528735632183,
+    73.62889983579639
+  ],
+  "approximate_dimensions_m": [
+    0.3799999952316284,
+    0.949999988079071,
+    1.2350000143051147
+  ],
+  "geometry_uv_material_reimport_checks_passed": 6,
+  "raw_glb_indexed_uv_checks_passed": 3,
+  "raw_fbx_uv_native_actual_triangle_checks_passed": 3,
+  "external_resource_dependencies_required": false,
+  "delivery_format": "Uncompressed individual files",
+  "actual_final_renders_in_loose_delivery": 3,
+  "total_local_final_QA_render_count": 14,
+  "additional_QA_views_included": false,
+  "included_render_files": [
+    "LOD0_hero.png",
+    "IMPORT_GLB_hero.png",
+    "IMPORT_FBX_hero.png"
+  ],
+  "measured_import_normal_drift": [
+    {
+      "tier": 0,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.000515839499102262,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 0,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.73063931245496e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.001754638087779305,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 1,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.73063931245496e-07,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "glb",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 0.0012340534656912578,
+      "raw_normal_payload_pass": true
+    },
+    {
+      "tier": 2,
+      "format": "fbx",
+      "geometry_UV_PBR_transform_pass": true,
+      "maximum_reconstructed_normal_delta": 2.73063931245496e-07,
+      "raw_normal_payload_pass": true
+    }
+  ],
+  "limits": "Original unbranded static complete foot-operated sheet-metal shrinker/stretcher: tall square column on integral rectangular floor rail, compact paired C-profile sideplate head with one installed opposed split-jaw pair, long rear vertical link with upper/lower pins, long forward pedal with side-routed rocker arms and seated return spring. One assembly only, interchangeable jaws not separate assets. Own approximate dimensions/static pose, not manufacturer measurements. Whole product depiction and manual actual assembly photographs plus exploded technical drawing personally inspected; whole-image photo/render process unverified. Hidden jaw cam action, bearings and force transfer are generic exterior interpretation. No actual shrinking/stretching, motion, load, safety, rig, collider or Unity certification or universal shading parity. Original geometry/plain materials; private source photographs/PDF/drawings/branding excluded.",
+  "source_reference_pages": [
+    "https://github.com/bharvey88/dms-source/blob/3e5d0f595b8debe2a3f26ef15abfb501d9e1c378/public/files/194510939/Bailiegh_MSS-16F_2013_Shrinker_Stretcher.pdf"
+  ],
+  "rights": "Original geometry/plain materials. Private reference image, markings, photo textures, failed versions and internal notes excluded. Public repository does not imply reference-photo redistribution rights."
+}

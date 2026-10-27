@@ -1,0 +1,42 @@
+{
+  "asset_id": "R-NEW-20261026-061",
+  "name": "Original inline skate pair with four wheels per boot and single right heel brake",
+  "selected_revision": "R6_CONFORMED_LOW_HEEL",
+  "new_design_count": 1,
+  "formats": [
+    "BLEND",
+    "FBX",
+    "GLB"
+  ],
+  "lods": 3,
+  "model_files": 9,
+  "actual_final_renders": 3,
+  "triangles": [
+    54616,
+    38792,
+    30640
+  ],
+  "lod_triangle_reduction_percent": [
+    0.0,
+    28.973194668229084,
+    43.8992236707192
+  ],
+  "geometry_uv_material_reimport_checks_passed": 6,
+  "raw_glb_indexed_uv_checks_passed": 3,
+  "raw_fbx_uv_native_triangle_checks_passed": 3,
+  "external_resource_dependencies_required": false,
+  "source_reference_pages": [
+    "https://www.rollerblade.com/usa/en/men/sales/fitness/macroblade-80-1"
+  ],
+  "limits": "Static pair counts1. TrueLOD54616/38792/30640triangles. Eight80mm wheels;4mm wheel-rail clearance. Generic fit/hiddenmounts, no rig/animation/Collider/rolling/load/electrical/Unity runtime certification. Exportpayloadnormalspass; Blenderimportnormal reconstruction driftGLB~0.00066/FBXrail~0.00520vector disclosed. Lowerfine toe seams omitted; LOD2heeloverlayconformed.",
+  "reimported_shading": "May differ from native; measured geometry/UV/PBR/raw-normal checks are not pixel equality.",
+  "provenance": "Original geometry and plain materials. No manufacturer photographs/PDFs/meshes/logos/photo textures included. Final renders show the actual authored models.",
+  "total_final_QA_renders_preserved_locally": 10,
+  "additional_QA_views_included": false,
+  "included_render_files": [
+    "LOD0_hero.png",
+    "IMPORT_GLB_hero.png",
+    "IMPORT_FBX_hero.png"
+  ],
+  "render_selection_note": "One actual native LOD0 hero plus actual GLB and FBX imported heroes. Additional detail and reduced-LOD QA views retained locally, omitted from compact delivery."
+}

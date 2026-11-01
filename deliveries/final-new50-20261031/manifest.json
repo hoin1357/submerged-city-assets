@@ -1,0 +1,2912 @@
+{
+  "schema": "asset-model-manifest/1",
+  "assets": [
+    {
+      "id": "NEW301",
+      "name": "peach",
+      "korean_name": "복숭아",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW301/NEW301_LOD0.blend",
+          "bytes": 1165748,
+          "sha256": "afc3c0f90f5591478fd45523a58c9c4ea0dfffdb12c99066ce06b375ec813cda"
+        },
+        {
+          "path": "NEW301/NEW301_LOD0.fbx",
+          "bytes": 245164,
+          "sha256": "959e1e6e8bff071e774a719aab0ffa151bb304d049ed42f4c3343e61d272283a"
+        },
+        {
+          "path": "NEW301/NEW301_LOD0.glb",
+          "bytes": 200412,
+          "sha256": "71e6f4e8dfa4f7bc1d71855a97ba8dc8d2e842095f025c03c7daa50d8e6a7bf6"
+        },
+        {
+          "path": "NEW301/NEW301_LOD1.blend",
+          "bytes": 862124,
+          "sha256": "3548931620d92c228621a58ed0c05dddebbc6afbd8bcd72997374c0d227cac0b"
+        },
+        {
+          "path": "NEW301/NEW301_LOD1.fbx",
+          "bytes": 141900,
+          "sha256": "4f2d03718b4ff40e1b7c5f4dce14bfc4ac4a0d8dc45b070ee3d1fae8655ba359"
+        },
+        {
+          "path": "NEW301/NEW301_LOD1.glb",
+          "bytes": 113968,
+          "sha256": "dc1fdd53e98db653b141ce62fbf5eec6685dfe5418b2789920e4cde2552b92cc"
+        },
+        {
+          "path": "NEW301/NEW301_LOD2.blend",
+          "bytes": 677844,
+          "sha256": "543b8695befd0f3331f1218c61bc71718dc0dc3be530492f89684530c21bd435"
+        },
+        {
+          "path": "NEW301/NEW301_LOD2.fbx",
+          "bytes": 82876,
+          "sha256": "d371d164490030ec00fc916ee3d6e9b90190a5d2ef769795077dbcdedeaccf70"
+        },
+        {
+          "path": "NEW301/NEW301_LOD2.glb",
+          "bytes": 61400,
+          "sha256": "a397212e439eb773039b92f8e3e0b919881b2c62936cc27604c5e399a803c22e"
+        }
+      ]
+    },
+    {
+      "id": "NEW302",
+      "name": "raspberry",
+      "korean_name": "라즈베리",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW302/NEW302_LOD0.blend",
+          "bytes": 2100184,
+          "sha256": "1d65e35176c46d10c4ddda15e4842812c50b4e97547d41cc1b62f11544941485"
+        },
+        {
+          "path": "NEW302/NEW302_LOD0.fbx",
+          "bytes": 628300,
+          "sha256": "b61a4c83c23e9e005732abaffbf85726deb03f802dfe6db8e22670948e92cd51"
+        },
+        {
+          "path": "NEW302/NEW302_LOD0.glb",
+          "bytes": 2057640,
+          "sha256": "33b902c8373a243395198007b4ac007a3c37588f0465bcff6c923bcc24478a02"
+        },
+        {
+          "path": "NEW302/NEW302_LOD1.blend",
+          "bytes": 1328728,
+          "sha256": "d0e18b9525fcb7208ac3b6534b9b89d76a97d096aeafc3353a250bccac650cf6"
+        },
+        {
+          "path": "NEW302/NEW302_LOD1.fbx",
+          "bytes": 355084,
+          "sha256": "bb3c42a48aca96659985feec33c675a151c1faff6bcabcc0e2568930da1c7249"
+        },
+        {
+          "path": "NEW302/NEW302_LOD1.glb",
+          "bytes": 1098024,
+          "sha256": "c551d9c4fdd34ee3bbd3c48d24acf2e71032efd73982585ccba3b7cfafd4e692"
+        },
+        {
+          "path": "NEW302/NEW302_LOD2.blend",
+          "bytes": 869528,
+          "sha256": "9ff6d54e59ea8dd2bf6e70c6e6f65408781c2d0d8d1d178a7a3d85c0bdee887d"
+        },
+        {
+          "path": "NEW302/NEW302_LOD2.fbx",
+          "bytes": 176748,
+          "sha256": "b8faf81b065fc6c0b270691fd547503d1fac557d568fe3e1ffea91cdda2e55d0"
+        },
+        {
+          "path": "NEW302/NEW302_LOD2.glb",
+          "bytes": 526824,
+          "sha256": "3202d3570b411ab7db545798f1a91db4de38983a9ec46f039b9624d9378ece08"
+        }
+      ]
+    },
+    {
+      "id": "NEW303",
+      "name": "durian",
+      "korean_name": "두리안",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW303/NEW303_LOD0.blend",
+          "bytes": 1115912,
+          "sha256": "b24eead355d59bc4687fe540305044551df98ae0128e5292dd967a0b62289909"
+        },
+        {
+          "path": "NEW303/NEW303_LOD0.fbx",
+          "bytes": 296668,
+          "sha256": "7aa98ed8bfabc252f8dd5f8a0367c842dae6fe754a230b9fd913ed35544e64bc"
+        },
+        {
+          "path": "NEW303/NEW303_LOD0.glb",
+          "bytes": 564404,
+          "sha256": "8a924942927674e536e383333b0923603d4cff7783e57b2521cff9c48bf349ba"
+        },
+        {
+          "path": "NEW303/NEW303_LOD1.blend",
+          "bytes": 910568,
+          "sha256": "aee17b090ce7254b1e8eaa7ae3d380f72e4b7ceca5c244edc5a4457568e415a0"
+        },
+        {
+          "path": "NEW303/NEW303_LOD1.fbx",
+          "bytes": 181692,
+          "sha256": "3f46d5226472942fc3fb1ba13927c887ff34d1420a219b77c1240194a5079f39"
+        },
+        {
+          "path": "NEW303/NEW303_LOD1.glb",
+          "bytes": 337360,
+          "sha256": "2e553fdc2320fe4ad5dff11888222e3ffae0263a0d70eddc9ac10f26b65bd1a8"
+        },
+        {
+          "path": "NEW303/NEW303_LOD2.blend",
+          "bytes": 803112,
+          "sha256": "bfc420d3ae78b630a2adbfd51d9afacfa611782658238faec38049d0a34e1124"
+        },
+        {
+          "path": "NEW303/NEW303_LOD2.fbx",
+          "bytes": 122956,
+          "sha256": "aebd36777f337be0aea7812caedd49ffb68f5a794d0bdfd8405e82d2fe68b5e5"
+        },
+        {
+          "path": "NEW303/NEW303_LOD2.glb",
+          "bytes": 217912,
+          "sha256": "611965df098d1afa9050913c8fb735a1977f83ae78eb1f23a92ddc2d3fb1f0fd"
+        }
+      ]
+    },
+    {
+      "id": "NEW304",
+      "name": "flat single-row hair comb",
+      "korean_name": "일자 빗",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW304/NEW304_LOD0.blend",
+          "bytes": 1090648,
+          "sha256": "ab0f8aedcaeb43d67ae9d224603cbe3f83414b96be97fc2811aecc5e6624a079"
+        },
+        {
+          "path": "NEW304/NEW304_LOD0.fbx",
+          "bytes": 157916,
+          "sha256": "03a829ef030cf1c2daa0d531b18fbbabec0cba6eb9cce47cc8634a004b91ffd7"
+        },
+        {
+          "path": "NEW304/NEW304_LOD0.glb",
+          "bytes": 395164,
+          "sha256": "1193e89120e3a376cbdeaa37f94b13e58841e255ca2dc26b7227551e626455ad"
+        },
+        {
+          "path": "NEW304/NEW304_LOD1.blend",
+          "bytes": 917464,
+          "sha256": "13f7e7580a3e57b6ab15a42d95a83cb2e738f665a8f8793b12c09805bd4323b7"
+        },
+        {
+          "path": "NEW304/NEW304_LOD1.fbx",
+          "bytes": 121660,
+          "sha256": "efea6a348485f73a62dc753330919a2a30515ebf707a275ee92a6deaf5490a37"
+        },
+        {
+          "path": "NEW304/NEW304_LOD1.glb",
+          "bytes": 278976,
+          "sha256": "e848f941e6526eb4957207e40a92bdb2cddb50c5111010ca00e77c57b8a875a7"
+        },
+        {
+          "path": "NEW304/NEW304_LOD2.blend",
+          "bytes": 802008,
+          "sha256": "df5f76c34a95c4c16b4c609e15ecdbbeb030ce0543912c5a7f2510ac95cfc02f"
+        },
+        {
+          "path": "NEW304/NEW304_LOD2.fbx",
+          "bytes": 97644,
+          "sha256": "bae11821249f572500ba394a4388c1abf33aeedf6b626b9ee2a5ce7849b2a8a5"
+        },
+        {
+          "path": "NEW304/NEW304_LOD2.glb",
+          "bytes": 210304,
+          "sha256": "2b55282e0f36ed865aa5a9eac27d59676028b64489c31a979604bae5989ba210"
+        }
+      ]
+    },
+    {
+      "id": "NEW305",
+      "name": "croissant",
+      "korean_name": "크루아상",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW305/NEW305_LOD0.blend",
+          "bytes": 1489300,
+          "sha256": "cdd0c6a63f7b8461309ef529c753eeaf56e707981857f0f863104199695af67e"
+        },
+        {
+          "path": "NEW305/NEW305_LOD0.fbx",
+          "bytes": 309996,
+          "sha256": "89975152117b21a1a2847f238fa4618975f4fead5089157abd1bc8c44a12e40b"
+        },
+        {
+          "path": "NEW305/NEW305_LOD0.glb",
+          "bytes": 336992,
+          "sha256": "be5fec47fef2d6d63b5b3c1c4f568e72b5abb4f8cb7d9f3f3fde6f7f9c7fe712"
+        },
+        {
+          "path": "NEW305/NEW305_LOD1.blend",
+          "bytes": 1037212,
+          "sha256": "87986e7aa202af08543a29e6693608b5ce02e0e5406b5a74dbe5d5fb11bd5ad2"
+        },
+        {
+          "path": "NEW305/NEW305_LOD1.fbx",
+          "bytes": 178252,
+          "sha256": "0b1485f8d33a492eb063ac6d61ec344ba4a6ac09cf66ae08a0f2852c0a61f765"
+        },
+        {
+          "path": "NEW305/NEW305_LOD1.glb",
+          "bytes": 202764,
+          "sha256": "8b80e7a4482b46596f7011b280d4199a556037e5b0f8f83b1e53fc214578c7b2"
+        },
+        {
+          "path": "NEW305/NEW305_LOD2.blend",
+          "bytes": 799884,
+          "sha256": "6f08d661c73360f658ef2b5a4ecb1ac0adeb21b3aaba64c070fe0d4d5fdf34ba"
+        },
+        {
+          "path": "NEW305/NEW305_LOD2.fbx",
+          "bytes": 106668,
+          "sha256": "a5506c76cfc33792e4bcda0709ee189807f24c94dd52225370279ad9fce7b4cb"
+        },
+        {
+          "path": "NEW305/NEW305_LOD2.glb",
+          "bytes": 123388,
+          "sha256": "422a11efae875c3e5ce0123a8a14edd41152dc7d8b29e5d670e129049e056fd2"
+        }
+      ]
+    },
+    {
+      "id": "NEW306",
+      "name": "string mop",
+      "korean_name": "끈 대걸레",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW306/NEW306_LOD0.blend",
+          "bytes": 2681072,
+          "sha256": "f32203bdd0d212b7b41fda2323b6a28eb0eab2beef833a9de25067fbb3d45a85"
+        },
+        {
+          "path": "NEW306/NEW306_LOD0.fbx",
+          "bytes": 673996,
+          "sha256": "eebf42149bb9f8218a1d2e73ec9b182197b2308da97790839f5360de9e81629f"
+        },
+        {
+          "path": "NEW306/NEW306_LOD0.glb",
+          "bytes": 4447312,
+          "sha256": "fddb5c731f619c2ee35caef8660f07dc8fffe17290b3c2a9f1eb1fcbbcf433a5"
+        },
+        {
+          "path": "NEW306/NEW306_LOD1.blend",
+          "bytes": 1819188,
+          "sha256": "dbf39dca0106291c00d242d55a5862555a8da9e344e5f012b86eeca81ceb96c5"
+        },
+        {
+          "path": "NEW306/NEW306_LOD1.fbx",
+          "bytes": 408924,
+          "sha256": "f7d8f6b64f0d83a75f7bfd4b22d1d76b87ae3eaf7c122c8ca8bb67edf94aa08a"
+        },
+        {
+          "path": "NEW306/NEW306_LOD1.glb",
+          "bytes": 2686932,
+          "sha256": "9b19cd1f454d37a9a0515b381ebf01b22990f772e3c3743f475f0dd5c40d7ffa"
+        },
+        {
+          "path": "NEW306/NEW306_LOD2.blend",
+          "bytes": 1418836,
+          "sha256": "a234d9ce87f06dd97b935a7e8faf072a420ac95361dec7cd6a912905d98aaa43"
+        },
+        {
+          "path": "NEW306/NEW306_LOD2.fbx",
+          "bytes": 310924,
+          "sha256": "bc29c9cf8105e2849cf043814ee71367342f410696fb9f4f2e361844518379ab"
+        },
+        {
+          "path": "NEW306/NEW306_LOD2.glb",
+          "bytes": 1738160,
+          "sha256": "85e6456d9d2b610ddcb128865b80cd16bc45af6b6517924e4a0bd770a86d504d"
+        }
+      ]
+    },
+    {
+      "id": "NEW307",
+      "name": "Swiss cheese wedge",
+      "korean_name": "구멍난 치즈 쐐기",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW307/NEW307_LOD0.blend",
+          "bytes": 1107328,
+          "sha256": "15ab3155069a3885b6ab9b9678041b88b185649a7c86a0ee2a940fc355008148"
+        },
+        {
+          "path": "NEW307/NEW307_LOD0.fbx",
+          "bytes": 297804,
+          "sha256": "fedf765659b777dd0c049fab0bc0d4ac499c4118a6f776f39fa53a4bdc69d875"
+        },
+        {
+          "path": "NEW307/NEW307_LOD0.glb",
+          "bytes": 757408,
+          "sha256": "7428890958dc85cc16822721d2a0a4225dbfc21e44cf798a50b51c007ffa2c85"
+        },
+        {
+          "path": "NEW307/NEW307_LOD1.blend",
+          "bytes": 874784,
+          "sha256": "13615cd0227b37218aecd02115fce0f0a04f8e53084092694e5db69894f223f8"
+        },
+        {
+          "path": "NEW307/NEW307_LOD1.fbx",
+          "bytes": 195372,
+          "sha256": "3230cb9007ed92f4dc8cf683c13891c38a17cd1a35c2c0b053d3bfbbbeb38992"
+        },
+        {
+          "path": "NEW307/NEW307_LOD1.glb",
+          "bytes": 481608,
+          "sha256": "6b023eee237e61618babdd6eec0bf49875eaa83a5abcbcc394f6e4dcc379de40"
+        },
+        {
+          "path": "NEW307/NEW307_LOD2.blend",
+          "bytes": 689712,
+          "sha256": "0b88c9b9a794ca8c4cd46d3d11ee31e871861e0b5ff7dffb40edc5207d197dea"
+        },
+        {
+          "path": "NEW307/NEW307_LOD2.fbx",
+          "bytes": 112140,
+          "sha256": "599ce22a9a579d3d3982a07093fc61f17321bf35cb71312cb3c269e6eb9445b9"
+        },
+        {
+          "path": "NEW307/NEW307_LOD2.glb",
+          "bytes": 262100,
+          "sha256": "f33c9c9be8764c636ab95cc01c8647aa7bcade5ff79b1c0d4daa0384084386e1"
+        }
+      ]
+    },
+    {
+      "id": "NEW308",
+      "name": "lever nail clipper",
+      "korean_name": "레버 손톱깎이",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW308/NEW308_LOD0.blend",
+          "bytes": 959264,
+          "sha256": "65076c916066a53d5642865a4ba5353d01b7fe4f444a0bcf2fd4994649d209cf"
+        },
+        {
+          "path": "NEW308/NEW308_LOD0.fbx",
+          "bytes": 170124,
+          "sha256": "9e9148c9636864c79100c40720d236bd4e6d606f498c23ae13a52fab45dc57cf"
+        },
+        {
+          "path": "NEW308/NEW308_LOD0.glb",
+          "bytes": 393924,
+          "sha256": "623cd27081d69ebc7e3e3a8651313ba105205c6be22f8f452c8deaf286cd58ac"
+        },
+        {
+          "path": "NEW308/NEW308_LOD1.blend",
+          "bytes": 808288,
+          "sha256": "1434c90e8a166e89dcd22a846999adcda7a76ba4b8fe72ecb8e266a6e6082dcd"
+        },
+        {
+          "path": "NEW308/NEW308_LOD1.fbx",
+          "bytes": 128588,
+          "sha256": "54fcabe1dc22fba18dcf7bee680f8458e4d08f1ba1a1d0ad54bafe89220c3ab7"
+        },
+        {
+          "path": "NEW308/NEW308_LOD1.glb",
+          "bytes": 270900,
+          "sha256": "9e9e472b4aa61dd1eb0169a0d694c66334d4741a52df6f262f14ccec28f73488"
+        },
+        {
+          "path": "NEW308/NEW308_LOD2.blend",
+          "bytes": 657312,
+          "sha256": "3046c72bebfd3ecc66c3c6d8846b5a29c396cd9b5c8e2eaf66468af08077edd4"
+        },
+        {
+          "path": "NEW308/NEW308_LOD2.fbx",
+          "bytes": 87020,
+          "sha256": "9d7e49f26f9830165531118009942cbadf89a1f3d248e5bea474255817c5aff9"
+        },
+        {
+          "path": "NEW308/NEW308_LOD2.glb",
+          "bytes": 146544,
+          "sha256": "b8ff31610cea0675be36e114d60dc7ab1419b1e63dc978718961d080b070d66d"
+        }
+      ]
+    },
+    {
+      "id": "NEW309",
+      "name": "woodworking panel handsaw",
+      "korean_name": "목공 판톱",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW309/NEW309_LOD0.blend",
+          "bytes": 763752,
+          "sha256": "d9dd9d09f22b05975ed85129ff6e92be4c6df4ed6fc014206d0729d9bd538060"
+        },
+        {
+          "path": "NEW309/NEW309_LOD0.fbx",
+          "bytes": 99164,
+          "sha256": "01f881e1294ada2686b98e081e5a5bdf66a1b51f75c7a0205bdb7628d18f18e6"
+        },
+        {
+          "path": "NEW309/NEW309_LOD0.glb",
+          "bytes": 322536,
+          "sha256": "d55dfc0d154ec6684d826405fb4dc193e4af99f855053a28802913a5fe444f6e"
+        },
+        {
+          "path": "NEW309/NEW309_LOD1.blend",
+          "bytes": 751200,
+          "sha256": "ee5a9c3f61c9c1d6b6af81811bdf419cf20408956f2b72084fd1b9693245c151"
+        },
+        {
+          "path": "NEW309/NEW309_LOD1.fbx",
+          "bytes": 98812,
+          "sha256": "34268c8d061725d5f86423e7e122bf0c2412d567181a77cf0a9f4dd0b5d3d648"
+        },
+        {
+          "path": "NEW309/NEW309_LOD1.glb",
+          "bytes": 307656,
+          "sha256": "53959be804573d88d928b77637a49444bdcec453c8d60b6a65fec46035a6cf16"
+        },
+        {
+          "path": "NEW309/NEW309_LOD2.blend",
+          "bytes": 738984,
+          "sha256": "f6bd5efbf06e1ad43042cddfd991398d861de4002168b0c4a28fa5e6f23db0cc"
+        },
+        {
+          "path": "NEW309/NEW309_LOD2.fbx",
+          "bytes": 91964,
+          "sha256": "c4a2e090501ab06872ceea8ccbee7c73edc19b7cc7713b5263ea30a0d35852fc"
+        },
+        {
+          "path": "NEW309/NEW309_LOD2.glb",
+          "bytes": 293164,
+          "sha256": "e2f60d56aaaeddf9fae05642b756855000102dc2ea1af3efe476c35b297d409c"
+        }
+      ]
+    },
+    {
+      "id": "NEW310",
+      "name": "coconut half",
+      "korean_name": "반쪽 코코넛",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW310/NEW310_LOD0.blend",
+          "bytes": 2146232,
+          "sha256": "d90df3f8dc24d56d240c70f791e127f90b572dffbc997de7afbac5f0ecfe0d19"
+        },
+        {
+          "path": "NEW310/NEW310_LOD0.fbx",
+          "bytes": 572364,
+          "sha256": "01493c664bdfc227234650882aa3ad8ae00c009d28b7b690496c909f7dc94a31"
+        },
+        {
+          "path": "NEW310/NEW310_LOD0.glb",
+          "bytes": 1801768,
+          "sha256": "17d4ca78b1a80fe6519c3653870fcfb032ee9d705c1b79e4eedb2ce9b7e73f02"
+        },
+        {
+          "path": "NEW310/NEW310_LOD1.blend",
+          "bytes": 1345400,
+          "sha256": "ef89813a3c58082ebbcda98690b7bc82d8a0af4f31d07edc693cf170cf52454c"
+        },
+        {
+          "path": "NEW310/NEW310_LOD1.fbx",
+          "bytes": 279788,
+          "sha256": "86d439fc805b473e95aad88317672f7622c2e352d9ceb43b8a5150e8703f4ae3"
+        },
+        {
+          "path": "NEW310/NEW310_LOD1.glb",
+          "bytes": 851940,
+          "sha256": "563710fd8bd45c86a1e259a2a3adbcbd1adf5abf0f9f0c7b077bac449805fd09"
+        },
+        {
+          "path": "NEW310/NEW310_LOD2.blend",
+          "bytes": 976632,
+          "sha256": "f67753725b99e607af0eb66f406540ee2d696ff058a690ba82dd9a6ed7290bba"
+        },
+        {
+          "path": "NEW310/NEW310_LOD2.fbx",
+          "bytes": 146700,
+          "sha256": "7221e8d04667cd541d78d6eeb0e115ec19157582240cb79115941ac1ba16b61a"
+        },
+        {
+          "path": "NEW310/NEW310_LOD2.glb",
+          "bytes": 414476,
+          "sha256": "d0aa466d7884817ba98d86cb41c4bbc6f5e128e1dfd76de5721a8f693e43eb75"
+        }
+      ]
+    },
+    {
+      "id": "NEW311",
+      "name": "manual crank twin eggbeater",
+      "korean_name": "수동 크랭크 거품기",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW311/NEW311_LOD0.blend",
+          "bytes": 1096488,
+          "sha256": "eeabc4e92cdfea7385b9574492d377982dd37025bb31bce2a1b993f8a334be4d"
+        },
+        {
+          "path": "NEW311/NEW311_LOD0.fbx",
+          "bytes": 283628,
+          "sha256": "4dc4ded4e1cbf2c58841f020d8372198b78dea0b7c8682094a4eb52f1a991e78"
+        },
+        {
+          "path": "NEW311/NEW311_LOD0.glb",
+          "bytes": 659200,
+          "sha256": "d9e909a85e95d0a4f5015422355b5ee8c06c668cdcc3da858564e9d27d2b8fc7"
+        },
+        {
+          "path": "NEW311/NEW311_LOD1.blend",
+          "bytes": 930600,
+          "sha256": "30afcee9bcec900795f6ed2f6afe858e1498801a8cd4d8e8e4a8052e99f61e24"
+        },
+        {
+          "path": "NEW311/NEW311_LOD1.fbx",
+          "bytes": 218652,
+          "sha256": "6b59f27fd2bc7305aec4707529357462ba9fa7a0f1f75f30019e5ede4dc1bda0"
+        },
+        {
+          "path": "NEW311/NEW311_LOD1.glb",
+          "bytes": 450292,
+          "sha256": "56be53a92a0298eb4eb203af7bb463ce4cbf8e1a274bca5eb52b79654f5314ba"
+        },
+        {
+          "path": "NEW311/NEW311_LOD2.blend",
+          "bytes": 749160,
+          "sha256": "9d06a5124b9a318009bcbe0b4369953aa60afc0ad62ff8d5f15d290ea417a784"
+        },
+        {
+          "path": "NEW311/NEW311_LOD2.fbx",
+          "bytes": 149180,
+          "sha256": "963c6386f5d4c4d896f4752bb0a242dcba60ea07dfba6031289f5474519085a2"
+        },
+        {
+          "path": "NEW311/NEW311_LOD2.glb",
+          "bytes": 219608,
+          "sha256": "082f4b8f12d3403bf92d57088e409ead1f120ee2eee111e6f07df355e69ab64f"
+        }
+      ]
+    },
+    {
+      "id": "NEW312",
+      "name": "whole shrimp",
+      "korean_name": "통새우",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW312/NEW312_LOD0.blend",
+          "bytes": 1402888,
+          "sha256": "b06d76149664722ab688cac153604d2c64e615a0293c49ab8428e15f7baeb5de"
+        },
+        {
+          "path": "NEW312/NEW312_LOD0.fbx",
+          "bytes": 393596,
+          "sha256": "d76125eb98ff891a0b505dafbf0ed12e6962a24cdcb65b1978898738180e0492"
+        },
+        {
+          "path": "NEW312/NEW312_LOD0.glb",
+          "bytes": 1231820,
+          "sha256": "82d34ccd75043a22c976bd5f90ba52f18ef1532f4efd9298e2f4c213bb7084b9"
+        },
+        {
+          "path": "NEW312/NEW312_LOD1.blend",
+          "bytes": 1150968,
+          "sha256": "181c343b25f8a6a66d09b4ef9391e26e3ca3d4b9dcc72d77a32dbff4bd3cbe98"
+        },
+        {
+          "path": "NEW312/NEW312_LOD1.fbx",
+          "bytes": 309532,
+          "sha256": "ce3949faf784208b1fac499f6df4ec68a0086351c6d2c62f545a3ce0fbbbb38f"
+        },
+        {
+          "path": "NEW312/NEW312_LOD1.glb",
+          "bytes": 808680,
+          "sha256": "abb8065bccb4caa3595016c102c639b2dc324971248100bb97376b1a1f50c869"
+        },
+        {
+          "path": "NEW312/NEW312_LOD2.blend",
+          "bytes": 1077272,
+          "sha256": "2bdbf5c43a0d9bfa821191377cde156c111b287019124bb2ec8cb7d60ba7356f"
+        },
+        {
+          "path": "NEW312/NEW312_LOD2.fbx",
+          "bytes": 286796,
+          "sha256": "69b3599a84e155a28db2419cbc29bdc9dfc9c1c395cd2ee6e94b5507fa4bc3c0"
+        },
+        {
+          "path": "NEW312/NEW312_LOD2.glb",
+          "bytes": 681912,
+          "sha256": "d44b6d2231adab55d6c8c752c8e9b8d2cf97a7cecb575f582446dd49029fd587"
+        }
+      ]
+    },
+    {
+      "id": "NEW313",
+      "name": "American football helmet",
+      "korean_name": "미식축구 헬멧",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW313/NEW313_LOD0.blend",
+          "bytes": 2325220,
+          "sha256": "f4782e92b96a25e0923053509c247c17a401d664e6fb7c28db1d4af230b3d86e"
+        },
+        {
+          "path": "NEW313/NEW313_LOD0.fbx",
+          "bytes": 699964,
+          "sha256": "0b89fcf5a68c15c7e5af827a8bf1b1bc0416c8f4521e7341cd361a0f64fd7f91"
+        },
+        {
+          "path": "NEW313/NEW313_LOD0.glb",
+          "bytes": 2156404,
+          "sha256": "f0e77faf8b3ed5b70a48ce3c7cee495d092dcaf4f8221cc7a55a55e20c1645d9"
+        },
+        {
+          "path": "NEW313/NEW313_LOD1.blend",
+          "bytes": 1569740,
+          "sha256": "3a64e8c7d2245ab7a146d025ca551824bbfd2d625e8aabfecb3f45dc71eb36c2"
+        },
+        {
+          "path": "NEW313/NEW313_LOD1.fbx",
+          "bytes": 420524,
+          "sha256": "16b19e23bcb37affc32d85bc1509bd2c9cff61dbae5959f77ea28cdace2ed298"
+        },
+        {
+          "path": "NEW313/NEW313_LOD1.glb",
+          "bytes": 1213080,
+          "sha256": "497730c483611817b58db188f54ff9ff92076ff04c4396f3826f562e6662e739"
+        },
+        {
+          "path": "NEW313/NEW313_LOD2.blend",
+          "bytes": 1147488,
+          "sha256": "cb3acf43f14036603619ae48692e10b69f7e98e52a27e72dae6a22e78ec3929d"
+        },
+        {
+          "path": "NEW313/NEW313_LOD2.fbx",
+          "bytes": 269852,
+          "sha256": "56735c2a42732e5f02e32ac53f486422029510eef3874f28dfb2169844e4c7c5"
+        },
+        {
+          "path": "NEW313/NEW313_LOD2.glb",
+          "bytes": 687016,
+          "sha256": "2481238a60398b8468a56ccdb85f200aa0a7c18b00960c58101449ca9e939673"
+        }
+      ]
+    },
+    {
+      "id": "NEW315",
+      "name": "long chili pepper",
+      "korean_name": "긴 고추",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW315/NEW315_LOD0.blend",
+          "bytes": 1071624,
+          "sha256": "cf5c8d21a522a0bcc636748c934f7880d4a3449c4aa48f7f969abbd125eb79d5"
+        },
+        {
+          "path": "NEW315/NEW315_LOD0.fbx",
+          "bytes": 238956,
+          "sha256": "5aed83c72de128e99bee71a0e678ca917700632345ebfa544f9638e29edc092a"
+        },
+        {
+          "path": "NEW315/NEW315_LOD0.glb",
+          "bytes": 696808,
+          "sha256": "7a0e7388ee340cbaf709bcd52b3039612761557b050702ba99c3428635b5990d"
+        },
+        {
+          "path": "NEW315/NEW315_LOD1.blend",
+          "bytes": 774464,
+          "sha256": "067703c8b18d581e3dc9e42dd14c566ec8caeaec325ea9b3eff9e1f567daf3f2"
+        },
+        {
+          "path": "NEW315/NEW315_LOD1.fbx",
+          "bytes": 123628,
+          "sha256": "9a359dae7d324ff448ded340c05dee64fc40a9750f797202d57d5be56682d0d9"
+        },
+        {
+          "path": "NEW315/NEW315_LOD1.glb",
+          "bytes": 340224,
+          "sha256": "478e7b0a2a8a6013e975ad0d4bc8da2e264796ee52da0a0854b844c22acf4e95"
+        },
+        {
+          "path": "NEW315/NEW315_LOD2.blend",
+          "bytes": 633024,
+          "sha256": "622cc84c43f5afc568b17a9880f3a25ddd92c9089547b81c822f787520857f30"
+        },
+        {
+          "path": "NEW315/NEW315_LOD2.fbx",
+          "bytes": 71772,
+          "sha256": "70bc64785d93f29135db0cd9731c5aa36052b44777b7ce6fdee4299eb201c675"
+        },
+        {
+          "path": "NEW315/NEW315_LOD2.glb",
+          "bytes": 170484,
+          "sha256": "5fc278e837e16b8be9e4ffcb64fc0187c3010e633e6261d22bbb6b5bfadbb30d"
+        }
+      ]
+    },
+    {
+      "id": "NEW316",
+      "name": "cut lotus root segment",
+      "korean_name": "연근 토막",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW316/NEW316_LOD0.blend",
+          "bytes": 860812,
+          "sha256": "4eebdad1c7252f319f3fd8aac2718d893de416cd10edc7262022d3b939a0dc4e"
+        },
+        {
+          "path": "NEW316/NEW316_LOD0.fbx",
+          "bytes": 111324,
+          "sha256": "028b44682ba28c7386f60ed2bcdc9dfdd5d88d913acdc99a020e3510ae725613"
+        },
+        {
+          "path": "NEW316/NEW316_LOD0.glb",
+          "bytes": 276168,
+          "sha256": "eca930e316ef9847034153d4261876903314957df5985dbc91737cbf168d6914"
+        },
+        {
+          "path": "NEW316/NEW316_LOD1.blend",
+          "bytes": 786508,
+          "sha256": "5bd5b9b6cf2c0b8d4463de773537171a87639800ab8cfb40a96e7ac5f5e237c1"
+        },
+        {
+          "path": "NEW316/NEW316_LOD1.fbx",
+          "bytes": 80092,
+          "sha256": "97a2b15fe6514599086515dc29d7978cbbef9483ed78ec10a156593f3859667b"
+        },
+        {
+          "path": "NEW316/NEW316_LOD1.glb",
+          "bytes": 189728,
+          "sha256": "ee6004f5901ab791cc111d0c0c399c9782b358045755d3066653f429d7aeedc7"
+        },
+        {
+          "path": "NEW316/NEW316_LOD2.blend",
+          "bytes": 732844,
+          "sha256": "1729dc6df09a639eba36242b1efdf038d904cbfa3a38eda7a86536d83fc8f5cc"
+        },
+        {
+          "path": "NEW316/NEW316_LOD2.fbx",
+          "bytes": 61484,
+          "sha256": "bdce5603b1b74413e256a5e338a8a387925039cd2123e45d17ddef9be8fb8b36"
+        },
+        {
+          "path": "NEW316/NEW316_LOD2.glb",
+          "bytes": 126024,
+          "sha256": "437601ea727b465f18e5ee32f76a9d669da53f265982a2019826e55690275732"
+        }
+      ]
+    },
+    {
+      "id": "NEW317",
+      "name": "quad roller skate",
+      "korean_name": "사륜 롤러스케이트",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW317/NEW317_LOD0.blend",
+          "bytes": 2732072,
+          "sha256": "e3ce921d81d4794d0162c0506f0513f31acfe8d5fbe1d735105bd16b800c7da9"
+        },
+        {
+          "path": "NEW317/NEW317_LOD0.fbx",
+          "bytes": 790876,
+          "sha256": "f0b0324f3170d05eb10e53cc06811130a46133601a35ba01b6eaf0b2ba885e8f"
+        },
+        {
+          "path": "NEW317/NEW317_LOD0.glb",
+          "bytes": 2477484,
+          "sha256": "18e71d897d45bc0fd28eb93976f99800dd4a174215e0298803cdd3724ef552fa"
+        },
+        {
+          "path": "NEW317/NEW317_LOD1.blend",
+          "bytes": 1874808,
+          "sha256": "18079852290a78dcffd30020d41cff11a0bfadfee3447a946880dece2e4f8e6e"
+        },
+        {
+          "path": "NEW317/NEW317_LOD1.fbx",
+          "bytes": 494412,
+          "sha256": "cfa63e0c1067ae14d7ed3743331f3ecde8a26f157ce15bd5ee16100a43473255"
+        },
+        {
+          "path": "NEW317/NEW317_LOD1.glb",
+          "bytes": 1438828,
+          "sha256": "d6c72e8f843831efce9b9f235b3d0ae53628ab054bac6faf94a514f8383c977e"
+        },
+        {
+          "path": "NEW317/NEW317_LOD2.blend",
+          "bytes": 1415024,
+          "sha256": "63e7e4fb7cede7218309d1442f22fc7bb6d68a24ef56a3cf6e10664e2782e858"
+        },
+        {
+          "path": "NEW317/NEW317_LOD2.fbx",
+          "bytes": 342876,
+          "sha256": "b163d2a5cca8eb97160a9488db32f5c47b694f2531e2c78fd8513174e9262a23"
+        },
+        {
+          "path": "NEW317/NEW317_LOD2.glb",
+          "bytes": 877148,
+          "sha256": "21712bd0e7451a4fe92ca4f76f6f467c536d21f4fe233379928962082f78b867"
+        }
+      ]
+    },
+    {
+      "id": "NEW318",
+      "name": "jellyfish",
+      "korean_name": "해파리",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW318/NEW318_LOD0.blend",
+          "bytes": 2044992,
+          "sha256": "3bf3ca99331ef76a71cb3ca97a92aa6f82669f276239f7539f046930c83d6e45"
+        },
+        {
+          "path": "NEW318/NEW318_LOD0.fbx",
+          "bytes": 613676,
+          "sha256": "76e20462720a09e9098d73e164c0d2c6ea0ed5baebe01cd862b8cc3bab1575fc"
+        },
+        {
+          "path": "NEW318/NEW318_LOD0.glb",
+          "bytes": 2709792,
+          "sha256": "34af737655195f70925771012f4015e0a3fc684dd483304058beaeb486c23200"
+        },
+        {
+          "path": "NEW318/NEW318_LOD1.blend",
+          "bytes": 1374208,
+          "sha256": "2accd0fc3070b7e6d34b8e2209563f264971e91065b365267c11fe8ff60fa770"
+        },
+        {
+          "path": "NEW318/NEW318_LOD1.fbx",
+          "bytes": 372988,
+          "sha256": "2a1b7d60b1c834d38107d5b39d528872082e7e766552ecf67eefa91193d8c6e1"
+        },
+        {
+          "path": "NEW318/NEW318_LOD1.glb",
+          "bytes": 1492084,
+          "sha256": "fb66c766b422414a831bb6cbf30ae2f32f58593adab9bf64cb960f8b3aecce83"
+        },
+        {
+          "path": "NEW318/NEW318_LOD2.blend",
+          "bytes": 1041824,
+          "sha256": "22604835075fe45bce062ead49b0a051d033fe1778bedd08ee80fd03e22bc8c6"
+        },
+        {
+          "path": "NEW318/NEW318_LOD2.fbx",
+          "bytes": 258444,
+          "sha256": "46cae40bfa467899e1d6c01a1e02ea352a2edffbbab9e1692ea449e6bc16a729"
+        },
+        {
+          "path": "NEW318/NEW318_LOD2.glb",
+          "bytes": 886864,
+          "sha256": "2144fccae37ed475f06cf4eacc7de3c77bf1b82b2d73070030faf19c3e1f4159"
+        }
+      ]
+    },
+    {
+      "id": "NEW319",
+      "name": "real mallard duck",
+      "korean_name": "오리",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW319/NEW319_LOD0.blend",
+          "bytes": 2867744,
+          "sha256": "5a1bcffd885420e451c4559c5cee198b10b9d7a89d3b1afdf1a10d3ae7f1b504"
+        },
+        {
+          "path": "NEW319/NEW319_LOD0.fbx",
+          "bytes": 859660,
+          "sha256": "2e060035aa4ea773b32c56698339a8a3b73ddaaa0633a312d420fb2846a53431"
+        },
+        {
+          "path": "NEW319/NEW319_LOD0.glb",
+          "bytes": 2652812,
+          "sha256": "5426554588e01da7a9ace020b3c6d25dfade91c3086b4ebecc9cfee259526ab0"
+        },
+        {
+          "path": "NEW319/NEW319_LOD1.blend",
+          "bytes": 1876060,
+          "sha256": "37d3b9441880bc94c450cac157bd8d7793118bec9feb6ed4fbbae9793020a764"
+        },
+        {
+          "path": "NEW319/NEW319_LOD1.fbx",
+          "bytes": 492540,
+          "sha256": "6882e3d187e760928bcac77cbb8cab6a189df004a249f002863785c05b006357"
+        },
+        {
+          "path": "NEW319/NEW319_LOD1.glb",
+          "bytes": 1441836,
+          "sha256": "f410be0502391fef8e0cbfcb81e60af6434d4946e6d67f095f5e88c04e7add77"
+        },
+        {
+          "path": "NEW319/NEW319_LOD2.blend",
+          "bytes": 1269996,
+          "sha256": "fdfb37dcbbc515201d7aa65e8b1fad676d54c6542c637ec12a2bc7dc3c51019f"
+        },
+        {
+          "path": "NEW319/NEW319_LOD2.fbx",
+          "bytes": 267228,
+          "sha256": "c577b2f3ca6fcbcbcb513ed863641144bc0765519b0689e15cf2f4c661e4969e"
+        },
+        {
+          "path": "NEW319/NEW319_LOD2.glb",
+          "bytes": 701908,
+          "sha256": "b8e1a15cd1b3186368f92874e33e8641fed86871049aa8741bcc7f290f21c89f"
+        }
+      ]
+    },
+    {
+      "id": "NEW320",
+      "name": "nigiri sushi",
+      "korean_name": "니기리 초밥",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW320/NEW320_LOD0.blend",
+          "bytes": 4106684,
+          "sha256": "3cb63397042b02b550d0b0f6fd8fa219acd5872aa813de56ffb4d18de28bd8ed"
+        },
+        {
+          "path": "NEW320/NEW320_LOD0.fbx",
+          "bytes": 1385420,
+          "sha256": "c05fd24a378a597f4f589df576f37ad89a38b6afbeb0a2dd3da11533edaf446e"
+        },
+        {
+          "path": "NEW320/NEW320_LOD0.glb",
+          "bytes": 4409708,
+          "sha256": "45f860340611eadebb3ff7362e33ebac9411cd843a46452889de3c8b12c883b7"
+        },
+        {
+          "path": "NEW320/NEW320_LOD1.blend",
+          "bytes": 2329916,
+          "sha256": "93426b2a1cbdf13ca39f352787a7dfc2e9515d541ab1928c05faebab5581a5a6"
+        },
+        {
+          "path": "NEW320/NEW320_LOD1.fbx",
+          "bytes": 696844,
+          "sha256": "b29f67a8b95c3081ca2efe5a9c33d8bbd60418d65c1d2d0420e2c788eedd1ed5"
+        },
+        {
+          "path": "NEW320/NEW320_LOD1.glb",
+          "bytes": 2252208,
+          "sha256": "08beae7256c6f8e8afdadf02bccdf631d946d7b4948cc0f53df4aee4e4df7f8d"
+        },
+        {
+          "path": "NEW320/NEW320_LOD2.blend",
+          "bytes": 1372988,
+          "sha256": "3135074f46030ce94148d5f45ef9e52d5b9c215491fb3646efc22a9a7cdc4704"
+        },
+        {
+          "path": "NEW320/NEW320_LOD2.fbx",
+          "bytes": 348060,
+          "sha256": "dc2cf13dc12e864a5340a3b42d242ba0b65d352878682cee5fba0cba06c6a73f"
+        },
+        {
+          "path": "NEW320/NEW320_LOD2.glb",
+          "bytes": 1090204,
+          "sha256": "e3e0fdd69e146e428348f6c7494acde5bfad066558513b3a25ededb5c5f94538"
+        }
+      ]
+    },
+    {
+      "id": "NEW321",
+      "name": "pullover hoodie",
+      "korean_name": "후드티",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW321/NEW321_LOD0.blend",
+          "bytes": 1709368,
+          "sha256": "103316c14b54bd6bad534ea1e84a1f6d7bccd4690be61698e5fb5282dd24f74c"
+        },
+        {
+          "path": "NEW321/NEW321_LOD0.fbx",
+          "bytes": 495484,
+          "sha256": "b97d53ab7d10647a85059e52ec46db70278997662cee8dd9f4ff1cf3dd8b6ce8"
+        },
+        {
+          "path": "NEW321/NEW321_LOD0.glb",
+          "bytes": 1491932,
+          "sha256": "5792793eb78eff2d29fe84c695f84f8a388128fae7db70c266d0bd3d7c363001"
+        },
+        {
+          "path": "NEW321/NEW321_LOD1.blend",
+          "bytes": 1406528,
+          "sha256": "7142e61026883f5396e33fbe5d1edcc5cb4aa464bfd1f3a6813eca42827092bf"
+        },
+        {
+          "path": "NEW321/NEW321_LOD1.fbx",
+          "bytes": 381932,
+          "sha256": "561a4112384f18b13b5bc404f3b505cb158c798e7f4bb837499319ce9b4fa823"
+        },
+        {
+          "path": "NEW321/NEW321_LOD1.glb",
+          "bytes": 1118984,
+          "sha256": "b4b0336b4674adfaa2fc1840a74bda1a0b2e96d73bcd1465d3f9cbc0e2bf3692"
+        },
+        {
+          "path": "NEW321/NEW321_LOD2.blend",
+          "bytes": 1175752,
+          "sha256": "fa3dd45386e89c703b7734323b683e5e2dc057eed8fee6fb7ade493ca44b50d0"
+        },
+        {
+          "path": "NEW321/NEW321_LOD2.fbx",
+          "bytes": 294764,
+          "sha256": "01c73d9d5aa02ea87b05393649c86821fa82bbbf03d2b2479dd58e6b9411aaa8"
+        },
+        {
+          "path": "NEW321/NEW321_LOD2.glb",
+          "bytes": 835824,
+          "sha256": "53ea65bc6b34ab6ca59fb8a45ef8996e71c1b110ad1665633db44a32f86174ee"
+        }
+      ]
+    },
+    {
+      "id": "NEW322",
+      "name": "iced ring doughnut",
+      "korean_name": "링 도넛",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW322/NEW322_LOD0.blend",
+          "bytes": 2843012,
+          "sha256": "e9e8577bdacf4f42d175b365e73a2dbb61ab3e112880cf1c9e7e66a470813844"
+        },
+        {
+          "path": "NEW322/NEW322_LOD0.fbx",
+          "bytes": 983148,
+          "sha256": "c85795d4dfb89260bd37844b2c5d2e6a297337e8cf7cac69468b66e6dff6325e"
+        },
+        {
+          "path": "NEW322/NEW322_LOD0.glb",
+          "bytes": 2644796,
+          "sha256": "526f86e3fd8403c1fe471add385cb98bbb2ba0f9ba67480a5394fe123f0b4d3b"
+        },
+        {
+          "path": "NEW322/NEW322_LOD1.blend",
+          "bytes": 1832420,
+          "sha256": "43fff4406c7c6603549389f49f06ababcf6678b19a51e495fc44500cfbdb5077"
+        },
+        {
+          "path": "NEW322/NEW322_LOD1.fbx",
+          "bytes": 549084,
+          "sha256": "014809dae4ddc8913416af52d90dbebc8f5f5519d7e2c46996897d325e89f513"
+        },
+        {
+          "path": "NEW322/NEW322_LOD1.glb",
+          "bytes": 1381764,
+          "sha256": "e3bdd019c7c20a4a6450c26e6828bcb285721bb3e29ae6c72710ab2cffa1a6ff"
+        },
+        {
+          "path": "NEW322/NEW322_LOD2.blend",
+          "bytes": 1369652,
+          "sha256": "bb7aa6b182ddd1f86f2cd786e10b6956840e8d57e14437ad6fa7b3e52722e87f"
+        },
+        {
+          "path": "NEW322/NEW322_LOD2.fbx",
+          "bytes": 361836,
+          "sha256": "c7e698de2c7bffb96dfddfaacb924becbac050a5c4eab743f98b8c57624342f3"
+        },
+        {
+          "path": "NEW322/NEW322_LOD2.glb",
+          "bytes": 824348,
+          "sha256": "f3a7bf0c26d9e2978ba66837bf0730aaa2d1e03f7a04b97ea9d55175c93c18e1"
+        }
+      ]
+    },
+    {
+      "id": "NEW323",
+      "name": "segmented chocolate bar",
+      "korean_name": "판 초콜릿",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW323/NEW323_LOD0.blend",
+          "bytes": 688164,
+          "sha256": "3343825b044030eb9564e6b855d65a584919de7a6d69d356b1cab03e167fd5cb"
+        },
+        {
+          "path": "NEW323/NEW323_LOD0.fbx",
+          "bytes": 96796,
+          "sha256": "ba378c7b1eeab4f2e2dfc47de3aae90b7f5d7734744725d957d5ce8a4403c62c"
+        },
+        {
+          "path": "NEW323/NEW323_LOD0.glb",
+          "bytes": 326712,
+          "sha256": "8ae7acfe6272324c61aa1472225e4b3f32ad579fe1b7e3655865184ebe96621a"
+        },
+        {
+          "path": "NEW323/NEW323_LOD1.blend",
+          "bytes": 547124,
+          "sha256": "fcb9d06b66d2688ee2ba51caf4711a4c183438beaffe7876a2aa608b975ad69c"
+        },
+        {
+          "path": "NEW323/NEW323_LOD1.fbx",
+          "bytes": 53644,
+          "sha256": "1c8f7b45baaec66c45f42fc74b2dc7dd56cde8df7fc27b450d909b76193990a7"
+        },
+        {
+          "path": "NEW323/NEW323_LOD1.glb",
+          "bytes": 151268,
+          "sha256": "8abdb276ab91484ed476911f4a8fd01b4b868e1371063ca94a65253ee9c74ff0"
+        },
+        {
+          "path": "NEW323/NEW323_LOD2.blend",
+          "bytes": 496280,
+          "sha256": "28e147ad94741087a83731ea95226b13c564976af672f68aa075973e0037c918"
+        },
+        {
+          "path": "NEW323/NEW323_LOD2.fbx",
+          "bytes": 38396,
+          "sha256": "488b2856e9c1cea68e48cff71b1e2e4895b88fdea0d921395affbc750933c274"
+        },
+        {
+          "path": "NEW323/NEW323_LOD2.glb",
+          "bytes": 88024,
+          "sha256": "1e4fdfdf4ac87f7f18c902267d1b9ea42659b6404c407ea2c8457aa7ea075431"
+        }
+      ]
+    },
+    {
+      "id": "NEW324",
+      "name": "manual pepper mill",
+      "korean_name": "수동 후추 그라인더",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW324/NEW324_LOD0.blend",
+          "bytes": 1454296,
+          "sha256": "9642e99077f5c836da2119906b09849985fdbfee7dc7eb9f8df5799208fef2ea"
+        },
+        {
+          "path": "NEW324/NEW324_LOD0.fbx",
+          "bytes": 337180,
+          "sha256": "9ddb22d73195cce9d369de2242957911ab75206afc6077a4e25e3f0a9ebe2873"
+        },
+        {
+          "path": "NEW324/NEW324_LOD0.glb",
+          "bytes": 1004688,
+          "sha256": "f354ba02442f9749fe2d9c95940fb27ea2d479874194bba9d66bd0dbfdc43d59"
+        },
+        {
+          "path": "NEW324/NEW324_LOD1.blend",
+          "bytes": 1222960,
+          "sha256": "476b39105ae2b8d3a09305881acb5ab92d19f0b7897b58b2c097bfad7d62a8d9"
+        },
+        {
+          "path": "NEW324/NEW324_LOD1.fbx",
+          "bytes": 258364,
+          "sha256": "3489db4ad453c415be6626e586e5dfddacbc0121521a4b7cff3722e136f038ea"
+        },
+        {
+          "path": "NEW324/NEW324_LOD1.glb",
+          "bytes": 755024,
+          "sha256": "f65c141fad8d252faf065bab544f83f99ca20e905ce93793d934b0dce7be3bd6"
+        },
+        {
+          "path": "NEW324/NEW324_LOD2.blend",
+          "bytes": 994648,
+          "sha256": "3b61c9a7f4a01f0f55027af3a4a2e9f87b611fe4e92c18ad9e02d2c6d4a23bb8"
+        },
+        {
+          "path": "NEW324/NEW324_LOD2.fbx",
+          "bytes": 187580,
+          "sha256": "465e5fa061dccf38e1f9adca90f3cabf2f208d6ba291b6ebecae75c87ab41ab7"
+        },
+        {
+          "path": "NEW324/NEW324_LOD2.glb",
+          "bytes": 508584,
+          "sha256": "21d05815e8de0c3e0fa6956702ed9f3392fbcd6c4426139ee4de95aa90a71ffc"
+        }
+      ]
+    },
+    {
+      "id": "NEW325",
+      "name": "meat tenderizer mallet",
+      "korean_name": "연육 망치",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW325/NEW325_LOD0.blend",
+          "bytes": 613164,
+          "sha256": "ff22447f49d48f64f5a241240898bae823b88b16f76078379556130586504b24"
+        },
+        {
+          "path": "NEW325/NEW325_LOD0.fbx",
+          "bytes": 72764,
+          "sha256": "3ea1aac3f5c48e861d8233d6bc17ce0cba9b701b99e87d22a702ab534e6ba174"
+        },
+        {
+          "path": "NEW325/NEW325_LOD0.glb",
+          "bytes": 196852,
+          "sha256": "eccfaa16f5aec3c9b151eeefd5bfac7e2d2ffbd87e4bfc2dd673ce3b4b59caeb"
+        },
+        {
+          "path": "NEW325/NEW325_LOD1.blend",
+          "bytes": 584652,
+          "sha256": "704cbd931e10445025c6b6c6f4377c34fc310aaaf651d13a279014a37401bdc9"
+        },
+        {
+          "path": "NEW325/NEW325_LOD1.fbx",
+          "bytes": 62316,
+          "sha256": "0cf299cfa0133aa492f12562a58e7163fc47b5bfcbf06368b23d4357d6baa492"
+        },
+        {
+          "path": "NEW325/NEW325_LOD1.glb",
+          "bytes": 160944,
+          "sha256": "3760fd306ede69c74073888942687c1197bdfa5ea80e358cbee7d467d4addcd0"
+        },
+        {
+          "path": "NEW325/NEW325_LOD2.blend",
+          "bytes": 556140,
+          "sha256": "1f1c568b48c1428862fac26e7c4494d2d1192e121680e583d65de20a1dbdf1e1"
+        },
+        {
+          "path": "NEW325/NEW325_LOD2.fbx",
+          "bytes": 52476,
+          "sha256": "54a5edf8e3c57b24da8f5e693909c115cf260afcabaf3453b422fa9fdb8bfb27"
+        },
+        {
+          "path": "NEW325/NEW325_LOD2.glb",
+          "bytes": 125036,
+          "sha256": "0ab4da450a559e51a82a0e657bec21aa74253621bf40be2891d22edb68cfeb8b"
+        }
+      ]
+    },
+    {
+      "id": "NEW326",
+      "name": "triangular sandwich",
+      "korean_name": "삼각 샌드위치",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW326/NEW326_LOD0.blend",
+          "bytes": 2117284,
+          "sha256": "8aa096af19c3023b17107aabad09e9b037df4234eb701a09ce0e4856381356a8"
+        },
+        {
+          "path": "NEW326/NEW326_LOD0.fbx",
+          "bytes": 678444,
+          "sha256": "76e9e95c9608ebd0c6dc4b05aa6c9bc32607a10a97cc4ea474acac77a1c9d6ce"
+        },
+        {
+          "path": "NEW326/NEW326_LOD0.glb",
+          "bytes": 1802272,
+          "sha256": "a4fb864e10c0060e23551dae2b2529ecd0c3c649e942c736eb8a66401cd2bc36"
+        },
+        {
+          "path": "NEW326/NEW326_LOD1.blend",
+          "bytes": 1258660,
+          "sha256": "46008979f85f9b2599410beb5b002b1a4e3daee97ef1b17690729f11be8d82d4"
+        },
+        {
+          "path": "NEW326/NEW326_LOD1.fbx",
+          "bytes": 308300,
+          "sha256": "c18714816b49aa5a32037189366e98507c7067e8e78016b3d157ce3b4ef2f606"
+        },
+        {
+          "path": "NEW326/NEW326_LOD1.glb",
+          "bytes": 784496,
+          "sha256": "652561435588a451c0c8ef9cc37d8e58e79263aee8f806352b27e3117dd49aab"
+        },
+        {
+          "path": "NEW326/NEW326_LOD2.blend",
+          "bytes": 845860,
+          "sha256": "e376a023f5c92e85ed87a60916cf6f4ec9dfed4ad12285acb45461905eed2b0a"
+        },
+        {
+          "path": "NEW326/NEW326_LOD2.fbx",
+          "bytes": 130636,
+          "sha256": "8c379cd2750ee4029277b75f9d0ab53ecf5d66709e910c73c4067e7ecf03ea3d"
+        },
+        {
+          "path": "NEW326/NEW326_LOD2.glb",
+          "bytes": 295168,
+          "sha256": "6ed4f131dbe82c3a0ba8a4ff2d35072d02d9f20fe90f0bc8dc08c3b02d82175d"
+        }
+      ]
+    },
+    {
+      "id": "NEW327",
+      "name": "green onion",
+      "korean_name": "대파",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW327/NEW327_LOD0.blend",
+          "bytes": 2108476,
+          "sha256": "d89478f931799d1e1982c5b602a12e4b83ac0bb220ef959cf441e8a52a01c2b8"
+        },
+        {
+          "path": "NEW327/NEW327_LOD0.fbx",
+          "bytes": 506172,
+          "sha256": "fac351e9f196e7981ec8105d4514fbb9f3ae50532f2b35293c7f4655c28af9e6"
+        },
+        {
+          "path": "NEW327/NEW327_LOD0.glb",
+          "bytes": 1344372,
+          "sha256": "aa1098246d3cf631c2ff443e4cf2970a05b865720b64d8dd29e5153be524f4b0"
+        },
+        {
+          "path": "NEW327/NEW327_LOD1.blend",
+          "bytes": 1635516,
+          "sha256": "89f02cd31d90bc6e9723562fe233a18e6521875cf8d664acf590f148ace44dd8"
+        },
+        {
+          "path": "NEW327/NEW327_LOD1.fbx",
+          "bytes": 321756,
+          "sha256": "d8084b19e830a94732fa7a1032e63d3b9200da8f6a53f772e78c4e9ec6e4e11c"
+        },
+        {
+          "path": "NEW327/NEW327_LOD1.glb",
+          "bytes": 768116,
+          "sha256": "ce10b14ce4817ae83c65b6a230fb0d0973b8614f0d80a513ac3971fbd4c48a6e"
+        },
+        {
+          "path": "NEW327/NEW327_LOD2.blend",
+          "bytes": 1344348,
+          "sha256": "0e38c56f0af5cf73e7981505e32a011face552c25a50ea2715f78fb006fc4565"
+        },
+        {
+          "path": "NEW327/NEW327_LOD2.fbx",
+          "bytes": 216140,
+          "sha256": "b91d4c388d85dac47f5428f64ac10d0ccc8b43b8bc9fe1dbdd2313a17f52e0cf"
+        },
+        {
+          "path": "NEW327/NEW327_LOD2.glb",
+          "bytes": 409732,
+          "sha256": "94aa4ce4b1b7081172ab759724fe1091b3697aae2ba7466f69666ca2e4663d1f"
+        }
+      ]
+    },
+    {
+      "id": "NEW328",
+      "name": "cinnamon roll",
+      "korean_name": "시나몬 롤",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW328/NEW328_LOD0.blend",
+          "bytes": 2631416,
+          "sha256": "b7ad6ad69d18c14ba91129449b4a4fa605106091a7ffb699626bba2a1df8937b"
+        },
+        {
+          "path": "NEW328/NEW328_LOD0.fbx",
+          "bytes": 821852,
+          "sha256": "039ebc99742ec1f987d00c01a5a7fac3598e089d5d7af459631ae84a05fdcf1e"
+        },
+        {
+          "path": "NEW328/NEW328_LOD0.glb",
+          "bytes": 2170520,
+          "sha256": "862452853bab869c44d4c0f6daa93fc32240079d08498000191d1b1ef944f4c4"
+        },
+        {
+          "path": "NEW328/NEW328_LOD1.blend",
+          "bytes": 1690544,
+          "sha256": "67b15c8920ddcdc32db943364efc2c6c251f4ab1f1baaf5413b3d1f151c91826"
+        },
+        {
+          "path": "NEW328/NEW328_LOD1.fbx",
+          "bytes": 464044,
+          "sha256": "c273a0670bd93049ed8d2588a097b7dd5c85eac15023538b3de2c9b42d00b970"
+        },
+        {
+          "path": "NEW328/NEW328_LOD1.glb",
+          "bytes": 1206016,
+          "sha256": "2e5d58808803025126de8911de4ac8040332c866d9c96ba24f3ab2d13f1c7bf4"
+        },
+        {
+          "path": "NEW328/NEW328_LOD2.blend",
+          "bytes": 1166776,
+          "sha256": "7f07fc2558707754dd14b12c58739959680d85104c479b21e7578009ac76dbea"
+        },
+        {
+          "path": "NEW328/NEW328_LOD2.fbx",
+          "bytes": 255068,
+          "sha256": "809587093183c85cc63fb23f6fa301b43bf4ba2b75366b127ca31c66281dcd44"
+        },
+        {
+          "path": "NEW328/NEW328_LOD2.glb",
+          "bytes": 669072,
+          "sha256": "ae03174f89560442e4111423f53578c5a654d005b9a82744a661e53e60f9f868"
+        }
+      ]
+    },
+    {
+      "id": "NEW329",
+      "name": "fried egg",
+      "korean_name": "계란 프라이",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW329/NEW329_LOD0.blend",
+          "bytes": 697584,
+          "sha256": "9de97a02dd5c6537c42d2330d2cccbf229a4badac70d7e5425ed4fb34e7cb02f"
+        },
+        {
+          "path": "NEW329/NEW329_LOD0.fbx",
+          "bytes": 113852,
+          "sha256": "cb7cf5057a131dd78f43cc00fb4c5f02d8988ac60b25dbe5f51f4bd2cc7ccab1"
+        },
+        {
+          "path": "NEW329/NEW329_LOD0.glb",
+          "bytes": 296020,
+          "sha256": "84fa67763692ee43468df5e12bd5a95523c6f144a0c759290cc816233a0df02f"
+        },
+        {
+          "path": "NEW329/NEW329_LOD1.blend",
+          "bytes": 593008,
+          "sha256": "ec7f1ef38a524d7734c43f85e5122ac063462dc154c47d22f60fce092f592305"
+        },
+        {
+          "path": "NEW329/NEW329_LOD1.fbx",
+          "bytes": 73628,
+          "sha256": "9baefe70793bdc2bad7c684f0cc75d3061a88aa6e1aa46febae7c3e42c3d6ab8"
+        },
+        {
+          "path": "NEW329/NEW329_LOD1.glb",
+          "bytes": 171984,
+          "sha256": "6eee6fd98594e32a7c42c90d53ea3f02f1797d3a08a6648a8ac81bb2c10bfc52"
+        },
+        {
+          "path": "NEW329/NEW329_LOD2.blend",
+          "bytes": 518704,
+          "sha256": "f7ba5c47916f9abf1e6a24d662f76b37a15f3ae6e901ffbcacbbf41798ec38e1"
+        },
+        {
+          "path": "NEW329/NEW329_LOD2.fbx",
+          "bytes": 42684,
+          "sha256": "a038fea53e6ad5c0e27d83053a5089ecdbcacac5bb0d3fde8f761b75ce597962"
+        },
+        {
+          "path": "NEW329/NEW329_LOD2.glb",
+          "bytes": 83848,
+          "sha256": "75bed452ef6db21248eb5781557ffd142b77209b15b9f520f0c0ee2731a772be"
+        }
+      ]
+    },
+    {
+      "id": "NEW330",
+      "name": "maple leaf with petiole",
+      "korean_name": "단풍잎",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW330/NEW330_LOD0.blend",
+          "bytes": 1934832,
+          "sha256": "0c637302c70cfd25a1124bd05064ed6c7378160d318aee0cf499a3e756dc6b46"
+        },
+        {
+          "path": "NEW330/NEW330_LOD0.fbx",
+          "bytes": 537788,
+          "sha256": "a19230d4853eac53469351db8ec190898af3f8588348413f03cd8a87b45ec577"
+        },
+        {
+          "path": "NEW330/NEW330_LOD0.glb",
+          "bytes": 1501428,
+          "sha256": "38ceff10f3c21da22b2650864ad9efe58999aead88f7a9047685f9df974a9251"
+        },
+        {
+          "path": "NEW330/NEW330_LOD1.blend",
+          "bytes": 1170672,
+          "sha256": "ec7159054f759ef077924ac464efbe723de14a37d7fe63efd379fde57c9d7b61"
+        },
+        {
+          "path": "NEW330/NEW330_LOD1.fbx",
+          "bytes": 263324,
+          "sha256": "76d393b6c93cb1451df2047fb75b4c3f3c212d8361098a07dd3bbc17390b26c9"
+        },
+        {
+          "path": "NEW330/NEW330_LOD1.glb",
+          "bytes": 718052,
+          "sha256": "3857083259e7ec118e48b89964423ada3d0e827502f729603539283a13d99683"
+        },
+        {
+          "path": "NEW330/NEW330_LOD2.blend",
+          "bytes": 867396,
+          "sha256": "328cc6a56a5466b680a83224ad69f7a510258437091b12e24cbf1636efac8a1c"
+        },
+        {
+          "path": "NEW330/NEW330_LOD2.fbx",
+          "bytes": 151084,
+          "sha256": "9cde02101a550ebeac2a266b000793a2c8594a9e7d93a4d5ff1ce947b66802e1"
+        },
+        {
+          "path": "NEW330/NEW330_LOD2.glb",
+          "bytes": 407148,
+          "sha256": "f7e8753ed918749f2e12c0c4f12880f8696e6efa921150b924aa772a07832455"
+        }
+      ]
+    },
+    {
+      "id": "NEW332",
+      "name": "combination pliers",
+      "korean_name": "일반 펜치",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW332/NEW332_LOD0.blend",
+          "bytes": 815288,
+          "sha256": "bedcb35f84de1074bc24446c6a2c955be0cee379d645774ad511ad5cce7b949f"
+        },
+        {
+          "path": "NEW332/NEW332_LOD0.fbx",
+          "bytes": 129884,
+          "sha256": "504710df82a700d734a5be19685f55fecd50b5d16c9e9a86bf89849bfcfe9b18"
+        },
+        {
+          "path": "NEW332/NEW332_LOD0.glb",
+          "bytes": 316604,
+          "sha256": "508c094d5be9cc7ab3363c47a403f82e7ba1bab7968e1e902690f954a4216d6f"
+        },
+        {
+          "path": "NEW332/NEW332_LOD1.blend",
+          "bytes": 683720,
+          "sha256": "6d88f30292873aecc9752540c915166009bfa2e1cda8fe7eea5f33030d461cf8"
+        },
+        {
+          "path": "NEW332/NEW332_LOD1.fbx",
+          "bytes": 87820,
+          "sha256": "3a669c64f0187cd93e10d40e79abb35a15b252c6d62f3ff1877b1e2e88f6db10"
+        },
+        {
+          "path": "NEW332/NEW332_LOD1.glb",
+          "bytes": 174748,
+          "sha256": "26e27cc9afb9b5f6dc2454423c313be54d34c308f692953ef7d5b14ceb762f43"
+        },
+        {
+          "path": "NEW332/NEW332_LOD2.blend",
+          "bytes": 632288,
+          "sha256": "19835386719f10d85de6890614b1e54ae79f7bb7e635caa3f40b5ad74927e601"
+        },
+        {
+          "path": "NEW332/NEW332_LOD2.fbx",
+          "bytes": 68956,
+          "sha256": "37222db189f4f75970b071e9bb2a21e75b617a9d59a964ab746bd64d80b70b00"
+        },
+        {
+          "path": "NEW332/NEW332_LOD2.glb",
+          "bytes": 119340,
+          "sha256": "a5b54fe0236ddde2c872f435ea424dbdbbe8dbbc11a886670ce657e0f05cbbfd"
+        }
+      ]
+    },
+    {
+      "id": "NEW333",
+      "name": "cauliflower head",
+      "korean_name": "콜리플라워",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW333/NEW333_LOD0.blend",
+          "bytes": 4814920,
+          "sha256": "b5893d35038b30b11c861e498f94cf305f136c33bf98af12a6ee6e4fa4a2419d"
+        },
+        {
+          "path": "NEW333/NEW333_LOD0.fbx",
+          "bytes": 1747020,
+          "sha256": "ad4baf799d0d2c7904c0632f3dff4b63b1372084d9621ab6716dafc90837fb62"
+        },
+        {
+          "path": "NEW333/NEW333_LOD0.glb",
+          "bytes": 4887184,
+          "sha256": "8ef33454794f523f7a99d166313d1c52df4bed63d9cb27906d52d26302e0fcb0"
+        },
+        {
+          "path": "NEW333/NEW333_LOD1.blend",
+          "bytes": 2872040,
+          "sha256": "66a591621bd122d40c68d939449f95c28d6633a6b359fa4e06dc1b13146761d9"
+        },
+        {
+          "path": "NEW333/NEW333_LOD1.fbx",
+          "bytes": 958460,
+          "sha256": "90a61e4f9c187fb721b7271c9b8a9f99fb7cf8cbc2a520dec37f4201ea360422"
+        },
+        {
+          "path": "NEW333/NEW333_LOD1.glb",
+          "bytes": 2556988,
+          "sha256": "a5c5ed2cedbd538e2aae33a983c055d159f434c59d198cfcb4e65003a063c340"
+        },
+        {
+          "path": "NEW333/NEW333_LOD2.blend",
+          "bytes": 1600984,
+          "sha256": "7e95aba0ab69be57b36ffdf190855ea8afeee5c35f0043db498d0601fbfcb141"
+        },
+        {
+          "path": "NEW333/NEW333_LOD2.fbx",
+          "bytes": 460252,
+          "sha256": "a361d1df181b69fc28569653083c14c0e6d23aeec96ee4f25218b3bbfff63a22"
+        },
+        {
+          "path": "NEW333/NEW333_LOD2.glb",
+          "bytes": 1186856,
+          "sha256": "ac981995eddd702bcaac1a0b73952331be6c3b1a0dd53ab8133a46ae50a8e005"
+        }
+      ]
+    },
+    {
+      "id": "NEW334",
+      "name": "cut kiwi half",
+      "korean_name": "반쪽 키위",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW334/NEW334_LOD0.blend",
+          "bytes": 3394228,
+          "sha256": "95e87171bd78a5a6a1ce5cdea2729e841cb342fb7855d01a320b140a3c92b21c"
+        },
+        {
+          "path": "NEW334/NEW334_LOD0.fbx",
+          "bytes": 1074828,
+          "sha256": "43207d0e766d85d41d26c3d1432f1346789451938496f4efa2f1fc5b131a1f71"
+        },
+        {
+          "path": "NEW334/NEW334_LOD0.glb",
+          "bytes": 2982000,
+          "sha256": "1948f47a0b91473de5cdf715acad1c0c2c8da8573a4296018e13597cb04a2b0f"
+        },
+        {
+          "path": "NEW334/NEW334_LOD1.blend",
+          "bytes": 2448628,
+          "sha256": "3c1fd3314af47b23dc4374d2f6bd196496877e1f024a3ce1d2af906f823739e8"
+        },
+        {
+          "path": "NEW334/NEW334_LOD1.fbx",
+          "bytes": 724764,
+          "sha256": "eb8eddaa13aa5a685df81e1501b6f964229540d2ebf1671d579b5295241fc5f8"
+        },
+        {
+          "path": "NEW334/NEW334_LOD1.glb",
+          "bytes": 2002796,
+          "sha256": "4b0e515a1f4b5d28ad3e59f57eef31ac6efc423316ecd896cd4ab11fb0b439fd"
+        },
+        {
+          "path": "NEW334/NEW334_LOD2.blend",
+          "bytes": 1704756,
+          "sha256": "6b05db91c06c6ab4945bbc1eda862c4a2eb90ba6051aaf14c4e97db30c9ec501"
+        },
+        {
+          "path": "NEW334/NEW334_LOD2.fbx",
+          "bytes": 443420,
+          "sha256": "7948434a8a58547d69726dfbcce078b615f318decf4ef9d4b247fa72d33d76b2"
+        },
+        {
+          "path": "NEW334/NEW334_LOD2.glb",
+          "bytes": 1232480,
+          "sha256": "c9b219339ea14f09b0832775a4c748f89cfc48e0e2a8da9dbbc5c8b208329d22"
+        }
+      ]
+    },
+    {
+      "id": "NEW335",
+      "name": "waffle",
+      "korean_name": "와플",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW335/NEW335_LOD0.blend",
+          "bytes": 1671184,
+          "sha256": "a4cb19830fc28e6522d698757c79ca1fad3ef155d5ed0c198f1a0e0dbc595305"
+        },
+        {
+          "path": "NEW335/NEW335_LOD0.fbx",
+          "bytes": 432460,
+          "sha256": "9535f5ec8c7106eb4dda275b752279e86501b666814eb98399fb44c585876a18"
+        },
+        {
+          "path": "NEW335/NEW335_LOD0.glb",
+          "bytes": 1222328,
+          "sha256": "220c319c3bd6ae5c33e996fb59a06ff41e58cb233c39204f49045b7becde068a"
+        },
+        {
+          "path": "NEW335/NEW335_LOD1.blend",
+          "bytes": 1026600,
+          "sha256": "0183587c64f348e9ced646577b6d6347b7c9bc78ed86c87642a810d5e060d0e9"
+        },
+        {
+          "path": "NEW335/NEW335_LOD1.fbx",
+          "bytes": 206492,
+          "sha256": "bd51a5a43eacacbb9f5cf002a0e12d55d6568203486fcacd3a6c4821baf3eaf8"
+        },
+        {
+          "path": "NEW335/NEW335_LOD1.glb",
+          "bytes": 554840,
+          "sha256": "e993b7cf105fc9f8c073b7ca841ab1414b1e61398bff93c73be39af6d0c38ab4"
+        },
+        {
+          "path": "NEW335/NEW335_LOD2.blend",
+          "bytes": 798868,
+          "sha256": "9ed1531c2d0394d6194b5f3e189ea252fe2b6c44deecdfa88687e26000275859"
+        },
+        {
+          "path": "NEW335/NEW335_LOD2.fbx",
+          "bytes": 126844,
+          "sha256": "197c9a95ff807953eebf5b99880cc4f6c43c2651cc98e4cff61ac81831e07309"
+        },
+        {
+          "path": "NEW335/NEW335_LOD2.glb",
+          "bytes": 319008,
+          "sha256": "d215dd34f97acab714e53ada8ba0cc565068179f2f436701d59579dd5fb8fa1a"
+        }
+      ]
+    },
+    {
+      "id": "NEW336",
+      "name": "cupcake",
+      "korean_name": "컵케이크",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW336/NEW336_LOD0.blend",
+          "bytes": 2097216,
+          "sha256": "1da42fdddd6838a60337eb64b310505b71bf9c547f60c8167b0eb9b891f81e11"
+        },
+        {
+          "path": "NEW336/NEW336_LOD0.fbx",
+          "bytes": 586444,
+          "sha256": "51d72014aa08400da557197e016c32feadd6f091fef471d89df23bdf1ba2c454"
+        },
+        {
+          "path": "NEW336/NEW336_LOD0.glb",
+          "bytes": 1667888,
+          "sha256": "0190052ba4093b79079ab388fe12887d3b2ffeda005675811952889423acd5c1"
+        },
+        {
+          "path": "NEW336/NEW336_LOD1.blend",
+          "bytes": 1404696,
+          "sha256": "64d383a47c944672e3a572efc04035b3d1dbf4acddb35d0aa5b200fb70eaef07"
+        },
+        {
+          "path": "NEW336/NEW336_LOD1.fbx",
+          "bytes": 333276,
+          "sha256": "e4d2d70c0dca6a2805fd2632af8b3b1df4f58867ed988e602ac64774390290b5"
+        },
+        {
+          "path": "NEW336/NEW336_LOD1.glb",
+          "bytes": 957964,
+          "sha256": "d343fa5e64b40e5504671f6de35ee6219530ca0c55908496f9c41b45eabb6386"
+        },
+        {
+          "path": "NEW336/NEW336_LOD2.blend",
+          "bytes": 966896,
+          "sha256": "7e5d8eeaacd2d04518f39c63257963e410f0bec6b6e763cb5a2023b2664c6700"
+        },
+        {
+          "path": "NEW336/NEW336_LOD2.fbx",
+          "bytes": 179916,
+          "sha256": "3cebf7a75e3fd91e4dee576b586768318676b002557f98c48fdb4f87ff275549"
+        },
+        {
+          "path": "NEW336/NEW336_LOD2.glb",
+          "bytes": 509160,
+          "sha256": "e24b6fb391e5ef7c15e936695459ca35bb80ecd1e268920960fe77f9397f39bc"
+        }
+      ]
+    },
+    {
+      "id": "NEW337",
+      "name": "tailored blazer",
+      "korean_name": "정장 재킷",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW337/NEW337_LOD0.blend",
+          "bytes": 1825612,
+          "sha256": "357694e40b3714387439f18d321bfaa414c266e05368e51c8106cd13e2f1a819"
+        },
+        {
+          "path": "NEW337/NEW337_LOD0.fbx",
+          "bytes": 544300,
+          "sha256": "7e8ac581a18b59dddd10537c1eadf8da6a9428c74ebfe5781a33f481a78a9eb5"
+        },
+        {
+          "path": "NEW337/NEW337_LOD0.glb",
+          "bytes": 1351184,
+          "sha256": "7d090f56b98d6ab66c6e0f7a7d0c5d9f39878390fcf6063bff5200754e880f11"
+        },
+        {
+          "path": "NEW337/NEW337_LOD1.blend",
+          "bytes": 1559028,
+          "sha256": "0f9d1ad93e7b786d5cf5da76aab8dc5db563272ae4428d884c726ce1d8a0e9e0"
+        },
+        {
+          "path": "NEW337/NEW337_LOD1.fbx",
+          "bytes": 443468,
+          "sha256": "c08fd7d0aa122542046eadbcfcf0185d6fb7844d941373f901ef382317ff4d6d"
+        },
+        {
+          "path": "NEW337/NEW337_LOD1.glb",
+          "bytes": 1068972,
+          "sha256": "c5881162cc2932f76b0c211e15fb97e5377bbc165217556b8efb26e811e20f25"
+        },
+        {
+          "path": "NEW337/NEW337_LOD2.blend",
+          "bytes": 1397564,
+          "sha256": "52da8d9bc1d5c5ab38fe3c82fd0e2bbcabe1e1a5ae3f9523505bf9ca197a6fd0"
+        },
+        {
+          "path": "NEW337/NEW337_LOD2.fbx",
+          "bytes": 378380,
+          "sha256": "99982f195d2b85c73ea642b6a9bced21afbc0b5ec1072e07c2f98ffc2fdcb5b3"
+        },
+        {
+          "path": "NEW337/NEW337_LOD2.glb",
+          "bytes": 896060,
+          "sha256": "fc1355b89b35212aa0214d61f0398bcd019810a7e066c4a947e556eda17f17e1"
+        }
+      ]
+    },
+    {
+      "id": "NEW338",
+      "name": "cricket bat",
+      "korean_name": "크리켓 배트",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW338/NEW338_LOD0.blend",
+          "bytes": 1878176,
+          "sha256": "d8bf4f8d7f4c4819b43761031da630a509ea2e512875d0022eefa0331142aac9"
+        },
+        {
+          "path": "NEW338/NEW338_LOD0.fbx",
+          "bytes": 464812,
+          "sha256": "7b44c925d07436a1123827d6bd1b12a14d689ddf15459620f33c8ea1679c9a8a"
+        },
+        {
+          "path": "NEW338/NEW338_LOD0.glb",
+          "bytes": 1516500,
+          "sha256": "dc64347a2b6886c6074d0c7724fa6cfeb494b003925a521b6ca3122441ed8ce4"
+        },
+        {
+          "path": "NEW338/NEW338_LOD1.blend",
+          "bytes": 1218944,
+          "sha256": "33bce78620ef78b911dd66b1000639adf29df2bf564824fb9d8e81d1876a0cc0"
+        },
+        {
+          "path": "NEW338/NEW338_LOD1.fbx",
+          "bytes": 266812,
+          "sha256": "fc78bbba2d5d878daec9ac75d54d93c96ea533fe66b1fc8f91f5af9a1211ddad"
+        },
+        {
+          "path": "NEW338/NEW338_LOD1.glb",
+          "bytes": 804960,
+          "sha256": "e7cb7b2f5f886c05e1fbe07e868f18321c2c7af87c2f1b5ebdaf1368fd1635f7"
+        },
+        {
+          "path": "NEW338/NEW338_LOD2.blend",
+          "bytes": 874208,
+          "sha256": "50f85f1c648e3ae1149a71374043dd2939f6a9efb8b7450a22ac559e92f428fe"
+        },
+        {
+          "path": "NEW338/NEW338_LOD2.fbx",
+          "bytes": 146556,
+          "sha256": "2032345752d400a6438b71c44f1559fbbf40cd9869e9271683bd24c698b697ba"
+        },
+        {
+          "path": "NEW338/NEW338_LOD2.glb",
+          "bytes": 432860,
+          "sha256": "0d685c463c5ad7b5bd06d1957919d61cfceb12a78290346a4e9ab980f4f2ac50"
+        }
+      ]
+    },
+    {
+      "id": "NEW340",
+      "name": "woodworking bevel-edge chisel",
+      "korean_name": "목공 끌",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW340/NEW340_LOD0.blend",
+          "bytes": 726060,
+          "sha256": "b1f38796c1c7b098039800de1cd9c9acae5c8121c2fadb85b1b8359eb32d8d67"
+        },
+        {
+          "path": "NEW340/NEW340_LOD0.fbx",
+          "bytes": 99372,
+          "sha256": "6154a05b450355e93ed9ee3dfdf0b3bbedb31df640e91124a412fb5446fad228"
+        },
+        {
+          "path": "NEW340/NEW340_LOD0.glb",
+          "bytes": 241116,
+          "sha256": "bf13296d87f9198f9cd36459a30727d4d7a3f48975a254f5984e035beeba91ec"
+        },
+        {
+          "path": "NEW340/NEW340_LOD1.blend",
+          "bytes": 663536,
+          "sha256": "d6cd69fe3574f43de0e4494508f1bb3951c5e6c9479e4a4a051478ad570de481"
+        },
+        {
+          "path": "NEW340/NEW340_LOD1.fbx",
+          "bytes": 80332,
+          "sha256": "432d2003721f1fb4c29f5ce4092951b87a99d8f046bfffd4dcc9d9c67337dd53"
+        },
+        {
+          "path": "NEW340/NEW340_LOD1.glb",
+          "bytes": 180748,
+          "sha256": "ee119dc9ef0f19ca6a65137b09d9655aa176bbe77767e154f451bcb1644a8866"
+        },
+        {
+          "path": "NEW340/NEW340_LOD2.blend",
+          "bytes": 606484,
+          "sha256": "ec64d91bfcff10bb0d7b73e6e032d9a093bf48ed1e31d804072c146d204cfa79"
+        },
+        {
+          "path": "NEW340/NEW340_LOD2.fbx",
+          "bytes": 62284,
+          "sha256": "15701c2aa70622d53ceb248075a0b32719f195af55f97ca32cdeec5c12ff589d"
+        },
+        {
+          "path": "NEW340/NEW340_LOD2.glb",
+          "bytes": 125252,
+          "sha256": "e1e395e7d261b4a4b9ebdfeda1542aa43ba4af322edaf06c2721f50d7332b8bf"
+        }
+      ]
+    },
+    {
+      "id": "NEW341",
+      "name": "sewing thread spool",
+      "korean_name": "실 감긴 실패",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW341/NEW341_LOD0.blend",
+          "bytes": 1842204,
+          "sha256": "bc433c5f8c96f20a257eebffeac1c58965c20db5809fdd4940aa14c85fad485d"
+        },
+        {
+          "path": "NEW341/NEW341_LOD0.fbx",
+          "bytes": 513836,
+          "sha256": "356ba32439fd69dc8cd04ad8b0f30c4a6880e71aa6d663674c777b0c806cefb7"
+        },
+        {
+          "path": "NEW341/NEW341_LOD0.glb",
+          "bytes": 1477756,
+          "sha256": "b189a52821b5da841500dfcbd9541bd079ad88dd0a97f646b76b4b38cc73345d"
+        },
+        {
+          "path": "NEW341/NEW341_LOD1.blend",
+          "bytes": 1319052,
+          "sha256": "ca7a2c3f6e25a19a784a5d8467187fd714929372137ea35fa69f8bc1cb4ed73a"
+        },
+        {
+          "path": "NEW341/NEW341_LOD1.fbx",
+          "bytes": 318156,
+          "sha256": "c899f3ad5a2d201a71c8d4262c49c59e1ad555412794102259b2089fd71e4502"
+        },
+        {
+          "path": "NEW341/NEW341_LOD1.glb",
+          "bytes": 913092,
+          "sha256": "328e53e1a1d163693903fa14c3fcbc80f580f8e8e660697e7042b0193f7acdfe"
+        },
+        {
+          "path": "NEW341/NEW341_LOD2.blend",
+          "bytes": 916860,
+          "sha256": "e3dc2a2f8ede76ebe0f5d67d28880c203a5ebafb357fadb54b376b728549bfd2"
+        },
+        {
+          "path": "NEW341/NEW341_LOD2.fbx",
+          "bytes": 182060,
+          "sha256": "f7d7b355d19c841464ff9a2f7ba9f21786ccca276a87f0a3988761eddc391870"
+        },
+        {
+          "path": "NEW341/NEW341_LOD2.glb",
+          "bytes": 478980,
+          "sha256": "4f2512fc12627b00540f7c72be4c44b3f75cf8603d13c541b5ce5ac87b0d4ce3"
+        }
+      ]
+    },
+    {
+      "id": "NEW342",
+      "name": "manual safety razor",
+      "korean_name": "수동 면도기",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW342/NEW342_LOD0.blend",
+          "bytes": 3397408,
+          "sha256": "a9578d0c1eaa996ef89ac752e10aa0fee476140bdf3212356d014436b8e0c501"
+        },
+        {
+          "path": "NEW342/NEW342_LOD0.fbx",
+          "bytes": 989244,
+          "sha256": "5e0b67c843d85ffd59b2438254d9c41b963bfd9186e0427229db2378d137be11"
+        },
+        {
+          "path": "NEW342/NEW342_LOD0.glb",
+          "bytes": 3149448,
+          "sha256": "7879ddd820165daf478d749f29b5d8387b26d252e5c08d98373b348ff9ae33dc"
+        },
+        {
+          "path": "NEW342/NEW342_LOD1.blend",
+          "bytes": 2247292,
+          "sha256": "108907448ecd164b9b0c57f994b06d91498038c9cd8684407ff086f6c87418b0"
+        },
+        {
+          "path": "NEW342/NEW342_LOD1.fbx",
+          "bytes": 594380,
+          "sha256": "dc5c8822dd5a5f54b0cfb8673d7a183f526984cdbd4fed80f7e1d1779f2c8c3d"
+        },
+        {
+          "path": "NEW342/NEW342_LOD1.glb",
+          "bytes": 1900360,
+          "sha256": "3f0cd59de6799cdbb2d8478d2aec40df32fc867366e9fd2304664cc2db6aabeb"
+        },
+        {
+          "path": "NEW342/NEW342_LOD2.blend",
+          "bytes": 1399200,
+          "sha256": "53eee3ffefef4928055d3e239c49751f53866d719fbd4c1a39d7b6bebcad874a"
+        },
+        {
+          "path": "NEW342/NEW342_LOD2.fbx",
+          "bytes": 317036,
+          "sha256": "6772cee1f6806ffcef948fec539d103ad939e4149f7f4919824c6c516416034b"
+        },
+        {
+          "path": "NEW342/NEW342_LOD2.glb",
+          "bytes": 980804,
+          "sha256": "b022d7f7f115518595432e1d9cdafd173c1d8556d0180cb7e2efa6c33b448034"
+        }
+      ]
+    },
+    {
+      "id": "NEW345",
+      "name": "sewing thimble",
+      "korean_name": "골무",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW345/NEW345_LOD0.blend",
+          "bytes": 3543984,
+          "sha256": "40bedfc1008700119f0fd008f0a9026a468ca3ef10ab1b73f6d19d34990d7689"
+        },
+        {
+          "path": "NEW345/NEW345_LOD0.fbx",
+          "bytes": 1149932,
+          "sha256": "e9ef5138f40f2415864d16e39e2d338f3f2ada96df2d74a49d478c6d6ca32c0b"
+        },
+        {
+          "path": "NEW345/NEW345_LOD0.glb",
+          "bytes": 3526448,
+          "sha256": "adab3a4255df87e78e938d4991977efe7a60727b6ade974a193bfdb4641adcd2"
+        },
+        {
+          "path": "NEW345/NEW345_LOD1.blend",
+          "bytes": 2627184,
+          "sha256": "0c64f91ae2bf7082bb08f723bb51ff661827f439cb9a4c1d36cc442b4802d796"
+        },
+        {
+          "path": "NEW345/NEW345_LOD1.fbx",
+          "bytes": 820268,
+          "sha256": "530e0f48dd9d2b233dc0628604f1d74d7d2b6c5be3bbc3b25eb74b383225a4f6"
+        },
+        {
+          "path": "NEW345/NEW345_LOD1.glb",
+          "bytes": 2489644,
+          "sha256": "70106893fd37a234736c6f2531fcaa9483581d90221845367f29957d39a59f45"
+        },
+        {
+          "path": "NEW345/NEW345_LOD2.blend",
+          "bytes": 1930416,
+          "sha256": "1107534000128dff61637a405202fd0aecc7fc674530c838a76d89d45112712c"
+        },
+        {
+          "path": "NEW345/NEW345_LOD2.fbx",
+          "bytes": 529244,
+          "sha256": "66b9594bd4f8d432c622006db707e24184a7010ceb4f27b3046824534218bf92"
+        },
+        {
+          "path": "NEW345/NEW345_LOD2.glb",
+          "bytes": 1607212,
+          "sha256": "dae4287718cef436d0e8c0142e2d4ec1fb889dea2bd4246d702cc0ac34975b3b"
+        }
+      ]
+    },
+    {
+      "id": "NEW346",
+      "name": "open mascara with wand",
+      "korean_name": "마스카라",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW346/NEW346_LOD0.blend",
+          "bytes": 2261876,
+          "sha256": "87d766c4bcbfb56f7bb6b445f1fabd49880b446d34631c82393e1439e6f5e589"
+        },
+        {
+          "path": "NEW346/NEW346_LOD0.fbx",
+          "bytes": 878236,
+          "sha256": "1d76174db33d9bd42dec9795107fc1a33d7d58b048101006134a304208664b2d"
+        },
+        {
+          "path": "NEW346/NEW346_LOD0.glb",
+          "bytes": 818152,
+          "sha256": "7bcd13dc1d702327abf344d23331f332a06baedbc6bbe370b50d29fda37b49ed"
+        },
+        {
+          "path": "NEW346/NEW346_LOD1.blend",
+          "bytes": 1620436,
+          "sha256": "6e5fb379be8d773a7fe79e2fca7910bcf9b6be776332f13c8d13912e1ef849c6"
+        },
+        {
+          "path": "NEW346/NEW346_LOD1.fbx",
+          "bytes": 582380,
+          "sha256": "f1552e88c8f3ac4acd145bf491e6430075c33b72d00dca9cc7b65a5ec467790f"
+        },
+        {
+          "path": "NEW346/NEW346_LOD1.glb",
+          "bytes": 520072,
+          "sha256": "af2bba2b99bf7a683809af6f3c4c5e2f63414b9d3caf90641226d153edac980a"
+        },
+        {
+          "path": "NEW346/NEW346_LOD2.blend",
+          "bytes": 1136820,
+          "sha256": "18c8adf4723a95324915d9231deea3dee6179c95d02ea720d342b48964b6e7da"
+        },
+        {
+          "path": "NEW346/NEW346_LOD2.fbx",
+          "bytes": 339564,
+          "sha256": "956a999d9cbe928e8cf0215155c187d81b0a6dce2cdf83360636de17fa1cb002"
+        },
+        {
+          "path": "NEW346/NEW346_LOD2.glb",
+          "bytes": 269104,
+          "sha256": "6d24b9f09bd5498dcd1d7f1a6d3852ea1bd0148014d6c4704389c26c99992e7f"
+        }
+      ]
+    },
+    {
+      "id": "NEW347",
+      "name": "nail polish bottle with brush",
+      "korean_name": "매니큐어",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW347/NEW347_LOD0.blend",
+          "bytes": 2789092,
+          "sha256": "d5a3680924817572d4c6edb2ea1001cd2cf2e6bbf4f2039b5fd7ca9e5add2d7f"
+        },
+        {
+          "path": "NEW347/NEW347_LOD0.fbx",
+          "bytes": 842780,
+          "sha256": "c64afe1436b018d75fbf88e9c231e2bc8223c0b58c9c94b52a2ae6f10353b7de"
+        },
+        {
+          "path": "NEW347/NEW347_LOD0.glb",
+          "bytes": 2353948,
+          "sha256": "ffdc444f0d52e0a195dac65104c4937653b4a0dfb80ff8b9e582cfdc70f52f8a"
+        },
+        {
+          "path": "NEW347/NEW347_LOD1.blend",
+          "bytes": 1764252,
+          "sha256": "ba0f18363fd89f6e52db26059a3d99d6bf12ecd1dd5481e66a3823d369b25cff"
+        },
+        {
+          "path": "NEW347/NEW347_LOD1.fbx",
+          "bytes": 470764,
+          "sha256": "f316ffdd5aae27365c260ddf2075bb060877e053199bd6dcb00735ba20f058e3"
+        },
+        {
+          "path": "NEW347/NEW347_LOD1.glb",
+          "bytes": 1279804,
+          "sha256": "e00241a4257b0f708f5bb4f7dfa76c3e8fa6b4d07961c9ad95e1843ab02e79b8"
+        },
+        {
+          "path": "NEW347/NEW347_LOD2.blend",
+          "bytes": 1124412,
+          "sha256": "b0474882a85c7a605834cd937090b0539419b96085467d689f499a9ef6bc3bd1"
+        },
+        {
+          "path": "NEW347/NEW347_LOD2.fbx",
+          "bytes": 248044,
+          "sha256": "985d988a9165fc135ce5dee2bb8e2b8863aa6590f9b68ae2e42a7301175d6349"
+        },
+        {
+          "path": "NEW347/NEW347_LOD2.glb",
+          "bytes": 616296,
+          "sha256": "b88ec1020cb629fb0882fd94ba21b3f8def462e038e2ddb545ff6fc6f825fda4"
+        }
+      ]
+    },
+    {
+      "id": "NEW348",
+      "name": "cut fig half",
+      "korean_name": "반쪽 무화과",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW348/NEW348_LOD0.blend",
+          "bytes": 4879940,
+          "sha256": "b2101e064d7246da5d3cdc70197e3a197038b414d7e88f8b5796710889d9ee83"
+        },
+        {
+          "path": "NEW348/NEW348_LOD0.fbx",
+          "bytes": 1601148,
+          "sha256": "fe6d3fea83e94c3bcb3bc40351476310eb15105a928897caae6223c47db19fa3"
+        },
+        {
+          "path": "NEW348/NEW348_LOD0.glb",
+          "bytes": 4497512,
+          "sha256": "da02af4466af132e3389bcf35eb93eb7c622d1535de920e4f855d7271b8e5cd1"
+        },
+        {
+          "path": "NEW348/NEW348_LOD1.blend",
+          "bytes": 3039172,
+          "sha256": "d6901a707f31126c70bd688b2cd3c63f4b4767577b17c65f82fab58dab3bc591"
+        },
+        {
+          "path": "NEW348/NEW348_LOD1.fbx",
+          "bytes": 962780,
+          "sha256": "acaed38a8131b902dbe3b2b726e9470dfcf631e1b698eca89f80c813ddb15558"
+        },
+        {
+          "path": "NEW348/NEW348_LOD1.glb",
+          "bytes": 2591312,
+          "sha256": "0fcb043a2b0006b0da801ca525f2d278725db498c45ed74288d5d47a030e53a1"
+        },
+        {
+          "path": "NEW348/NEW348_LOD2.blend",
+          "bytes": 1961188,
+          "sha256": "24d326ac677abf4a4a687743936365e391776f52f48eb6a3032d5b887e86d82c"
+        },
+        {
+          "path": "NEW348/NEW348_LOD2.fbx",
+          "bytes": 570988,
+          "sha256": "080af202e1b428ea6b2d728f251d616ddc8e2e3e78bedd4c63ae9ef628259202"
+        },
+        {
+          "path": "NEW348/NEW348_LOD2.glb",
+          "bytes": 1474992,
+          "sha256": "738c3b1148b35de30da736e8c6a340293a6729a2efcf629a366c7943e84ab29c"
+        }
+      ]
+    },
+    {
+      "id": "NEW349",
+      "name": "pizza slice",
+      "korean_name": "피자 조각",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW349/NEW349_LOD0.blend",
+          "bytes": 883168,
+          "sha256": "c2c3a45024786cac524063c66f3070cc87e06d0ea4db270f66bb08dc5e55d537"
+        },
+        {
+          "path": "NEW349/NEW349_LOD0.fbx",
+          "bytes": 146524,
+          "sha256": "6d9be2b95638030a37e3f780f4f9a15b5fff66c300511f0df278d8bc624c89c8"
+        },
+        {
+          "path": "NEW349/NEW349_LOD0.glb",
+          "bytes": 323544,
+          "sha256": "bcf090f5522d47d1198a05ffd53440389518a66660f5d0f5d1c615349a959afc"
+        },
+        {
+          "path": "NEW349/NEW349_LOD1.blend",
+          "bytes": 769384,
+          "sha256": "a73f5788a140897ccedf45d5263820c581f972f89780b5251e9149c83c8e38aa"
+        },
+        {
+          "path": "NEW349/NEW349_LOD1.fbx",
+          "bytes": 110684,
+          "sha256": "a6cfe940a8024d0bc9cb4fd612f0feb22138cc7c87e43cc7e4cb1eff72242de0"
+        },
+        {
+          "path": "NEW349/NEW349_LOD1.glb",
+          "bytes": 201448,
+          "sha256": "28286fdef865e703c82d8e7061de3f2292ba895d86216492e656d1084e6caf12"
+        },
+        {
+          "path": "NEW349/NEW349_LOD2.blend",
+          "bytes": 695500,
+          "sha256": "0cd89d1e8ff84ee52735c1858134569bfbd0d2efb08b745b7cc0ceced2b52deb"
+        },
+        {
+          "path": "NEW349/NEW349_LOD2.fbx",
+          "bytes": 84460,
+          "sha256": "712625432268f1fbbc20deddaea022ec1133a7ce1d53363c8f76cd96e6ab91ff"
+        },
+        {
+          "path": "NEW349/NEW349_LOD2.glb",
+          "bytes": 123684,
+          "sha256": "627dc253a8f4f28710ac8b990bbc5278689cb646e2db52b3481d68f713dea89e"
+        }
+      ]
+    },
+    {
+      "id": "NEW350",
+      "name": "pen-style gravity airbrush",
+      "korean_name": "펜형 에어브러시",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW350/NEW350_LOD0.blend",
+          "bytes": 1961344,
+          "sha256": "c6864a731d5b91cc0436f3a84feadb8e7adcc4b0bd4b94050588f90aafcd211d"
+        },
+        {
+          "path": "NEW350/NEW350_LOD0.fbx",
+          "bytes": 524092,
+          "sha256": "e061638004482a5837b059d2e89f233882cb028e9c65d761fe2131ded5b84a4c"
+        },
+        {
+          "path": "NEW350/NEW350_LOD0.glb",
+          "bytes": 1574488,
+          "sha256": "6ae7c4e4aaa61022dcd533e7c966129aeaeeb39dee4061108182ad0e83e80521"
+        },
+        {
+          "path": "NEW350/NEW350_LOD1.blend",
+          "bytes": 1576672,
+          "sha256": "868561ed5daccb442e889ef2291cd6f3855967a9340f73743b4fee95209923fd"
+        },
+        {
+          "path": "NEW350/NEW350_LOD1.fbx",
+          "bytes": 407196,
+          "sha256": "2c74da111964a171c683e3e0c7dc49db2cf3bf0d512bb6afd5df4484c597b3d6"
+        },
+        {
+          "path": "NEW350/NEW350_LOD1.glb",
+          "bytes": 1156676,
+          "sha256": "af7fca61e154243783e4fcaaf5507d40400e4ad6c7f369fa4809f6b4d591688a"
+        },
+        {
+          "path": "NEW350/NEW350_LOD2.blend",
+          "bytes": 1261552,
+          "sha256": "fe06b81feb7de4663b6936dd879ebe7ea7a3f0002eeb88bc1ea542bd5164b14f"
+        },
+        {
+          "path": "NEW350/NEW350_LOD2.fbx",
+          "bytes": 300604,
+          "sha256": "cfdab6c9b86a5a8882fb80d613cc5d84f917420a1d365036d6566068e7438b2a"
+        },
+        {
+          "path": "NEW350/NEW350_LOD2.glb",
+          "bytes": 810560,
+          "sha256": "7e9f27ff948cb17e4606790669baae3f45ad73959ef797e8563638cab6a07070"
+        }
+      ]
+    },
+    {
+      "id": "NEW351",
+      "name": "macaron",
+      "korean_name": "마카롱",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW351/NEW351_LOD0.blend",
+          "bytes": 1391504,
+          "sha256": "5c5ea6143c73da4fbf224caadda7788841f06ecd7699324a73823fa0a3151bb1"
+        },
+        {
+          "path": "NEW351/NEW351_LOD0.fbx",
+          "bytes": 351916,
+          "sha256": "b17adef95eb65f79447b6893a5d8476fa8a4c8503a67e82ed3fa5a2dc15f47ea"
+        },
+        {
+          "path": "NEW351/NEW351_LOD0.glb",
+          "bytes": 975872,
+          "sha256": "a90747a0acc94df23166714cdfb8adba74ac48614e59b8fcf1cec1a4534e27bb"
+        },
+        {
+          "path": "NEW351/NEW351_LOD1.blend",
+          "bytes": 1030896,
+          "sha256": "87ce774aacb8715e86b790c061058ddcce11fdf2bad19bae0b0a7ae820474ce3"
+        },
+        {
+          "path": "NEW351/NEW351_LOD1.fbx",
+          "bytes": 225116,
+          "sha256": "166e6168fefff547302d32385eabec75047989e8caa47b54977b6216aa777b59"
+        },
+        {
+          "path": "NEW351/NEW351_LOD1.glb",
+          "bytes": 590732,
+          "sha256": "5117d51cea4a9d64c9d34ca545ee4498287f4167e4ba66f584fa90bcacbe6937"
+        },
+        {
+          "path": "NEW351/NEW351_LOD2.blend",
+          "bytes": 844480,
+          "sha256": "bcb9f2414f74f320d0479227fdc9b98feae9d5274f6bcef4ac82b56c80810d07"
+        },
+        {
+          "path": "NEW351/NEW351_LOD2.fbx",
+          "bytes": 153180,
+          "sha256": "c98ecd0a7a06fb51f0047d2559252b35efa74492d06aeb4883c80ca8c3c4bad2"
+        },
+        {
+          "path": "NEW351/NEW351_LOD2.glb",
+          "bytes": 391624,
+          "sha256": "e8ec456cd56a005619780478babefe65a0103611e9b58d8e9d60743dd3582aa3"
+        }
+      ]
+    },
+    {
+      "id": "NEW352",
+      "name": "feather duster",
+      "korean_name": "깃털 먼지떨이",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW352/NEW352_LOD0.blend",
+          "bytes": 3461820,
+          "sha256": "1d335794b2932d89f0c29beaf1a2877f6253a52dc39c544b4ab41982d87970eb"
+        },
+        {
+          "path": "NEW352/NEW352_LOD0.fbx",
+          "bytes": 1097404,
+          "sha256": "542f894d19877de2904cf3f1f04f731e0d6c48a702c0a18f5ea057839ffca886"
+        },
+        {
+          "path": "NEW352/NEW352_LOD0.glb",
+          "bytes": 2905832,
+          "sha256": "373362ce2a95ab8355f693a376915e9f9f735cb3c948d5e8709d974f15308335"
+        },
+        {
+          "path": "NEW352/NEW352_LOD1.blend",
+          "bytes": 2775100,
+          "sha256": "10644c495f9bdd1fb99254f184840fb07ec72c45d9a01bd7a08f98c1893c2efd"
+        },
+        {
+          "path": "NEW352/NEW352_LOD1.fbx",
+          "bytes": 814700,
+          "sha256": "c94162ec7ce79bc2b4dc1711df8678784fb71acca62db09112f112c610276762"
+        },
+        {
+          "path": "NEW352/NEW352_LOD1.glb",
+          "bytes": 2189764,
+          "sha256": "863423003fc07afd5848f9023888052b73a8dffe1015d3a53b64c53f30747be0"
+        },
+        {
+          "path": "NEW352/NEW352_LOD2.blend",
+          "bytes": 2267940,
+          "sha256": "ddab93d9f37a9b283ab4d87ac305a2d913e883d0ff49deafcd76ed8a9e1fb6ee"
+        },
+        {
+          "path": "NEW352/NEW352_LOD2.fbx",
+          "bytes": 640444,
+          "sha256": "e3f37b7eb33419e501dab184d26c2ed8984e101cc9d56798542506c16a33f557"
+        },
+        {
+          "path": "NEW352/NEW352_LOD2.glb",
+          "bytes": 1673444,
+          "sha256": "f2c4eff080d0de31a718f6d68f6486c871f962a74e168614cbc94a8928bcfabd"
+        }
+      ]
+    },
+    {
+      "id": "NEW353",
+      "name": "eclair",
+      "korean_name": "에클레어",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW353/NEW353_LOD0.blend",
+          "bytes": 3296872,
+          "sha256": "9ab4eab5658d1d8471a552fec5b95808077a00a624a8ebcce4f4bb164c4a7adc"
+        },
+        {
+          "path": "NEW353/NEW353_LOD0.fbx",
+          "bytes": 1134956,
+          "sha256": "f8df3cd0a7302f5dcbb679b866c33e57177a30c520bc963dcb67758f1b029610"
+        },
+        {
+          "path": "NEW353/NEW353_LOD0.glb",
+          "bytes": 2981900,
+          "sha256": "04f938aa661a9f0df174f8e180f23553cf69a1e2ebd5e1a09df70b025f58f328"
+        },
+        {
+          "path": "NEW353/NEW353_LOD1.blend",
+          "bytes": 2040476,
+          "sha256": "455adf10d2c5f3a17465bcb4c80cb68fe367bd117c61e4bc606f875484b3e8d0"
+        },
+        {
+          "path": "NEW353/NEW353_LOD1.fbx",
+          "bytes": 653116,
+          "sha256": "32a9ac248e9f0657cc31f89eba2c1019a7e309480d4ebe8d8084def7ed59440b"
+        },
+        {
+          "path": "NEW353/NEW353_LOD1.glb",
+          "bytes": 1640016,
+          "sha256": "970127ec0a858e28b7488739ac39fd7f22cbd66798e6c28270ac2e26230542e9"
+        },
+        {
+          "path": "NEW353/NEW353_LOD2.blend",
+          "bytes": 1252792,
+          "sha256": "f7896bcf599d496cf17cdc500fa7be490cf066fd5b69420c6a4c7de300d97b26"
+        },
+        {
+          "path": "NEW353/NEW353_LOD2.fbx",
+          "bytes": 315884,
+          "sha256": "d36445104b1c0daeeed0623b0f5c832ae60381324d8694e3006b0168b7dcf42f"
+        },
+        {
+          "path": "NEW353/NEW353_LOD2.glb",
+          "bytes": 798696,
+          "sha256": "edf8eda728bf6ee5c5bd2ca16ca3446172dbb5e133a74046f1243bd6809d6b6d"
+        }
+      ]
+    },
+    {
+      "id": "NEW354",
+      "name": "asparagus spear",
+      "korean_name": "아스파라거스",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW354/NEW354_LOD0.blend",
+          "bytes": 1322936,
+          "sha256": "63c07dbfb7314cafd25dcdb54cd21225f06dee830a505ebaa1e8b130bc9943ff"
+        },
+        {
+          "path": "NEW354/NEW354_LOD0.fbx",
+          "bytes": 334492,
+          "sha256": "bbbbf6a1b201e089fc26532749648cb78865f95aed8f760bb6caa451de505a58"
+        },
+        {
+          "path": "NEW354/NEW354_LOD0.glb",
+          "bytes": 757232,
+          "sha256": "023f0bf214380a309b7bf58da0645fd02abef3e21e24937f50d9c307c50a0122"
+        },
+        {
+          "path": "NEW354/NEW354_LOD1.blend",
+          "bytes": 1092264,
+          "sha256": "f1ef86c4a78cc6788398fe1f0942a110668418345791e0167e1ccfb1f5d45956"
+        },
+        {
+          "path": "NEW354/NEW354_LOD1.fbx",
+          "bytes": 253820,
+          "sha256": "b083901bf033e05484e6a5b173d481f91e9eb5e3e6475ec68f83c210607b8400"
+        },
+        {
+          "path": "NEW354/NEW354_LOD1.glb",
+          "bytes": 507904,
+          "sha256": "af2a4d1f651b6d95369fa9efb065e85110c49ef3980fe85a37cfdca1e937f870"
+        },
+        {
+          "path": "NEW354/NEW354_LOD2.blend",
+          "bytes": 904264,
+          "sha256": "8960b75745583fbaeaeb05435669ae1815ceb5524889e95edf7cf344ad833871"
+        },
+        {
+          "path": "NEW354/NEW354_LOD2.fbx",
+          "bytes": 186700,
+          "sha256": "6882e1dec7748529eb57a6bdcff2234bdd03f25d5ef09d953b0d538d6cb88845"
+        },
+        {
+          "path": "NEW354/NEW354_LOD2.glb",
+          "bytes": 306848,
+          "sha256": "cb6f8fcaf758b362b0de0049e1d2e1095d32f15175914a61590701472df9b8d2"
+        }
+      ]
+    },
+    {
+      "id": "NEW356",
+      "name": "suspenders",
+      "korean_name": "멜빵",
+      "lod_count": 3,
+      "formats": [
+        "BLEND",
+        "FBX",
+        "GLB"
+      ],
+      "models": [
+        {
+          "path": "NEW356/NEW356_LOD0.blend",
+          "bytes": 910680,
+          "sha256": "eb5f519c1f65a4764aac8cb8b7dd35c48fb9aedff53b21bf913ce98c6ad117ac"
+        },
+        {
+          "path": "NEW356/NEW356_LOD0.fbx",
+          "bytes": 183996,
+          "sha256": "4e75d9a63884e1ec00f240197cb715c5c88e83ca037b61480f1454895c4ac360"
+        },
+        {
+          "path": "NEW356/NEW356_LOD0.glb",
+          "bytes": 360108,
+          "sha256": "a946edcd3eb4255e0cb3307dbd3a023b9439705fdf5d4fc4a418b34482cf9f9b"
+        },
+        {
+          "path": "NEW356/NEW356_LOD1.blend",
+          "bytes": 829032,
+          "sha256": "80c723ea5aa607d7def8fd30f26cbb3ee45bac0c636f26526a9b0485db36f8b7"
+        },
+        {
+          "path": "NEW356/NEW356_LOD1.fbx",
+          "bytes": 155628,
+          "sha256": "8687e321da2369325613706cd1c3b32dde49ea02c7c52d4cbab27e326b89ae55"
+        },
+        {
+          "path": "NEW356/NEW356_LOD1.glb",
+          "bytes": 272348,
+          "sha256": "68ce5ad44f1321af0294e3e67bf1aafc94b7d557a1c747e2ba210e699045174e"
+        },
+        {
+          "path": "NEW356/NEW356_LOD2.blend",
+          "bytes": 753432,
+          "sha256": "8ef354ecd4e484d52eb66b671468adfc37294dc9798a0bf6e1979c4c659197b3"
+        },
+        {
+          "path": "NEW356/NEW356_LOD2.fbx",
+          "bytes": 132556,
+          "sha256": "9b36c6633a389a350b69ecb6901c0ab0efaa55a47ad16c4847ff397e38f42899"
+        },
+        {
+          "path": "NEW356/NEW356_LOD2.glb",
+          "bytes": 189284,
+          "sha256": "be2311e2b79f1ec6e84bef61c5d26e564a18b30aecde0c79de5a69097541ae4e"
+        }
+      ]
+    }
+  ],
+  "asset_count": 50,
+  "model_count": 450,
+  "model_bytes": 435467012,
+  "import_notes": [
+    "GLB preserves authored NORMAL data; in Blender use explicit NORMALS import for authored shading rather than importer recomputation.",
+    "Motion controls, where present, are illustrative. No physics, electrical safety, biological rig or Unity certification is implied."
+  ]
+}

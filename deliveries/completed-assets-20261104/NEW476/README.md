@@ -1,0 +1,14 @@
+# NEW476: sharpened hexagonal wooden graphite pencil
+
+Three LODs, each in BLEND, FBX and GLB (nine model files). Any accompanying PNG files are original required texture support. Keep PNGs beside the models. These are original visual props, not certified functional products.
+
+## Limitations
+Original unbranded sharpened hexagonal wooden graphite pencil with ferrule and eraser, one static visual prop. Nine models, LOD triangles 3932/1532/596, three closed components, five PBR materials, four original packed/embedded base-color textures. Approximately 190 mm length and 8.4 mm maximum ferrule diameter are artist estimates; only one whole-object reference photograph was locally available. Hidden construction, crimp layout and seating are not independently measured. Independent all-nine reopen, geometry, triangle/corner correspondence, raw FBX/GLB normals, material/image payload and visual reviews pass within declared thresholds. Independent harness reuses the reviewed exact intersection predicate, not a separate formal mathematical proof. Core and eraser intentionally overlap ferrule surfaces for press-fit seating; this is not a collision-free or manufacturable assembly. Builder BVH contact counts do not enumerate every possible contact. No internal graphite rod: graphite/wood/lacquer are surface regions on one closed core. LOD2 simplifies the scalloped paint boundary to a near-straight faceted taper. Diagnostic section/cutaway previews are not intact export geometry; tiny gray thumbnail does not verify ferrule details. UVs are repeating/material-specific, not a unique global lightmap layout. No animation, rig, actual writing/erasing, rubber deformation, gameplay, physics/collision meshes, runtime LOD, Unity/Unreal/live-engine validation, performance, minimum wall-thickness or volumetric containment certification.
+
+## Reference credit and rights
+Christopher S. Baird, yellow pencil photograph, labelled public domain by West Texas A&M University: https://www.wtamu.edu/~cbaird/sq/2013/04/04/why-is-lead-used-in-pencils-even-though-lead-is-poisonous/ . One whole-object photograph informed broad proportions; unseen construction is inferred.
+
+Reference photographs, manuals, research files and scripts are not included. No source photograph pixels are used as textures. Source photograph licences are not licences for these original models; no additional model licence, trademark permission or manufacturer endorsement is asserted.
+
+## Copy integrity
+Publication copies retain original same-format geometry, hierarchy, transforms, normals, UVs, PBR appearance and supported motion. Only nonfunctional private path metadata was sanitized. Cross-format tolerances and limitations above remain unchanged; sanitation equality is not a new physical, optical or engine certification.
